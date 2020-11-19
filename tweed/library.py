@@ -197,7 +197,7 @@ class Library:
                     (book.ddc or "")[:14],
                     (book.isbn or "")[:16],
                     self.meta.oclc.book_holdings.get(book.isbn or "", ""),
-                    book.author[:16],
+                    book.author.split("|", 1)[0][:16],
                     book.title[:60],
                 )
             )
