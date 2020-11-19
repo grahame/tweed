@@ -1,5 +1,6 @@
 import os
 import json
+import datetime
 import requests
 import functools
 import urllib.parse
@@ -8,7 +9,7 @@ from collections import namedtuple, Counter
 from lxml import etree
 from hashlib import sha256
 
-Book = namedtuple("Book", ("ddc", "author", "title", "isbn"))
+Book = namedtuple("Book", ("ddc", "author", "title", "isbn", "date"))
 
 
 def one(l):
@@ -86,6 +87,12 @@ class OCLC:
             x = lambda q: et.xpath(q, namespaces={"c": "http://classify.oclc.org"})
             work = one(x("/c:classify/c:work"))
 
+            def get_author():
+                author = work.get("author")
+                if author is None:
+                    return
+                return author.split("|", 1)[0].strip()
+
             def get_ddc(title, attr):
                 ddcs = x("/c:classify/c:recommendations/c:ddc/c:{}".format(title))
                 if len(ddcs) == 0:
@@ -105,7 +112,13 @@ class OCLC:
             if not candidate_ddcs:
                 return None, None
             holdings, ddc = candidate_ddcs[0]
-            return holdings, Book(ddc, work.get("author"), work.get("title"), isbn)
+            return holdings, Book(
+                ddc,
+                get_author(),
+                work.get("title"),
+                isbn,
+                None,
+            )
 
         def fill_blanks(a, b):
             if not a:
@@ -118,6 +131,7 @@ class OCLC:
                 fill_blanks(a.author, b.author),
                 fill_blanks(a.title, b.title),
                 fill_blanks(a.isbn, b.isbn),
+                fill_blanks(a.date, b.date),
             )
 
         books = [
@@ -149,7 +163,20 @@ class LibraryThing:
             LibraryThing.get_author(book),
             LibraryThing.get_title(book),
             LibraryThing.get_isbn(book),
+            LibraryThing.get_date(book),
         )
+
+    @staticmethod
+    def get_date(book):
+        if "date" not in book:
+            return None
+        date = book["date"]
+        if date == "?" or date == "no date":
+            return
+        try:
+            return datetime.datetime.strptime(date, "%Y").date()
+        except ValueError:
+            print("failed to parse: {}".format(date))
 
     @staticmethod
     def get_ddc(book):
@@ -211,6 +238,7 @@ class LibraryMetadata:
                 best_attr("author"),
                 best_attr("title"),
                 best_attr("isbn"),
+                best_attr("date"),
             )
 
 
@@ -220,11 +248,12 @@ class Library:
         arrangement = self.arrange()
         for book in arrangement:
             print(
-                "☐ {:14} {:16} {:10}  {:18}  {}".format(
+                "☐ {:14} {:16} {:10}  {:18}  {:4} {}".format(
                     (book.ddc or "")[:14],
                     (book.isbn or "")[:16],
                     self.meta.oclc.book_holdings.get(book.isbn or "", ""),
-                    book.author.split("|", 1)[0][:16],
+                    book.author[:16],
+                    str(book.date)[:4],
                     book.title[:60],
                 )
             )
@@ -239,11 +268,16 @@ class Library:
                 nonfiction.append(book)
 
         def fiction_key(book):
-            return (book.author.lower(), book.title.lower())
+            return (
+                book.author.lower(),
+                book.date is None,
+                book.date,
+                book.title.lower(),
+            )
 
         def nonfiction_key(book):
             return (book.ddc, book.author.lower(), book.title.lower())
 
-        fiction.sort(key=fiction_key)
         nonfiction.sort(key=nonfiction_key)
+        fiction.sort(key=fiction_key)
         return nonfiction + fiction
