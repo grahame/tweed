@@ -54124,11 +54124,13 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["A823.0876",
-    "0876"],
-    "wording": ["Information",
-    "Quotations",
-    "Slavic Anthologies"]
+    "code": ["823.0876"],
+    "wording": ["Adventure Fiction",
+    "English",
+    "Fiction",
+    "Genre Fiction",
+    "Literature",
+    "Science and Fantasy Fiction"]
   },
   "lcc": [],
   "genre": ["Science Fiction"],
@@ -78579,4 +78581,60 @@
   "dimensions": "1.64 x 9.5 x 6.6 inches",
   "weight": "2.88364638696 pounds",
   "pages": "784 "
+},"192474728": {
+  "books_id": "192474728",
+  "title": "Introduction to the Hebrew Bible: Third Edition",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Collins, John J.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Collins, John J.",
+    "fl": "John J. Collins",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1506445985",
+  "isbn": {
+    "0": "1506445985",
+    "2": "9781506445984"
+  },
+  "asin": "1506445985",
+  "ean": ["1506445985"],
+  "publication": "Fortress Press (2018), Edition: 3, 622 pages",
+  "date": "2018",
+  "summary": "Introduction to the Hebrew Bible: Third Edition by John J. Collins (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["221.61"],
+    "wording": ["Bible",
+    "Bible. O.T.--exegesis",
+    "Old Testament",
+    "Religion "]
+  },
+  "lcc": {
+    "code": "BS1140.3 .C65"
+  },
+  "subject": [["Bible. O.T.",
+  "Introductions"]],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "582537",
+  "entrydate": "2020-11-19",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9.2 inches",
+  "height": "9.2 inches",
+  "thickness": "1.1 inches",
+  "length": "7.5 inches",
+  "dimensions": "9.2 x 7.5 x 1.1 inches",
+  "weight": "2.9 pounds"
 }}
