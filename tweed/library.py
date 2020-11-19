@@ -3,6 +3,7 @@ import json
 import requests
 import functools
 import urllib.parse
+import re
 from collections import namedtuple, Counter
 from lxml import etree
 from hashlib import sha256
@@ -13,6 +14,13 @@ Book = namedtuple("Book", ("ddc", "author", "title", "isbn"))
 def one(l):
     assert len(l) == 1
     return l[0]
+
+
+ddc_re = re.compile(r"^[0-9]")
+
+
+def is_ddc(v):
+    return ddc_re.match(str(v)) is not None
 
 
 class OCLC:
@@ -77,14 +85,27 @@ class OCLC:
             et = etree.parse(fname)
             x = lambda q: et.xpath(q, namespaces={"c": "http://classify.oclc.org"})
             work = one(x("/c:classify/c:work"))
-            ddcs = x("/c:classify/c:recommendations/c:ddc/c:mostPopular/@sfa")
-            if len(ddcs) == 0:
-                ddc = None
-            else:
-                ddc = ddcs[0]
-            return int(work.get("holdings", "0")), Book(
-                ddc, work.get("author"), work.get("title"), isbn
-            )
+
+            def get_ddc(title, attr):
+                ddcs = x("/c:classify/c:recommendations/c:ddc/c:{}".format(title))
+                if len(ddcs) == 0:
+                    return None, None
+                return int(ddcs[0].get("holdings", 0)), ddcs[0].get(attr)
+
+            candidate_ddcs = [
+                (h, d)
+                for (h, d) in [
+                    get_ddc("mostPopular", "nsfa"),
+                    get_ddc("mostPopular", "sfa"),
+                    get_ddc("mostRecent", "nsfa"),
+                    get_ddc("mostRecent", "sfa"),
+                ]
+                if is_ddc(d)
+            ]
+            if not candidate_ddcs:
+                return None, None
+            holdings, ddc = candidate_ddcs[0]
+            return holdings, Book(ddc, work.get("author"), work.get("title"), isbn)
 
         def fill_blanks(a, b):
             if not a:
@@ -99,7 +120,13 @@ class OCLC:
                 fill_blanks(a.isbn, b.isbn),
             )
 
-        books = [work_to_book(fname) for fname in results]
+        books = [
+            (h, b)
+            for (h, b) in (work_to_book(fname) for fname in results)
+            if h is not None
+        ]
+        if not books:
+            return None
         books.sort(reverse=True, key=lambda x: x[0])
         self.book_holdings[isbn] += sum(t[0] for t in books)
         books = [t[1] for t in books]
