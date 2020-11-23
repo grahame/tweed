@@ -248,7 +248,7 @@ class Library:
         arrangement = self.arrange()
         for book in arrangement:
             print(
-                "☐ {:14} {:16} {:10}  {:18}  {:4} {}".format(
+                "{:14} {:16} {:10}  {:18}  {:4} {}".format(
                     (book.ddc or "")[:14],
                     (book.isbn or "")[:16],
                     self.meta.oclc.book_holdings.get(book.isbn or "", ""),
