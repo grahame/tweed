@@ -1115,7 +1115,7 @@
     "England",
     "England And Wales",
     "Europe",
-    "History & Geography",
+    "History and Geography",
     "Tudor 1485-1603"]
   },
   "lcc": {
@@ -4660,7 +4660,7 @@
     "code": ["907.2"],
     "wording": ["Education And Research",
     "History",
-    "History & Geography",
+    "History and Geography",
     "Research"]
   },
   "lcc": [],
@@ -5934,7 +5934,7 @@
     "wording": ["1918-",
     "Europe",
     "Europe",
-    "History & Geography",
+    "History and Geography",
     "World War II"]
   },
   "lcc": [],
@@ -9160,7 +9160,7 @@
   "ddc": {
     "code": ["994.12004"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific",
     "Western Australia"]
   },
@@ -10350,10 +10350,10 @@
     "24": ["fantastic fiction"],
     "25": ["fantasy fiction"]
   },
-  "series": ["Der Report der Magd",
-  "The Handmaid's Tale",
-  "Het verhaal van de dienstmaagd",
-  "El cuento de la criada"],
+  "series": ["Het verhaal van de dienstmaagd",
+  "El cuento de la criada",
+  "Der Report der Magd",
+  "The Handmaid's Tale"],
   "originaltitle": "The Handmaid\u2019s Tale",
   "awards": ["Prix Aurora Award finalist",
   "Booker Prize Shortlist",
@@ -10588,7 +10588,7 @@
     "wording": ["Biography",
     "Biography",
     "By Gender",
-    "History & Geography",
+    "History and Geography",
     "Men"]
   },
   "lcc": {
@@ -10790,7 +10790,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["973"],
-    "wording": ["History & Geography",
+    "wording": ["History and Geography",
     "North America",
     "United States"]
   },
@@ -11721,7 +11721,7 @@
   "ddc": {
     "code": ["994.065092"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific"]
   },
   "lcc": {
@@ -11779,7 +11779,7 @@
   "ddc": {
     "code": ["994.11"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific",
     "Western Australia"]
   },
@@ -11819,7 +11819,7 @@
   "ddc": {
     "code": ["994.1"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific",
     "Western Australia"]
   },
@@ -13070,8 +13070,8 @@
   "lcc": {
     "code": "PS3612 .E3353"
   },
-  "series": ["Les chroniques du Radch",
-  "Imperial Radch"],
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
   "awards": ["Kitschies: Golden Tentacle Award",
   "Philip K. Dick Award Nominee",
   "James Tiptree, Jr. Award Honor List",
@@ -13138,8 +13138,8 @@
   "lcc": {
     "code": "PS3612 .E3353"
   },
-  "series": ["Les chroniques du Radch",
-  "Imperial Radch"],
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
   "awards": ["Kirkus Reviews Best Book of the Year",
   "Amazon.com Best Books",
   "Buzzfeed",
@@ -13208,8 +13208,8 @@
   "lcc": {
     "code": "PS3612 .E3353"
   },
-  "series": ["Les chroniques du Radch",
-  "Imperial Radch"],
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
   "awards": ["Nebula Nominee",
   "Hugo Nominee",
   "British Science Fiction Association Award",
@@ -13421,8 +13421,8 @@
   "lcc": {
     "code": "PS3612 .E3353"
   },
-  "series": ["Les chroniques du Radch",
-  "Imperial Radch"],
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
   "awards": ["British Science Fiction Association Award Shortlist",
   "James Tiptree, Jr. Award Long List",
   "Hugo Nominee",
@@ -13800,10 +13800,10 @@
   "lcc": {
     "code": "PL2947 .C59"
   },
-  "series": ["Le Probl\u00e8me \u00e0 trois corps",
-  "Trisolaris-Trilogie",
+  "series": ["El problema de los tres cuerpos",
+  "Le Probl\u00e8me \u00e0 trois corps",
   "Remembrance of Earth's Past",
-  "El problema de los tres cuerpos"],
+  "Trisolaris-Trilogie"],
   "originaltitle": "\u4e09\u4f53",
   "awards": ["Nebula Nominee",
   "Hugo",
@@ -14173,8 +14173,8 @@
     "Fiction"],
     "8": ["fantasy fiction"]
   },
-  "series": ["The Anubis Gates",
-  "Les Voies d'Anubis"],
+  "series": ["Les Voies d'Anubis",
+  "The Anubis Gates"],
   "originaltitle": "The Anubis Gates",
   "awards": ["Apollo Award",
   "Philip K. Dick Award",
@@ -14352,7 +14352,7 @@
   "Skiveverdenen",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Kiekkomaailma",
-  "Scheibenwelt",
+  "Diskd\u00fcnya",
   "Mundodisco",
   "Disque-monde",
   "Les Annales du Disque-Monde",
@@ -14374,12 +14374,12 @@
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
   "Disgfyd",
   "Discworld",
-  "Diskd\u00fcnya",
+  "Scheibenwelt",
   "Rincewind-Reihe",
   "Kiekkomaailma : Rincewind",
-  "Mundodisco: Rincewind",
+  "Skivv\u00e4rlden: Rensvind",
   "Discworld: Rincewind",
-  "Skivv\u00e4rlden: Rensvind"],
+  "Mundodisco: Rincewind"],
   "originaltitle": "The Colour of Magic",
   "awards": ["Waterstones top 25 books of the last 25 years",
   "BBC's Big Read",
@@ -27887,7 +27887,7 @@
     "wording": ["Geographic Information System",
     "Geography and Travel",
     "Geography and Travel",
-    "History & Geography",
+    "History and Geography",
     "Miscellany"]
   },
   "lcc": {
@@ -28127,7 +28127,7 @@
     "Rock",
     "Secular Forms",
     "Songs",
-    "Traditions of music {song genres)",
+    "Traditions of music {song genres}",
     "Vocal music [formerly: Dramatic music and production of musical drama]"]
   },
   "lcc": {
@@ -28436,7 +28436,7 @@
   "ddc": {
     "code": ["994.11"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific",
     "Western Australia"]
   },
@@ -29165,7 +29165,7 @@
     "code": ["951.93"],
     "wording": ["Asia",
     "China and adjacent areas",
-    "History & Geography",
+    "History and Geography",
     "Korean Peninsula",
     "North Korea (Democratic People's Republic of Korea)"]
   },
@@ -30859,8 +30859,10 @@
   ["Birds",
   "Pictorial works"],
   ["Lear, Edward, 1812-1888"]],
-  "genre": ["Science & Nature"],
-  "genre_id": ["1457"],
+  "genre": ["Science & Nature",
+  "Art & Design"],
+  "genre_id": ["1457",
+  "9985304"],
   "source": "amazon.com books",
   "workcode": "1451179",
   "entrydate": "2019-01-11",
@@ -33141,7 +33143,7 @@
   "ddc": {
     "code": ["901.9"],
     "wording": ["History",
-    "History & Geography",
+    "History and Geography",
     "Philosophy & theory"]
   },
   "lcc": {
@@ -34298,7 +34300,7 @@
     "wording": ["British Isles",
     "Connaught",
     "Europe",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "DA965 .C6"
@@ -34779,7 +34781,7 @@
     "code": ["920"],
     "wording": ["Biography",
     "Biography",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "PR6029 .C33"
@@ -35382,7 +35384,7 @@
     "First empire 1804-1815",
     "France",
     "France And Monaco",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "DC203 .C9"
@@ -35450,7 +35452,7 @@
     "British Isles",
     "Europe",
     "Historical periods of British Isles",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "DA591 .T47"
@@ -35525,7 +35527,7 @@
   "ddc": {
     "code": ["994.063092"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific"]
   },
   "lcc": {
@@ -35777,7 +35779,7 @@
     "code": ["973.04960730092"],
     "wording": ["African Americans",
     "Ethnic And National Groups",
-    "History & Geography",
+    "History and Geography",
     "North America",
     "Other Groups",
     "United States",
@@ -35867,7 +35869,7 @@
     "Bill Clinton",
     "Biography",
     "Eisenhower Through Clinton Administrations",
-    "History & Geography",
+    "History and Geography",
     "North America",
     "United States"]
   },
@@ -36698,10 +36700,8 @@
   "1000 Books to Read Before You Die",
   "The Most Important Books of the Last Twenty Years"],
   "genre": ["Fiction",
-  "Mystery",
   "Fantasy"],
   "genre_id": ["2",
-  "46",
   "5280"],
   "source": "amazon.com books",
   "workcode": "5069",
@@ -36899,7 +36899,7 @@
   "ddc": {
     "code": ["994.065092"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific"]
   },
   "lcc": {
@@ -37181,7 +37181,7 @@
     "wording": ["Circumnavigation of the Earth",
     "Geography and Travel",
     "Geography and Travel",
-    "History & Geography",
+    "History and Geography",
     "Special Topics"]
   },
   "lcc": {
@@ -38054,7 +38054,7 @@
     "wording": ["Afghanistan",
     "Asia",
     "Central Asia",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "DS359.7 .D35"
@@ -39286,7 +39286,7 @@
     "wording": ["1918-",
     "Europe",
     "Europe",
-    "History & Geography",
+    "History and Geography",
     "Military History Of World War II",
     "Other Topics"]
   },
@@ -41437,7 +41437,7 @@
   "ddc": {
     "code": ["946.081"],
     "wording": ["Europe",
-    "History & Geography",
+    "History and Geography",
     "Iberian Peninsula",
     "Second Republic; Dictatorship; Juan Carlos I; Felipe VI 1931-",
     "Second Republic; Spanish Civil War",
@@ -42493,7 +42493,7 @@
     "code": ["920"],
     "wording": ["Biography",
     "Biography",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "RC514"
@@ -47558,7 +47558,7 @@
     "code": ["919.89"],
     "wording": ["Antarctica",
     "Geography and Travel",
-    "History & Geography",
+    "History and Geography",
     "Pacific and Polar Regions",
     "Polar regions"]
   },
@@ -50239,7 +50239,7 @@
     "Europe",
     "Geography and Travel",
     "Highland",
-    "History & Geography",
+    "History and Geography",
     "Scotland",
     "Travel"]
   },
@@ -51242,9 +51242,10 @@
   "grc"],
   "ddc": {
     "code": ["883.01"],
-    "wording": ["Epic prose and fiction, Classical Greek",
-    "Greek and other Classical languages",
-    "Literature"]
+    "wording": ["Greek and other Classical languages",
+    "Literature",
+    "Pseudo-Callisthenes",
+    "prose and fiction, Classical Greek"]
   },
   "lcc": {
     "code": "PA4025 .A2"
@@ -52762,7 +52763,7 @@
     "code": ["920"],
     "wording": ["Biography",
     "Biography",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "PR9619.3 .B5136 H4"
@@ -53133,7 +53134,8 @@
     "wording": ["Greek and other Classical languages",
     "Greek drama and Classical drama",
     "Greek drama and Classical drama",
-    "Literature"]
+    "Literature",
+    "Philosophy and Theory"]
   },
   "lcc": {
     "code": "PA3877 .A2"
@@ -53203,7 +53205,7 @@
     "code": ["920"],
     "wording": ["Biography",
     "Biography",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "PR6054 .A35 Z463"
@@ -53789,7 +53791,7 @@
   "ddc": {
     "code": ["994.06"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific"]
   },
   "lcc": {
@@ -54177,7 +54179,7 @@
     "code": ["940"],
     "wording": ["Europe",
     "Europe",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "TL685.3 .H46"
@@ -54234,7 +54236,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["978.1033"],
-    "wording": ["History & Geography",
+    "wording": ["History and Geography",
     "Kansas",
     "North America",
     "Western U.S."]
@@ -54460,7 +54462,7 @@
   "ddc": {
     "code": ["952"],
     "wording": ["Asia",
-    "History & Geography",
+    "History and Geography",
     "Japan"]
   },
   "lcc": {
@@ -54552,10 +54554,8 @@
   },
   "awards": ["CWA",
   "Olivier Award"],
-  "genre": ["Fiction",
-  "Mystery"],
-  "genre_id": ["2",
-  "46"],
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
   "source": "amazon.com books",
   "workcode": "35205",
   "entrydate": "2019-01-12",
@@ -56165,7 +56165,7 @@
     "code": ["941"],
     "wording": ["British Isles",
     "Europe",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "DA16 .C47"
@@ -56226,7 +56226,7 @@
     "code": ["942"],
     "wording": ["England And Wales",
     "Europe",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "DA16 .C47"
@@ -57454,7 +57454,7 @@
     "wording": ["England",
     "England And Wales",
     "Europe",
-    "History & Geography",
+    "History and Geography",
     "Victoria 1837-1901",
     "Victorian Period Through House Of Windsor 1837-"]
   },
@@ -60412,7 +60412,7 @@
     "wording": ["Biography",
     "Biography",
     "By Gender",
-    "History & Geography",
+    "History and Geography",
     "Women"]
   },
   "lcc": [],
@@ -62175,7 +62175,7 @@
   "ddc": {
     "code": ["921"],
     "wording": ["Biography",
-    "History & Geography",
+    "History and Geography",
     "Of Philosophy "]
   },
   "lcc": {
@@ -74348,7 +74348,7 @@
   "ddc": {
     "code": ["994"],
     "wording": ["Australia",
-    "History & Geography",
+    "History and Geography",
     "Pacific"]
   },
   "lcc": {
@@ -75935,7 +75935,7 @@
     "code": ["933"],
     "wording": ["Ancient Palestine to 70",
     "Ancient World",
-    "History & Geography"]
+    "History and Geography"]
   },
   "lcc": {
     "code": "DS118 .N553"
@@ -76172,9 +76172,10 @@
   "grc"],
   "ddc": {
     "code": ["883.01"],
-    "wording": ["Epic prose and fiction, Classical Greek",
-    "Greek and other Classical languages",
-    "Literature"]
+    "wording": ["Greek and other Classical languages",
+    "Literature",
+    "Pseudo-Callisthenes",
+    "prose and fiction, Classical Greek"]
   },
   "lcc": {
     "code": "PA4025 .A5"
@@ -76742,7 +76743,7 @@
     "code": ["909.09821"],
     "wording": ["Atlantic",
     "History",
-    "History & Geography",
+    "History and Geography",
     "Ocean And Sea Basins",
     "Other Classifications",
     "Other Geographic Classifications",
@@ -78299,10 +78300,8 @@
   "subject": [["Human ecology",
   "Christianity"],
   ["P document (Biblical criticism)"]],
-  "genre": ["Science & Nature",
-  "Religion & Spirituality"],
-  "genre_id": ["1457",
-  "1944"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com books",
   "workcode": "1543299",
   "entrydate": "2020-11-19",
