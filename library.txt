@@ -42,6 +42,10 @@
 070.924        9781862078246           303  Cameron, James,     2007 Point of departure: experiment in biography
 100            9780415693165          2019  Warburton, Nigel    2012 Philosophy : the basics
 109.2          9780753811368           366  Monk, Ray           2001 The great philosophers
+110            9780192854230          4588  Russell, Bertran    2001 The problems of philosophy
+111            9780061575594          5306  Heidegger, Marti    2008 Being and time
+111            9780300115468          4180  Sartre, Jean-Pau    2007 Existentialism
+121            9780199549900          2150  Hume, David, 171    2008 An enquiry concerning human understanding
 121            9781108840323             3  Pickstock, Cathe    2020 Aspects of truth : a new religious metaphysics
 128.3          9780415096812          1338  Lloyd, Genevieve    1993 The man of reason : "male" and "female" in Western philosoph
 152.4          9781784872632            32  Murakami, Haruki    1984 DESIRE
@@ -59,11 +63,15 @@
 171.1          9780684815015          3606  Bonhoeffer, Diet    1995 Ethics
 174.95         9780670028788           879  Bown, Stephen R.    2006 A most damnable invention : dynamite, nitrates, and the maki
 177.3          9780691122946          2204  Frankfurt, Harry    2005 On bullshit
+184            9780872206335          1415  Plato               2002 Five dialogues
+184            9780140449273          4563  Plato               2003 Symposium
 184            9780140440379          2758  Plato               1970 The last days of Socrates
+188            9781907523502          1575  Marcus Aurelius,    2011 Meditations of Marcus Aurelius
 190            9780631206729           501  Pickstock, Cathe    1997 After writing : on the liturgical consummation of philosophy
 190.9          9780415325059          2072  Russell, Bertran    2004 A history of western philosophy
 193            9780140447477         13980  Kant, Immanuel,     2008 The critique of pure reason : the critique of practical reas
 193            9781593083847          7908  Nietzsche, Fried    2007 Thus spoke Zarathustra : a book for all and none
+194            9780192806963          7570  Descartes, René,    2008 Meditations on first philosophy : with selections from the O
 194            9780140259575          1677  Foucault, Michel    2010 The essential works of Michel Foucault, 1954-1984
 198.9          9780140445770          6133  Kierkegaard, Sør    1992 Either/or
 199.94         9781876492083           119  Franklin, James,    None Corrupting the youth : a history of philosophy in Australia
@@ -496,6 +504,7 @@
 320.1          9780143566465         20851  Machiavelli, Nic    None The prince
 320.5130973    9781931498715          1137  Lakoff, George      2004 Don't think of an elephant! : know your values and frame the
 320.9174927    9780521438339          1731  Ajami, Fouad        1992 The Arab predicament : Arab political thought and practice s
+320.9385       9780140444315          5365  Aristotle           1984 The Athenian Constitution
 320.94         9781844673247           358  Mair, Peter         2013 Ruling the void : the hollowing of Western democracy
 320.941        9780006862437           459  Letwin, Shirley     1992 The anatomy of Thatcherism
 320.994        9780992482589             7  Bridges, Scott D    2014 Kevern write a book : the best of @Rudd2000
@@ -763,6 +772,7 @@
 813.6          9781789091618          2268  Anders, Charlie     None The city in the middle of the night
 813.6          9781471137716          1084  Anderson, Gillia    2014 A vision of fire : a novel
 882.01         9780140441529          3711  Aristophanes        1964 The wasps
+808.5          9780140445107          1889  Aristotle           1992 The art of rhetoric
 813.54         9780722112571           909  Asimov, Isaac, 1    1977 The best of Isaac Asimov
 823.91         9780450020674            41  Asimov, Isaac, 1    1983 The moons of Jupiter
 813.54         9780586061992          3069  Asimov, Isaac, 1    1985 The robots of dawn

@@ -5,6 +5,7 @@ import requests
 import functools
 import urllib.parse
 import re
+import sys
 from collections import namedtuple, Counter
 from lxml import etree
 from hashlib import sha256
@@ -35,7 +36,7 @@ class OCLC:
         """
 
         def get(url):
-            print("OCLC lookup: {}".format(url))
+            print("OCLC lookup: {}".format(url), file=sys.stderr)
             response = self.session.get(
                 "http://classify.oclc.org/classify2/Classify", params=params
             )
@@ -177,7 +178,7 @@ class LibraryThing:
         try:
             return datetime.datetime.strptime(date, "%Y").date()
         except ValueError:
-            print("failed to parse: {}".format(date))
+            print("failed to parse: {}".format(date), file=sys.stderr)
 
     @staticmethod
     def get_ddc(book):
