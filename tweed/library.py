@@ -112,7 +112,8 @@ class OCLC:
             if not candidate_ddcs:
                 return None, None
             holdings, ddc = candidate_ddcs[0]
-            return holdings, Book(
+            # rank by overall holdings for this work, not just the particular classification
+            return int(work.get("holdings")), Book(
                 ddc,
                 get_author(),
                 work.get("title"),
