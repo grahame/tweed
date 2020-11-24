@@ -261,25 +261,13 @@ class Library:
             )
 
     def arrange(self):
-        fiction = []
-        nonfiction = []
-        for book in self.meta:
-            if not book.ddc or book.ddc.startswith("8"):
-                fiction.append(book)
-            else:
-                nonfiction.append(book)
-
-        def fiction_key(book):
-            return (
+        books = list(self.meta)
+        books.sort(
+            key=lambda book: (
+                book.ddc is None,
+                book.ddc,
                 book.author.lower(),
-                book.date is None,
-                book.date,
                 book.title.lower(),
             )
-
-        def nonfiction_key(book):
-            return (book.ddc, book.author.lower(), book.title.lower())
-
-        nonfiction.sort(key=nonfiction_key)
-        fiction.sort(key=fiction_key)
-        return nonfiction + fiction
+        )
+        return books
