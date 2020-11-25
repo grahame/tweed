@@ -3336,6 +3336,12 @@
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823"],
+    "wording": ["English",
+    "Fiction",
+    "Literature"]
+  },
   "lcc": [],
   "series": ["Broken Lands"],
   "awards": ["Aurealis Award Finalist"],
@@ -7505,11 +7511,9 @@
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
-  "originalisbn": "0670060593",
-  "isbn": {
-    "0": "0670060593",
-    "2": "9780670060597"
-  },
+  "originalisbn": "9780142414385",
+  "isbn": ["9780142414385",
+  "0142414387"],
   "asin": "0670060593",
   "ean": ["0670060593"],
   "publication": "Viking Juvenile (2008), Edition: First Edition, 544 pages",
@@ -7519,6 +7523,15 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.087608"],
+    "wording": ["Adventure Fiction",
+    "English",
+    "Fiction",
+    "Genre Fiction",
+    "Literature",
+    "Science and Fantasy Fiction"]
+  },
   "lcc": {
     "code": "PZ5 .S7965"
   },
@@ -18231,6 +18244,13 @@
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["252.0793"],
+    "wording": ["Christian pastoral practice and religious orders",
+    "Methodist",
+    "Religion ",
+    "Sermons"]
+  },
   "lcc": {
     "code": "BV 4241 .B38"
   },
@@ -19545,6 +19565,12 @@
   "publication": "Darton (1963), 187 pages",
   "date": "1963",
   "summary": "What Christians Believe by David Cox (1963)",
+  "ddc": {
+    "code": ["230"],
+    "wording": ["Christianity",
+    "Christianity, Christian theology",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "12786320",
@@ -23434,6 +23460,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.32"],
+    "wording": ["Christian Life",
+    "Christian practice and observance",
+    "Prayer",
+    "Prayer and private worship",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "22287382",
@@ -24047,6 +24081,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["242.34"],
+    "wording": ["Christian practice and observance",
+    "Devotional Literature",
+    "Religion ",
+    "Seasonal Devotions"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "22284422",
@@ -26288,6 +26329,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["252.0793"],
+    "wording": ["Christian pastoral practice and religious orders",
+    "Methodist",
+    "Religion ",
+    "Sermons"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "22726427",
@@ -27130,6 +27178,13 @@
   "0992378303"],
   "date": "?",
   "summary": "Se\u00f1or Pilich the Monastery Cat and the Sinister Mr Dreggs by Anscar McPhee (?)",
+  "ddc": {
+    "code": ["823.4"],
+    "wording": ["English",
+    "Fiction",
+    "Literature",
+    "Post-Elizabethan 1625-1702"]
+  },
   "lcc": [],
   "genre": ["Children's Books"],
   "genre_id": ["11"],
@@ -27156,6 +27211,13 @@
   "0975198068"],
   "date": "?",
   "summary": "Se\u00f1or Pilich the Monastery Cat in Wartime Kalumburu by Anscar McPhee (?)",
+  "ddc": {
+    "code": ["823.4"],
+    "wording": ["English",
+    "Fiction",
+    "Literature",
+    "Post-Elizabethan 1625-1702"]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22726458",
@@ -27177,6 +27239,13 @@
   "collections": ["Your library"],
   "date": "?",
   "summary": "The Parish as a Center of Prayer by Mary C. Hilton (?)",
+  "ddc": {
+    "code": ["242.2"],
+    "wording": ["Christian practice and observance",
+    "Daily Devotions",
+    "Devotional Literature",
+    "Religion "]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "12196813",
@@ -27198,6 +27267,13 @@
   "collections": ["Your library"],
   "date": "?",
   "summary": "Grit & Grace: The Story of the Anglican Board of Mission Australia by Brian and Carroll Kyrne, Jan (?)",
+  "ddc": {
+    "code": ["266.394"],
+    "wording": ["Anglican and American P.E.",
+    "Christian organization, social work, worship",
+    "Missions; Home and Foreign",
+    "Religion "]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22726462",
@@ -27219,6 +27295,13 @@
   "collections": ["Your library"],
   "date": "?",
   "summary": "Missionary Memories by J & J Cottier (?)",
+  "ddc": {
+    "code": ["266.394"],
+    "wording": ["Anglican and American P.E.",
+    "Christian organization, social work, worship",
+    "Missions; Home and Foreign",
+    "Religion "]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22726466",
@@ -29059,6 +29142,13 @@
   "collections": ["Your library"],
   "date": "2007",
   "summary": "Mungo Bean by Jessica McLeod (2007)",
+  "ddc": {
+    "code": ["741.51"],
+    "wording": ["Arts and Recreation",
+    "Cartoons, Caricatures, Comics",
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22728066",
@@ -29071,15 +29161,22 @@
   "title": "Libraryland!",
   "sortcharacter": "1",
   "public": "1",
-  "primaryauthor": "David, Oslo",
+  "primaryauthor": "Davis, Oslo",
   "authors": [{
-    "lf": "David, Oslo",
-    "fl": "Oslo David"
+    "lf": "Davis, Oslo",
+    "fl": "Oslo Davis"
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "date": "2011",
-  "summary": "Libraryland! by Oslo David (2011)",
+  "summary": "Libraryland! by Oslo Davis (2011)",
+  "ddc": {
+    "code": ["741.51"],
+    "wording": ["Arts and Recreation",
+    "Cartoons, Caricatures, Comics",
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22728068",
@@ -29101,6 +29198,13 @@
   "collections": ["Your library"],
   "date": "?",
   "summary": "Where the wild things aren't by Oslo Davis (?)",
+  "ddc": {
+    "code": ["741.51"],
+    "wording": ["Arts and Recreation",
+    "Cartoons, Caricatures, Comics",
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22728069",
@@ -31406,10 +31510,21 @@
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
+  "originalisbn": "1405317752",
+  "isbn": {
+    "0": "1405317752",
+    "2": "9781405317757"
+  },
   "asin": "B012HVP5OA",
   "publication": "Dorling Kindersley (7 Jun. 2007) (no date)",
   "date": "no date",
   "summary": "A Slice of Organic Life: Get closer to the soil without going the whole hog by Sheherazade Goldsmith (Editor) (7-Jun-2007) Hardcover by Sheherazade Goldsmith (Editor) (no date)",
+  "ddc": {
+    "code": ["640"],
+    "wording": ["Home and family management",
+    "Home management",
+    "Technology"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "22728906",
@@ -31419,7 +31534,13 @@
     "text": "Hardcover"
   }],
   "copies": "1",
-  "volumes": "1"
+  "volumes": "1",
+  "physical_description": "352 p.; 9.37 inches",
+  "height": "9.37 inches",
+  "thickness": "1.34 inches",
+  "length": "7.87 inches",
+  "dimensions": "9.37 x 7.87 x 1.34  inches",
+  "weight": "2.95 pounds"
 },
 "164355207": {
   "books_id": "164355207",
@@ -33033,6 +33154,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["519.5"],
+    "wording": ["Applied Mathematics, Probabilities",
+    "Mathematics",
+    "Natural sciences and mathematics",
+    "Statistical Mathematics"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "15444479",
@@ -42955,6 +43083,14 @@
   "collections": ["Your library"],
   "date": "1942",
   "summary": "How the Soviet State is run by Pat Sloan (1942)",
+  "ddc": {
+    "code": ["354.47"],
+    "wording": ["Administration of economy & environment [formerly Foreign States]",
+    "Europe",
+    "Public Administration, Military Science",
+    "Russia and Central Europe",
+    "Social Sciences"]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22729271",
@@ -48446,6 +48582,14 @@
   "collections": ["Your library"],
   "date": "?",
   "summary": "Western Australia Statistical Register (?)",
+  "ddc": {
+    "code": ["319.41"],
+    "wording": ["Australia",
+    "Pacific",
+    "Social Sciences",
+    "Statistics",
+    "Western Australia"]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22729364",
@@ -54789,6 +54933,12 @@
   "summary": "The Lady of Situations by Stephen Dedman (1999)",
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823"],
+    "wording": ["English",
+    "Fiction",
+    "Literature"]
+  },
   "lcc": [],
   "genre": ["Science Fiction",
   "Fantasy"],
@@ -56350,8 +56500,9 @@
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
-  "originalisbn": "1905834839",
-  "isbn": ["1905834839"],
+  "originalisbn": "9781905834846",
+  "isbn": ["9781905834846",
+  "1905834845"],
   "date": "2006",
   "summary": "I Am The Bird by T M Wright (2006)",
   "originallanguage": ["English"],
@@ -56363,7 +56514,9 @@
   "workcode": "2429358",
   "entrydate": "2019-01-12",
   "copies": "1",
-  "volumes": "1"
+  "volumes": "1",
+  "physical_description": "143 p.",
+  "weight": "1.74 pounds"
 },
 "164410926": {
   "books_id": "164410926",
@@ -56382,6 +56535,12 @@
   "0975720880"],
   "date": "2007",
   "summary": "Light Bodies Falling by Sean Williams (2007)",
+  "ddc": {
+    "code": ["823"],
+    "wording": ["English",
+    "Fiction",
+    "Literature"]
+  },
   "lcc": [],
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
@@ -56405,6 +56564,13 @@
   "collections": ["Your library"],
   "date": "?",
   "summary": "Riley: Moments in the Life Of by Riley Salmon-Lomas (?)",
+  "ddc": {
+    "code": ["741.51"],
+    "wording": ["Arts and Recreation",
+    "Cartoons, Caricatures, Comics",
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
+  },
   "lcc": [],
   "source": "manual entry",
   "workcode": "22732109",
@@ -59077,6 +59243,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["220.6"],
+    "wording": ["Bible",
+    "Bible",
+    "Interpretation and criticism (Exegesis)",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "23360861",
@@ -59282,6 +59455,13 @@
   "language": ["French"],
   "language_codeA": ["fre"],
   "originallanguage_codeA": ["fre"],
+  "ddc": {
+    "code": ["261.8"],
+    "wording": ["Christian organization, social work, worship",
+    "Church",
+    "Church and Social Issues",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "23364589",
@@ -59418,10 +59598,20 @@
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
+  "originalisbn": "9780334011385",
+  "isbn": ["9780334011385",
+  "0334011388"],
   "asin": "B000UDETAY",
   "publication": "Harper (1970)",
   "date": "1970",
   "summary": "New Testament Issues by ed. Richard Batey (1970)",
+  "ddc": {
+    "code": ["225.6"],
+    "wording": ["Bible",
+    "Hermeneutics; Exegesis; Symbolism; Typology",
+    "New Testament",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "19724441",
@@ -60243,6 +60433,9 @@
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
+  "originalisbn": "9780814612835",
+  "isbn": ["9780814612835",
+  "0814612830"],
   "date": "1960",
   "summary": "The Gospel of St John The Johannine Epistles by Raymond E. Brown, S.S. (1960)",
   "lcc": [],
@@ -60250,7 +60443,13 @@
   "workcode": "23365740",
   "entrydate": "2019-06-19",
   "copies": "1",
-  "volumes": "1"
+  "volumes": "1",
+  "physical_description": "129 p.; 8.35 inches",
+  "height": "8.35 inches",
+  "thickness": "0.39 inches",
+  "length": "5.35 inches",
+  "dimensions": "8.35 x 5.35 x 0.39  inches",
+  "weight": "0.44 pounds"
 },
 "169963820": {
   "books_id": "169963820",
@@ -60309,6 +60508,12 @@
   "collections": ["Your library"],
   "date": "1968",
   "summary": "The Future of Ethics and Moral Theology by Richard McCormick, SJ; Agus, Rabbi Jacob; Outka, Dr. Gene H.; Crowe, Rev M. B.; Dupne, Dr Louis; Veatch, Dr. Henry N. (1968)",
+  "ddc": {
+    "code": ["241"],
+    "wording": ["Christian Ethics",
+    "Christian practice and observance",
+    "Religion "]
+  },
   "lcc": {
     "code": "BJ1251 ."
   },
@@ -61554,7 +61759,11 @@
   "title": "Stories of Perth",
   "sortcharacter": "1",
   "public": "1",
-  "authors": [[]],
+  "primaryauthor": "Grundy, Alice",
+  "authors": [{
+    "lf": "Grundy, Alice",
+    "fl": "Alice Grundy"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1925589250",
@@ -61565,10 +61774,18 @@
   "asin": "1925589250",
   "ean": ["1925589250"],
   "date": "?",
-  "summary": "Stories of Perth (?)",
+  "summary": "Stories of Perth by Alice Grundy (?)",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["21st Century",
+    "English",
+    "Fiction",
+    "Literature",
+    "Modern Period"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "23829832",
@@ -65832,6 +66049,9 @@
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
+  "originalisbn": "9780140444759",
+  "isbn": ["9780140444759",
+  "0140444750"],
   "asin": "B0000CO9WS",
   "publication": "Penguin Books (1968), Edition: 1st Edition",
   "date": "1968",
@@ -65849,6 +66069,7 @@
   }],
   "copies": "1",
   "volumes": "1",
+  "dimensions": "7.8 x 5 x 0.7 inches",
   "weight": "1.74 pounds"
 },
 "178256117": {
@@ -66356,6 +66577,12 @@
   "publication": "The Faith Press, London (1966), Edition: First Edition, 495 pages",
   "date": "1966",
   "summary": "The Taize Office by The Taiz\u00e9 Community (1966)",
+  "ddc": {
+    "code": ["242"],
+    "wording": ["Christian practice and observance",
+    "Devotional Literature",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "24176048",
@@ -67105,6 +67332,13 @@
   "publication": "Pelican (1939), Edition: A47",
   "date": "1939",
   "summary": "Belief in God by Bishop Gore (1939)",
+  "ddc": {
+    "code": ["238.2"],
+    "wording": ["Christianity",
+    "Creed of Pius 4 {Trent} and later Roman",
+    "Creeds; Catechisms",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "7870861",
@@ -67830,6 +68064,13 @@
   "publication": "SCM Press (1959)",
   "date": "1959",
   "summary": "Amos and Micah [Torch Bible Commentaries] by J. Marsh (1959)",
+  "ddc": {
+    "code": ["224.807"],
+    "wording": ["Amos",
+    "Bible",
+    "Prophetic Books ",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "24196194",
@@ -69938,6 +70179,15 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "heb"],
+  "ddc": {
+    "code": ["221.044"],
+    "wording": ["Bible",
+    "Megillot (Five scrolls)",
+    "Old Testament",
+    "Old Testament",
+    "Religion ",
+    "Special topics of Old Testament"]
+  },
   "lcc": {
     "code": "B163"
   },
@@ -70356,6 +70606,14 @@
   "publication": "Methodist Youth Department (1933), Edition: Not Stated",
   "date": "1933",
   "summary": "The School Hymn Book of the Methodist Church by Methodist Church (1933)",
+  "ddc": {
+    "code": ["782.27"],
+    "wording": ["Arts and Recreation",
+    "Hymns",
+    "Music",
+    "Nondramatic vocal forms",
+    "Vocal music [formerly: Dramatic music and production of musical drama]"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "24989840",
@@ -75835,6 +76093,9 @@
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
+  "originalisbn": "9781606087718",
+  "isbn": ["9781606087718",
+  "1606087711"],
   "asin": "B005JFBG9A",
   "publication": "Cascade Books, an imprint of Wipf and Stock Publishers (2011), 114 pages",
   "date": "2011",
@@ -75842,13 +76103,22 @@
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["222.1092"],
+    "wording": ["Bible",
+    "Biography",
+    "Biography; By Place",
+    "Historical Books ",
+    "Pentateuch",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "25532371",
   "entrydate": "2020-10-09",
   "format": [{
-    "code": "1.3",
-    "text": "Ebook"
+    "code": "1",
+    "text": "Book"
   }],
   "copies": "1"
 },
@@ -77667,6 +77937,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["264.03"],
+    "wording": ["Anglican and American P. E. ritual",
+    "Christian organization, social work, worship",
+    "Public Worship; Ritual",
+    "Religion "]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "25650561",
@@ -78067,7 +78344,11 @@
   "title": "The Palace Letters",
   "sortcharacter": "5",
   "public": "1",
-  "authors": [[]],
+  "primaryauthor": "Hocking, Jenny",
+  "authors": [{
+    "lf": "Hocking, Jenny",
+    "fl": "Jenny Hocking"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1922310247",
@@ -78077,7 +78358,13 @@
   },
   "asin": "1922310247",
   "ean": ["1922310247"],
-  "summary": "The Palace Letters",
+  "summary": "The Palace Letters by Jenny Hocking",
+  "ddc": {
+    "code": ["994.062"],
+    "wording": ["Australia",
+    "History and Geography",
+    "Pacific"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "25391271",
@@ -78120,6 +78407,15 @@
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.512"],
+    "wording": ["Beginner Cooking",
+    "Cooking",
+    "Cooking with Children",
+    "Food And Drink",
+    "Home and family management",
+    "Technology"]
+  },
   "lcc": [],
   "genre": ["Food & Cooking"],
   "genre_id": ["20444"],
@@ -79341,4 +79637,87 @@
   "dimensions": "9 x 6 x 1.53 inches",
   "weight": "1.22 pounds",
   "pages": "608 "
+},
+"192706457": {
+  "books_id": "192706457",
+  "title": "City of God (Penguin Classics)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Augustine of Hippo",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Augustine of Hippo",
+    "fl": "Augustine of Hippo",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0140448942",
+  "isbn": {
+    "0": "0140448942",
+    "2": "9780140448948"
+  },
+  "asin": "0140448942",
+  "ean": ["0140448942"],
+  "publication": "Penguin Classics (2003), Edition: Revised ed., 1184 pages",
+  "date": "2004",
+  "summary": "City of God (Penguin Classics) by Augustine of Hippo (2004)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["Latin"],
+  "originallanguage_codeA": ["eng",
+  "lat"],
+  "ddc": {
+    "code": ["239.3"],
+    "wording": ["Against the heathen",
+    "Apologetics; Evidences",
+    "Christianity",
+    "Religion "]
+  },
+  "lcc": {
+    "code": "BR65 .A64"
+  },
+  "subject": {
+    "0": ["Apologetics"],
+    "1": ["Apologetics",
+    "Early church, ca. 30-600"],
+    "2": ["Apologetics",
+    "Early works to 1800"],
+    "4": ["Apologetics",
+    "History"],
+    "5": ["Apologetics",
+    "History",
+    "Early church, ca. 30-600"],
+    "6": ["Augustine, Saint, Bishop of Hippo. De civitate Dei"],
+    "7": ["Christianity and culture"],
+    "8": ["City churches",
+    "Periodicals"],
+    "9": ["Electronic books"],
+    "10": ["Kingdom of God"],
+    "12": ["Kingdom of God",
+    "Early works to 1800"],
+    "14": ["Pastoral theology",
+    "Catholic Church",
+    "Periodicals"]
+  },
+  "originaltitle": "De Civitate Dei contra paganos libri viginti duo",
+  "awards": ["A Catholic Lifetime Reading Plan",
+  "Besides the Bible: 100 Books That Have, Should, or Will Create Christian Culture"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "35109",
+  "entrydate": "2020-11-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "7.82 x 2.02 inches",
+  "height": "2.02 inches",
+  "thickness": "5.08 inches",
+  "length": "7.82 inches",
+  "dimensions": "2.02 x 7.82 x 5.08 inches",
+  "weight": "1.75928885076 pounds",
+  "pages": "1184 "
 }}
