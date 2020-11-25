@@ -56507,6 +56507,15 @@
   "summary": "I Am The Bird by T M Wright (2006)",
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.0876"],
+    "wording": ["Adventure Fiction",
+    "English",
+    "Fiction",
+    "Genre Fiction",
+    "Literature",
+    "Science and Fantasy Fiction"]
+  },
   "lcc": [],
   "genre": ["Fantasy"],
   "genre_id": ["5280"],
@@ -79720,4 +79729,60 @@
   "dimensions": "2.02 x 7.82 x 5.08 inches",
   "weight": "1.75928885076 pounds",
   "pages": "1184 "
+},
+"192740906": {
+  "books_id": "192740906",
+  "title": "Christian History: An Introduction",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "McGrath, Alister E.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "McGrath, Alister E.",
+    "fl": "Alister E. McGrath",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1118337808",
+  "isbn": {
+    "0": "1118337808",
+    "2": "9781118337806"
+  },
+  "asin": "1118337808",
+  "ean": ["1118337808"],
+  "publication": "Wiley-Blackwell (2013), Edition: 1, 392 pages",
+  "date": "2013",
+  "summary": "Christian History: An Introduction by Alister E. McGrath (2013)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["270"],
+    "wording": ["History of Christianity",
+    "History of Christianity",
+    "Religion "]
+  },
+  "lcc": {
+    "code": "BR145.3 .M43"
+  },
+  "genre": ["History",
+  "Religion & Spirituality"],
+  "genre_id": ["1599",
+  "1944"],
+  "source": "amazon.com books",
+  "workcode": "13482028",
+  "entrydate": "2020-11-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9.6 inches",
+  "height": "9.598406 inches",
+  "thickness": "0.799211 inches",
+  "length": "7.200773 inches",
+  "dimensions": "9.598406 x 7.200773 x 0.799211 inches",
+  "weight": "1.45064168396 pounds"
 }}
