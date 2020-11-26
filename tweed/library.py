@@ -26,6 +26,8 @@ def is_ddc(v):
 
 
 class OCLC:
+    ISBN_WID_OVERRIDES = {"9780232525274": "54781379"}
+
     def __init__(self):
         self.session = requests.Session()
         self.book_holdings = Counter()
@@ -65,10 +67,12 @@ class OCLC:
         if responses[0] == "2":
             return [cache_fname]
         elif responses[0] == "4":
+            wis = x("//c:work/@wi")
+            if kwargs.get("isbn") in self.ISBN_WID_OVERRIDES:
+                wis = [self.ISBN_WID_OVERRIDES[kwargs.get("isbn")]]
             return list(
                 functools.reduce(
-                    lambda a, b: a + b,
-                    (self.recursive_lookup(wi=wi) for wi in x("//c:work/@wi")),
+                    lambda a, b: a + b, (self.recursive_lookup(wi=wi) for wi in wis)
                 )
             )
         elif responses[0] == "101":

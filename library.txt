@@ -207,6 +207,7 @@
 226.206        9781909697386            51  Myles, Robert J.    2014 The homeless Jesus in the Gospel of Matthew
 226.206        9780800617660           658  Stanton, Graham     1983 The Interpretation of Matthew
 226.206        9781350008793            51  Wainwright, Elai    2017 Matthew : an introduction and study guide : Basileia of the 
+226.20601      9780521716147           260  Powell, Mark All    2009 Methods for Matthew
 226.2067       9781570753244           477  Carter, Warren,     2001 Matthew and the margins : a sociopolitical and religious rea
 226.207        9781876295844           196  Byrne, Brendan (    2004 Lifting the burden : reading Matthew's Gospel in the church 
 226.207        9781910928226            68  Wainwright, Elai    2017 Habitat, human, and holy : an eco-rhetorical reading of the 
@@ -367,7 +368,6 @@
 248.4          9780340861356            88  Hughes, Gerard W    2003 God in all things : the sequel to God of surprises
 248.4          9780340694879            28  Hughes, Gerard W    1998 God of compassion
 248.4          9780232516647           466  Hughes, Gerard W    1985 God of surprises
-248.4          9780232525274           669  Hughes, Gerard W    2004 God of surprises
 248.4          9780385236829          1421  Nouwen, Henri J.    1986 Reaching out : the three movements of the spiritual life
 248.4          9780281068913           920  Rohr, Richard       2012 Falling upward : a spirituality for the two halves of life
 248.4          9781472946089           102  Williams, Rowan,    2017 Holy living : the Christian tradition for today
@@ -478,6 +478,7 @@
 283            9781596280045           286  Ramsey, Michael,    2004 The Anglican spirit
 283            9781598563894           521  Ramsey, Michael,    2009 The Gospel and the Catholic Church
 283.0922       9781786074416            60  Butler-Gallie, F    2018 A field guide to the English clergy : a compendium of divers
+283.42         9780232525274           196  Williams, Rowan,    2004 Anglican identities
 283.941        9780646480947            36  Kyme, Brian         2007 The Wollaston legacy
 283.941        9780646480947            36  Kyme, Brian         2007 The Wollaston legacy
 283.941092     9780522855753            15  Challen, M. B. (    2008 Sambell : man of the word
@@ -1015,6 +1016,7 @@
 823.912        9780141037233          4663  Waugh, Evelyn, 1    2008 A handful of dust
 823.912        9780141045627          8441  Waugh, Evelyn, 1    2012 Brideshead revisited : the sacred and profane memories of Ca
 823.912        9780307216267         11867  Wells, H. G. (He    1978 The war of the worlds
+823.912        9780664226107           864  Wood, Ralph C.      2003 The gospel according to Tolkien : visions of the kingdom in 
 823.912        9780586044438          4192  Woolf, Virginia,    1978 Between the acts
 823.912        9781853260919         12231  Woolf, Virginia,    1999 To the lighthouse
 823.912        9780143566533          2854  Wyndham, John, 1    2011 The day of the triffids
