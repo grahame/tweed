@@ -79834,4 +79834,194 @@
   "length": "8 inches",
   "dimensions": "12 x 8 x 0.4 inches",
   "weight": "0.95 pounds"
+},
+"192768965": {
+  "books_id": "192768965",
+  "title": "The Gospel According to Tolkien: Visions of the Kingdom in Middle-earth",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Wood, Ralph C.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Wood, Ralph C.",
+    "fl": "Ralph C. Wood",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0664226108",
+  "isbn": {
+    "0": "0664226108",
+    "2": "9780664226107"
+  },
+  "asin": "0664226108",
+  "ean": ["0664226108"],
+  "publication": "Westminster John Knox Press (2003), Edition: 1, 169 pages",
+  "date": "2003",
+  "summary": "The Gospel According to Tolkien: Visions of the Kingdom in Middle-earth by Ralph C. Wood (2003)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.912"],
+    "wording": ["1901-1945",
+    "20th Century",
+    "English",
+    "Fiction",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6039 .O32"
+  },
+  "subject": {
+    "0": ["Christian ethics in literature"],
+    "2": ["Christian fiction, English",
+    "History and criticism"],
+    "4": ["Christianity and literature",
+    "England",
+    "History"],
+    "5": ["Christianity and literature",
+    "England",
+    "History",
+    "20th century"],
+    "6": ["Fantasy fiction, English",
+    "History and criticism"],
+    "8": ["Middle Earth (Imaginary place)"],
+    "10": ["Religion in literature"],
+    "12": ["Tolkien, J. R. R. (John Ronald Reuel), 1892-1973",
+    "Religion"],
+    "13": ["Tolkien, J. R. R. (John Ronald Reuel), 1892-1973. Lord of the Rings"],
+    "14": ["Tolkien, J. R. R. (John Ronald Reuel), 1892-1973. Lord of the rings"]
+  },
+  "genre": ["Religion & Spirituality",
+  "Fantasy"],
+  "genre_id": ["1944",
+  "5280"],
+  "source": "amazon.com books",
+  "workcode": "44160",
+  "entrydate": "2020-11-26",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "0.42 inches",
+  "length": "5.5 inches",
+  "dimensions": "8.5 x 5.5 x 0.42 inches",
+  "weight": "0.5 pounds",
+  "pages": "224 "
+},
+"192768971": {
+  "books_id": "192768971",
+  "title": "Anglican Identities",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Williams, Rowan",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Williams, Rowan",
+    "fl": "Rowan Williams",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0232525277",
+  "isbn": {
+    "0": "0232525277",
+    "2": "9780232525274"
+  },
+  "asin": "0232525277",
+  "ean": ["0232525277"],
+  "publication": "Darton Longman and Todd (2004), 149 pages",
+  "date": "2004",
+  "summary": "Anglican Identities by Rowan Williams (2004)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["283"],
+    "wording": ["Anglican and Episcopal",
+    "Christian denominations",
+    "Religion "]
+  },
+  "lcc": {
+    "code": "BX5197 .W55"
+  },
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "1533954",
+  "entrydate": "2020-11-26",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "8.43 inches",
+  "thickness": "0.55 inches",
+  "length": "5.12 inches",
+  "dimensions": "8.43 x 5.12 x 0.55 inches",
+  "weight": "0.49 pounds",
+  "pages": "144 "
+},
+"192768977": {
+  "books_id": "192768977",
+  "title": "Methods for Matthew (Methods in Biblical Interpretation)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Powell, Mark Allan",
+  "primaryauthorrole": "Editor",
+  "authors": [{
+    "lf": "Powell, Mark Allan",
+    "fl": "Mark Allan Powell",
+    "role": "Editor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0521716144",
+  "isbn": {
+    "0": "0521716144",
+    "2": "9780521716147"
+  },
+  "asin": "0521716144",
+  "ean": ["0521716144"],
+  "publication": "Cambridge University Press (2009), Edition: 1, 278 pages",
+  "date": "2009",
+  "summary": "Methods for Matthew (Methods in Biblical Interpretation) by Mark Allan Powell (2009)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["226.2"],
+    "wording": ["Bible",
+    "Gospels and Acts",
+    "Matthew",
+    "Religion "]
+  },
+  "lcc": {
+    "code": "BS2575.52 .M48"
+  },
+  "series": ["Methods in Biblical Interpretation"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "9283750",
+  "entrydate": "2020-11-26",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "8.9 inches",
+  "thickness": "0.8 inches",
+  "length": "5.9 inches",
+  "dimensions": "8.9 x 5.9 x 0.8 inches",
+  "weight": "0.8 pounds",
+  "pages": "278 "
 }}
