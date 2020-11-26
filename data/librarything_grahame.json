@@ -79783,4 +79783,55 @@
     "text": "Paperback"
   }],
   "copies": "1"
+},
+"192768636": {
+  "books_id": "192768636",
+  "title": "Ecclesiastes: To Everything There Is a Season",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Rylant, Cynthia",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Rylant, Cynthia",
+    "fl": "Cynthia Rylant",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1481476548",
+  "isbn": {
+    "0": "1481476548",
+    "2": "9781481476546"
+  },
+  "asin": "1481476548",
+  "ean": ["1481476548"],
+  "publication": "Beach Lane Books (2018), 40 pages",
+  "date": "2018",
+  "summary": "Ecclesiastes: To Everything There Is a Season by Cynthia Rylant (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["223.8052034"],
+    "wording": ["Bible",
+    "Ecclesiastes",
+    "Poetic Books ",
+    "Religion "]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "22271583",
+  "entrydate": "2020-11-26",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "12 inches",
+  "height": "12 inches",
+  "thickness": "0.4 inches",
+  "length": "8 inches",
+  "dimensions": "12 x 8 x 0.4 inches",
+  "weight": "0.95 pounds"
 }}
