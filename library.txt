@@ -507,7 +507,6 @@
 303.4833       9780241957219          1945  Lanier, Jaron       1700 Who owns the future?
 303.4833       9781591409694           217  Rooksby, Emma       2006 Information technology and social justice
 304.25         9781568587295           716  Parenti, Christi    2012 Tropic of chaos : climate change and the new geography of vi
-305.235        9780648228202           235  Nourse, Alan E.     2018 Survival
 305.309        9780674543553          1535  Laqueur, Thomas     1992 Making sex : body and gender from the Greeks to Freud
 305.4          9780099499381          7909  Beauvoir, Simone    2010 The second sex;
 305.420973     9780896086135          2206  hooks, bell, 195    2000 Feminist theory from margin to center
@@ -1214,3 +1213,4 @@
 994.11         9780980348132                Nevill, Simon J.    2007 Perth and Fremantle: Past and Present
 994.11042      9780646191249            12  Gervas, Stan        1994 The way we were : Perth in the 1930's
 994.12004      9781921401428           135  Host, John T. (J    2009 'It's still in my heart this is my country' : the single Noo
+               9780648228202                Watts, Rachel       2018 Survival
