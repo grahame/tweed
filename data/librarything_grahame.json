@@ -79933,9 +79933,11 @@
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["A823.3",
-    "3"],
-    "wording": ["Social Sciences"]
+    "code": ["823.3"],
+    "wording": ["Elizabethan 1558-1625",
+    "English",
+    "Fiction",
+    "Literature"]
   },
   "lcc": [],
   "source": "National Library of Australia",
@@ -80217,4 +80219,94 @@
   "dimensions": "1.07 x 9.53 x 6.45 inches",
   "weight": "1.3117504589 pounds",
   "pages": "296 "
+},
+"192893575": {
+  "books_id": "192893575",
+  "title": "Messy Church Does Science",
+  "sortcharacter": "1",
+  "public": "1",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0857465791",
+  "isbn": {
+    "0": "0857465791",
+    "2": "9780857465795"
+  },
+  "asin": "0857465791",
+  "ean": ["0857465791"],
+  "publication": "BRF (The Bible Reading Fellowship)",
+  "summary": "Messy Church Does Science",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["261.55"],
+    "wording": ["Christian organization, social work, worship",
+    "Church",
+    "Church and intellectual development",
+    "Mathematics And Science",
+    "Religion "]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "20030006",
+  "entrydate": "2020-11-29",
+  "format": [{
+    "code": "1.1",
+    "text": "Paper Book"
+  }],
+  "copies": "1",
+  "physical_description": "8.27 inches",
+  "height": "8.2677 inches",
+  "thickness": "0.82677 inches",
+  "length": "5.82676 inches",
+  "dimensions": "8.2677 x 5.82676 x 0.82677 inches",
+  "weight": "0.99869404686 pounds"
+},
+"192893577": {
+  "books_id": "192893577",
+  "title": "Messy Family Fun: A Holiday Club for All the Family",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Moore, Mrs Lucy",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Moore, Mrs Lucy",
+    "fl": "Mrs Lucy Moore",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0857463055",
+  "isbn": {
+    "0": "0857463055",
+    "2": "9780857463050"
+  },
+  "asin": "0857463055",
+  "ean": ["0857463055"],
+  "publication": "Messy Church (2015), 96 pages",
+  "date": "2015",
+  "summary": "Messy Family Fun: A Holiday Club for All the Family by Mrs Lucy Moore (2015)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["268.4"],
+    "wording": ["Christian Education",
+    "Christian organization, social work, worship",
+    "For Particular Groups",
+    "Religion "]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "15733227",
+  "entrydate": "2020-11-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
 }}
