@@ -80,6 +80,7 @@
 200.1          9780521359665           239  Smart, Ninian, 1    1988 Nineteenth century religious thought in the west
 200.82         9780813365916           706  Young, Katherine    2003 Her voice, her faith : women speak on world religions
 200.94034      9780393047455          1261  Wilson, A. N., 1    1999 God's funeral
+201.76332      9780195385045           938  Cavanaugh, Willi    2009 The myth of religious violence : secular ideology and the ro
 201.76332      9780805212686          1488  Sacks, Jonathan,    2017 Not in God's name : confronting religious violence
 209            9780684815039          2587  Johnson, Paul, 1    1979 A history of Christianity
 211            9780099524038          2981  Armstrong, Karen    2010 The case for God
@@ -330,6 +331,7 @@
 238.2          9780854397983             6                      None Faith matters : fundamentals of faith
 238.2                                       Gore, Bishop        1939 Belief in God
 239            9780881410242           565  Bloom, Anthony,     1997 God and man
+239            9780802456571          3580  Chesterton, G. K    2009 Orthodoxy
 239.3          9780140448948         12173  Augustine, of Hi    2004 The city of God
 241                                         McCormick, Richa    1968 The Future of Ethics and Moral Theology
 241            9781570759666           139  Stivers, Laura A    2012 Christian ethics : a case method approach
@@ -387,6 +389,7 @@
 252            9780232520668           120  Williams, Rowan,    1994 Open to judgement : sermons and addresses
 252.03         9780060653200          1790  Lewis, C. S. (Cl    2001 The weight of glory and other addresses
 252.03         9780802841322           441  Wright, N. T. (N    1995 Following Jesus : biblical reflections on discipleship
+252.03092                                   Harlin, Butterle    None Murder in the Pulpit
 252.0342       9781859310175           255  Ramsey, Michael,    1994 Introducing the Christian faith
 252.0793       9780895368171                Bass, George        1986 The cradle, the cross and the crown : sermons for Advent, Ch
 252.0793       9780995381568            11  Carnley, Peter      2016 A kind of retirement : more sermons from Archbishop Peter Ca
@@ -969,6 +972,7 @@
 823.5          9780140431490          3168  Defoe, Daniel, 1    1982 Roxana, the fortunate mistress, or, A history of the life an
 823.7          9780141199078         37215  Austen, Jane, 17    2012 Pride and prejudice
 823.7          9780099589334         37215  Austen, Jane, 17    2014 Pride and prejudice
+823.7          9781343336766                Scott, Walter       2015 The Heart Of Mid-lothian
 823.7          9780938819806                Shelley, Mary Wo    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
 823.74         9780785834212          1864  Austen, Jane, 17    2016 The complete novels of Jane Austen
 823.8          9780141045207         32787  Brontë, Emily, 1    2009 Wuthering Heights
@@ -1212,4 +1216,5 @@
 994.11         9780980348132                Nevill, Simon J.    2007 Perth and Fremantle: Past and Present
 994.11042      9780646191249            12  Gervas, Stan        1994 The way we were : Perth in the 1930's
 994.12004      9781921401428           135  Host, John T. (J    2009 'It's still in my heart this is my country' : the single Noo
+A823.3         9781742831107                Rodda, Emily        2011 The land of dragons : legends of ancient Deltora, including 
                9780648228202                Watts, Rachel       2018 Survival
