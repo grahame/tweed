@@ -10364,9 +10364,9 @@
     "25": ["fantasy fiction"]
   },
   "series": ["Het verhaal van de dienstmaagd",
-  "El cuento de la criada",
+  "The Handmaid's Tale",
   "Der Report der Magd",
-  "The Handmaid's Tale"],
+  "El cuento de la criada"],
   "originaltitle": "The Handmaid\u2019s Tale",
   "awards": ["Prix Aurora Award finalist",
   "Booker Prize Shortlist",
@@ -13815,8 +13815,8 @@
   },
   "series": ["El problema de los tres cuerpos",
   "Le Probl\u00e8me \u00e0 trois corps",
-  "Remembrance of Earth's Past",
-  "Trisolaris-Trilogie"],
+  "Trisolaris-Trilogie",
+  "Remembrance of Earth's Past"],
   "originaltitle": "\u4e09\u4f53",
   "awards": ["Nebula Nominee",
   "Hugo",
@@ -27477,62 +27477,6 @@
   "weight": "2.45 pounds",
   "pages": "318 "
 },
-"164332145": {
-  "books_id": "164332145",
-  "title": "Halleys Comet",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Reddy, Francis",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Reddy, Francis",
-    "fl": "Francis Reddy",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0207151806",
-  "isbn": {
-    "0": "0207151806",
-    "2": "9780207151804"
-  },
-  "asin": "0207151806",
-  "ean": ["0207151806"],
-  "publication": "HarperCollins Publishers (Australia) Pty Ltd (1985)",
-  "date": "1985",
-  "summary": "Halleys Comet by Francis Reddy (1985)",
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["523.6"],
-    "wording": ["Astronomical objects and astrophysics",
-    "Astronomy",
-    "Comets",
-    "Natural sciences and mathematics"]
-  },
-  "lcc": {
-    "code": "QB723 .H2"
-  },
-  "subject": [["Halley's Comet"],
-  ["Halley's comet"]],
-  "genre": ["Science & Nature"],
-  "genre_id": ["1457"],
-  "source": "amazon.com books",
-  "workcode": "1636395",
-  "entrydate": "2019-01-10",
-  "format": [{
-    "code": "1.1",
-    "text": "Paper Book"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "11.65 inches",
-  "height": "11.65 inches",
-  "thickness": "0.39 inches",
-  "length": "8.9 inches",
-  "dimensions": "11.65 x 8.9 x 0.39 inches",
-  "weight": "1.15 pounds"
-},
 "164332151": {
   "books_id": "164332151",
   "title": "Statistics in Plain English, Third Edition",
@@ -32593,7 +32537,8 @@
   "dimensions": "6.63 x 1.1 x 9.37 inches",
   "weight": "1.33 pounds",
   "pages": "384 "
-},"164355690": {
+},
+"164355690": {
   "books_id": "164355690",
   "title": "Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching (3rd Edition) (Pts. 1-4)",
   "sortcharacter": "1",
@@ -32652,8 +32597,7 @@
   "dimensions": "7.8 x 1.5 x 9.1 inches",
   "weight": "2.9 pounds",
   "pages": "720 "
-},
-"164355696": {
+},"164355696": {
   "books_id": "164355696",
   "title": "The Pragmatic Programmer: From Journeyman to Master",
   "sortcharacter": "5",
@@ -39522,7 +39466,8 @@
   "dimensions": "6.37 x 1.18 x 9.2 inches",
   "weight": "1.22 pounds",
   "pages": "344 "
-},"164360719": {
+},
+"164360719": {
   "books_id": "164360719",
   "title": "Permutation City",
   "sortcharacter": "1",
@@ -39594,8 +39539,7 @@
   "dimensions": "4.33 x 0.91 x 7.01 inches",
   "weight": "0.44 pounds",
   "pages": "310 "
-},
-"164360740": {
+},"164360740": {
   "books_id": "164360740",
   "title": "Axiomatic",
   "sortcharacter": "1",
@@ -40369,142 +40313,6 @@
   "dimensions": "4.37 x 0.43 x 7.01 inches",
   "weight": "0.22 pounds",
   "pages": "192 "
-},
-"164361405": {
-  "books_id": "164361405",
-  "title": "The October Country: Stories",
-  "sortcharacter": "5",
-  "public": "1",
-  "primaryauthor": "Bradbury, Ray",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Bradbury, Ray",
-    "fl": "Ray Bradbury",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "9780345324481",
-  "isbn": ["9780345324481",
-  "034532448X"],
-  "asin": "034532448X",
-  "ean": ["034532448X"],
-  "publication": "Del Rey (1985), Edition: 1, 320 pages",
-  "date": "1985",
-  "summary": "The October Country: Stories by Ray Bradbury (1985)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["813.54"],
-    "wording": ["1945-1999",
-    "20th Century",
-    "American And Canadian",
-    "Fiction",
-    "Literature"]
-  },
-  "lcc": {
-    "code": "PS3503 .R167"
-  },
-  "subject": {
-    "0": ["Fantasy fiction, American"],
-    "2": ["Horror tales, American"],
-    "4": ["Science Fiction, American"],
-    "5": ["Science fiction, American"],
-    "6": ["Short stories, English"]
-  },
-  "awards": ["Horror: The 100 Best Books",
-  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
-  "NPR 100 Best Horror Novels and Stories",
-  "besthorrornovels.com's Best Classic Horror Books"],
-  "genre": ["Science Fiction",
-  "Fantasy"],
-  "genre_id": ["281",
-  "5280"],
-  "source": "amazon.com books",
-  "workcode": "2042669",
-  "entrydate": "2019-01-11",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "320 p.; 4.16 inches",
-  "height": "4.16 inches",
-  "thickness": "6.85 inches",
-  "length": "0.79 inches",
-  "dimensions": "4.16 x 0.79 x 6.85 inches",
-  "weight": "0.35 pounds",
-  "pages": "320 "
-},
-"164361510": {
-  "books_id": "164361510",
-  "title": "I Sing the Body Electric",
-  "sortcharacter": "3",
-  "public": "1",
-  "primaryauthor": "Bradbury, Ray",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Bradbury, Ray",
-    "fl": "Ray Bradbury",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0671017896",
-  "isbn": {
-    "0": "0671017896",
-    "2": "9780671017897"
-  },
-  "asin": "0671017896",
-  "ean": ["0671017896"],
-  "publication": "Simon & Schuster Ltd (1998), Edition: Reprint, 336 pages",
-  "date": "1998",
-  "summary": "I Sing the Body Electric by Ray Bradbury (1998)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["813.54"],
-    "wording": ["1945-1999",
-    "20th Century",
-    "American And Canadian",
-    "Fiction",
-    "Literature"]
-  },
-  "lcc": {
-    "code": "PS3503 .R167"
-  },
-  "subject": {
-    "0": ["SF/AN"],
-    "1": ["Science Fiction, American"],
-    "3": ["Science fiction, American"]
-  },
-  "originaltitle": "I Sing the Body Electric",
-  "awards": ["ALA Best Books for Young Adults"],
-  "genre": ["Science Fiction",
-  "Fantasy"],
-  "genre_id": ["281",
-  "5280"],
-  "source": "amazon.com books",
-  "workcode": "48702",
-  "entrydate": "2019-01-11",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "336 p.; 6.61 inches",
-  "height": "6.61 inches",
-  "thickness": "0.94 inches",
-  "length": "4.41 inches",
-  "dimensions": "6.61 x 4.41 x 0.94 inches",
-  "weight": "0.4 pounds",
-  "pages": "336 "
 },
 "164361537": {
   "books_id": "164361537",
@@ -47124,7 +46932,8 @@
   "dimensions": "9.1 x 5.9 x 0.9 inches",
   "weight": "1.7 pounds",
   "pages": "336 "
-},"164366642": {
+},
+"164366642": {
   "books_id": "164366642",
   "title": "Field Guide to Birds of Australia",
   "sortcharacter": "1",
@@ -47325,8 +47134,7 @@
   "dimensions": "7.34 x 1.73 x 9.56 inches",
   "weight": "2.85 pounds",
   "pages": "448 "
-},
-"164366773": {
+},"164366773": {
   "books_id": "164366773",
   "title": "Bird Minds: Cognition and Behaviour of Australian Native Birds",
   "sortcharacter": "1",
@@ -48775,8 +48583,8 @@
   ["Science fiction"],
   ["science fiction"]],
   "series": ["Commonwealth Universe",
-  "Void Trilogy",
   "La Trilogie du Vide",
+  "Void Trilogy",
   "Pilger der Leere",
   "Das Dunkle Universum"],
   "genre": ["Science Fiction",
@@ -51331,8 +51139,8 @@
   "series": ["Silo Saga",
   "Wool Trilogy",
   "Silo Series",
-  "Siilo",
   "Silo [Hugh Howey]",
+  "Siilo",
   "Wool"],
   "awards": ["Prix des libraires du Qu\u00e9bec",
   "Reading List Award shortlist"],
@@ -52327,8 +52135,8 @@
   },
   "series": ["Agatha Christie Crime Collection",
   "Hercule Poirot",
-  "H\u00e9rcules Poirot",
   "Hercule Poirot",
+  "H\u00e9rcules Poirot",
   "Neiti Marple",
   "Miss Marple"],
   "genre": ["Mystery"],
@@ -52973,8 +52781,8 @@
     "code": "PS3552 .A9496"
   },
   "series": ["Der Xeelee-Zyklus",
-  "Xeelee Sequence",
-  "Cycle des Xeelees"],
+  "Cycle des Xeelees",
+  "Xeelee Sequence"],
   "awards": ["Arthur C. Clarke Award Shortlist"],
   "genre": ["Science Fiction",
   "Fantasy"],
@@ -53477,8 +53285,8 @@
   "lcc": {
     "code": "PR6052 .A849"
   },
-  "series": ["Die letzte Flut",
-  "Flood"],
+  "series": ["Flood",
+  "Die letzte Flut"],
   "awards": ["British Science Fiction Association Award Shortlist",
   "Locus Recommended Reading",
   "Locus Nominee",
@@ -53682,11 +53490,11 @@
   ["Space warfare",
   "Fiction"],
   ["science fiction"]],
-  "series": ["Kinder des Schicksals",
-  "Destiny's Children",
+  "series": ["Destiny's Children",
+  "Kinder des Schicksals",
   "Der Xeelee-Zyklus",
-  "Xeelee Sequence",
-  "Cycle des Xeelees"],
+  "Cycle des Xeelees",
+  "Xeelee Sequence"],
   "awards": ["Locus Recommended Reading"],
   "genre": ["Science Fiction",
   "Fantasy"],
@@ -53749,11 +53557,11 @@
   "lcc": {
     "code": "PR6052 .A9496"
   },
-  "series": ["Kinder des Schicksals",
-  "Destiny's Children",
+  "series": ["Destiny's Children",
+  "Kinder des Schicksals",
   "Der Xeelee-Zyklus",
-  "Xeelee Sequence",
-  "Cycle des Xeelees"],
+  "Cycle des Xeelees",
+  "Xeelee Sequence"],
   "awards": ["Arthur C. Clarke Award Shortlist",
   "Locus Recommended Reading"],
   "genre": ["Science Fiction",
@@ -53816,8 +53624,8 @@
   },
   "subject": [["Science fiction, English"]],
   "series": ["Der Xeelee-Zyklus",
-  "Xeelee Sequence",
-  "Cycle des Xeelees"],
+  "Cycle des Xeelees",
+  "Xeelee Sequence"],
   "awards": ["Philip K. Dick Award",
   "1000 Books to Read Before You Die"],
   "genre": ["Science Fiction",
@@ -53906,7 +53714,8 @@
   "dimensions": "9.13 x 5.98 x 1.73 inches",
   "weight": "2.65 pounds",
   "pages": "592 "
-},"164408919": {
+},
+"164408919": {
   "books_id": "164408919",
   "title": "The truth of the matter",
   "sortcharacter": "5",
@@ -54093,8 +53902,7 @@
   "dimensions": "5 x 0.96 x 8 inches",
   "weight": "0.54 pounds",
   "pages": "320 "
-},
-"164408957": {
+},"164408957": {
   "books_id": "164408957",
   "title": "Woken Furies",
   "sortcharacter": "1",
@@ -54224,10 +54032,10 @@
     "13": ["Romances"],
     "15": ["historical fiction"]
   },
-  "series": ["Die drei Musketiere",
-  "Les Trois Mousquetaires",
+  "series": ["Les Trois Mousquetaires",
   "D'Artagnan t\u00f6rt\u00e9netek",
   "D'Artagnan Romances",
+  "Die drei Musketiere",
   "Los tres mosqueteros",
   "Tio \u00e5r senare",
   "Le Vicomte de Bragelonne"],
@@ -55254,11 +55062,11 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["FOUNDATION",
-  "Der Foundation-Zyklus",
-  "Foundation Expanded Universe",
+  "series": ["Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
+  "FOUNDATION",
+  "Der Foundation-Zyklus",
   "Rom\u00e1ny o robotech",
   "Die Roboter-Romane",
   "Isaac Asimov's Robot Series",
@@ -55420,8 +55228,8 @@
     "Fiction"],
     "15": ["science fiction"]
   },
-  "series": ["De Foundation Trilogie",
-  "Ciclo delle Fondazioni",
+  "series": ["Ciclo delle Fondazioni",
+  "De Foundation Trilogie",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
   "Nadace",
@@ -55437,11 +55245,11 @@
   "Alap\u00edtv\u00e1ny",
   "Die Foundation-Romane",
   "Foundation",
-  "FOUNDATION",
-  "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
   "Robot/Foundation",
-  "Robot/Empire/Foundation - Chronological"],
+  "Robot/Empire/Foundation - Chronological",
+  "FOUNDATION",
+  "Der Foundation-Zyklus"],
   "originaltitle": "Foundation's Edge",
   "awards": ["1000 Books to Read Before You Die"],
   "genre": ["Science Fiction",
@@ -55513,11 +55321,11 @@
     "9": ["Science fiction"],
     "11": ["science fiction"]
   },
-  "series": ["FOUNDATION",
-  "Der Foundation-Zyklus",
-  "Foundation Expanded Universe",
+  "series": ["Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
+  "FOUNDATION",
+  "Der Foundation-Zyklus",
   "Rom\u00e1ny o robotech",
   "Die Roboter-Romane",
   "Isaac Asimov's Robot Series",
@@ -55591,11 +55399,11 @@
     "4": ["Science fiction, American"],
     "5": ["science fiction"]
   },
-  "series": ["FOUNDATION",
-  "Der Foundation-Zyklus",
-  "Foundation Expanded Universe",
+  "series": ["Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
+  "FOUNDATION",
+  "Der Foundation-Zyklus",
   "L'empire de Trantor",
   "Die Imperium-Romane",
   "Imperio Gal\u00e1ctico",
@@ -55751,8 +55559,8 @@
     "Fiction"],
     "15": ["science fiction"]
   },
-  "series": ["De Foundation Trilogie",
-  "Ciclo delle Fondazioni",
+  "series": ["Ciclo delle Fondazioni",
+  "De Foundation Trilogie",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
   "Nadace",
@@ -55768,11 +55576,11 @@
   "Alap\u00edtv\u00e1ny",
   "Die Foundation-Romane",
   "Foundation",
-  "FOUNDATION",
-  "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
   "Robot/Foundation",
-  "Robot/Empire/Foundation - Chronological"],
+  "Robot/Empire/Foundation - Chronological",
+  "FOUNDATION",
+  "Der Foundation-Zyklus"],
   "awards": ["1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
   "1000 Books to Read Before You Die"],
   "genre": ["Science Fiction",
@@ -55850,8 +55658,8 @@
     "Fiction"],
     "15": ["science fiction"]
   },
-  "series": ["De Foundation Trilogie",
-  "Ciclo delle Fondazioni",
+  "series": ["Ciclo delle Fondazioni",
+  "De Foundation Trilogie",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
   "Nadace",
@@ -55867,11 +55675,11 @@
   "Alap\u00edtv\u00e1ny",
   "Die Foundation-Romane",
   "Foundation",
-  "FOUNDATION",
-  "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
   "Robot/Foundation",
-  "Robot/Empire/Foundation - Chronological"],
+  "Robot/Empire/Foundation - Chronological",
+  "FOUNDATION",
+  "Der Foundation-Zyklus"],
   "awards": ["Guardian 1000",
   "1001 Books You Must Read Before You Die",
   "The Telegraph's 110 Best Books: The Perfect Library",
@@ -55943,8 +55751,8 @@
     "code": "PR6052 .A849 R3"
   },
   "series": ["Xeelee Sequence",
-  "Der Xeelee-Zyklus",
-  "Cycle des Xeelees"],
+  "Cycle des Xeelees",
+  "Der Xeelee-Zyklus"],
   "genre": ["Science Fiction",
   "Fantasy"],
   "genre_id": ["281",
@@ -59092,7 +58900,6 @@
   "lcc": {
     "code": "BS1485 .O83"
   },
-  "series": ["Cistercian Fathers Series"],
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
   "source": "amazon.com books",
@@ -60073,7 +59880,8 @@
   "dimensions": "0.79 x 5.98 x 9.02 inches",
   "weight": "1.15 pounds",
   "pages": "356 "
-},"169954662": {
+},
+"169954662": {
   "books_id": "169954662",
   "title": "The New American Bible (With the Revised Book of Psalms and the Revised New Testament)",
   "sortcharacter": "5",
@@ -60234,8 +60042,7 @@
   }],
   "copies": "1",
   "volumes": "1"
-},
-"169954698": {
+},"169954698": {
   "books_id": "169954698",
   "title": "The Beatitudes: To Evangelize As Jesus Did",
   "sortcharacter": "5",
@@ -60343,8 +60150,8 @@
     "Fiction"],
     "6": ["Spy stories"]
   },
-  "series": ["Serie Jack Ryan",
-  "Jack Ryan, Chronological Order",
+  "series": ["Jack Ryan, Chronological Order",
+  "Serie Jack Ryan",
   "Jack Ryan, Publication Order",
   "Jack Ryan"],
   "originaltitle": "The Hunt for Red October",
@@ -61841,8 +61648,8 @@
     "Modern Period"]
   },
   "lcc": [],
-  "series": ["La laverie",
-  "The Laundry"],
+  "series": ["The Laundry",
+  "La laverie"],
   "originaltitle": "The Labyrinth Index",
   "genre": ["Science Fiction",
   "Fantasy"],
@@ -64342,12 +64149,12 @@
   "lcc": {
     "code": "PR6052 .A485"
   },
-  "series": ["A Kult\u00fara",
-  "Kulttuuri",
+  "series": ["Kulttuuri",
   "La Cultura",
   "Le cycle de la culture",
+  "The Culture",
   "Kultur-Zyklus",
-  "The Culture"],
+  "A Kult\u00fara"],
   "originaltitle": "Use of Weapons",
   "awards": ["Arthur C. Clarke Award Shortlist",
   "British Science Fiction Association Award Shortlist",
@@ -64418,12 +64225,12 @@
     "4": ["Science fiction"],
     "6": ["science fiction"]
   },
-  "series": ["A Kult\u00fara",
-  "Kulttuuri",
+  "series": ["Kulttuuri",
   "La Cultura",
   "Le cycle de la culture",
+  "The Culture",
   "Kultur-Zyklus",
-  "The Culture"],
+  "A Kult\u00fara"],
   "originaltitle": "Consider Phlebas",
   "awards": ["Guardian 1000",
   "AbeBooks: 50 Essential Science Fiction Books"],
@@ -64560,12 +64367,12 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["A Kult\u00fara",
-  "Kulttuuri",
+  "series": ["Kulttuuri",
   "La Cultura",
   "Le cycle de la culture",
+  "The Culture",
   "Kultur-Zyklus",
-  "The Culture"],
+  "A Kult\u00fara"],
   "awards": ["1001 Books You Must Read Before You Die",
   "Bloomsbury's 100 Must-Read Science Fiction Novels",
   "World Book Night selection",
@@ -64780,12 +64587,12 @@
     "20th century"],
     "8": ["science fiction"]
   },
-  "series": ["A Kult\u00fara",
-  "Kulttuuri",
+  "series": ["Kulttuuri",
   "La Cultura",
   "Le cycle de la culture",
+  "The Culture",
   "Kultur-Zyklus",
-  "The Culture"],
+  "A Kult\u00fara"],
   "awards": ["James Tiptree, Jr. Award Long List",
   "British Science Fiction Association Award",
   "British Fantasy Award Nominee",
@@ -66274,7 +66081,8 @@
   "physical_description": "256 p.",
   "weight": "0.75 pounds",
   "pages": "256 "
-},"178256126": {
+},
+"178256126": {
   "books_id": "178256126",
   "title": "Excavating Jesus: Beneath the Stones, Behind the Texts",
   "sortcharacter": "1",
@@ -66453,8 +66261,7 @@
   "height": "24 cm",
   "dimensions": "24 cm",
   "pages": "xxxiv; 296 "
-},
-"178256132": {
+},"178256132": {
   "books_id": "178256132",
   "title": "Catholic Sacraments (Michael Glazier Books: Message of the Sacraments)",
   "sortcharacter": "1",
@@ -69243,8 +69050,8 @@
     "38": ["fantasy"]
   },
   "series": ["Le avventure di Alice",
-  "Les aventures d'Alice",
-  "Alice's Adventures"],
+  "Alice's Adventures",
+  "Les aventures d'Alice"],
   "awards": ["Waterstones The Nation's Favourite Children's Books",
   "IBBY Honour Book",
   "V&A Illustration Award",
@@ -72531,7 +72338,8 @@
     "text": "Paperback"
   }],
   "copies": "1"
-},"187940869": {
+},
+"187940869": {
   "books_id": "187940869",
   "title": "The Stranger",
   "sortcharacter": "5",
@@ -72763,8 +72571,7 @@
   "length": "5.51 inches",
   "dimensions": "8.5 x 5.51 x 0.39 inches",
   "weight": "0.771617917 pounds"
-},
-"187940874": {
+},"187940874": {
   "books_id": "187940874",
   "title": "The Book of Exodus: A Critical, Theological Commentary (The Old Testament Library)",
   "sortcharacter": "5",
@@ -78887,7 +78694,8 @@
   "length": "7.5 inches",
   "dimensions": "9.2 x 7.5 x 1.1 inches",
   "weight": "2.9 pounds"
-},"192688876": {
+},
+"192688876": {
   "books_id": "192688876",
   "title": "Existentialism Is a Humanism",
   "sortcharacter": "1",
@@ -79095,8 +78903,7 @@
   "dimensions": "5.1 x 7.6 x 1 inches",
   "weight": "0.551155655 pounds",
   "pages": "336 "
-},
-"192688879": {
+},"192688879": {
   "books_id": "192688879",
   "title": "The Athenian Constitution (Penguin Classics)",
   "sortcharacter": "5",
@@ -79970,4 +79777,137 @@
   "dimensions": "8.9 x 5.9 x 0.8 inches",
   "weight": "0.8 pounds",
   "pages": "278 "
+},
+"192889520": {
+  "books_id": "192889520",
+  "title": "Driving Blind",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Bradbury, Ray",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Bradbury, Ray",
+    "fl": "Ray Bradbury",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0671022075",
+  "isbn": {
+    "0": "0671022075",
+    "2": "9780671022075"
+  },
+  "asin": "0671022075",
+  "ean": ["0671022075"],
+  "publication": "Earthlight (1998), Edition: First UK Edition, 272 pages",
+  "date": "1998",
+  "summary": "Driving Blind by Ray Bradbury (1998)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3503 .R167"
+  },
+  "subject": [["United States",
+  "Fiction.",
+  "20th century"],
+  ["United States",
+  "Social life and customs",
+  "20th century",
+  "Fiction"]],
+  "originaltitle": "Driving Blind",
+  "awards": ["British Fantasy Award Nominee",
+  "World Fantasy Award Nominee"],
+  "genre": ["Science Fiction",
+  "Fantasy"],
+  "genre_id": ["281",
+  "5280"],
+  "source": "amazon.com books",
+  "workcode": "27715",
+  "entrydate": "2020-11-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "6.8 inches",
+  "thickness": "0.8 inches",
+  "length": "4.3 inches",
+  "dimensions": "6.8 x 4.3 x 0.8 inches",
+  "weight": "0.3 pounds",
+  "pages": "272 "
+},
+"192889576": {
+  "books_id": "192889576",
+  "title": "I Sing the Body Electric",
+  "sortcharacter": "3",
+  "public": "1",
+  "primaryauthor": "Bradbury, Ray",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Bradbury, Ray",
+    "fl": "Ray Bradbury",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0671017896",
+  "isbn": {
+    "0": "0671017896",
+    "2": "9780671017897"
+  },
+  "asin": "0671017896",
+  "ean": ["0671017896"],
+  "publication": "Pocket Books (1998), Edition: New edition, 336 pages",
+  "date": "1998",
+  "summary": "I Sing the Body Electric by Ray Bradbury (1998)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3503 .R167"
+  },
+  "subject": {
+    "0": ["SF/AN"],
+    "1": ["Science Fiction, American"],
+    "3": ["Science fiction, American"]
+  },
+  "originaltitle": "I Sing the Body Electric",
+  "awards": ["ALA Best Books for Young Adults"],
+  "genre": ["Science Fiction",
+  "Fantasy"],
+  "genre_id": ["281",
+  "5280"],
+  "source": "amazon.com books",
+  "workcode": "48702",
+  "entrydate": "2020-11-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "6.61 inches",
+  "thickness": "0.94 inches",
+  "length": "4.41 inches",
+  "dimensions": "6.61 x 4.41 x 0.94 inches",
+  "weight": "0.4 pounds",
+  "pages": "336 "
 }}

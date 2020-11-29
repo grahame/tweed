@@ -611,7 +611,6 @@
 520            9780345331359          7395  Sagan, Carl, 193    1985 Cosmos
 523.1          9780553401653          9213  Hawking, Stephen    1989 A brief history of time : from the big bang to black holes
 523.1          9780099505945          1234  Penrose, Roger      2011 Cycles of time : an extraordinary new view of the universe
-523.64         9780207151804           363  Reddy, Francis,     1985 Halley's comet!
 526.6209       9781857025712          4569  Sobel, Dava         1998 Longitude : the true story of a lone genius who solved the g
 526.8          9780226767475           744  Snyder, John Par    1993 Flattening the earth : two thousand years of map projections
 530            9780140175059          2059  Feynman, Richard    2006 The character of physical law
@@ -795,9 +794,9 @@
 813.54         9780349117621          1284  Barry, Max, 1973    2004 Jennifer Government : a novel
 813.54         9780006482215           213  Baxter, Stephen     1996 Ring
 813.54         9780340769614          1027  Bova, Ben, 1932-    2001 The precipice
+813.54         9780671022075          1211  Bradbury, Ray       1998 Driving blind
 813.54         9780007181704         14838  Bradbury, Ray, 1    2004 Fahrenheit 451
 813.54         9780671017897          2622  Bradbury, Ray, 1    1998 I sing the body electric!
-813.54         9780345324481          1710  Bradbury, Ray, 1    1985 The October country
 813.54         9780747525479           588  Brewer, Gene        1996 K-PAX : a novel
 813.54         9781857233858          1017  Brin, David         1996 Brightness reef
 813.54         9781472263667          3058  Butler, Octavia     2019 Parable of the sower
