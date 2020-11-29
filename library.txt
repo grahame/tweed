@@ -485,7 +485,6 @@
 289.6          9780143106319           439  Hamm, Thomas D.     2011 Quaker writings : an anthology, 1650-1920
 289.60994      9780975157916            39  Religious Societ    2008 This we can say : Australian Quaker life, faith and thought
 291            9780883446461          1053  Smith, Wilfred C    1990 Towards a world theology : faith and the comparative history
-294.5925       9788129115546            40  Menon, Ramesh, 1    2011 Devi : the Devi Bhagavatam retold
 296            9780802881335          1157  Edersheim, Alfre    1978 The Temple : its ministry and services as they were at the t
 296            9780812982510           641  Lévy, Bernard-He    2017 The genius of Judaism
 296.36         9781592644490            48  Sacks, Jonathan,    2016 Essays on ethics : a weekly reading of the Jewish Bible
@@ -878,6 +877,7 @@
 813.54         9780385333900          4102  Vonnegut, Kurt      1999 Jailbird : a novel
 813.54         9780385334143          3237  Vonnegut, Kurt      1999 Mother night
 813.54         9780440180296         10598  Vonnegut, Kurt      1991 Slaughterhouse-five : or, The children's crusade, a duty-dan
+813.54         9788129115546                Vonnegut, Kurt      2011 While Mortals Sleep
 813.54         9780812566628           826  Wilson, Robert C    1999 Darwinia
 813.54         9780575132306           507  Womack, Jack        2013 Random acts of senseless violence
 813.6          9781789091618          2268  Anders, Charlie     None The city in the middle of the night
