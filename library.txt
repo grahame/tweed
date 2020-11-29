@@ -1156,7 +1156,6 @@
 892.1          9780140449198           927  George, A. R.       2003 The epic of Gilgamesh : the Babylonian epic poem and other t
 895.1352       9781784971571          3692  Liu, Cixin          2015 The three-body problem
 895.61008      9780752221656           132  Dunn-Mascetti, M    1997 Haiku : the poetry of Zen
-895.63         9781782275909           168  Matayoshi, Naoki    2020 Hibana
 895.634        9780804832656          1600  Natsume, Sōseki,    2001 I am a cat
 895.635        9781447279402          1039  Hiraide, Takashi    2001 The Guest Cat
 895.635        9781846276989             4  Kawakami, Hiromi    None PEOPLE FROM MY NEIGHBOURHOOD
@@ -1173,6 +1172,7 @@
 895.636        9781529050868           149  Kawaguchi, Toshi    2020 Before the coffee gets cold
 895.636        9781846275104           356  Kawakami, Hiromi    2014 Strange weather in Tokyo : a novel
 895.636        9781529054224           149  Kawakami, Mieko,    2020 Breasts and eggs
+895.636        9781782275909            20  Matayoshi, Naoki    2020 Spark
 899.15         9781742582962            80  Scott, Kim, 1957    2011 Mamang
 899.15         9781742582955            85  Scott, Kim, 1957    2011 Noongar Mambara Bakitj
 901.9          9780415267373          4416  Foucault, Michel    2001 The order of things : an archaeology of the human sciences
