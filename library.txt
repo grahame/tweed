@@ -1075,7 +1075,6 @@
 823.914        9781473227835          4526  Gaiman, Neil        2019 Good omens : the nice and accurate prophecies of Agnes Nutte
 823.914        9788172236137          1767  Ghosh, Amitav, 1    2008 The hungry tide
 823.914        9781405088817          1361  Hamilton, Peter     2007 The dreaming void
-823.914        9780721412634            17  Hately, David       2007 Ghostbusters II
 823.914        9780450588853           506  Herbert, James,     1993 Portent
 823.914        9780141037356          3029  Hornby, Nick        2008 High fidelity
 823.914        9780571342211          4301  James, P. D.        2018 The children of men
@@ -1085,6 +1084,7 @@
 823.914        9781841493442           355  MacLeod, Ken, 19    2006 Learning the world : a scientific romance
 823.914        9781841492247           472  MacLeod, Ken, 19    2005 Newton's wake : a space opera
 823.914        9781841493497           700  MacLeod, Ken, 19    2008 The Execution Channel
+823.914        9780721412634                McEwan, Ian         2007 Atonement
 823.914        9780140111057           461  Mortimer, John,     1988 Rumpole and the age of miracles
 823.914        9780140063318           667  Mortimer, John,     1984 Rumpole and the golden thread
 823.914        9780141037530          1841  Mortimer, John,     None Rumpole and the Penge Bungalow murders

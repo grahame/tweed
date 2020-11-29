@@ -27,7 +27,7 @@ def is_ddc(v):
 
 class OCLC:
     ISBN_WID_OVERRIDES = {"9780232525274": "54781379", "9780241339725": "1031083726"}
-    ISBN_DISABLE = ["9780648228202", "9788129115546"]
+    ISBN_DISABLE = ["9780648228202", "9788129115546", "9780721412634"]
 
     def __init__(self):
         self.session = requests.Session()
