@@ -765,6 +765,9 @@
 809            9780199683611           216  Pickstock, Cathe    2014 Repetition and identity
 810.803628     9780141012704           312  Foer, Jonathan S    2007 A convergence of birds : original fiction and poetry inspire
 811.4          9780811225823           308  Dickinson, Emily    2016 Envelope poems
+811.54         9781784743895             8  Atwood, Margaret    2020 Dearly
+811.54         9781903385135            93  Cohen, Leonard,     2012 God is alive : magic is afoot
+811.54         9781786893147           204  Cohen, Leonard,     2019 The flame
 811.54         9780811217118           305  Grossman, Allen     2007 Descartes' loneliness
 811.54         9780802134523           748  O'Hara, Frank, 1    1996 Meditations in an emergency
 813.087608     9780441054992           152  McCarthy, Shawna    1990 Isaac Asimov's Fantasy!
@@ -910,6 +913,7 @@
 813.6          9780007327898          1002  Doctorow, Cory      2010 Makers
 813.6          9780007250387           450  Dolnick, Ben        2007 Zoology : a novel
 813.6          9781597802277           557  Egan, Greg, 1961    2011 The clockwork rocket
+813.6          9781789095319           483  Ellis, Lindsay,     2020 Axiom's end : a novel
 813.6                                       Fowler, Therese     2011 Souvenir by Therese Fowler
 813.6          9781469984209           202  Howey, Hugh         2012 Wool omnibus
 813.6          9781841498171          1274  Jemisin, N. K.      2010 The hundred thousand kingdoms
@@ -947,6 +951,7 @@
 821.914        9780140504231          3402  Dahl, Roald         1984 Roald Dahl's Revolting rhymes
 821.914        9780571347155           343  Heaney, Seamus,     2019 100 poems
 821.9208       9781408705872            74  Banks, Iain, 195    2016 Poems
+821.9208       9781786277152             3  National Poetry     2020 Instagram poetry for every day
 822.912        9780881840759           380  O'Casey, Sean, 1    1984 Autobiographies
 823            9780246137067           186  Baxter, Stephen     1991 Raft
 823            9780702230493          2151  Carey, Peter, 19    1998 Jack Maggs
@@ -1154,6 +1159,7 @@
 882.01         9780140441529          3711  Aristophanes        1964 The wasps
 883.01         9780140275360         52847  Homer               1998 The Iliad
 883.01         9780140268867         44341  Homer               1999 The Odyssey
+891.5511       9780062509598          2256  Jalāl al-Dīn Rūm    1997 The essential Rumi
 891.730876     9780020226505           276  Jacobson, H. S.     1981 New Soviet science fiction
 891.733        9780140449242         13208  Dostoyevsky, Fyo    2003 The brothers Karamazov
 891.733        9781853262715         23204  Tolstoy, Leo, gr    1997 Anna Karenina : a novel in eight parts
