@@ -80620,4 +80620,60 @@
   "thickness": "0.59055 inches",
   "length": "5.9055 inches",
   "dimensions": "9.0551 x 5.9055 x 0.59055 inches"
+},
+"192972603": {
+  "books_id": "192972603",
+  "title": "Maya Angelou: The Complete Poetry",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Angelou, Dr Maya",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Angelou, Dr Maya",
+    "fl": "Dr Maya Angelou",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0349006210",
+  "isbn": {
+    "0": "0349006210",
+    "2": "9780349006215"
+  },
+  "asin": "0349006210",
+  "ean": ["0349006210"],
+  "publication": "Virago (2015), Edition: 01, 336 pages",
+  "date": "2015",
+  "summary": "Maya Angelou: The Complete Poetry by Dr Maya Angelou (2015)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["811.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Literature",
+    "Poetry"]
+  },
+  "lcc": {
+    "code": "PS3551 .N464"
+  },
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
+  "source": "amazon.com books",
+  "workcode": "2407976",
+  "entrydate": "2020-12-01",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "8.86 inches",
+  "height": "8.85825 inches",
+  "thickness": "1.22047 inches",
+  "length": "6.2992 inches",
+  "dimensions": "8.85825 x 6.2992 x 1.22047 inches",
+  "weight": "1.01853565044 pounds"
 }}
