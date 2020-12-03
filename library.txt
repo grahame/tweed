@@ -42,11 +42,13 @@
 070.924        9781862078246           303  Cameron, James,     2007 Point of departure: experiment in biography
 100            9780415693165          2019  Warburton, Nigel    2012 Philosophy : the basics
 109.2          9780753811368           366  Monk, Ray           2001 The great philosophers
+110            9780140446197          2353  Aristotle           1999 Metaphysics
 110            9780192854230          4588  Russell, Bertran    2001 The problems of philosophy
 111            9780061575594          5306  Heidegger, Marti    2008 Being and time
 111            9780300115468          4180  Sartre, Jean-Pau    2007 Existentialism
 121            9780199549900          2150  Hume, David, 171    2008 An enquiry concerning human understanding
 121            9781108840323             3  Pickstock, Cathe    2020 Aspects of truth : a new religious metaphysics
+128.1          9780140444711          5835  Aristotle           1987 De anima = : On the soul
 128.3          9780415096812          1338  Lloyd, Genevieve    1993 The man of reason : "male" and "female" in Western philosoph
 152.4          9781784872632            32  Murakami, Haruki    1984 DESIRE
 153            9781473527577          1142  De Bono, Edward,    2015 The mechanism of mind
@@ -61,9 +63,11 @@
 170            9780241952795          1264  Layard, Richard,    2011 Happiness : lessons from a new science
 170            9781316602591          5112  Nietzsche, Fried    2017 On the genealogy of morals
 171.1          9780684815015          3606  Bonhoeffer, Diet    1995 Ethics
+171.3          9780140449495          7063  Aristotle           2004 Nicomachean ethics
 174.95         9780670028788           879  Bown, Stephen R.    2006 A most damnable invention : dynamite, nitrates, and the maki
 177.3          9780691122946          2204  Frankfurt, Harry    2005 On bullshit
 184            9780872206335          1415  Plato               2002 Five dialogues
+184            9780140449747          2719  Plato               2005 Phaedrus
 184            9780140449273          4563  Plato               2003 Symposium
 184            9780140440379          2758  Plato               1970 The last days of Socrates
 188            9781907523502          1575  Marcus Aurelius,    2011 Meditations of Marcus Aurelius
@@ -80,6 +84,7 @@
 200.1          9780521359665           239  Smart, Ninian, 1    1988 Nineteenth century religious thought in the west
 200.82         9780813365916           706  Young, Katherine    2003 Her voice, her faith : women speak on world religions
 200.94034      9780393047455          1261  Wilson, A. N., 1    1999 God's funeral
+201            9780140444490          4276  Kierkegaard, Sør    1986 Fear and trembling : Repetition
 201.76332      9780195385045           938  Cavanaugh, Willi    2009 The myth of religious violence : secular ideology and the ro
 201.76332      9780805212686          1488  Sacks, Jonathan,    2017 Not in God's name : confronting religious violence
 209            9780684815039          2587  Johnson, Paul, 1    1979 A history of Christianity
@@ -319,6 +324,7 @@
 232.96         9780060872601          1276  Borg, Marcus J.     2007 The last week : the day-by-day account of Jesus's final week
 232.962        9780334016786           654  Bammel, Ernst [E    2012 The Trial of Jesus : Cambridge studies in honour of C.F.D. M
 232.97         9780225660487           692  Léon-Dufour, Xav    1974 Resurrection and the message of Easter
+233.2          9780140445336          1550  Kierkegaard, Sør    1989 The sickness unto death
 233.2          9780801585562          2155  Menninger, Karl     1973 Whatever became of sin?
 233.5          9780300081725           645  Martin, Dale B.,    1999 The Corinthian body
 233.5          9780631210702           435  Rogers, Eugene F    1999 Sexuality and the Christian body : their way into the triune
@@ -529,6 +535,7 @@
 307.1416209146 9780643095335           119  Green, Ray (Raym    None Coastal towns in transition : local perceptions of landscape
 307.760994     9780643094192           128  Newton, P. W. (P    2008 Transitions : Pathways Towards Sustainable Urban Development
 319.41                                                          None Western Australia Statistical Register
+320.011        9780140444216         10272  Aristotle           1981 The politics
 320.1          9780143566465         20851  Machiavelli, Nic    None The prince
 320.5130973    9781931498715          1137  Lakoff, George      2004 Don't think of an elephant! : know your values and frame the
 320.9174927    9780521438339          1731  Ajami, Fouad        1992 The Arab predicament : Arab political thought and practice s
@@ -540,6 +547,7 @@
 320.994        9780143574088           142  Kelly, Paul, 194    2017 The dismissal : in the queen's name
 320.994        9780980450804             2  Kudelka, Jon        2007 101 uses for a John Howard
 320.994        9780851791487           272  Whitington, Don     1971 Inside Canberra, : a guide to Australian federal politics
+321.07         9780140455113         19285  Plato               2007 The republic
 321.12         9780393092240           886  Service, Elman R    1975 Origins of the state and civilization : the process of cultu
 323            9781921946356            13  Falzon, John        2012 The language of the unheard
 323            9780691114743          1088  Ignatieff, Micha    2003 Human rights as politics and idolatry
@@ -758,6 +766,7 @@
 799.10994      9780701815608           117  Vaughan, Harold     1982 The Australian fisherman's companion
 805            9781405281317         10894  Milne, A. A. (Al    2016 Winnie-the-Pooh
 805            9780416239102         10894  Milne, A. A. (Al    1966 Winnie-the-Pooh
+808.2          9780140446364          9894  Aristotle           1997 Poetics
 808.5          9780140445107          1889  Aristotle           1992 The art of rhetoric
 808.80358      9781922101402            29  Dolichva, Tsana     2016 Defying doomsday
 808.8193538    9780932112972            43  Shomer, Enid [Ed    2018 All we know of pleasure : poetic erotica by women
