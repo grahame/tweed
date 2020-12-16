@@ -108,7 +108,8 @@
 220.6          9780732282028           898  Spong, John Shel    2005 The sins of Scripture : exposing the Bible's texts of hate t
 220.6          9781416566762            32  Washington, Lind    2008 Puzzlements &amp; predicaments of the Bible : the weird, the
 220.6082       9780827229631           326  Dube Shomanah, M    2000 Postcolonial feminist interpretation of the Bible
-220.61         9780060609191           980  Borg, Marcus J.     2002 Reading the Bible again for the first time : taking the Bibl
+220.61         9780060609191          1960  Borg, Marcus J.     2002 Reading the Bible again for the first time : taking the Bibl
+220.61         9780060609191          1960  Borg, Marcus J.     2015 Reading the Bible again for the first time : taking the Bibl
 220.61         9780818909863            30  Trainor, Michael    2005 Journeying : a beginner's guide to the bible
 220.66         9780800604738           674  Powell, Mark All    1991 What is narrative criticism?
 220.7          9780136149347          1618  Brown, Raymond E    1989 The new Jerome biblical commentary
@@ -258,7 +259,6 @@
 230            9780006251521          3211  Küng, Hans, 1928    1978 On being a Christian
 230            9781444335149          1902  McGrath, Alister    2011 Christian theology : an introduction
 230            9781405102711           222  McIntosh, Mark A    2007 Divine teaching : an introduction to Christian theology
-230                                         Molland, Einar      1961 Christendom
 230            9781585422531           725  Needleman, Jacob    2003 Lost Christianity
 230            9780334009238           332  Ritschl, Dietric    2012 The logic of theology : a brief account of the relationship 
 230            9780060794781           809  Smith, Huston       2005 The soul of Christianity : restoring the great tradition
@@ -267,6 +267,7 @@
 230            9780908089611            19  Wilson, John W.     1985 The Old Testament and Christian living
 230            9780567033154           194  Zizioulas, Jean,    2009 Lectures in Christian dogmatics
 230.046        9780415196994           578  Milbank, John       1998 Radical orthodoxy : a new theology
+230.082        9780415304474          1071  Barth, Karl, 188    2003 God here and now
 230.09         9780807067543           435  Brock, Rita Naka    2009 Saving paradise : how Christianity traded love of this world
 230.09         9780745950938           389  Hill, Jonathan,     2003 The history of Christian thought
 230.0903       9780804206129          1264  Barth, Karl, 188    1996 The humanity of God
@@ -353,6 +354,7 @@
 242.34         9780826499561           265  Radcliffe, Timot    2009 Why go to church? : the drama of the Eucharist
 242.37         9781848258822            43  Atwell, Robert      2017 Celebrating the saints : daily spiritual readings to accompa
 242.4          9780809137534            82  Fischer, Kathlee    1998 Facing discouragement
+242.8          9780199561230          2077  Appleton, George    2009 The Oxford book of prayer
 248            9780800683252          2624  Bonhoeffer, Diet    2004 Life together : the classic exploration of faith in communit
 248            9780232522266            56  Hughes, Gerard W    1998 God, where are you?
 248            9780745935386            22  Hughes, Gerard W    1996 Oh God, why? : a spiritual journey towards meaning, wisdom a
@@ -423,6 +425,7 @@
 261.55         9780857465795            10                      None Messy church does science : 100 sizzling science-based ideas
 261.8          9780715144404            50  Brown, Malcolm,     2014 Anglican social theology : renewing the vision today
 261.8          9780664235161           276  Brueggemann, Wal    2010 Journey to the common good
+261.8          9781398502208            12  Francis, Pope, 1    None LET US DREAM : the path to a better future
 261.8          9780809140923           255  Grassi, Joseph A    2003 Informing the future : social justice in the New Testament
 261.8                                       Masse, Benjamin     1964 Justice for All: An Introduction to the Social Teaching of
 261.85         9781472929778            68  Welby, Justin, 1    2017 Dethroning Mammon: : making money serve grace : the Archbish
@@ -467,6 +470,7 @@
 270.1          9781846141508           663  Vermès, Géza, 19    2012 Christian beginnings : from Nazareth to Nicaea
 270.2          9781565484467           954  Augustine, of Hi    2012 The works of Saint Augustine : a translation for the 21st ce
 270.2092       9780140441147         20084  Augustine, of Hi    1970 The confessions
+270.2092       9780199537822         20017  Augustine, of Hi    2008 The confessions
 270.6          9780631158035          1815  McGrath, Alister    1988 Reformation thought : an introduction
 270.6          9780470672815          1815  McGrath, Alister    2012 Reformation thought : an introduction
 270.7          9780140137613          1934  Cragg, Gerald R.    1990 The church and the age of reason, 1648-1789
@@ -480,6 +484,7 @@
 274.2          9780140445657          5235  Bede, the Venera    1991 A history of the English Church and people
 274.206        9780333921395           902  MacCulloch, Diar    2001 The later Reformation in England, 1547-1603
 280            9780281038596           428  Anglican/Roman C    1982 The final report : Windsor, September 1981
+280                                         Molland, Einar      1961 Christendom
 281.1          9780813213194           317  Augustine, of Hi    2002 The immortality of the soul : the magnitude of the soul ; On
 282.092        9780385502030           248  Porter, Beth        2002 Befriending life : encounters with Henri Nouwen
 282.7284092    9781570758393           250  Wright, Scott, 1    2010 Oscar Romero and the communion of the saints : a biography
@@ -493,11 +498,13 @@
 283.941        9780646480947            36  Kyme, Brian         2007 The Wollaston legacy
 283.941        9780646480947            36  Kyme, Brian         2007 The Wollaston legacy
 283.941092     9780522855753            15  Challen, M. B. (    2008 Sambell : man of the word
+283.994        9780908284900            14  Hale, Stephen       2009 Facing the future : bishops imagine a different church
 289.6          9780143106319           439  Hamm, Thomas D.     2011 Quaker writings : an anthology, 1650-1920
 289.60994      9780975157916            39  Religious Societ    2008 This we can say : Australian Quaker life, faith and thought
 291            9780883446461          1053  Smith, Wilfred C    1990 Towards a world theology : faith and the comparative history
 296            9780802881335          1157  Edersheim, Alfre    1978 The Temple : its ministry and services as they were at the t
 296            9780812982510           641  Lévy, Bernard-He    2017 The genius of Judaism
+296.155        9780141046150           301  Vermès, Géza, 19    2010 The story of the scrolls : the miraculous discovery and true
 296.36         9781592644490            48  Sacks, Jonathan,    2016 Essays on ethics : a weekly reading of the Jewish Bible
 296.4          9780281064830            39  Barker, Margaret    2011 Temple mysticism : an introduction
 296.45         9780881231199             4                      None [Mishkan tefilah] = Mishkan t'filah : a progressive Siddur :
@@ -954,6 +961,7 @@
 821.00809415   9780717126811            24  Various.            1998 A pocket treasury of Irish verse
 821.009        9781911187912            27  Hebron, Malcolm     2018 How to read a poem
 821.009382     9780232522679           304  Countryman, Loui    1999 The poetic imagination : an Anglican tradition
+821.3          9780571230891          1343  Donne, John, 157    2008 John Donne
 821.4          9781760801182            13  Rhook, Nadia,       None Boots
 821.8          9780199538850           434  Hopkins, Gerard     2009 The major works
 821.91         9780007557271          1437  Tolkien, J. R. R    2014 The adventures of Tom Bombadil : and other verses from the R
@@ -1018,6 +1026,8 @@
 823.912        9780006547297          3028  Huxley, Aldous,     1994 Crome yellow
 823.912        9781853260483         15175  Joyce, James, 18    1999 Dubliners
 823.912        9780141037424         12120  Lawrence, D. H.     2008 John Thomas and Lady Jane
+823.912        9780099540755         13714  Lawrence, D. H.     2011 Sons and lovers
+823.912        9780099512080         10508  Lawrence, D. H.     2008 Women in love
 823.912        9781933184500           159  Nichols, Aidan      2009 G.K. Chesterton, theologian
 823.912        9780141187914            74  O'Connor, Frank,    2005 An only child ; : and, My father's son : an autobiography
 823.912        9780141036144         20599  Orwell, George,     2008 1984 : a novel
@@ -1209,6 +1219,7 @@
 920.71         9780143003540          1177  Facey, A. B. (Al    2005 A fortunate life
 933                                         Noth, Martin        1960 The History of Israel
 940.53         9780304929726            23  Churchill, Winst    None Triumph and tragedy
+940.5318       9780553296983         32247  Frank, Anne, 192    1993 The diary of Anne Frank : the critical edition
 940.5485       9781407221298          1375  Sebag-Montefiore    2004 Enigma : the battle for the code
 941            9780795330421                Churchill, Winst    2013 A History of the English-Speaking Peoples, Vol. 1: The Birth
 941.0857       9780006383215          3635  Thatcher, Margar    1995 The Downing Street years
