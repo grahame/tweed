@@ -83653,4 +83653,56 @@
   "height": "30 cm",
   "dimensions": "30 cm",
   "pages": "39 "
+},
+"194715223": {
+  "books_id": "194715223",
+  "title": "Bunt&uacute;s cainte : first steps in spoken Irish: a series of lessons based on the results of linguistic research as published in Bunt&uacute;s Gaeilge",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "&Oacute; Domhnall&aacute;in, Tom&aacute;s",
+  "secondaryauthor": "Bolger, William",
+  "authors": [{
+    "lf": "&Oacute; Domhnall&aacute;in, Tom&aacute;s",
+    "fl": "Tom&aacute;s &Oacute; Domhnall&aacute;in"
+  },
+  {
+    "lf": "Bolger, William",
+    "fl": "William Bolger"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "publication": "Baile &Aacute;tha Cliath : Oifig an tSol&aacute;thair, 1967-1968.",
+  "date": "1967",
+  "summary": "Bunt&uacute;s cainte : first steps in spoken Irish: a series of lessons based on the results of linguistic research as published in Bunt&uacute;s Gaeilge by Tom&aacute;s &Oacute; Domhnall&aacute;in (1967)",
+  "language": ["Irish",
+  "English"],
+  "language_codeA": ["gle",
+  "eng"],
+  "originallanguage_codeA": ["gle",
+  "eng"],
+  "ddc": {
+    "code": ["491.628"],
+    "wording": ["Celtic",
+    "Irish",
+    "Language",
+    "Other Indo-European Languages",
+    "Other Languages"]
+  },
+  "lcc": {
+    "code": "PB1227 .F32 P"
+  },
+  "subject": [["Irish language Conversation and phrase books"]],
+  "series": ["Bunt\u00fas Cainte"],
+  "source": "Trinity College, Dublin",
+  "workcode": "1016132",
+  "entrydate": "2021-01-04",
+  "format": [{
+    "code": "1.1",
+    "text": "Paper Book"
+  }],
+  "copies": "1",
+  "volumes": "3",
+  "physical_description": "22 cm",
+  "height": "22 cm",
+  "dimensions": "22 cm"
 }}
