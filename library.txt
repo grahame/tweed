@@ -77,6 +77,7 @@
 193            9781593083847          7908  Nietzsche, Fried    2007 Thus spoke Zarathustra : a book for all and none
 194            9780192806963          7570  Descartes, René,    2008 Meditations on first philosophy : with selections from the O
 194            9780140259575          1677  Foucault, Michel    2010 The essential works of Michel Foucault, 1954-1984
+198.9          9780141984438           370  Carlisle, Clare,    2020 Philosopher of the heart : the restless life of Søren Kierke
 198.9          9780140445770          6133  Kierkegaard, Sør    1992 Either/or
 199.94         9781876492083           119  Franklin, James,    None Corrupting the youth : a history of philosophy in Australia
 200            9780141046310          1627  De Botton, Alain    2013 Religion for atheists : a non-believer's guide to the uses o
@@ -96,6 +97,7 @@
 220            9780521670807                Duff, Canon Dr J    2005 The Elements of New Testament Greek Paperback and Audio CD P
 220.072        9780800697747           203  Moore, Stephen D    2011 The invention of the biblical scholar : a critical manifesto
 220.09         9781843546276          2568  Armstrong, Karen    2007 The Bible : a biography
+220.5          9780691209142           421  Alter, Robert       2020 The art of Bible translation
 220.5203       9781435125391            83  Doré, Gustave, 1    2012 The Holy Bible : King James version
 220.52043      9780190276096          1001  Newsom, Carol A.    2018 The new Oxford annotated Bible : New Revised Standard Versio
 220.520434     9780060786847          1455  Meeks, Wayne A.     2006 The HarperCollins study Bible : New Revised Standard Version
@@ -129,6 +131,7 @@
 221.15         9780800632878          1350  Brueggemann, Wal    2001 The prophetic imagination
 221.15         9780631154907           610  Clements, R. E.     1975 Prophecy and tradition
 221.4403       9780802834133          1125  Holladay, Willia    1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
+221.5209       9780393292497           640  Alter, Robert       2018 The Hebrew Bible : a translation with commentary
 221.6          9780582025615           789  Anderson, Bernha    1988 The living world of the Old Testament
 221.6          9783110135053           253  Boorer, Suzanne,    1992 The promise of the land as oath : a key to the formation of 
 221.6          9780334020868          1342  Childs, Brevard     1983 Introduction to the Old Testament as Scripture
@@ -139,6 +142,7 @@
 221.61         9780334020578           945  Charpentier, Eti    1982 How to read the Old Testament
 221.61         9781451472943           358  Collins, John J.    2014 A short introduction to the Hebrew Bible
 221.61         9781506445984           639  Collins, John J.    2018 Introduction to the Hebrew Bible
+221.66         9780465022557          2123  Alter, Robert       2011 The art of Biblical narrative
 221.66         9780631149200           632  Kaiser, Otto, 19    1975 Introduction to the Old Testament : a presentation of its re
 221.9          9780713605884           960  Noth, Martin, 19    1966 The Old Testament world
 221.92         9781606087718           308  Rad, Gerhard von    2011 Moses
@@ -150,6 +154,7 @@
 222.106        9780804200851           564  Mann, Thomas W.     1988 The Book of the Torah : the narrative integrity of the Penta
 222.1066       9780884140627           107  Boorer, Suzanne,    2016 The vision of the priestly narrative : its genre and hermene
 222.1066       9780800627010           459  Campbell, Antony    2000 Sources of the Pentateuch : texts, introductions, annotation
+222.107        9780060630379           600  Frankel, Ellen      1997 The Five books of Miriam : a woman's commentary on the Torah
 222.11                                      Vawter, Bruce       1956 A path through Genesis
 222.1107       9780664234379           878  Brueggemann, Wal    2010 Genesis
 222.11077      9780664209575          2484  Rad, Gerhard von    1973 Genesis: : a commentary
@@ -278,6 +283,7 @@
 230.2          9780232515862           765  O'Collins, Geral    1982 Fundamental theology
 230.2          9780824505233          1545  Rahner, Karl, 19    1982 Foundations of Christian faith : an introduction to the idea
 230.2          9781887593922           687  Sheed, F. J. (Fr    2013 Theology for beginners
+230.3          9780567008022           189  Chapman, Mark D.    2012 Anglican theology
 230.3          9780281029372           257  Church of Englan    1986 Christian believing : the nature of the Christian faith and 
 230.3          9780334023531           372  Macquarrie, John    2012 Theology, church, and ministry
 230.3          9780816422173           252  Norris, Richard     1979 Understanding the faith of the Church
@@ -504,9 +510,11 @@
 291            9780883446461          1053  Smith, Wilfred C    1990 Towards a world theology : faith and the comparative history
 296            9780802881335          1157  Edersheim, Alfre    1978 The Temple : its ministry and services as they were at the t
 296            9780812982510           641  Lévy, Bernard-He    2017 The genius of Judaism
+296            9781501117756          1610  Robinson, George    2016 Essential Judaism : a complete guide to beliefs, customs, an
 296.155        9780141046150           301  Vermès, Géza, 19    2010 The story of the scrolls : the miraculous discovery and true
 296.36         9781592644490            48  Sacks, Jonathan,    2016 Essays on ethics : a weekly reading of the Jewish Bible
 296.4          9780281064830            39  Barker, Margaret    2011 Temple mysticism : an introduction
+296.4          9780061173646           499  Diamant, Anita      2007 Living a Jewish life : Jewish traditions, customs, and value
 296.45         9780881231199             4                      None [Mishkan tefilah] = Mishkan t'filah : a progressive Siddur :
 296.491        9780281056347           156  Barker, Margaret    2017 Temple theology : an introduction
 296.7          9780743234771          2185  Kushner, Harold     2002 Who needs God
@@ -528,9 +536,11 @@
 305.4          9780099499381          7909  Beauvoir, Simone    2010 The second sex;
 305.420973     9780896086135          2206  hooks, bell, 195    2000 Feminist theory from margin to center
 305.486970994  9780857986177           193  Abdel-Magied, Ya    2017 Yassmin's story
+305.509495     9780715617014          1141  De Ste. Croix, G    1982 The class struggle in the ancient Greek world : from the arc
 305.8          9781784872779            46  Morrison, Toni      2017 Race
 305.8960730092 9781847673510          8374  Obama, Barack       2008 Dreams from my father : a story of race and inheritance
 305.89915      9781863959810           194  Heiss, Anita        2018 Growing up Aboriginal in Australia
+305.8991509412 9781741315400            11  Robertson, Franc    2017 Nyoongar boodja koomba bardip kooratan = : Nyoongar land lon
 306.01         9780241954294          1952  Wilkinson, Richa    2010 The spirit level : why greater equality makes societies stro
 306.0956       9780547134666          2110  Shadid, Anthony     2012 House of stone : a memoir of home, family, and a lost Middle
 306.45         9780747563006          3537  Pollan, Michael     2002 The botany of desire : a plant's eye view of the world
@@ -712,6 +722,7 @@
 641.5636       9780091933685           245  Ottolenghi, Yota    2010 Plenty
 641.56360952   9781570670725            95  Schinner, Miyoko    1999 Japanese cooking contemporary &amp; traditional : simple, de
 641.5676       9789463887137            10  Hoffman, Moshi,     2020 Hoffy's : the jewish kitchen
+641.595692     9780857835772           127  Gregory-Smith, J    2019 Saffron in the souks : vibrant recipes from the heart of leb
 641.595694     9780711245280           300  Kalla, Joudie       2019 Palestine on a plate : memories from my mother's kitchen
 641.86         9780980335156             9  Drew, Leigh         2008 Vegan indulgence : divine desserts and sublime treats for th
 641.874        9781788791540            74  Stephenson, Tris    2019 The curious bartender : the artistry and alchemy of creating
@@ -722,6 +733,7 @@
 709            9780714849690           120  Dr Andrew Fitzpa    2009 10,000 years of art
 709            9780714847030          8980  Gombrich, E. H.     2006 The story of art
 709.2          978-0-9751947-5-          3  Bromfield, David    2011 Now the hard part : the work of Martin Heine 1965-2011
+709.252        9781786276551            23  Hodge, Susie, 19    2020 The short story of women artists : a pocket guide to movemen
 709.470749411  9780975016893            47  Dodge, A.R          2005 St Petersburg 1900
 720.103        9780643106468           106  Donovan, Jenny (    2013 Designing to heal
 725.94         9781760800260            30  Atkinson-Phillip    2019 Survivor memorials : remembering trauma and loss in contempo
@@ -958,10 +970,12 @@
 818.3          9780706421187           267  Melville, Herman    1984 Herman Melville; [stories, poems, and letters]
 818.54         9780099524083          2422  Vonnegut, Kurt      2009 Armageddon in retrospect : and other new and unpublished wri
 820.8009       9780349103235           965  Banks, Iain, 195    1993 The crow road : a novel
+820.8089915    9781925972818            68  Ahmad, Michael M    None After Australia
 821.00809415   9780717126811            24  Various.            1998 A pocket treasury of Irish verse
 821.009        9781911187912            27  Hebron, Malcolm     2018 How to read a poem
 821.009382     9780232522679           304  Countryman, Loui    1999 The poetic imagination : an Anglican tradition
 821.3          9780571230891          1343  Donne, John, 157    2008 John Donne
+821.4          9780099529460         18174  Milton, John, 16    2009 Paradise lost, and other poems
 821.4          9781760801182            13  Rhook, Nadia,       None Boots
 821.8          9780199538850           434  Hopkins, Gerard     2009 The major works
 821.91         9780007557271          1437  Tolkien, J. R. R    2014 The adventures of Tom Bombadil : and other verses from the R
@@ -1035,6 +1049,7 @@
 823.912        9780715637326           883  Powys, John Cowp    2011 Porius : a romance of the Dark Ages
 823.912        9780099530268          2966  Shute, Nevil, 18    2009 A town like Alice
 823.912        9780099530251          5736  Shute, Nevil, 18    2009 On the beach
+823.912        9780008387952            60  Tolkien, J. R. R    2020 Unfinished tales
 823.912        9780008214227          1880  Tolkien, J. R. R    2018 Beren and Lúthien
 823.912        9780007252268          4482  Tolkien, J. R. R    2008 Narn i chîn Húrin : the tale of the children of Húrin
 823.912        9780008302757          2074  Tolkien, J. R. R    2018 The fall of Gondolin
@@ -1123,10 +1138,13 @@
 823.914        9780140132618          1556  Mortimer, John,     1991 Rumpole à la carte
 823.914        9780061975134          3479  Nix, Garth          2009 Sabriel
 823.914        9780552166669          1864  Pratchett, Terry    2012 Guards! guards!
+823.914        9780552166621          1969  Pratchett, Terry    2012 Mort : a novel of Discworld
 823.914        9780575064836          1512  Pratchett, Terry    1997 Reaper man
 823.914        9780575067981            82  Pratchett, Terry    1999 The city watch trilogy
 823.914        9780552124751          2962  Pratchett, Terry    1985 The colour of magic
 823.914        9780857520104          2137  Pratchett, Terry    2012 The long earth
+823.914        9780552167505          1558  Pratchett, Terry    2013 Witches abroad
+823.914        9780552166645          1643  Pratchett, Terry    2012 Wyrd sisters : a novel of Discworld
 823.914        9780747591054         11572  Rowling, J. K.      2007 Harry Potter and the deathly hallows
 823.914        9780008131388          1342  Tolkien, J. R. R    2018 The story of Kullervo
 823.914        9781760875091           210  Tsiolkas, Christ    None Damascus
@@ -1171,6 +1189,8 @@
 843.7          9780804901505          6522  Dumas, Alexandre    1978 The man in the iron mask
 843.8          9780141045153         16261  Flaubert, Gustav    2009 Madame Bovary
 843.8          9780460871662         20727  Verne, Jules, 18    1992 Twenty thousand leagues under the sea
+843.914        9780802144478          1205  Beckett, Samuel,    2009 Three novels
+843.914        9780241458884          6959  Camus, Albert, 1    2020 The fall
 843.914        9780141185132         12197  Camus, Albert, 1    2002 The plague
 843.914        9780679720201         17158  Camus, Albert, 1    1989 The stranger
 843.914        9780860682295           142  Ward Jouve, Nico    1981 Shades of grey
@@ -1220,6 +1240,7 @@
 933                                         Noth, Martin        1960 The History of Israel
 940.53         9780304929726            23  Churchill, Winst    None Triumph and tragedy
 940.5318       9780553296983         32247  Frank, Anne, 192    1993 The diary of Anne Frank : the critical edition
+940.547245     9780349144009           774  Levi, Primo, 191    2019 If this is a man ; and, the truce
 940.5485       9781407221298          1375  Sebag-Montefiore    2004 Enigma : the battle for the code
 941            9780795330421                Churchill, Winst    2013 A History of the English-Speaking Peoples, Vol. 1: The Birth
 941.0857       9780006383215          3635  Thatcher, Margar    1995 The Downing Street years
@@ -1245,5 +1266,6 @@
 994.11         9780909134051            61  Hasluck, Alexand    1977 Victorian and Edwardian Perth from old photographs
 994.11         9780980348132                Nevill, Simon J.    2007 Perth and Fremantle: Past and Present
 994.11042      9780646191249            12  Gervas, Stan        1994 The way we were : Perth in the 1930's
+994.12         9780731694440            17  Cresswell, Gail     1990 The light of Leeuwin
 994.12004      9781921401428           135  Host, John T. (J    2009 'It's still in my heart this is my country' : the single Noo
                9780648228202                Watts, Rachel       2018 Survival
