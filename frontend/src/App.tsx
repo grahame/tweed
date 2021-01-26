@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
 import { Form, Row, Col, Input, Badge } from 'reactstrap';
 import Books from './books.json';
@@ -13,8 +13,14 @@ const columns = [
 ];
 
 function useInput() {
-    const [value, setValue] = useState("");
-    const input = <Input className="bg-dark text-light" value={value} onChange={e => setValue(e.target.value)} type='text' />;
+    const [value, setValue] = useState<string>("");
+    const inputReference = useRef<HTMLInputElement>(null);
+
+    useEffect(() => {
+        inputReference.current?.focus();
+    }, []);
+
+    const input = <Input innerRef={inputReference} className="bg-dark text-light" value={value} onChange={e => setValue(e.target.value)} type='text' />;
     return [value, input];
 }
 
