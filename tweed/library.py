@@ -259,8 +259,26 @@ class LibraryMetadata:
 class Library:
     def __init__(self):
         self.meta = LibraryMetadata()
-        arrangement = self.arrange()
-        for book in arrangement:
+        self.arrangement = self.arrange()
+        self.write_index_txt()
+        self.write_json()
+
+    def write_json(self):
+        obj = {'books': []}
+        for book in self.arrangement:
+            obj['books'].append(
+                {
+                    'ddc': book.ddc,
+                    'isbn': book.isbn,
+                    'author': book.author,
+                    'date': str(book.date),
+                    'title': book.title
+                })
+        with open('frontend/src/books.json', 'w') as fd:
+            json.dump(obj, fd)
+
+    def write_index_txt(self):
+        for book in self.arrangement:
             print(
                 "{:14} {:16} {:10}  {:18}  {:4} {}".format(
                     (book.ddc or "")[:14],
