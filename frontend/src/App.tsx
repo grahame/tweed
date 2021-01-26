@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import { Form, Input } from 'reactstrap';
+import { Form, Row, Col, Input, Badge } from 'reactstrap';
 import Books from './books.json';
 import DataGrid from 'react-data-grid';
 
@@ -14,7 +14,7 @@ const columns = [
 
 function useInput() {
     const [value, setValue] = useState("");
-    const input = <Input value={value} onChange={e => setValue(e.target.value)} type='text' />;
+    const input = <Input className="bg-dark text-light" value={value} onChange={e => setValue(e.target.value)} type='text' />;
     return [value, input];
 }
 
@@ -29,19 +29,26 @@ function App() {
     var re: RegExp;
     try {
         re = new RegExp(searchString.toString(), 'i');
-    } catch(e) {
+    } catch (e) {
         error = e.toString();
-        re  = new RegExp('^.*$', 'i');
+        re = new RegExp('^.*$', 'i');
     }
     var rows = Books.books.filter(book => filterBook(book, re));
     return <div>
         <Form>
-            {searchStringInput}
+            <Row className="bg-dark">
+                <Col xs={{ size: 9, offset: 1 }}>
+                    {searchStringInput}
+                </Col>
+                <Col xs={{ size: 1 }}>
+                    <Badge pill>{rows.length}</Badge>
+                </Col>
+            </Row>
             {error}
         </Form>
         <div className="grid-wrapper">
             <DataGrid
-                style={{height: "100%"}}
+                style={{ height: "100%" }}
                 columns={columns}
                 rows={rows}
             />

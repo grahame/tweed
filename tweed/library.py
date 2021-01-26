@@ -265,15 +265,19 @@ class Library:
 
     def write_json(self):
         obj = {'books': []}
+        seen = set()
         for book in self.arrangement:
-            obj['books'].append(
-                {
-                    'ddc': book.ddc,
-                    'isbn': book.isbn,
-                    'author': book.author,
-                    'date': str(book.date),
-                    'title': book.title
-                })
+            book_obj = (
+                ('ddc', book.ddc),
+                ('isbn', book.isbn),
+                ('author', book.author),
+                ('date', str(book.date)),
+                ('title', book.title)
+            )
+            if book_obj in seen:
+                continue
+            seen.add(book_obj)
+            obj['books'].append(dict(book_obj))
         with open('frontend/src/books.json', 'w') as fd:
             json.dump(obj, fd)
 
