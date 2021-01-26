@@ -1,26 +1,52 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import { Form, Input } from 'reactstrap';
+import Books from './books.json';
+import DataGrid from 'react-data-grid';
+
+const columns = [
+    { key: 'ddc', name: 'DDC', filterable: true, width: 150 },
+    { key: 'author', name: 'Author', filterable: true },
+    { key: 'title', name: 'Title', filterable: true },
+    { key: 'isbn', name: 'ISBN', filterable: true, width: 150 },
+    { key: 'date', name: 'Date', filterable: true, width: 150 },
+];
+
+function useInput() {
+    const [value, setValue] = useState("");
+    const input = <Input value={value} onChange={e => setValue(e.target.value)} type='text' />;
+    return [value, input];
+}
+
+function filterBook(book: any, re: RegExp) {
+    return re.test(book.author) || re.test(book.title);
+};
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [searchString, searchStringInput] = useInput();
+    var error = "";
+    var re: RegExp;
+    try {
+        re = new RegExp(searchString.toString(), 'i');
+    } catch(e) {
+        error = e.toString();
+        re  = new RegExp('^.*$', 'i');
+    }
+    var rows = Books.books.filter(book => filterBook(book, re));
+    return <div>
+        <Form>
+            {searchStringInput}
+            {error}
+        </Form>
+        <div className="grid-wrapper">
+            <DataGrid
+                style={{height: "100%"}}
+                columns={columns}
+                rows={rows}
+            />
+        </div>
+    </div>;
 }
 
 export default App;
