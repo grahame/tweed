@@ -40,7 +40,7 @@ function App() {
         re = new RegExp('^.*$', 'i');
     }
     var rows = Books.books.filter(book => filterBook(book, re));
-    return <div>
+    return <div className="grid-wrapper">
         <Form>
             <Row className="bg-dark">
                 <Col xs={{ size: 9, offset: 1 }}>
@@ -52,13 +52,11 @@ function App() {
             </Row>
             {error}
         </Form>
-        <div className="grid-wrapper">
-            <DataGrid
-                style={{ height: "100%" }}
-                columns={columns}
-                rows={rows}
-            />
-        </div>
+        <DataGrid
+            style={{ height: "100vh" }}
+            columns={columns}
+            rows={rows}
+        />
     </div>;
 }
 
