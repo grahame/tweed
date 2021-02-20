@@ -127,9 +127,11 @@
 220.7          9781426735783            78  Keck, Leander E.    2015 The New interpreter's bible commentary
 220.83067      9781909697836            52  Myles, Robert J.    2015 Sexuality, ideology and the Bible : Antipodean engagements
 220.92081      9781570755347           126  Rohr, Richard       2004 Soul brothers : men in the Bible speak to men today
+221            9781506425481           142  Yee, Gale A., 19    2018 The Hebrew Bible : feminist and intersectional perspectives
 221.044        9789653011885                Jerusalem, Koren    2009 Koren Illustrated Five Megillot, Hebrew/English
 221.15         9780800632878          1350  Brueggemann, Wal    2001 The prophetic imagination
 221.15         9780631154907           610  Clements, R. E.     1975 Prophecy and tradition
+221.44         9780801859441          1076  Kugel, James L.     1998 The idea of biblical poetry : parallelism and its history
 221.4403       9780802834133          1125  Holladay, Willia    1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
 221.5209       9780393292497           640  Alter, Robert       2018 The Hebrew Bible : a translation with commentary
 221.6          9780582025615           789  Anderson, Bernha    1988 The living world of the Old Testament
@@ -173,12 +175,14 @@
 223.106        9780334027126           139  Wolde, Ellen van    2012 Mr and Mrs Job
 223.1066       9780664251321           387  Penchansky, Davi    1990 The betrayal of God : ideological conflict in Job
 223.107        9780664222185           830  Habel, Norman C.    1985 The Book of Job, a commentary
+223.107        9780664238773           729  Janzen, J. Geral    2012 Job
 223.8052034    9781481476546           596  Rylant, Cynthia     2018 Ecclesiastes : to everything there is a season
 223.9          9780300139495          1616  Salomo Israel, K    1995 Song of songs
 223.9077       9780879073473           133  William, of Sain    1970 Exposition on the Song of Songs
 224            9780334011644          1312  Rad, Gerhard von    1968 The message of the prophets
 224.06         9780060936990          2483  Heschel, Abraham    2001 The Prophets
 224.206        9780800699307           234  O'Connor, Kathle    2012 Jeremiah : pain and promise
+224.206        9780931464201           387  Perdue, Leo G. [    1984 A Prophet to the nations : essays in Jeremiah studies
 224.2077       9780802823694          1400  Thompson, J. A.     1980 The book of Jeremiah
 224.807                                     Marsh, J.           1959 Amos and Micah [Torch Bible Commentaries]
 225            9780232511802           244  Kee, Howard Clar    2011 The living world of the New Testament
@@ -412,6 +416,7 @@
 252.6          9780908284870            11  Weller, Keith       2011 Better be a good sermon : preaching for special occasions
 253            9781921577031            11  Frame, T. R.        2009 Called to minister : vocational discernment in the contempor
 253            9780892760732            27  Hagin, Kenneth E    1998 The ministery gifts
+253            9780816423514           352  Holmes, Urban T.    1976 Ministry and imagination
 253            9780281057481            39  Pritchard, John,    2007 The life and work of a priest
 255            9780824516208           100  Fiand, Barbara      1996 Wrestling with God : religious life in search of its soul
 255.106        9780814612729          5858  Benedict, Saint,    1981 The rule of Saint Benedict
@@ -495,9 +500,12 @@
 280            9780281038596           428  Anglican/Roman C    1982 The final report : Windsor, September 1981
 280                                         Molland, Einar      1961 Christendom
 281.1          9780813213194           317  Augustine, of Hi    2002 The immortality of the soul : the magnitude of the soul ; On
+282.09048      9780062548276           478  Küng, Hans, 1928    1987 The Church in anguish : has the Vatican betrayed Vatican II?
 282.092        9780385502030           248  Porter, Beth        2002 Befriending life : encounters with Henri Nouwen
 282.7284092    9781570758393           250  Wright, Scott, 1    2010 Oscar Romero and the communion of the saints : a biography
+282.7309045    9780824515294           195  Lee, Bernard J.,    1995 The future church of 140 BCE : a hidden revolution
 282.945        9780949807090            61  Pawsey, Margaret    1983 The Popish plot : culture clashes in Victoria 1860-1863
+283            9780340642689            83  Bunting, Ian        1999 Celebrating the Anglican way
 283            9780192806932           535  Chapman, Mark D.    2006 Anglicanism : a very short introduction
 283            9780334028635           116  Hardy, Daniel W.    2001 Finding the church : the dynamic truth of Anglicanism
 283            9781596280045           286  Ramsey, Michael,    2004 The Anglican spirit
@@ -511,6 +519,7 @@
 289.6          9780143106319           439  Hamm, Thomas D.     2011 Quaker writings : an anthology, 1650-1920
 289.60994      9780975157916            39  Religious Societ    2008 This we can say : Australian Quaker life, faith and thought
 291            9780883446461          1053  Smith, Wilfred C    1990 Towards a world theology : faith and the comparative history
+294.592404521  9780393345131           970  Martin, Charles,    2013 The Bhagavad Gita : a new translation
 296            9780802881335          1157  Edersheim, Alfre    1978 The Temple : its ministry and services as they were at the t
 296            9780812982510           641  Lévy, Bernard-He    2017 The genius of Judaism
 296            9781501117756          1610  Robinson, George    2016 Essential Judaism : a complete guide to beliefs, customs, an
@@ -804,6 +813,7 @@
 811.54         9781786893147           204  Cohen, Leonard,     2019 The flame
 811.54         9780811217118           305  Grossman, Allen     2007 Descartes' loneliness
 811.54         9780802134523           748  O'Hara, Frank, 1    1996 Meditations in an emergency
+811.6          9781925713886           312  Headley, Maria D    None Beowulf : a new translation
 813.087608     9780441054992           152  McCarthy, Shawna    1990 Isaac Asimov's Fantasy!
 813.08760806   9781607012252            66  Kowal, Mary Robi    2010 The Hugo Award showcase : 2010 volume
 813.0876608    9780732282943           444  Dozois, Gardner     2007 The new space opera
@@ -916,9 +926,16 @@
 813.54         9780099842606          5139  Vonnegut, Kurt      2009 Breakfast of champions, or, Goodbye blue Monday!
 813.54         9780141045443          6451  Vonnegut, Kurt      2009 Cat's cradle
 813.54         9780008264321          3296  Vonnegut, Kurt      2019 Deadeye Dick
+813.54         9780586090459          4100  Vonnegut, Kurt      2019 Galápagos : a novel
+813.54         9780099842804          3577  Vonnegut, Kurt      1992 God bless you, Mr. Rosewater : or, Pearls before swine
+813.54         9780099877103          3272  Vonnegut, Kurt      1991 Hocus pocus
 813.54         9780385333900          4102  Vonnegut, Kurt      1999 Jailbird : a novel
 813.54         9780385334143          3237  Vonnegut, Kurt      1999 Mother night
+813.54         9780385333788          4038  Vonnegut, Kurt      1999 Player piano
+813.54         9780099842705          3408  Vonnegut, Kurt      1991 Slapstick, or, Lonesome no more! : a novel
 813.54         9780440180296         10598  Vonnegut, Kurt      1991 Slaughterhouse-five : or, The children's crusade, a duty-dan
+813.54         9780385333498          3905  Vonnegut, Kurt      1998 The sirens of Titan
+813.54         9780099267546          3353  Vonnegut, Kurt      1998 Timequake
 813.54         9788129115546                Vonnegut, Kurt      2011 While Mortals Sleep
 813.54         9780812566628           826  Wilson, Robert C    1999 Darwinia
 813.54         9780575132306           507  Womack, Jack        2013 Random acts of senseless violence
@@ -1063,6 +1080,7 @@
 823.912        9780261102361         35099  Tolkien, J. R. R    2007 The lord of the rings
 823.912        9780261102378         25842  Tolkien, J. R. R    2007 The lord of the rings
 823.912        9780261102736          9234  Tolkien, J. R. R    2013 The Silmarillion
+823.912        9780261103566           119  Tolkien, J. R. R    2011 The Hobbit : the Lord of the Rings
 823.912        9780141037233          4663  Waugh, Evelyn, 1    2008 A handful of dust
 823.912        9780141045627          8441  Waugh, Evelyn, 1    2012 Brideshead revisited : the sacred and profane memories of Ca
 823.912        9780307216267         11867  Wells, H. G. (He    1978 The war of the worlds
@@ -1070,6 +1088,8 @@
 823.912        9780586044438          4192  Woolf, Virginia,    1978 Between the acts
 823.912        9781853260919         12231  Woolf, Virginia,    1999 To the lighthouse
 823.912        9780143566533          2854  Wyndham, John, 1    2011 The day of the triffids
+823.914        9780575097629           867  Aaronovitch, Ben    2011 Moon over Soho
+823.914        9780575097667           875  Aaronovitch, Ben    2012 Whispers under ground
 823.914        9780330301626          2703  Adams, Douglas,     1988 Dirk Gently's Holistic Detective Agency
 823.914        9780330309554          2776  Adams, Douglas,     1989 The long dark tea-time of the soul
 823.914        9780330418430          1963  Adams, Douglas,     2003 The salmon of doubt : hitchhiking the galaxy one last time
@@ -1205,10 +1225,12 @@
 883.01         9780140275360         52847  Homer               1998 The Iliad
 883.01         9780140268867         44341  Homer               1999 The Odyssey
 891.5511       9780062509598          2256  Jalāl al-Dīn Rūm    1997 The essential Rumi
+891.6631       9780140443226           932  Gantz, Jeffrey      1976 The Mabinogion
 891.730876     9780020226505           276  Jacobson, H. S.     1981 New Soviet science fiction
 891.733        9780140449242         13208  Dostoyevsky, Fyo    2003 The brothers Karamazov
 891.733        9781853262715         23204  Tolstoy, Leo, gr    1997 Anna Karenina : a novel in eight parts
 891.733        9781853260629         17670  Tolstoy, Leo, gr    1997 War and peace
+891.7342       9781838850586           107  Zami︠a︡tin, Evge    2020 We
 891.7344       9780575093133           708  Strugat︠s︡kiĭ, A    2001 Roadside picnic
 891.7344       9781612194325           181  Strugat︠s︡kiĭ, A    2015 The Dead Mountaineer's Inn : (one more last rite for the det
 892.1          9780140449198           927  George, A. R.       2003 The epic of Gilgamesh : the Babylonian epic poem and other t
@@ -1243,6 +1265,7 @@
 919.89         9781869405830           110  Meduna, Veronika    2012 Science on ice : discovering the secrets of Antarctica
 920.71         9780143003540          1177  Facey, A. B. (Al    2005 A fortunate life
 933                                         Noth, Martin        1960 The History of Israel
+937.7          9780642902108            74  Ward-Perkins, J.    1980 Pompeii A.D. 79 : treasures from the National Archaeological
 940.53         9780304929726            23  Churchill, Winst    None Triumph and tragedy
 940.5318       9780553296983         32247  Frank, Anne, 192    1993 The diary of Anne Frank : the critical edition
 940.547245     9780349144009           774  Levi, Primo, 191    2019 If this is a man ; and, the truce
@@ -1273,4 +1296,7 @@
 994.11042      9780646191249            12  Gervas, Stan        1994 The way we were : Perth in the 1930's
 994.12         9780731694440            17  Cresswell, Gail     1990 The light of Leeuwin
 994.12004      9781921401428           135  Host, John T. (J    2009 'It's still in my heart this is my country' : the single Noo
+                                            Alexander, Edito    1957 Four Bishops and Their See. Perth, Western Australia 1857-19
                9780648228202                Watts, Rachel       2018 Survival
+                                            Wollaston, John     1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+                                            Wollaston, John     1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
