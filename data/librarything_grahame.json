@@ -8817,6 +8817,7 @@
   "lcc": {
     "code": "P1038 .F69"
   },
+  "originaltitle": "The Riddle of the Labyrinth",
   "awards": ["Andrew Carnegie Medals for Excellence in Nonfiction Longlist",
   "ALA Notable Books for Adults",
   "William Saroyan International Prize for Writing"],
@@ -10901,7 +10902,8 @@
   "The Great American Read",
   "Indies Choice Book Award",
   "VDL Green Mountain Book Award",
-  "Geffen Award"],
+  "Geffen Award",
+  "Audie Award Finalist"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy"],
@@ -12389,10 +12391,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["635.95194"],
-    "wording": ["Agriculture & Animal Husbandry",
+    "wording": ["Agriculture & related technologies",
     "Domestic Gardening",
     "Environmental factors",
-    "Ornamental plants",
+    "Flowers  and ornamental plants",
     "Technology & Application of Knowledge"]
   },
   "lcc": {
@@ -14946,6 +14948,8 @@
   "lcc": {
     "code": "QA276 .W458"
   },
+  "awards": ["\u041a\u043d\u0438\u0436\u043d\u044b\u0439 \u043a\u043b\u0443\u0431 \u00ab\u042d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432\u00bb",
+  "Audie Award Finalist"],
   "genre": ["Nonfiction",
   "Science & Nature",
   "Business"],
@@ -16342,7 +16346,8 @@
   },
   "awards": ["Booker Prize Shortlist",
   "International IMPAC Dublin Literary Award Longlist",
-  "Andrew Carnegie Medals for Excellence in Fiction Longlist"],
+  "Andrew Carnegie Medals for Excellence in Fiction Longlist",
+  "Audie Award Finalist"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -27780,7 +27785,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["635.0484"],
-    "wording": ["Agriculture & Animal Husbandry",
+    "wording": ["Agriculture & related technologies",
     "Cultivation, harvesting",
     "Domestic Gardening",
     "Organic",
@@ -27838,7 +27843,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["635"],
-    "wording": ["Agriculture & Animal Husbandry",
+    "wording": ["Agriculture & related technologies",
     "Domestic Gardening",
     "Technology & Application of Knowledge"]
   },
@@ -29562,10 +29567,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["635.986"],
-    "wording": ["Agriculture & Animal Husbandry",
+    "wording": ["Agriculture & related technologies",
     "Container gardening",
     "Domestic Gardening",
-    "Ornamental plants",
+    "Flowers  and ornamental plants",
     "Special methods",
     "Technology & Application of Knowledge"]
   },
@@ -30000,7 +30005,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["635"],
-    "wording": ["Agriculture & Animal Husbandry",
+    "wording": ["Agriculture & related technologies",
     "Domestic Gardening",
     "Technology & Application of Knowledge"]
   },
@@ -30956,10 +30961,8 @@
   ["Birds",
   "Pictorial works"],
   ["Lear, Edward, 1812-1888"]],
-  "genre": ["Science & Nature",
-  "Art & Design"],
-  "genre_id": ["1457",
-  "9985304"],
+  "genre": ["Science & Nature"],
+  "genre_id": ["1457"],
   "source": "amazon.com books",
   "workcode": "1451179",
   "entrydate": "2019-01-11",
@@ -42314,7 +42317,8 @@
   "From Zero to Well-Read in 100 Books",
   "ALA 100 Most Frequently Challenged Books of 2000-2009",
   "ALA Notable Books for Adults",
-  "1000 Books to Read Before You Die"],
+  "1000 Books to Read Before You Die",
+  "Audie Award Finalist"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -45890,10 +45894,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["635.95194"],
-    "wording": ["Agriculture & Animal Husbandry",
+    "wording": ["Agriculture & related technologies",
     "Domestic Gardening",
     "Environmental factors",
-    "Ornamental plants",
+    "Flowers  and ornamental plants",
     "Technology & Application of Knowledge"]
   },
   "lcc": [],
@@ -45939,9 +45943,9 @@
   "ddc": {
     "code": ["635.9/87/0994",
     "635.9"],
-    "wording": ["Agriculture & Animal Husbandry",
+    "wording": ["Agriculture & related technologies",
     "Domestic Gardening",
-    "Ornamental plants",
+    "Flowers  and ornamental plants",
     "Technology & Application of Knowledge"]
   },
   "lcc": [],
@@ -54733,7 +54737,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["636.089"],
-    "wording": ["Agriculture & Animal Husbandry",
+    "wording": ["Agriculture & related technologies",
     "Domestic Animals",
     "Hygiene; Diseases",
     "Technology & Application of Knowledge",
@@ -75144,9 +75148,8 @@
     "Other Languages"]
   },
   "lcc": [],
-  "originaltitle": "\u4e73\u3068\u5375",
-  "awards": ["Akutagawa",
-  "Time Magazine's Best Books of the Year"],
+  "originaltitle": "\u590f\u7269\u8a9e",
+  "awards": ["Time Magazine's Best Books of the Year"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -86726,6 +86729,12 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["242"],
+    "wording": ["Christian practice and observance",
+    "Devotional Literature",
+    "Religions"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "25684815",
@@ -87559,4 +87568,59 @@
   "length": "5.43 inches",
   "dimensions": "8.5 x 5.43 x 0.5 inches",
   "weight": "0.7 pounds"
+},
+"198045334": {
+  "books_id": "198045334",
+  "title": "In Turns of Tempest: A Reading of Job, with a Translation",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Good, Edwin",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Good, Edwin",
+    "fl": "Edwin Good",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0804717850",
+  "isbn": {
+    "0": "0804717850",
+    "2": "9780804717854"
+  },
+  "asin": "0804717850",
+  "ean": ["0804717850"],
+  "publication": "Stanford University Press (1990), Edition: 1, 512 pages",
+  "date": "1990",
+  "summary": "In Turns of Tempest: A Reading of Job, with a Translation by Edwin Good (1990)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["223.106"],
+    "wording": ["Bible",
+    "Job",
+    "Poetic Books ",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS1415.2 .G59"
+  },
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "54873",
+  "entrydate": "2021-03-23",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "9.33 inches",
+  "height": "9.33 inches",
+  "thickness": "1.26 inches",
+  "length": "6.22 inches",
+  "dimensions": "9.33 x 6.22 x 1.26 inches",
+  "weight": "1.83 pounds"
 }}
