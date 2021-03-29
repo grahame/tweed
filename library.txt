@@ -92,6 +92,7 @@
 209            9780684815039          2587  Johnson, Paul, 1    1979 A history of Christianity
 211            9780099524038          2981  Armstrong, Karen    2010 The case for God
 211.6          9781408837412           968  Grayling, A. C.     2013 The God argument : the case against religion and for humanis
+211.6          9780674986916          2430  Taylor, Charles,    2018 A secular age
 211.6091821    9780674088054           859  Gregory, Brad S.    2015 The unintended Reformation : how a religious revolution secu
 213            9781570754517           231  Ó Murchú, Diarmu    2002 Evolutionary faith : rediscovering God in our great story
 220            9780521714877                Baker Publishing    2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
@@ -144,6 +145,10 @@
 221.6          9783110135053           253  Boorer, Suzanne,    1992 The promise of the land as oath : a key to the formation of 
 221.6          9780334020868          1342  Childs, Brevard     1983 Introduction to the Old Testament as Scripture
 221.6          9781589833494           597  Crenshaw, James     1984 A whirlpool of torment : Israelite traditions of God as an o
+221.6          9780664223083                Eichrodt, Walter    1961 Theology of the Old Testament, Vol. 1 (OTL) (The Old Testame
+221.6          9780664223090                Eichrodt, Walthe    1967 Theology of the Old Testament, Vol. 2 (OTL) (The Old Testame
+221.6          9780664224073          1813  Rad, Gerhard von    2001 Old Testament theology
+221.6          9780664224080          1712  Rad, Gerhard von    2001 Old Testament theology
 221.6          9780718892289           924  Rowley, H. H. (H    2011 The re-discovery of the Old Testament
 221.6          9780800604646          1206  Trible, Phyllis     1986 God and the rhetoric of sexuality
 221.61         9780809126316          1124  Boadt, Lawrence     1984 Reading the Old Testament : an introduction
@@ -204,6 +209,7 @@
 225.6          9780190461850          1164  Levine, Amy-Jill    2017 The Jewish annotated New Testament : New Revised Standard Ve
 225.6          9781563381836           364  Robbins, Vernon     1996 Exploring the texture of texts : a guide to socio-rhetorical
 225.6          9780867160987           359  Rohr, Richard       1988 The great themes of scripture : New Testament
+225.61         9780300173123          2076  Brown, Raymond E    2016 An introduction to the New Testament
 225.61         9780802827463           231  Loader, William     2007 The New Testament with imagination : a fresh approach to its
 225.61         9780300180855           287  Martin, Dale B.,    2012 New Testament history and literature
 225.66         9780801027895           340  Resseguie, James    2005 Narrative criticism of the New Testament : an introduction
@@ -247,6 +253,9 @@
 226.4077       9780521676816           217  Levine, Amy-Jill    2018 The Gospel of Luke
 226.5          9780814635742           105  Byrne, Brendan (    2014 Life abounding : a reading of John's gospel
 226.506        9780300140156           652  Brown, Raymond E    2003 An introduction to the Gospel of John
+226.506        9780801045868           251  Carter, Warren,     2006 John : storyteller, interpreter, evangelist
+226.506        9780826414465           356  Reinhartz, Adele    2002 Befriending the beloved disciple : a Jewish reading of the G
+226.506        9781978701199            97  Reinhartz, Adele    2020 Cast out of the covenant : Jews and anti-Judaism in the Gosp
 226.507        9780809141401           217  Kelly, Anthony,     2003 Experiencing God in the Gospel of John
 226.5077       9780664221805          1677  Barrett, C. K. (    1978 The Gospel according to St. John : an introduction with comm
 226.5077       9780814612835           523  Brown, Raymond E    1960 The Gospel and Epistles of John : a concise commentary
@@ -371,6 +380,7 @@
 242            9781663208682                Fox, Matthew        2020 Julian of Norwich: Wisdom in a Time of Pandemic-And Beyond
 242            9780486836089          4468  Julian, of Norwi    2019 Showings
 242            9780281059737            81  Newman, John Hen    2007 John Henry Newman : prayers, poems and meditations
+242            9781620327722            23  Ringma, Charles     2013 Hear the ancient wisdom : a meditational reader for the whol
 242            9780819281227                Taize, Brother J    2005 Seeds of Trust: Reflecting on the Bible in silence and song
 242                                         The Taizé Commun    1966 The Taize Office
 242.2                                       Hilton, Mary C.     None The Parish as a Center of Prayer
@@ -450,6 +460,7 @@
 259.23         9780281073429           253  Yaconelli, Mark     2014 Contemplative youth ministry : practicing the presence of Je
 259.23         9780310516736             6  Zondervan           2013 Starting right : thinking theologically about youth ministry
 261            9780156177351          1196  Eliot, T. S. (Th    1977 Christianity and culture: : the idea of a Christian society 
+261            9781570756665           942  Kavanaugh, John     2006 Following Christ in a consumer society : the spirituality of
 261.1          9780883444009           353  Balasuriya, Tiss    1984 Planetary theology
 261.26         9780809139316           354  Boys, Mary C.       2000 Has God only one blessing? : Judaism as a source of Christia
 261.26         9780061137785          1090  Levine, Amy-Jill    2007 The misunderstood Jew : the Church and the scandal of the Je
@@ -484,6 +495,7 @@
 264.0300994    9780855741662            78  Anglican Church     1995 A prayer book for Australia : for use together with the book
 264.039                                     Vroom, F. W.        1940 An Introduction to the Prayer Book
 264.1                                       Milner-White, E.    1962 After The Third Collect : Prayers and Thanksgivings for use 
+264.13                                      Barclay             None Prayers for the Christian Year by Barclay, William [SCM Pres
 265.12         9780227678558           390  Marcel, Pierre      1981 The biblical doctrine of infant baptism : sacrament of the c
 265.3          9780567661579          1551  Dix, Gregory        2015 The shape of the liturgy
 266.001        9780883443446           281  Galilea, Segundo    1984 The Beatitudes : to evangelize as Jesus did
@@ -663,6 +675,7 @@
 492.43         9781565632066           527  Brown, Francis,     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
 492.482421     9780300098631           699  Kittel, Bonnie P    2004 Biblical Hebrew : a text and workbook
 492.482421     9780300222647           623  Kittel, Bonnie P    2016 Biblical Hebrew : a text and workbook
+492.482421     9780931464317           638  Waltke, Bruce K.    1990 An introduction to biblical Hebrew syntax
 492.486421     9780310093350           167  Van Pelt, Miles     2020 Graded reader of Biblical Hebrew : a guide to reading the He
 495.682421     9784770030085           407  Kokusai Nihongo     2006 Japanese for busy people : I,. Romanized version
 495.683421     9780007165995            30                      2004 Collins Japanese phrasebook &amp; dictionary

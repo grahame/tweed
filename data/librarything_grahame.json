@@ -8764,7 +8764,8 @@
   "PEN/Diamonstein-Spielvogel Award for the Art of the Essay Finalist",
   "Goodreads Choice Award Nominee for Humor",
   "PEN/Diamonstein-Spielvogel Award for the Art of the Essay Nominee for Shortlist",
-  "Grammy Award Nominee"],
+  "Grammy Award Nominee",
+  "Audie Award Finalist"],
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
   "source": "amazon.com books",
@@ -10903,6 +10904,7 @@
   "Indies Choice Book Award",
   "VDL Green Mountain Book Award",
   "Geffen Award",
+  "Audie Award Finalist",
   "Audie Award Finalist"],
   "genre": ["Fiction",
   "Science Fiction",
@@ -36235,9 +36237,9 @@
     "28": ["juvenile literature"]
   },
   "series": ["Kubu\u015b Puchatek",
+  "Nalle Puh",
   "Winnie the Pooh (A.A. Milne Original)",
-  "Original Pooh Treasury",
-  "Nalle Puh"],
+  "Original Pooh Treasury"],
   "awards": ["Waterstones Books of the Century",
   "IBBY Honour Book",
   "IBBY Honour Book",
@@ -41709,7 +41711,6 @@
     "9": ["Video games"],
     "11": ["physics"]
   },
-  "series": ["Star Trek: Companions"],
   "genre": ["Nonfiction",
   "Science & Nature"],
   "genre_id": ["1247",
@@ -44409,8 +44410,8 @@
     "4": ["Science fiction"],
     "6": ["science fiction"]
   },
-  "series": ["Trilogia di Orange County",
-  "Three Californias"],
+  "series": ["Three Californias",
+  "Trilogia di Orange County"],
   "originaltitle": "The Wild Shore",
   "awards": ["Locus",
   "Nebula Nominee",
@@ -44740,7 +44741,8 @@
   "Uncovered Classics",
   "Greatest Indian Novels you cannot afford to miss",
   "70 iconic Indian books",
-  "The Most Important Books of the Last Twenty Years"],
+  "The Most Important Books of the Last Twenty Years",
+  "1,000 Books to Read Before You Die Page-A-Day Calendar 2021"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -80416,7 +80418,8 @@
   },
   "lcc": [],
   "series": ["Noumena"],
-  "awards": ["Goodreads Choice Award Nominee"],
+  "awards": ["Goodreads Choice Award Nominee",
+  "Audie Award Finalist"],
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
   "source": "amazon.com books",
@@ -87623,4 +87626,745 @@
   "length": "6.22 inches",
   "dimensions": "9.33 x 6.22 x 1.26 inches",
   "weight": "1.83 pounds"
+},
+"198139251": {
+  "books_id": "198139251",
+  "title": "Following Christ in a Consumer Society: The Spirituality of Cultural Resistance",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Kavanaugh, John F.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Kavanaugh, John F.",
+    "fl": "John F. Kavanaugh",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "157075666X",
+  "isbn": {
+    "0": "157075666X",
+    "2": "9781570756665"
+  },
+  "asin": "157075666X",
+  "ean": ["157075666X"],
+  "publication": "Orbis Books (2006), Edition: 25 Aniversary, 288 pages",
+  "date": "2006",
+  "summary": "Following Christ in a Consumer Society: The Spirituality of Cultural Resistance by John F. Kavanaugh (2006)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["261"],
+    "wording": ["Christian organization, social work, worship",
+    "Church",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BT738 .K37"
+  },
+  "subject": {
+    "0": ["Christian life",
+    "Catholic authors"],
+    "2": ["Christian sociology",
+    "United States"]
+  },
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "84320",
+  "entrydate": "2021-03-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.1 inches",
+  "height": "8.1 inches",
+  "thickness": "0.65 inches",
+  "length": "5.7 inches",
+  "dimensions": "8.1 x 5.7 x 0.65 inches",
+  "weight": "0.79 pounds",
+  "pages": "240 "
+},
+"198139253": {
+  "books_id": "198139253",
+  "title": "John: Storyteller, Interpreter, Evangelist",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Carter, Warren",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Carter, Warren",
+    "fl": "Warren Carter",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "080104586X",
+  "isbn": {
+    "0": "080104586X",
+    "2": "9780801045868"
+  },
+  "asin": "080104586X",
+  "ean": ["080104586X"],
+  "publication": "Baker Academic (2006), 280 pages",
+  "date": "2006",
+  "summary": "John: Storyteller, Interpreter, Evangelist by Warren Carter (2006)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["226.5"],
+    "wording": ["Bible",
+    "Gospels and Acts",
+    "John",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS2615.52 .C37"
+  },
+  "genre": ["Biography & Memoir",
+  "Religion & Spirituality"],
+  "genre_id": ["1240",
+  "1944"],
+  "source": "amazon.com books",
+  "workcode": "1617417",
+  "entrydate": "2021-03-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "0.64 inches",
+  "length": "5.5 inches",
+  "dimensions": "8.5 x 5.5 x 0.64 inches",
+  "weight": "0.8708259349 pounds",
+  "pages": "280 "
+},
+"198334625": {
+  "books_id": "198334625",
+  "title": "An Introduction to Biblical Hebrew Syntax",
+  "sortcharacter": "4",
+  "public": "1",
+  "primaryauthor": "O'Connor, Michael Patrick",
+  "primaryauthorrole": "Auteur",
+  "authors": [{
+    "lf": "O'Connor, Michael Patrick",
+    "fl": "Michael Patrick O'Connor",
+    "role": "Auteur"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0931464315",
+  "isbn": {
+    "0": "0931464315",
+    "2": "9780931464317"
+  },
+  "asin": "0931464315",
+  "ean": ["0931464315"],
+  "publication": "Eisenbrauns (1990), 784 pages",
+  "date": "1990",
+  "summary": "An Introduction to Biblical Hebrew Syntax by Michael Patrick O'Connor (1990)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["492.482421"],
+    "wording": ["Hebrew",
+    "Language",
+    "Other Languages",
+    "Semitic"]
+  },
+  "lcc": {
+    "code": "PJ4707 .W35"
+  },
+  "subject": {
+    "0": ["Bible. O.T.",
+    "Language, Style"],
+    "1": ["Bible. O.T.",
+    "Language, style"],
+    "2": ["Hebrew language",
+    "Grammar"],
+    "4": ["Hebrew language",
+    "Syntax"]
+  },
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "366271",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "4",
+    "text": "Other"
+  }],
+  "copies": "1",
+  "physical_description": "11 inches",
+  "height": "11 inches",
+  "thickness": "2.4 inches",
+  "length": "8.5 inches",
+  "dimensions": "11 x 8.5 x 2.4 inches",
+  "weight": "3.75 pounds",
+  "pages": "779 "
+},
+"198334638": {
+  "books_id": "198334638",
+  "title": "An Introduction to the New Testament: The Abridged Edition (The Anchor Yale Bible Reference Library)",
+  "sortcharacter": "4",
+  "public": "1",
+  "primaryauthor": "Brown, Raymond E.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Brown, Raymond E.",
+    "fl": "Raymond E. Brown",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780300173123",
+  "isbn": ["9780300173123",
+  "0300173121"],
+  "asin": "0300173121",
+  "ean": ["0300173121"],
+  "publication": "Yale University Press (2016), Edition: Abridged, 376 pages",
+  "date": "2016",
+  "summary": "An Introduction to the New Testament: The Abridged Edition (The Anchor Yale Bible Reference Library) by Raymond E. Brown (2016)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["225.61"],
+    "wording": ["Bible",
+    "Hermeneutics; Exegesis; Symbolism; Typology",
+    "New Testament",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS2330.2 .B76"
+  },
+  "subject": [["Bible. N.T.",
+  "Canon"],
+  ["Bible. N.T.",
+  "Introductions"],
+  ["Bible. N.T.",
+  "Theology"]],
+  "series": ["Anchor Bible Reference Library"],
+  "awards": ["Christianity Today Book Awards"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "54875",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.2 x 0.8 inches",
+  "height": "0.8 inches",
+  "thickness": "5.5 inches",
+  "length": "8.2 inches",
+  "dimensions": "0.8 x 8.2 x 5.5 inches",
+  "weight": "0.94357848136 pounds"
+},
+"198334642": {
+  "books_id": "198334642",
+  "title": "Befriending The Beloved Disciple: A Jewish Reading of the Gospel of John",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Reinhartz, Adele",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Reinhartz, Adele",
+    "fl": "Adele Reinhartz",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "082641446X",
+  "isbn": {
+    "0": "082641446X",
+    "2": "9780826414465"
+  },
+  "asin": "082641446X",
+  "ean": ["082641446X"],
+  "publication": "Continuum (2002), 206 pages",
+  "date": "2002",
+  "summary": "Befriending The Beloved Disciple: A Jewish Reading of the Gospel of John by Adele Reinhartz (2002)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["226.5"],
+    "wording": ["Bible",
+    "Gospels and Acts",
+    "John",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS2615.2 .R382"
+  },
+  "awards": ["National Jewish Book Award Finalists"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "131489",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9 inches",
+  "height": "9 inches",
+  "thickness": "0.44 inches",
+  "length": "5.999988 inches",
+  "dimensions": "9 x 5.999988 x 0.44 inches",
+  "weight": "0.7 pounds",
+  "pages": "206 "
+},
+"198334646": {
+  "books_id": "198334646",
+  "title": "Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Reinhartz, Adele",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Reinhartz, Adele",
+    "fl": "Adele Reinhartz",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1978701195",
+  "isbn": {
+    "0": "1978701195",
+    "2": "9781978701199"
+  },
+  "asin": "1978701195",
+  "ean": ["1978701195"],
+  "publication": "Fortress Academic (2020), Edition: Reprint, 248 pages",
+  "date": "2020",
+  "summary": "Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John by Adele Reinhartz (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "26310423",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.61 inches",
+  "height": "8.61 inches",
+  "thickness": "0.73 inches",
+  "length": "6.03 inches",
+  "dimensions": "8.61 x 6.03 x 0.73 inches"
+},
+"198334647": {
+  "books_id": "198334647",
+  "title": "Hear the Ancient Wisdom: A Meditational Reader for the Whole Year from the Early Church Fathers up to the Pre-Reformation",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Ringma, Charles",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ringma, Charles",
+    "fl": "Charles Ringma",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1620327724",
+  "isbn": {
+    "0": "1620327724",
+    "2": "9781620327722"
+  },
+  "asin": "1620327724",
+  "ean": ["1620327724"],
+  "publication": "Cascade Books (2013), 442 pages",
+  "date": "2013",
+  "summary": "Hear the Ancient Wisdom: A Meditational Reader for the Whole Year from the Early Church Fathers up to the Pre-Reformation by Charles Ringma (2013)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["242"],
+    "wording": ["Christian practice and observance",
+    "Devotional Literature",
+    "Religions"]
+  },
+  "lcc": [],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "16926015",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"198334653": {
+  "books_id": "198334653",
+  "title": "Theology of the Old Testament, Vol. 1 (OTL) (The Old Testament Library)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Eichrodt, Walter",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Eichrodt, Walter",
+    "fl": "Walter Eichrodt",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0664223087",
+  "isbn": {
+    "0": "0664223087",
+    "2": "9780664223083"
+  },
+  "asin": "0664223087",
+  "ean": ["0664223087"],
+  "publication": "Westminster John Knox Press (1961), 544 pages",
+  "date": "1961",
+  "summary": "Theology of the Old Testament, Vol. 1 (OTL) (The Old Testament Library) by Walter Eichrodt (1961)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["221.6"],
+    "wording": ["Bible",
+    "Bible. O.T.--exegesis",
+    "Old Testament",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS1192.5 .E353"
+  },
+  "subject": [["Bible. O.T.",
+  "Theology"]],
+  "series": ["Old Testament Library"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "719792",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "9 inches",
+  "height": "9 inches",
+  "thickness": "1.36 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 1.36 inches",
+  "weight": "1.78 pounds",
+  "pages": "544 "
+},
+"198334656": {
+  "books_id": "198334656",
+  "title": "Theology of the Old Testament, Vol. 2 (OTL) (The Old Testament Library)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Eichrodt, Walther",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Eichrodt, Walther",
+    "fl": "Walther Eichrodt",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0664223095",
+  "isbn": {
+    "0": "0664223095",
+    "2": "9780664223090"
+  },
+  "asin": "0664223095",
+  "ean": ["0664223095"],
+  "publication": "Westminster John Knox Press (1967), 576 pages",
+  "date": "1967",
+  "summary": "Theology of the Old Testament, Vol. 2 (OTL) (The Old Testament Library) by Walther Eichrodt (1967)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["221.6"],
+    "wording": ["Bible",
+    "Bible. O.T.--exegesis",
+    "Old Testament",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS1192.5 .E353"
+  },
+  "subject": [["Bible. O.T.",
+  "Theology"]],
+  "series": ["Old Testament Library"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "719786",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9 inches",
+  "height": "9 inches",
+  "thickness": "1.44 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 1.44 inches",
+  "weight": "2.03 pounds",
+  "pages": "576 "
+},
+"198334664": {
+  "books_id": "198334664",
+  "title": "Old Testament Theology: The Theology of Israel's Traditions (The Old Testament Library)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Rad, Gerhard von",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Rad, Gerhard von",
+    "fl": "Gerhard von Rad",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0664224075",
+  "isbn": {
+    "0": "0664224075",
+    "2": "9780664224073"
+  },
+  "asin": "0664224075",
+  "ean": ["0664224075"],
+  "publication": "Westminster John Knox Press (2001), 528 pages",
+  "date": "2001",
+  "summary": "Old Testament Theology: The Theology of Israel's Traditions (The Old Testament Library) by Gerhard von Rad (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["221.6"],
+    "wording": ["Bible",
+    "Bible. O.T.--exegesis",
+    "Old Testament",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS1192.5 .R3132"
+  },
+  "subject": [["Bible. O.T.",
+  "Theology"]],
+  "series": ["Old Testament Library",
+  "Theologie des Alten Testaments"],
+  "originaltitle": "Theologie des Alten Testaments, Band II Die Theologie der prophetischen \u00dcberlieferungen Israels",
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "580452",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9 inches",
+  "height": "9 inches",
+  "thickness": "1.19 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 1.19 inches",
+  "weight": "1.35 pounds",
+  "pages": "528 "
+},
+"198334670": {
+  "books_id": "198334670",
+  "title": "Old Testament Theology, Volume II (The Old Testament Library)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Rad, Gerhard von",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Rad, Gerhard von",
+    "fl": "Gerhard von Rad",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0664224083",
+  "isbn": {
+    "0": "0664224083",
+    "2": "9780664224080"
+  },
+  "asin": "0664224083",
+  "ean": ["0664224083"],
+  "publication": "Westminster John Knox Press (2001), 488 pages",
+  "date": "2001",
+  "summary": "Old Testament Theology, Volume II (The Old Testament Library) by Gerhard von Rad (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["221.6"],
+    "wording": ["Bible",
+    "Bible. O.T.--exegesis",
+    "Old Testament",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS1192.5 .R3132"
+  },
+  "subject": [["Bible. O.T.",
+  "Theology"]],
+  "series": ["Old Testament Library",
+  "Theologie des Alten Testaments"],
+  "originaltitle": "Theologie des Alten Testaments, Band II Die Theologie der prophetischen \u00dcberlieferungen Israels",
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "580452",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9 inches",
+  "height": "9 inches",
+  "thickness": "1.09 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 1.09 inches",
+  "weight": "1.3 pounds",
+  "pages": "470 "
+},
+"198334674": {
+  "books_id": "198334674",
+  "title": "A Secular Age",
+  "sortcharacter": "3",
+  "public": "1",
+  "primaryauthor": "Taylor, Charles",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Taylor, Charles",
+    "fl": "Charles Taylor",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0674986911",
+  "isbn": {
+    "0": "0674986911",
+    "2": "9780674986916"
+  },
+  "asin": "0674986911",
+  "ean": ["0674986911"],
+  "publication": "Belknap Press: An Imprint of Harvard University Press (2018), Edition: Reprint, 896 pages",
+  "date": "2018",
+  "summary": "A Secular Age by Charles Taylor (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["211.6"],
+    "wording": ["Deism and Atheism ",
+    "Religions",
+    "Secularism",
+    "Theory"]
+  },
+  "lcc": {
+    "code": "BL2747.8 .T39"
+  },
+  "subject": {
+    "0": ["Religion and culture"],
+    "2": ["Secularism"]
+  },
+  "series": ["Gifford Lectures"],
+  "awards": ["New York Times Notable Book of the Year",
+  "Christianity Today Book Awards",
+  "David Easton Award"],
+  "genre": ["History",
+  "Religion & Spirituality"],
+  "genre_id": ["1599",
+  "1944"],
+  "source": "amazon.com books",
+  "workcode": "3049627",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9.2 inches",
+  "height": "9.2 inches",
+  "thickness": "1.6 inches",
+  "length": "6.4 inches",
+  "dimensions": "9.2 x 6.4 x 1.6 inches"
+},
+"198334696": {
+  "books_id": "198334696",
+  "title": "Prayers for the Christian Year by Barclay, William [SCM Press, 2012] (Paperback) [Paperback]",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Barclay",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Barclay",
+    "fl": "Barclay",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "asin": "B00MDAJ39O",
+  "publication": "SCM Press,2012",
+  "summary": "Prayers for the Christian Year by Barclay, William [SCM Press, 2012] (Paperback) [Paperback] by Barclay",
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["264.13"],
+    "wording": ["Christian organization, social work, worship",
+    "Prayer; Extempore; Liturgic",
+    "Public Worship; Ritual",
+    "Religions",
+    "Written Prayers"]
+  },
+  "lcc": {
+    "code": "BV30 .B3"
+  },
+  "subject": [["Church year",
+  "Prayers and devotions"],
+  ["Collects"]],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "1343246",
+  "entrydate": "2021-03-29",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
 }}
