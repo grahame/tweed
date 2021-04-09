@@ -147,6 +147,7 @@
 221.6          9781589833494           597  Crenshaw, James     1984 A whirlpool of torment : Israelite traditions of God as an o
 221.6          9780664223083                Eichrodt, Walter    1961 Theology of the Old Testament, Vol. 1 (OTL) (The Old Testame
 221.6          9780664223090                Eichrodt, Walthe    1967 Theology of the Old Testament, Vol. 2 (OTL) (The Old Testame
+221.6          9780800634384           242  Gunkel, Hermann,    2001 Water for a thirsty land : Israelite literature and religion
 221.6          9780664224073          1813  Rad, Gerhard von    2001 Old Testament theology
 221.6          9780664224080          1712  Rad, Gerhard von    2001 Old Testament theology
 221.6          9780718892289           924  Rowley, H. H. (H    2011 The re-discovery of the Old Testament
@@ -192,8 +193,10 @@
 223.107        9780310521907          1050  Clines, David J.    2015 Job : 1-20
 223.107        9780664222185           830  Habel, Norman C.    1985 The Book of Job, a commentary
 223.107        9780664238773           729  Janzen, J. Geral    2012 Job
+223.6          9780891301790            60  Tsevat, Matitiah    1955 A study of the language of the Biblical Psalms
 223.8052034    9781481476546           596  Rylant, Cynthia     2018 Ecclesiastes : to everything there is a season
 223.9          9780300139495          1616  Salomo Israel, K    1995 Song of songs
+223.9077       9781625648952            72  Good, Edwin M. (    2015 The Song of songs : codes of love
 223.9077       9780879073473           133  William, of Sain    1970 Exposition on the Song of Songs
 224            9780334011644          1312  Rad, Gerhard von    1968 The message of the prophets
 224.06         9780060936990          2483  Heschel, Abraham    2001 The Prophets
@@ -491,6 +494,7 @@
 264.03         9780191306013           952  Church of Englan    2001 [Book of common prayer]
 264.03         9780521612425           109  Church of Englan    2004 The book of common prayer and administration of the sacramen
 264.03         9780909827793           111  Church of Englan    1978 An Australian prayer book : for use together with the Book o
+264.03         9780333093887                Cuming, G. J.       1969 A History of Anglican Liturgy
 264.03         9780819223241            32  Markham, Ian S.     2009 Liturgical life principles : how Episcopal worship can lead 
 264.03         9780648265962                Sherlock, Charle    2020 Australian Anglicans Worship: peforming APBA
 264.0300994    9780855741662            78  Anglican Church     1995 A prayer book for Australia : for use together with the book
@@ -1229,6 +1233,7 @@
 823.92         9788129113726           198  Bhagat, Chetan      2008 The 3 mistakes of my life : a story about business, cricket,
 823.92         9780141042138          1410  Colfer, Eoin        2010 And another thing-- : Douglas Adams's Hitchhiker's guide to 
 823.92         9781925589252                Grundy, Alice       None Stories of Perth
+823.92         9781786892720          1244  Haig, Matt          2020 The midnight library
 823.92         9780732281229           105  Harding, Traci      2009 Being of the field
 823.92         9780731810499             4  Irvine, Ian, 195    2003 Terminator gene
 823.92         9780670916436          2677  Matar, Hisham, 1    2006 In the country of men
@@ -1267,6 +1272,7 @@
 843.914        9780141185132         12197  Camus, Albert, 1    2002 The plague
 843.914        9780679720201         17158  Camus, Albert, 1    1989 The stranger
 843.914        9780860682295           142  Ward Jouve, Nico    1981 Shades of grey
+851.1          9780679433132         23816  Dante Alighieri,    1995 The divine comedy : the Inferno, Purgatorio, and Paradiso
 863            9780140145588          5083  Allende, Isabel     1992 The stories of Eva Luna
 863.3          9780099469698          6991  Cervantes Saaved    2005 Don Quixote
 882.01         9780140441529          3711  Aristophanes        1964 The wasps
@@ -1344,6 +1350,7 @@
 994.11042      9780646191249            12  Gervas, Stan        1994 The way we were : Perth in the 1930's
 994.12         9780731694440            17  Cresswell, Gail     1990 The light of Leeuwin
 994.12004      9781921401428           135  Host, John T. (J    2009 'It's still in my heart this is my country' : the single Noo
+               9780980593730                Ahmed, Safdar       2021 Still Alive
                                             Alexander, Edito    1957 Four Bishops and Their See. Perth, Western Australia 1857-19
                9781376691238                Church of Englan    2018 The First and Second Prayer Books of Edward VI. Introd. by E
                9780938819806                Shelley, Mary Wo    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
