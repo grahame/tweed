@@ -31,7 +31,15 @@ class OCLC:
         "9780241339725": "1031083726",
         "9781782275909": "1119766390",
     }
-    ISBN_DISABLE = ["9780648228202", "9788129115546", "9780721412634", "9780938819806", "9780486442136", "9780664223083", "9780664223090"]
+    ISBN_DISABLE = [
+        "9780648228202",
+        "9788129115546",
+        "9780721412634",
+        "9780938819806",
+        "9780486442136",
+        "9780664223083",
+        "9780664223090",
+    ]
 
     def __init__(self):
         self.session = requests.Session()
@@ -264,31 +272,30 @@ class Library:
         self.write_json()
 
     def write_json(self):
-        obj = {'books': []}
+        obj = {"books": []}
         seen = set()
         for book in self.arrangement:
             book_obj = (
-                ('ddc', book.ddc),
-                ('isbn', book.isbn),
-                ('author', book.author),
-                ('date', str(book.date)),
-                ('title', book.title)
+                ("ddc", book.ddc),
+                ("isbn", book.isbn),
+                ("author", book.author),
+                ("date", str(book.date)),
+                ("title", book.title),
             )
             if book_obj in seen:
                 continue
             seen.add(book_obj)
-            obj['books'].append(dict(book_obj))
-        with open('frontend/src/books.json', 'w') as fd:
+            obj["books"].append(dict(book_obj))
+        with open("frontend/src/books.json", "w") as fd:
             json.dump(obj, fd)
 
     def write_index_txt(self):
         for book in self.arrangement:
             print(
-                "{:14} {:16} {:10}  {:18}  {:4} {}".format(
+                "{:14} {:16}  {:28}  {:4} {}".format(
                     (book.ddc or "")[:14],
                     (book.isbn or "")[:16],
-                    self.meta.oclc.book_holdings.get(book.isbn or "", ""),
-                    book.author[:16],
+                    book.author[:26],
                     str(book.date)[:4],
                     book.title[:60],
                 )
