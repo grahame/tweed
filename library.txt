@@ -308,6 +308,7 @@
 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
 230.14         9780199540631     Augustin (0354-0430; saint    2008 On Christian doctrine
+230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
 230.2          9780883448151     Boff, Leonardo                1993 The path to hope : fragments from a theologian's journey
 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
@@ -367,6 +368,7 @@
 233.5          9780631210702     Rogers, Eugene F., Jr. (Eu    1999 Sexuality and the Christian body : their way into the triune
 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
+234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
 234.163        9780232512984     Voillaume, René               1976 Source of life : the Eucharist and Christian living
 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
@@ -489,6 +491,8 @@
 262.7          9780385113670     Küng, Hans, 1928-             1976 The church
 263.04245632   9780851157719     Birch, Debra J. (Debra Jul    2000 Pilgrimage to Rome in the Middle Ages : continuity and chang
 264            9781863717670     Nelson, Janet                 1999 Let us pray
+264.019        9780913836187     Shmeman, Aleksandr, 1921-1    1966 Introduction to liturgical theology
+264.019036     9780881410181     Shmeman, Aleksandr, 1921-1    2003 The Eucharist--sacrament of the Kingdom
 264.02         9781586179977     Benedict XVI, Pope, 1927-     2014 The spirit of the liturgy
 264.02         9780814649060     Boselli, Goffredo             2014 The spiritual meaning of the liturgy : school of prayer, sou
 264.02                           Bouyer, Louis                 1965 The liturgy revived : a doctrinal commentary of the Concilia
@@ -565,6 +569,7 @@
 296            9780802881335     Edersheim, Alfred, 1825-18    1978 The Temple : its ministry and services as they were at the t
 296            9780812982510     Lévy, Bernard-Henri           2017 The genius of Judaism
 296            9781501117756     Robinson, George, 1953-       2016 Essential Judaism : a complete guide to beliefs, customs, an
+296.0901                         Wellhausen, Julius            2020 Prolegomena to the History of Ancient Israel
 296.1092       9780805242546     Wiesel, Elie, 1928-2016       2009 Rashi : a portrait
 296.155        9780141046150     Vermès, Géza, 1924-2013       2010 The story of the scrolls : the miraculous discovery and true
 296.311        9781400034727     Kushner, Harold S.            2004 When bad things happen to good people
@@ -679,6 +684,7 @@
 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
+492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
 495.682421     9784770030085     Kokusai Nihongo Fukyū Kyōk    2006 Japanese for busy people : I,. Romanized version

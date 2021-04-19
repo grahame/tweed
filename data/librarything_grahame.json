@@ -3550,7 +3550,8 @@
   "1000 Books to Read Before You Die",
   "The New Lifetime Reading Plan With Going Further",
   "Best Works of Literature by Piero Scaruffi",
-  "Erica Jong's Top 100 20th Century Novels by Women"],
+  "Erica Jong's Top 100 20th Century Novels by Women",
+  "Audie Award Finalist"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -9238,9 +9239,9 @@
   "ddc": {
     "code": ["211.6"],
     "wording": ["Deism and Atheism ",
+    "Natural Theology and Secularism",
     "Religions",
-    "Secularism",
-    "Theory"]
+    "Secularism"]
   },
   "lcc": {
     "code": "BL2747.6 .G73"
@@ -10692,6 +10693,7 @@
   "lcc": {
     "code": "PS3610 .O3"
   },
+  "originaltitle": "The Orphan Master's Son",
   "awards": ["New York Times bestseller",
   "National Book Critics Circle Award finalist",
   "The Morning News Tournament of Books",
@@ -10896,7 +10898,6 @@
     "code": "PS3623 .E446"
   },
   "series": ["Mark Watney"],
-  "originaltitle": "The Martian",
   "awards": ["Audie Winner",
   "World Book Night selection",
   "Goodreads Choice Awards",
@@ -13306,7 +13307,6 @@
     "code": "PZ7.1 .T4567"
   },
   "series": ["THUG"],
-  "originaltitle": "The Hate U Give",
   "awards": ["Boston Globe\u2013Horn Book Award",
   "National Book Award Longlist",
   "William C. Morris YA Debut Award",
@@ -15190,9 +15190,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.2609"],
-    "wording": ["Christian organization, social work, worship",
-    "Christianity and World Religions",
-    "Church",
+    "wording": ["Christian church and church work",
+    "Christianity and other systems of (non-)belief",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Judaism",
     "Religions"]
   },
@@ -15268,7 +15268,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -15397,9 +15397,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.8"],
-    "wording": ["Christian organization, social work, worship",
-    "Church",
-    "Church and Social Issues",
+    "wording": ["Christian church and church work",
+    "Christianity and socioeconomic problems",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Religions"]
   },
   "lcc": {
@@ -15510,9 +15510,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["213"],
-    "wording": ["Creation; Evolution",
-    "Religions",
-    "Theory"]
+    "wording": ["Creation and Evolution (religious aspects)",
+    "Natural Theology and Secularism",
+    "Religions"]
   },
   "lcc": {
     "code": "BL263 .O2"
@@ -15769,7 +15769,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -15906,10 +15906,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["263.04245632"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Pilgrimage",
     "Religions",
-    "Sabbath; Lord's Day; Sunday"]
+    "Sabbath + Sunday + Christian pilgrims and pilgrimages + Church year"]
   },
   "lcc": {
     "code": "BX2320.5 .I8"
@@ -15978,8 +15978,8 @@
   "ddc": {
     "code": ["232.9"],
     "wording": ["Christ; Christology",
-    "Christianity",
-    "Lives of Christ",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Religions"]
   },
   "lcc": {
@@ -16101,8 +16101,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.3"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Prayer and private worship",
     "Religions"]
   },
@@ -16160,9 +16160,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.26"],
-    "wording": ["Christian organization, social work, worship",
-    "Christianity and World Religions",
-    "Church",
+    "wording": ["Christian church and church work",
+    "Christianity and other systems of (non-)belief",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Judaism",
     "Religions"]
   },
@@ -16302,7 +16302,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": [],
@@ -16404,9 +16404,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["238.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Creed of Pius 4 {Trent} and later Roman",
-    "Creeds; Catechisms",
+    "Creeds + Catechisms + Covenant theology + Confessions",
     "Religions"]
   },
   "lcc": [],
@@ -16456,7 +16456,7 @@
   "ddc": {
     "code": ["230.09"],
     "wording": ["Biography And History",
-    "Christianity",
+    "Christian doctrinal theology",
     "Christianity, Christian theology",
     "Doctrinal Dogmatics - Theology",
     "Religions"]
@@ -16640,7 +16640,7 @@
   "ddc": {
     "code": ["255.106"],
     "wording": ["Benedictines",
-    "Christian pastoral practice and religious orders",
+    "Christian pastoral theology, homiletics and religious orders",
     "Monasticism and Religious Orders",
     "Religions"]
   },
@@ -16757,7 +16757,7 @@
   "ddc": {
     "code": ["255.106"],
     "wording": ["Benedictines",
-    "Christian pastoral practice and religious orders",
+    "Christian pastoral theology, homiletics and religious orders",
     "Monasticism and Religious Orders",
     "Religions"]
   },
@@ -16815,7 +16815,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["264.3609"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Eucharist in Bible and Liturgy",
     "Public Worship; Ritual",
     "Religions",
@@ -16883,8 +16883,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["259.2"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Other Ministrations and Work",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Other ministries and church work",
     "Religions",
     "Youth ministry"]
   },
@@ -16938,8 +16938,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["259.23"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Other Ministrations and Work",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Other ministries and church work",
     "Religions",
     "Young Adult Ministry",
     "Youth ministry"]
@@ -17095,8 +17095,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["259.23"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Other Ministrations and Work",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Other ministries and church work",
     "Religions",
     "Young Adult Ministry",
     "Youth ministry"]
@@ -17149,8 +17149,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["259.23"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Other Ministrations and Work",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Other ministries and church work",
     "Religions",
     "Young Adult Ministry",
     "Youth ministry"]
@@ -17206,9 +17206,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -17273,8 +17273,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.3"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Prayer and private worship",
     "Religions"]
   },
@@ -17330,8 +17330,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.32"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Prayer",
     "Prayer and private worship",
     "Religions"]
@@ -17396,9 +17396,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -17454,7 +17454,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -17574,9 +17574,9 @@
     "code": ["248.482"],
     "wording": ["By Denomination",
     "Catholic",
-    "Christian Life",
+    "Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -17632,9 +17632,9 @@
   "ddc": {
     "code": ["232.901"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Live of Jesus",
-    "Lives of Christ",
     "Religions"]
   },
   "lcc": [],
@@ -17686,7 +17686,7 @@
   "ddc": {
     "code": ["232.09"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -17755,7 +17755,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -17925,7 +17925,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Pre-reformation and Roman Catholic",
     "Religions"]
@@ -17982,7 +17982,7 @@
   "ddc": {
     "code": ["232.5"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions",
     "Resurrection"]
   },
@@ -18039,10 +18039,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["232.92"],
-    "wording": ["Christ; Christology",
-    "Christianity",
-    "Jesus - infancy narratives",
-    "Lives of Christ",
+    "wording": ["Birth, infancy, childhood of Jesus, Christmas story",
+    "Christ; Christology",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Religions"]
   },
   "lcc": {
@@ -18142,7 +18142,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -18199,9 +18199,10 @@
   "ddc": {
     "code": ["264.039"],
     "wording": ["Anglican and American P. E. ritual",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "History of successive prayerbooks",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions"]
   },
   "lcc": [],
@@ -18245,7 +18246,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.3"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Church of England and Anglican",
     "Religions"]
@@ -18302,10 +18303,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["252.0793"],
-    "wording": ["Christian pastoral practice and religious orders",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
     "Methodist",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": {
     "code": "BV 4241 .B38"
@@ -18409,7 +18410,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -18468,9 +18469,9 @@
   "ddc": {
     "code": ["252.03"],
     "wording": ["Anglican And Episcopal",
-    "Christian pastoral practice and religious orders",
+    "Christian pastoral theology, homiletics and religious orders",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": {
     "code": "BV4501.2 .W744"
@@ -18525,7 +18526,7 @@
   "summary": "After The Third Collect : Prayers and Thanksgivings for use in Public Worship, previously published as 'Memorials Upon Several Occasions' by E. Milner-White (1962)",
   "ddc": {
     "code": ["264.1"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Prayer; Extempore; Liturgic",
     "Public Worship; Ritual",
     "Religions"]
@@ -19024,7 +19025,7 @@
   "ddc": {
     "code": ["230.09"],
     "wording": ["Biography And History",
-    "Christianity",
+    "Christian doctrinal theology",
     "Christianity, Christian theology",
     "Doctrinal Dogmatics - Theology",
     "Religions"]
@@ -19092,8 +19093,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": {
@@ -19148,9 +19149,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["252"],
-    "wording": ["Christian pastoral practice and religious orders",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": {
     "code": "BX1756 .D84"
@@ -19267,8 +19268,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.3"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Prayer and private worship",
     "Religions"]
   },
@@ -19395,9 +19396,9 @@
     "code": ["248.482"],
     "wording": ["By Denomination",
     "Catholic",
-    "Christian Life",
+    "Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -19460,8 +19461,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Religions"]
   },
   "lcc": [],
@@ -19580,9 +19581,9 @@
   "ddc": {
     "code": ["252.03"],
     "wording": ["Anglican And Episcopal",
-    "Christian pastoral practice and religious orders",
+    "Christian pastoral theology, homiletics and religious orders",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": {
     "code": "BR123"
@@ -19623,7 +19624,7 @@
   "summary": "What Christians Believe by David Cox (1963)",
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -19712,9 +19713,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.88"],
-    "wording": ["Christian organization, social work, worship",
-    "Church",
-    "Church and Social Issues",
+    "wording": ["Christian church and church work",
+    "Christianity and socioeconomic problems",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Environmental Stewardship",
     "Religions"]
   },
@@ -20160,10 +20161,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["233.2"],
-    "wording": ["Christianity",
-    "Man; The Fall; Sin",
+    "wording": ["Christian doctrinal theology",
     "Religions",
-    "Sin"]
+    "Sin",
+    "Theological anthropology; Humankind"]
   },
   "lcc": {
     "code": "BV4625 .M46"
@@ -20215,9 +20216,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": [],
@@ -20271,7 +20272,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -20382,8 +20383,8 @@
   "ddc": {
     "code": ["211"],
     "wording": ["Deism and Atheism ",
-    "Religions",
-    "Theory"]
+    "Natural Theology and Secularism",
+    "Religions"]
   },
   "lcc": {
     "code": "BL473 .A76"
@@ -20556,7 +20557,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231.8"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
     "Religions",
     "Theodicy"]
@@ -20618,9 +20619,9 @@
     "code": ["248.482"],
     "wording": ["By Denomination",
     "Catholic",
-    "Christian Life",
+    "Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -20677,9 +20678,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": [],
@@ -20731,8 +20732,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.34"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions",
     "Seasonal Devotions"]
   },
@@ -20790,9 +20791,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -20862,8 +20863,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.34"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions",
     "Seasonal Devotions"]
   },
@@ -21292,9 +21293,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.46"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Personal Spiritual Practice",
     "Religions"]
   },
@@ -21350,9 +21351,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.2"],
-    "wording": ["Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
     "Daily Devotions",
-    "Devotional Literature",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": {
@@ -21407,7 +21408,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Pre-reformation and Roman Catholic",
     "Religions"]
@@ -21527,8 +21528,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Religions"]
   },
   "lcc": {
@@ -21585,9 +21586,9 @@
     "code": ["248.482"],
     "wording": ["By Denomination",
     "Catholic",
-    "Christian Life",
+    "Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -21646,7 +21647,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
     "Religions"]
   },
@@ -21777,7 +21778,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -21845,9 +21846,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": [],
@@ -21906,9 +21907,9 @@
   "ddc": {
     "code": ["248.47"],
     "wording": ["Asceticism and Spiritual Discipline",
-    "Christian Life",
+    "Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -22049,8 +22050,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.34"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Contemplation and Meditation",
     "Prayer and private worship",
     "Religions"]
@@ -22102,7 +22103,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Pre-reformation and Roman Catholic",
     "Religions"]
@@ -22159,8 +22160,8 @@
   "fre"],
   "ddc": {
     "code": ["242"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": {
@@ -22217,8 +22218,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.4"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Devotions for Difficult Times",
     "Religions"]
   },
@@ -22325,11 +22326,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.842"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living for Adults",
     "Christian Living for Men",
     "Christian Living for specific groups",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -22445,7 +22446,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["234.163"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Eucharist",
     "Grace",
     "Religions",
@@ -22570,8 +22571,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.3"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Prayer and private worship",
     "Religions"]
   },
@@ -22690,10 +22691,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["252.6"],
-    "wording": ["Christian pastoral practice and religious orders",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
     "Political; Public occasions and duties",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": {
     "code": "BX1756 .L453"
@@ -22915,9 +22916,9 @@
   "ddc": {
     "code": ["225.5209"],
     "wording": ["Bible",
+    "Modern versions and translations",
     "New Testament",
-    "Religions",
-    "Versions of Bible; Polyglots"]
+    "Religions"]
   },
   "lcc": {
     "code": "BS2095 .H86"
@@ -23088,8 +23089,9 @@
   "ddc": {
     "code": ["264.03"],
     "wording": ["Anglican and American P. E. ritual",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions"]
   },
   "lcc": {
@@ -23326,7 +23328,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["264"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Public Worship; Ritual",
     "Religions"]
   },
@@ -23461,8 +23463,9 @@
   "ddc": {
     "code": ["264.0300994"],
     "wording": ["Anglican and American P. E. ritual",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions"]
   },
   "lcc": {
@@ -23527,8 +23530,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.32"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Prayer",
     "Prayer and private worship",
     "Religions"]
@@ -23580,8 +23583,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Religions"]
   },
   "lcc": [],
@@ -23635,9 +23638,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.88"],
-    "wording": ["Christian organization, social work, worship",
-    "Church",
-    "Church and Social Issues",
+    "wording": ["Christian church and church work",
+    "Christianity and socioeconomic problems",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Environmental Stewardship",
     "Religions"]
   },
@@ -23687,7 +23690,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -23743,8 +23746,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.34"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions",
     "Seasonal Devotions"]
   },
@@ -23801,7 +23804,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -23857,8 +23860,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.34"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions",
     "Seasonal Devotions"]
   },
@@ -23910,7 +23913,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -23972,8 +23975,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.34"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions",
     "Seasonal Devotions"]
   },
@@ -24148,8 +24151,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.34"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions",
     "Seasonal Devotions"]
   },
@@ -24202,9 +24205,9 @@
   "ddc": {
     "code": ["248.47"],
     "wording": ["Asceticism and Spiritual Discipline",
-    "Christian Life",
+    "Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -24547,8 +24550,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["264.02"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions",
     "Roman Catholic ritual"]
   },
@@ -24664,8 +24668,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["262"],
-    "wording": ["Christian organization, social work, worship",
-    "Ecclesiastic Polity",
+    "wording": ["Christian church and church work",
+    "Church Polity; Ecclesiology",
     "Religions"]
   },
   "lcc": {
@@ -24934,10 +24938,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["252.0793"],
-    "wording": ["Christian pastoral practice and religious orders",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
     "Methodist",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": {
     "code": "BX8333 .N6 .C376"
@@ -25048,8 +25052,8 @@
     "code": ["238.11"],
     "wording": ["Apostles' Creed",
     "Apostles, Nicene, and Athanasian creeds",
-    "Christianity",
-    "Creeds; Catechisms",
+    "Christian doctrinal theology",
+    "Creeds + Catechisms + Covenant theology + Confessions",
     "Religions"]
   },
   "lcc": {
@@ -25108,7 +25112,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -25164,7 +25168,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -25223,7 +25227,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -25387,8 +25391,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Religions"]
   },
   "lcc": {
@@ -25509,8 +25513,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["251"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Preaching",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Preaching + Homiletics",
     "Religions"]
   },
   "lcc": {
@@ -25564,7 +25568,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -25626,8 +25630,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["253.2"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Pastoral Ministry",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Pastoral Ministry; Pastoral Theology",
     "Religions",
     "The Minister's Personal Life"]
   },
@@ -25683,7 +25687,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.3"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Church of England and Anglican",
     "Religions"]
@@ -25738,9 +25742,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.8"],
-    "wording": ["Christian organization, social work, worship",
-    "Church",
-    "Church and Social Issues",
+    "wording": ["Christian church and church work",
+    "Christianity and socioeconomic problems",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Religions"]
   },
   "lcc": {
@@ -25906,9 +25910,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -26015,8 +26019,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["241"],
-    "wording": ["Christian Ethics",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Ethics",
     "Religions"]
   },
   "lcc": {
@@ -26082,8 +26086,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["241"],
-    "wording": ["Christian Ethics",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Ethics",
     "Religions"]
   },
   "lcc": {
@@ -26140,9 +26144,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["241.53"],
-    "wording": ["Christian Ethics",
-    "Christian practice and observance",
-    "Commandments and Discipleship",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Ethics",
+    "Codes of conduct (Ten Commandments; Sermon on the Mount; Golden Rule)",
     "Religions"]
   },
   "lcc": {
@@ -26396,10 +26400,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["252.0793"],
-    "wording": ["Christian pastoral practice and religious orders",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
     "Methodist",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": [],
   "source": "amazon.com books",
@@ -27100,7 +27104,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -27208,8 +27212,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["253"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Pastoral Ministry",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Pastoral Ministry; Pastoral Theology",
     "Religions"]
   },
   "lcc": [],
@@ -27309,9 +27313,9 @@
   "summary": "The Parish as a Center of Prayer by Mary C. Hilton (?)",
   "ddc": {
     "code": ["242.2"],
-    "wording": ["Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
     "Daily Devotions",
-    "Devotional Literature",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": [],
@@ -27338,7 +27342,7 @@
   "ddc": {
     "code": ["266.394"],
     "wording": ["Anglican and American P.E.",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "Missions; Home and Foreign",
     "Religions"]
   },
@@ -27366,7 +27370,7 @@
   "ddc": {
     "code": ["266.394"],
     "wording": ["Anglican and American P.E.",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "Missions; Home and Foreign",
     "Religions"]
   },
@@ -30978,8 +30982,10 @@
   ["Birds",
   "Pictorial works"],
   ["Lear, Edward, 1812-1888"]],
-  "genre": ["Science & Nature"],
-  "genre_id": ["1457"],
+  "genre": ["Science & Nature",
+  "Art & Design"],
+  "genre_id": ["1457",
+  "9985304"],
   "source": "amazon.com books",
   "workcode": "1451179",
   "entrydate": "2019-01-11",
@@ -32345,7 +32351,6 @@
   "The Sandman TPBs",
   "The Absolute Sandman",
   "Sandman"],
-  "originaltitle": "The Sandman: The Wake",
   "awards": ["British Fantasy Award Nominee"],
   "genre": ["Graphic Novels",
   "Fantasy"],
@@ -36917,7 +36922,8 @@
   "Goodreads Choice Awards",
   "Galaxy National Book Awards Shortlist",
   "Reading the world in 196 books",
-  "The Economist Best Books"],
+  "The Economist Best Books",
+  "Audie Award Finalist"],
   "genre": ["Fiction",
   "Fantasy"],
   "genre_id": ["2",
@@ -41097,7 +41103,6 @@
     "35": ["fiction in english, 1900 texts"],
     "36": ["satire"]
   },
-  "originaltitle": "Animal Farm: A Fairy Story",
   "awards": ["Hugo",
   "Prometheus Hall of Fame Award",
   "Cyril Connolly's 100 Key Books of the Modern Movement",
@@ -41238,7 +41243,6 @@
     "37": ["satire"],
     "38": ["science fiction"]
   },
-  "originaltitle": "Nineteen Eighty-Four",
   "awards": ["1001 Books You Must Read Before You Die",
   "The Great American Read",
   "David Bowie's Top 100",
@@ -41393,7 +41397,6 @@
     "Politics and government",
     "1931-1939"]
   },
-  "originaltitle": "Homage to Catalonia",
   "awards": ["The Modern Library's 100 Best Nonfiction: The Board's List",
   "The Modern Library's 100 Best Nonfiction: The Reader's List",
   "National Review's 100 Best Nonfiction Books of the Century",
@@ -42461,7 +42464,6 @@
     "7": ["Self-perception",
     "Fiction"]
   },
-  "originaltitle": "The Reluctant Fundamentalist",
   "awards": ["Booker Prize Shortlist",
   "New York Times Notable Book of the Year",
   "Commonwealth Writers' Prize Shortlist",
@@ -44346,7 +44348,6 @@
   "Mars Trilogy",
   "Mars-Trilogie",
   "Trilog\u00eda de Marte"],
-  "originaltitle": "Red Mars",
   "awards": ["Arthur C. Clarke Award Shortlist",
   "British Science Fiction Association Award",
   "Nebula",
@@ -44428,7 +44429,6 @@
   },
   "series": ["Trilogia di Orange County",
   "Three Californias"],
-  "originaltitle": "The Wild Shore",
   "awards": ["Locus",
   "Nebula Nominee",
   "Philip K. Dick Award Nominee",
@@ -48226,7 +48226,8 @@
   "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438",
   "The Great American Read",
   "1000 Books to Read Before You Die",
-  "Greatest Books algorithm"],
+  "Greatest Books algorithm",
+  "Audie Award Finalist"],
   "genre": ["Fiction",
   "Fantasy"],
   "genre_id": ["2",
@@ -48544,10 +48545,10 @@
   ["Science fiction"],
   ["science fiction"]],
   "series": ["Commonwealth Universe",
-  "Pilger der Leere",
-  "Das Dunkle Universum",
+  "Void Trilogy",
   "La Trilogie du Vide",
-  "Void Trilogy"],
+  "Pilger der Leere",
+  "Das Dunkle Universum"],
   "genre": ["Science Fiction",
   "Fantasy"],
   "genre_id": ["281",
@@ -49861,7 +49862,6 @@
   "Die Roboter-Romane",
   "Isaac Asimov's Robot Series",
   "Les robots"],
-  "originaltitle": "I, Robot",
   "awards": ["1001 Books You Must Read Before You Die",
   "Astounding/Analog Science Fiction and Fact 1952 All-Time Poll",
   "Astounding/Analog Science Fiction and Fact 1956 All-Time Poll",
@@ -49945,7 +49945,6 @@
   "Robot/Empire/Foundation - Chronological",
   "FOUNDATION",
   "Der Foundation-Zyklus"],
-  "originaltitle": "The Positronic Man",
   "genre": ["Science Fiction",
   "Fantasy"],
   "genre_id": ["281",
@@ -51098,11 +51097,11 @@
   "lcc": {
     "code": "PS3608 .O9566"
   },
-  "series": ["Silo [Hugh Howey]",
+  "series": ["Siilo",
+  "Silo [Hugh Howey]",
   "Silo Saga",
   "Wool Trilogy",
   "Silo Series",
-  "Siilo",
   "Wool"],
   "awards": ["Prix des libraires du Qu\u00e9bec",
   "Reading List Award shortlist"],
@@ -51822,7 +51821,8 @@
   "awards": ["New York Times bestseller",
   "1001 Books You Must Read Before You Die",
   "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
-  "Great Books algorithm"],
+  "Great Books algorithm",
+  "Audie Winner"],
   "genre": ["Fiction",
   "Mystery",
   "Science Fiction",
@@ -52027,8 +52027,8 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["The Odyssey Sequence",
-  "L'odyss\u00e9e de l'espace",
+  "series": ["L'odyss\u00e9e de l'espace",
+  "The Odyssey Sequence",
   "Odyssee Reihe",
   "Odissea nello spazio"],
   "originaltitle": "2010: Odyssey Two",
@@ -52743,9 +52743,9 @@
   "lcc": {
     "code": "PS3552 .A9496"
   },
-  "series": ["Xeelee Sequence",
+  "series": ["Cycle des Xeelees",
   "Der Xeelee-Zyklus",
-  "Cycle des Xeelees"],
+  "Xeelee Sequence"],
   "awards": ["Arthur C. Clarke Award Shortlist"],
   "genre": ["Science Fiction",
   "Fantasy"],
@@ -53248,8 +53248,8 @@
   "lcc": {
     "code": "PR6052 .A849"
   },
-  "series": ["Die letzte Flut",
-  "Flood"],
+  "series": ["Flood",
+  "Die letzte Flut"],
   "awards": ["British Science Fiction Association Award Shortlist",
   "Locus Recommended Reading",
   "Locus Nominee",
@@ -53453,11 +53453,11 @@
   ["Space warfare",
   "Fiction"],
   ["science fiction"]],
-  "series": ["Kinder des Schicksals",
-  "Destiny's Children",
-  "Xeelee Sequence",
+  "series": ["Destiny's Children",
+  "Kinder des Schicksals",
+  "Cycle des Xeelees",
   "Der Xeelee-Zyklus",
-  "Cycle des Xeelees"],
+  "Xeelee Sequence"],
   "awards": ["Locus Recommended Reading"],
   "genre": ["Science Fiction",
   "Fantasy"],
@@ -53520,11 +53520,11 @@
   "lcc": {
     "code": "PR6052 .A9496"
   },
-  "series": ["Kinder des Schicksals",
-  "Destiny's Children",
-  "Xeelee Sequence",
+  "series": ["Destiny's Children",
+  "Kinder des Schicksals",
+  "Cycle des Xeelees",
   "Der Xeelee-Zyklus",
-  "Cycle des Xeelees"],
+  "Xeelee Sequence"],
   "awards": ["Arthur C. Clarke Award Shortlist",
   "Locus Recommended Reading"],
   "genre": ["Science Fiction",
@@ -53586,9 +53586,9 @@
     "code": "PR6052 .A849"
   },
   "subject": [["Science fiction, English"]],
-  "series": ["Xeelee Sequence",
+  "series": ["Cycle des Xeelees",
   "Der Xeelee-Zyklus",
-  "Cycle des Xeelees"],
+  "Xeelee Sequence"],
   "awards": ["Philip K. Dick Award",
   "1000 Books to Read Before You Die"],
   "genre": ["Science Fiction",
@@ -53657,8 +53657,8 @@
     "Fiction"],
     "3": ["fantasy fiction"]
   },
-  "series": ["Die K\u00f6nigreich-Saga",
-  "Jackelian"],
+  "series": ["Jackelian",
+  "Die K\u00f6nigreich-Saga"],
   "awards": ["Historical Novel Society Editors' Choice"],
   "genre": ["Fantasy"],
   "genre_id": ["5280"],
@@ -54659,7 +54659,8 @@
   "Newark Public Library's 1904 List of a Thousand of the Best Novels",
   "Greatest Books algorithm",
   "NPR's Top 100 Science-Fiction, Fantasy Books",
-  "100 Books That Shaped World History"],
+  "100 Books That Shaped World History",
+  "Audie Award Finalist"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy"],
@@ -55035,12 +55036,11 @@
   "Die Roboter-Romane",
   "Isaac Asimov's Robot Series",
   "Les robots"],
-  "originaltitle": "The Caves of Steel",
   "awards": ["Locus 1987 Poll, All-Time Best SF Novel",
   "Locus 1975 Poll, All-Time Best Novel",
   "Classics of Science Fiction",
   "The SF Book Club's \"The Most Significant SF & Fantasy Books of the Last 50 Years From 1953-2002\"",
-  "Retrospective Hugo",
+  "Hugo Nominee",
   "NPR's Top 100 Science-Fiction, Fantasy Books"],
   "genre": ["Mystery",
   "Science Fiction",
@@ -55116,7 +55116,6 @@
   "series": ["David Starr",
   "David Starr, justicier de l'espace",
   "Lucky Starr"],
-  "originaltitle": "Lucky Starr and the Moons of Jupiter",
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
   "source": "amazon.com books",
@@ -55294,7 +55293,6 @@
   "Die Roboter-Romane",
   "Isaac Asimov's Robot Series",
   "Les robots"],
-  "originaltitle": "Robots and Empire",
   "genre": ["Mystery",
   "Science Fiction",
   "Fantasy"],
@@ -55440,7 +55438,6 @@
     "5": ["fiction in English"],
     "6": ["science fiction"]
   },
-  "originaltitle": "The Gods Themselves",
   "awards": ["Hugo",
   "Nebula",
   "Ditmar Award",
@@ -56645,7 +56642,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -56708,7 +56705,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
     "Religions"]
   },
@@ -56774,9 +56771,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.8"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living for specific groups",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -56832,8 +56829,8 @@
   "ddc": {
     "code": ["232.908"],
     "wording": ["Christ; Christology",
-    "Christianity",
-    "Lives of Christ",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Religions",
     "The Historical Jesus"]
   },
@@ -57023,8 +57020,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Religions"]
   },
   "lcc": {
@@ -58918,8 +58915,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["264.02"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions",
     "Roman Catholic ritual"]
   },
@@ -58975,7 +58973,7 @@
   "ddc": {
     "code": ["255.106"],
     "wording": ["Benedictines",
-    "Christian pastoral practice and religious orders",
+    "Christian pastoral theology, homiletics and religious orders",
     "Monasticism and Religious Orders",
     "Religions"]
   },
@@ -59085,9 +59083,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.27"],
-    "wording": ["Christian organization, social work, worship",
-    "Christianity and World Religions",
-    "Church",
+    "wording": ["Christian church and church work",
+    "Christianity and other systems of (non-)belief",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Islam, Babism, Bahai Faith",
     "Religions"]
   },
@@ -59143,8 +59141,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["262.5"],
-    "wording": ["Christian organization, social work, worship",
-    "Ecclesiastic Polity",
+    "wording": ["Christian church and church work",
+    "Church Polity; Ecclesiology",
     "General or ecumenic council",
     "Religions"]
   },
@@ -59193,7 +59191,7 @@
   "fre"],
   "ddc": {
     "code": ["234.163"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Eucharist",
     "Grace",
     "Religions",
@@ -59245,14 +59243,16 @@
   "originallanguage_codeA": ["fre"],
   "ddc": {
     "code": ["261.8"],
-    "wording": ["Christian organization, social work, worship",
-    "Church",
-    "Church and Social Issues",
+    "wording": ["Christian church and church work",
+    "Christianity and socioeconomic problems",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Religions"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "HN37 .C3 M474"
+  },
   "source": "amazon.com books",
-  "workcode": "23364589",
+  "workcode": "8213959",
   "entrydate": "2019-06-18",
   "format": [{
     "code": "1.1",
@@ -59293,7 +59293,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -59350,8 +59350,8 @@
   "ddc": {
     "code": ["232.9"],
     "wording": ["Christ; Christology",
-    "Christianity",
-    "Lives of Christ",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Religions"]
   },
   "lcc": {
@@ -59441,7 +59441,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["255"],
-    "wording": ["Christian pastoral practice and religious orders",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
     "Monasticism and Religious Orders",
     "Religions"]
   },
@@ -59500,9 +59500,9 @@
   "fre"],
   "ddc": {
     "code": ["265"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Religions",
-    "Sacraments; Ordinances"]
+    "Sacraments; Ordinances; other rites and acts"]
   },
   "lcc": {
     "code": "BX2200 .B4513"
@@ -59554,9 +59554,9 @@
   "ddc": {
     "code": ["232.957"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Last Supper",
-    "Lives of Christ",
     "Ministry of Jesus",
     "Religions"]
   },
@@ -59615,9 +59615,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231.74"],
-    "wording": ["Christianity",
-    "Divine law and miracles",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
+    "Relation to the world - divine law and miracles",
     "Religions"]
   },
   "lcc": {
@@ -59765,8 +59765,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.1"],
-    "wording": ["Christian organization, social work, worship",
-    "Church",
+    "wording": ["Christian church and church work",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Religions",
     "The Church in Society and the World"]
   },
@@ -60040,7 +60040,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["266.001"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
+    "Missions; Home and Foreign",
+    "Missions; Home and Foreign",
     "Missions; Home and Foreign",
     "Religions"]
   },
@@ -60259,8 +60261,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["264.02"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions",
     "Roman Catholic ritual"]
   },
@@ -60298,8 +60301,8 @@
   "summary": "The Future of Ethics and Moral Theology by Richard McCormick, SJ; Agus, Rabbi Jacob; Outka, Dr. Gene H.; Crowe, Rev M. B.; Dupne, Dr Louis; Veatch, Dr. Henry N. (1968)",
   "ddc": {
     "code": ["241"],
-    "wording": ["Christian Ethics",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Ethics",
     "Religions"]
   },
   "lcc": {
@@ -62590,7 +62593,7 @@
   "ddc": {
     "code": ["232.09015"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -62710,8 +62713,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": {
@@ -63136,7 +63139,7 @@
   "ddc": {
     "code": ["232.1"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Incarnation; Messiah",
     "Religions"]
   },
@@ -63202,9 +63205,9 @@
     "code": ["248.482"],
     "wording": ["By Denomination",
     "Catholic",
-    "Christian Life",
+    "Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -63262,9 +63265,9 @@
   "ddc": {
     "code": ["232.96"],
     "wording": ["Christ; Christology",
-    "Christianity",
-    "Crucifixion of Jesus",
-    "Lives of Christ",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
+    "Passion and death of Jesus",
     "Religions"]
   },
   "lcc": {
@@ -63397,8 +63400,8 @@
   "ddc": {
     "code": ["232.9"],
     "wording": ["Christ; Christology",
-    "Christianity",
-    "Lives of Christ",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Religions"]
   },
   "lcc": {
@@ -63452,7 +63455,7 @@
     "code": ["232.3"],
     "wording": ["Atonement",
     "Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -63571,8 +63574,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["262.7"],
-    "wording": ["Christian organization, social work, worship",
-    "Ecclesiastic Polity",
+    "wording": ["Christian church and church work",
+    "Church Polity; Ecclesiology",
     "Religions",
     "Traditions"]
   },
@@ -63802,10 +63805,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["233.5"],
-    "wording": ["Christianity",
-    "Man; The Fall; Sin",
+    "wording": ["Christian doctrinal theology",
     "Natural and spiritual body",
-    "Religions"]
+    "Religions",
+    "Theological anthropology; Humankind"]
   },
   "lcc": {
     "code": "BR115 .H6"
@@ -64622,9 +64625,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231.73"],
-    "wording": ["Christianity",
-    "Divine law and miracles",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
+    "Relation to the world - divine law and miracles",
     "Religions"]
   },
   "lcc": {
@@ -64922,7 +64925,7 @@
   "ger"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -64980,9 +64983,9 @@
   "ddc": {
     "code": ["232.96"],
     "wording": ["Christ; Christology",
-    "Christianity",
-    "Crucifixion of Jesus",
-    "Lives of Christ",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
+    "Passion and death of Jesus",
     "Religions"]
   },
   "lcc": {
@@ -65160,6 +65163,7 @@
     "code": ["487.4"],
     "wording": ["Dialects",
     "Greek",
+    "Koin\u00e8 (Biblical Greek)",
     "Language"]
   },
   "lcc": {
@@ -65224,7 +65228,7 @@
   "ger"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -65344,7 +65348,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -65465,7 +65469,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -66033,8 +66037,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Religions"]
   },
   "lcc": {
@@ -66146,7 +66150,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Pre-reformation and Roman Catholic",
     "Religions"]
@@ -66204,9 +66208,9 @@
   "ddc": {
     "code": ["232.901"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Live of Jesus",
-    "Lives of Christ",
     "Religions"]
   },
   "lcc": {
@@ -66265,7 +66269,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["234.16"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Grace",
     "Religions",
     "Sacraments",
@@ -66312,8 +66316,8 @@
   "summary": "The Taize Office by The Taiz\u00e9 Community (1966)",
   "ddc": {
     "code": ["242"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": [],
@@ -66365,7 +66369,7 @@
   "ger"],
   "ddc": {
     "code": ["231"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
     "Religions"]
   },
@@ -66492,7 +66496,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -66544,7 +66548,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.01"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Doctrinal Dogmatics - Theology",
     "Religions"]
@@ -66604,7 +66608,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Pre-reformation and Roman Catholic",
     "Religions"]
@@ -66667,7 +66671,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.3"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Church of England and Anglican",
     "Religions"]
@@ -66728,7 +66732,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.3"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Church of England and Anglican",
     "Religions"]
@@ -66792,9 +66796,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["241.5"],
-    "wording": ["Christian Ethics",
-    "Christian practice and observance",
-    "Commandments and Discipleship",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Ethics",
+    "Codes of conduct (Ten Commandments; Sermon on the Mount; Golden Rule)",
     "Religions"]
   },
   "lcc": {
@@ -66851,9 +66855,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -67015,7 +67019,7 @@
   "eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -67067,9 +67071,9 @@
   "summary": "Belief in God by Bishop Gore (1939)",
   "ddc": {
     "code": ["238.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Creed of Pius 4 {Trent} and later Roman",
-    "Creeds; Catechisms",
+    "Creeds + Catechisms + Covenant theology + Confessions",
     "Religions"]
   },
   "lcc": [],
@@ -67175,8 +67179,8 @@
   "ddc": {
     "code": ["232.9"],
     "wording": ["Christ; Christology",
-    "Christianity",
-    "Lives of Christ",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Religions"]
   },
   "lcc": {
@@ -67418,8 +67422,8 @@
   "ddc": {
     "code": ["232.9"],
     "wording": ["Christ; Christology",
-    "Christianity",
-    "Lives of Christ",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Religions"]
   },
   "lcc": {
@@ -67755,7 +67759,6 @@
   "lcc": {
     "code": "PS3568 .O2893"
   },
-  "originaltitle": "New York 2140",
   "awards": ["Hugo Nominee",
   "Locus Award Finalist",
   "John W. Campbell Memorial Award Finalist",
@@ -67912,9 +67915,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": {
@@ -67972,7 +67975,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -68086,7 +68089,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -68203,10 +68206,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["252.6"],
-    "wording": ["Christian pastoral practice and religious orders",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
     "Political; Public occasions and duties",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": [],
   "genre": ["Religion & Spirituality"],
@@ -68505,8 +68508,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.3"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions",
     "Seasonal Devotions"]
   },
@@ -68563,8 +68566,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.37"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions",
     "Seasonal Devotions"]
   },
@@ -68616,9 +68619,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["241.53"],
-    "wording": ["Christian Ethics",
-    "Christian practice and observance",
-    "Commandments and Discipleship",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Ethics",
+    "Codes of conduct (Ten Commandments; Sermon on the Mount; Golden Rule)",
     "Religions"]
   },
   "lcc": {
@@ -68825,10 +68828,10 @@
     "Fiction"],
     "10": ["science fiction"]
   },
-  "series": ["Parabole",
-  "Ciclo delle parabole",
-  "Earthseed",
-  "Parable"],
+  "series": ["Earthseed",
+  "Parable",
+  "Parabole",
+  "Ciclo delle parabole"],
   "awards": ["Nebula Nominee",
   "ALA Best Books for Young Adults",
   "ALA Outstanding Books for the College Bound"],
@@ -69279,7 +69282,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -69453,7 +69456,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -70129,8 +70132,8 @@
   "ddc": {
     "code": ["210"],
     "wording": ["Natural Theology",
-    "Religions",
-    "Theory"]
+    "Natural Theology and Secularism",
+    "Religions"]
   },
   "lcc": {
     "code": "BT736.4 .W54"
@@ -70605,7 +70608,8 @@
     "wording": ["Hebrew",
     "Language",
     "Other Languages",
-    "Semitic"]
+    "Semitic",
+    "Standard usage"]
   },
   "lcc": {
     "code": "PJ4567.3 .K5"
@@ -71843,7 +71847,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
     "Religions"]
   },
@@ -72203,7 +72207,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231.4"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Divine attributes: omniscience, omnipresence, omnipotence",
     "God; Unity; Trinity",
     "Religions"]
@@ -72258,8 +72262,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["262"],
-    "wording": ["Christian organization, social work, worship",
-    "Ecclesiastic Polity",
+    "wording": ["Christian church and church work",
+    "Church Polity; Ecclesiology",
     "Religions"]
   },
   "lcc": [],
@@ -72876,7 +72880,7 @@
   "ddc": {
     "code": ["232"],
     "wording": ["Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -72939,9 +72943,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231.7"],
-    "wording": ["Christianity",
-    "Divine law and miracles",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
+    "Relation to the world - divine law and miracles",
     "Religions"]
   },
   "lcc": {
@@ -73480,7 +73484,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.046"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Doctrinal Dogmatics - Theology",
     "Religions"]
@@ -73600,10 +73604,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["269.6"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Religions",
     "Retreats",
-    "Revivals; Retreats"]
+    "Revivals + Spiritual retreats + Parish missions"]
   },
   "lcc": [],
   "source": "amazon.com books",
@@ -73866,7 +73870,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231.8"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
     "Religions",
     "Theodicy"]
@@ -73940,7 +73944,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["234.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Faith",
     "Religions",
     "Salvation; Soteriology"]
@@ -74002,10 +74006,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["232.921"],
-    "wording": ["Christ; Christology",
-    "Christianity",
-    "Jesus - infancy narratives",
-    "Lives of Christ",
+    "wording": ["Birth, infancy, childhood of Jesus, Christmas story",
+    "Christ; Christology",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
     "Nativity (Christmas)",
     "Religions"]
   },
@@ -74297,8 +74301,8 @@
   "ddc": {
     "code": ["211"],
     "wording": ["Deism and Atheism ",
-    "Religions",
-    "Theory"]
+    "Natural Theology and Secularism",
+    "Religions"]
   },
   "lcc": {
     "code": "BX2320.5 .P19 .W673"
@@ -74408,9 +74412,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231.7"],
-    "wording": ["Christianity",
-    "Divine law and miracles",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
+    "Relation to the world - divine law and miracles",
     "Religions"]
   },
   "lcc": {
@@ -74556,7 +74560,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["231.044"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "God; Unity; Trinity",
     "Religions"]
   },
@@ -74977,7 +74981,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.14"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Patristics and Orthodox theology",
     "Religions"]
@@ -75060,8 +75064,9 @@
   "ddc": {
     "code": ["264.03"],
     "wording": ["Anglican and American P. E. ritual",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions"]
   },
   "lcc": {
@@ -75270,9 +75275,9 @@
   "ddc": {
     "code": ["211.6091821"],
     "wording": ["Deism and Atheism ",
+    "Natural Theology and Secularism",
     "Religions",
-    "Secularism",
-    "Theory"]
+    "Secularism"]
   },
   "lcc": {
     "code": "BL2747.8 .G74"
@@ -76132,7 +76137,7 @@
     "code": ["232.3"],
     "wording": ["Atonement",
     "Christ; Christology",
-    "Christianity",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -76710,10 +76715,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["233.5"],
-    "wording": ["Christianity",
-    "Man; The Fall; Sin",
+    "wording": ["Christian doctrinal theology",
     "Natural and spiritual body",
-    "Religions"]
+    "Religions",
+    "Theological anthropology; Humankind"]
   },
   "lcc": {
     "code": "BS2675.6 .B63"
@@ -77426,9 +77431,9 @@
   "ddc": {
     "code": ["252.03"],
     "wording": ["Anglican And Episcopal",
-    "Christian pastoral practice and religious orders",
+    "Christian pastoral theology, homiletics and religious orders",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": {
     "code": "BR50 .L396"
@@ -77504,9 +77509,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.26"],
-    "wording": ["Christian organization, social work, worship",
-    "Christianity and World Religions",
-    "Church",
+    "wording": ["Christian church and church work",
+    "Christianity and other systems of (non-)belief",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Judaism",
     "Religions"]
   },
@@ -77635,7 +77640,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -77693,8 +77698,9 @@
   "ddc": {
     "code": ["264.03"],
     "wording": ["Anglican and American P. E. ritual",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions"]
   },
   "lcc": [],
@@ -78279,7 +78285,8 @@
     "wording": ["Hebrew",
     "Language",
     "Other Languages",
-    "Semitic"]
+    "Semitic",
+    "Standard usage"]
   },
   "lcc": {
     "code": "PJ4567.3 .K5"
@@ -79426,8 +79433,8 @@
   "ddc": {
     "code": ["239.3"],
     "wording": ["Against the heathen",
-    "Apologetics; Evidences",
-    "Christianity",
+    "Apologetics + Evidences + Polemics",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -80058,9 +80065,9 @@
   "ddc": {
     "code": ["252.03092"],
     "wording": ["Anglican And Episcopal",
-    "Christian pastoral practice and religious orders",
+    "Christian pastoral theology, homiletics and religious orders",
     "Religions",
-    "Sermons"]
+    "Texts of sermons"]
   },
   "lcc": [],
   "source": "manual entry",
@@ -80099,8 +80106,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["239"],
-    "wording": ["Apologetics; Evidences",
-    "Christianity",
+    "wording": ["Apologetics + Evidences + Polemics",
+    "Christian doctrinal theology",
     "Religions"]
   },
   "lcc": {
@@ -80238,9 +80245,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.55"],
-    "wording": ["Christian organization, social work, worship",
-    "Church",
-    "Church and intellectual development",
+    "wording": ["Christian church and church work",
+    "Christianity and secular disciplines",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Mathematics And Science",
     "Religions"]
   },
@@ -80291,7 +80298,7 @@
   "ddc": {
     "code": ["268.4"],
     "wording": ["Christian Education",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "For Particular Groups",
     "Religions"]
   },
@@ -81231,8 +81238,8 @@
   "dan"],
   "ddc": {
     "code": ["248.3"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Prayer and private worship",
     "Religions"]
   },
@@ -81766,7 +81773,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.044"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Doctrinal Dogmatics - Theology",
     "Religions"]
@@ -82056,8 +82063,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.8"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Prayer books",
     "Religions"]
   },
@@ -82424,9 +82431,9 @@
   "ddc": {
     "code": ["221.5"],
     "wording": ["Bible",
+    "Modern versions and translations",
     "Old Testament",
-    "Religions",
-    "Versions of Old Testament; Polyglots "]
+    "Religions"]
   },
   "lcc": [],
   "genre": ["History",
@@ -83327,7 +83334,7 @@
   "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
-  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
+  "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
   "Kettamaailm",
@@ -83336,8 +83343,9 @@
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Lumea Disc",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Korongvil\u00e1g",
+  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
@@ -83349,9 +83357,8 @@
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
-  "Skivv\u00e4rlden: H\u00e4xorna",
   "Hexen-Pratchett",
+  "Skivv\u00e4rlden: H\u00e4xorna",
   "Discworld: Witches",
   "Mundodisco: Brujas"],
   "originaltitle": "Witches abroad",
@@ -83431,7 +83438,7 @@
   "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
-  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
+  "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
   "Kettamaailm",
@@ -83440,8 +83447,9 @@
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Lumea Disc",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Korongvil\u00e1g",
+  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
@@ -83453,7 +83461,6 @@
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
   "Discworld: Death",
   "Mundodisco: La Muerte",
   "Scheibenwelt: Der Tod",
@@ -83544,7 +83551,7 @@
   "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
-  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
+  "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
   "Kettamaailm",
@@ -83553,8 +83560,9 @@
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Lumea Disc",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Korongvil\u00e1g",
+  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
@@ -83566,9 +83574,8 @@
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
-  "Skivv\u00e4rlden: H\u00e4xorna",
   "Hexen-Pratchett",
+  "Skivv\u00e4rlden: H\u00e4xorna",
   "Discworld: Witches",
   "Mundodisco: Brujas"],
   "originaltitle": "Wyrd Sisters",
@@ -83790,8 +83797,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": {
@@ -84050,11 +84057,11 @@
   "lcc": {
     "code": "PR6051 .A76"
   },
-  "series": ["Le dernier apprenti sorcier",
-  "Rivers of London",
+  "series": ["Rivers of London",
   "Peter Grant",
   "Fl\u00fcsse von London",
-  "Die Fl\u00fcsse von London"],
+  "Die Fl\u00fcsse von London",
+  "Le dernier apprenti sorcier"],
   "originaltitle": "Whispers Under Ground",
   "genre": ["Mystery",
   "Fantasy"],
@@ -84115,11 +84122,11 @@
   "lcc": {
     "code": "PR6051 .A76"
   },
-  "series": ["Le dernier apprenti sorcier",
-  "Rivers of London",
+  "series": ["Rivers of London",
   "Peter Grant",
   "Fl\u00fcsse von London",
-  "Die Fl\u00fcsse von London"],
+  "Die Fl\u00fcsse von London",
+  "Le dernier apprenti sorcier"],
   "originaltitle": "Moon over Soho",
   "genre": ["Mystery",
   "Fantasy"],
@@ -85493,8 +85500,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["253"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Pastoral Ministry",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Pastoral Ministry; Pastoral Theology",
     "Religions"]
   },
   "lcc": {
@@ -85714,8 +85721,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": {
@@ -85907,7 +85914,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["264"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Public Worship; Ritual",
     "Religions"]
   },
@@ -86377,8 +86384,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.3"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Prayer and private worship",
     "Religions"]
   },
@@ -86617,7 +86624,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["234.2"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Faith",
     "Religions",
     "Salvation; Soteriology"]
@@ -86766,8 +86773,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": [],
@@ -86816,9 +86823,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242.2"],
-    "wording": ["Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
     "Daily Devotions",
-    "Devotional Literature",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": {
@@ -86930,7 +86937,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230.01"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Doctrinal Dogmatics - Theology",
     "Religions"]
@@ -87055,7 +87062,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["230"],
-    "wording": ["Christianity",
+    "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
@@ -87119,8 +87126,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["253"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Pastoral Ministry",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Pastoral Ministry; Pastoral Theology",
     "Religions"]
   },
   "lcc": {
@@ -87265,8 +87272,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248"],
-    "wording": ["Christian Life",
-    "Christian practice and observance",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Religions"]
   },
   "lcc": {
@@ -87477,8 +87484,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["251"],
-    "wording": ["Christian pastoral practice and religious orders",
-    "Preaching",
+    "wording": ["Christian pastoral theology, homiletics and religious orders",
+    "Preaching + Homiletics",
     "Religions"]
   },
   "lcc": {
@@ -87532,9 +87539,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4019"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": [],
@@ -87583,9 +87590,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["248.4019"],
-    "wording": ["Christian Life",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
     "Christian Living",
-    "Christian practice and observance",
     "Religions"]
   },
   "lcc": [],
@@ -87689,8 +87696,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261"],
-    "wording": ["Christian organization, social work, worship",
-    "Church",
+    "wording": ["Christian church and church work",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Religions"]
   },
   "lcc": {
@@ -87811,7 +87818,8 @@
     "wording": ["Hebrew",
     "Language",
     "Other Languages",
-    "Semitic"]
+    "Semitic",
+    "Standard usage"]
   },
   "lcc": {
     "code": "PJ4707 .W35"
@@ -88035,8 +88043,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["242"],
-    "wording": ["Christian practice and observance",
-    "Devotional Literature",
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
     "Religions"]
   },
   "lcc": [],
@@ -88323,9 +88331,9 @@
   "ddc": {
     "code": ["211.6"],
     "wording": ["Deism and Atheism ",
+    "Natural Theology and Secularism",
     "Religions",
-    "Secularism",
-    "Theory"]
+    "Secularism"]
   },
   "lcc": {
     "code": "BL2747.8 .T39"
@@ -88377,7 +88385,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["264.13"],
-    "wording": ["Christian organization, social work, worship",
+    "wording": ["Christian church and church work",
     "Prayer; Extempore; Liturgic",
     "Public Worship; Ritual",
     "Religions",
@@ -88430,9 +88438,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["261.2"],
-    "wording": ["Christian organization, social work, worship",
-    "Christianity and World Religions",
-    "Church",
+    "wording": ["Christian church and church work",
+    "Christianity and other systems of (non-)belief",
+    "Church and the world; Social theology and interreligious relations and attitudes",
     "Religions"]
   },
   "lcc": {
@@ -88490,7 +88498,6 @@
     "Literature"]
   },
   "lcc": [],
-  "originaltitle": "The Midnight Library",
   "awards": ["Goodreads Choice Awards",
   "Audie Award Finalist"],
   "genre": ["Fiction",
@@ -88545,8 +88552,9 @@
   "ddc": {
     "code": ["264.03"],
     "wording": ["Anglican and American P. E. ritual",
-    "Christian organization, social work, worship",
+    "Christian church and church work",
     "Public Worship; Ritual",
+    "Public worship; ritual",
     "Religions"]
   },
   "lcc": {
@@ -88813,11 +88821,11 @@
     "11": ["Italian poetry",
     "Translations into English"]
   },
-  "series": ["Den gudomliga komedin",
+  "series": ["The Divine Comedy",
+  "Den gudomliga komedin",
   "Divina Commedia",
   "De goddelijke komedie",
   "Die g\u00f6ttliche Kom\u00f6die",
-  "The Divine Comedy",
   "Den guddommelige Komedia"],
   "originaltitle": "La Divina Commedia",
   "awards": ["25 Books Every Christian Should Read: A Guide to the Essential Spiritual Classics",
@@ -88858,4 +88866,390 @@
   "dimensions": "8.29 x 5.3 x 1.65 inches",
   "weight": "1.85 pounds",
   "pages": "798 "
+},
+"198970964": {
+  "books_id": "198970964",
+  "title": "Prolegomena to the History of Ancient Israel",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Wellhausen, Julius",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Wellhausen, Julius",
+    "fl": "Julius Wellhausen",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "asin": "B08HGTJG2P",
+  "ean": ["9798682602667"],
+  "publication": "Independently published (2020), 278 pages",
+  "date": "2020",
+  "summary": "Prolegomena to the History of Ancient Israel by Julius Wellhausen (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["296.0901"],
+    "wording": ["Biography And History",
+    "By Period",
+    "Judaism",
+    "Judaism",
+    "Other Religions",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "DS121 .W48"
+  },
+  "subject": [["Bible. O.T.",
+  "Criticism, interpretation, etc"],
+  ["Jews",
+  "History"],
+  ["Jews",
+  "History",
+  "To 70 A.D"],
+  ["Jews",
+  "History",
+  "To 953 B.C"],
+  ["Jews",
+  "history"],
+  ["Judaism",
+  "History"],
+  ["Judaism",
+  "History",
+  "Ancient period"],
+  ["Judaism",
+  "History",
+  "To 70 A.D"]],
+  "originaltitle": "Prolegomena zur Geschichte Israels",
+  "genre": ["Nonfiction",
+  "Religion & Spirituality"],
+  "genre_id": ["1247",
+  "1944"],
+  "source": "amazon.com books",
+  "workcode": "893375",
+  "entrydate": "2021-04-14",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9 inches",
+  "height": "9 inches",
+  "thickness": "0.63 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.63 inches"
+},
+"198971524": {
+  "books_id": "198971524",
+  "title": "Handbook of Biblical Hebrew, Vol. 2: an Inductive Approach Based on the Hebrew Text of Esther",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "LaSor, William Sanford",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "LaSor, William Sanford",
+    "fl": "William Sanford LaSor",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0802823823",
+  "isbn": {
+    "0": "0802823823",
+    "2": "9780802823823"
+  },
+  "asin": "0802823823",
+  "ean": ["0802823823"],
+  "publication": "Eerdmans (1979), Edition: Presumed First Edition, 283 pages",
+  "date": "1979",
+  "summary": "Handbook of Biblical Hebrew, Vol. 2: an Inductive Approach Based on the Hebrew Text of Esther by William Sanford LaSor (1979)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["492.4"],
+    "wording": ["Hebrew",
+    "Language",
+    "Other Languages",
+    "Semitic"]
+  },
+  "lcc": {
+    "code": "PJ4567 .L35"
+  },
+  "source": "amazon.com books",
+  "workcode": "5399682",
+  "entrydate": "2021-04-14",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "weight": "1.2 pounds"
+},
+"198998231": {
+  "books_id": "198998231",
+  "title": "Of Water and the Spirit: A Liturgical Study of Baptism",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Schmemann, Alexander",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Schmemann, Alexander",
+    "fl": "Alexander Schmemann",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0913836109",
+  "isbn": {
+    "0": "0913836109",
+    "2": "9780913836101"
+  },
+  "asin": "0913836109",
+  "ean": ["0913836109"],
+  "publication": "St Vladimirs Seminary Pr (1997), 170 pages",
+  "date": "1997",
+  "summary": "Of Water and the Spirit: A Liturgical Study of Baptism by Alexander Schmemann (1997)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["234.161"],
+    "wording": ["Baptism",
+    "Christian doctrinal theology",
+    "Grace",
+    "Religions",
+    "Sacraments",
+    "Salvation; Soteriology"]
+  },
+  "lcc": {
+    "code": "BX378 .B3"
+  },
+  "subject": [["Baptism",
+  "Liturgy"],
+  ["Baptism",
+  "Orthodox Eastern Church",
+  "Liturgy"],
+  ["Orthodox Eastern Church",
+  "Liturgy",
+  "Texts",
+  "History and criticism"]],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "2606470",
+  "entrydate": "2021-04-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "0.75 inches",
+  "length": "5.5 inches",
+  "dimensions": "8.5 x 5.5 x 0.75 inches",
+  "weight": "0.55 pounds",
+  "pages": "170 "
+},
+"198998232": {
+  "books_id": "198998232",
+  "title": "Introduction to Liturgical Theology",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Schmemann, Alexander",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Schmemann, Alexander",
+    "fl": "Alexander Schmemann",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780913836187",
+  "isbn": ["9780913836187",
+  "0913836184"],
+  "asin": "0913836184",
+  "ean": ["0913836184"],
+  "publication": "St Vladimirs Seminary Pr (1966), Edition: 3 Sub, 220 pages",
+  "date": "1966",
+  "summary": "Introduction to Liturgical Theology by Alexander Schmemann (1966)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["Russian"],
+  "originallanguage_codeA": ["eng",
+  "rus"],
+  "ddc": {
+    "code": ["264.019"],
+    "wording": ["Christian church and church work",
+    "Eastern Orthodox ritual",
+    "Public Worship; Ritual",
+    "Public worship; ritual",
+    "Religions",
+    "Texts"]
+  },
+  "lcc": {
+    "code": "BX350 .S3713"
+  },
+  "subject": {
+    "0": ["Liturgics"],
+    "2": ["Orthodox Eastern Church",
+    "Doctrines"],
+    "3": ["Orthodox Eastern Church",
+    "Liturgy"],
+    "4": ["Orthodox Eastern church",
+    "Doctrines"]
+  },
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "149260",
+  "entrydate": "2021-04-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.75 inches",
+  "height": "8.75 inches",
+  "thickness": "0.75 inches",
+  "length": "5.75 inches",
+  "dimensions": "8.75 x 5.75 x 0.75 inches",
+  "weight": "0.6503636729 pounds",
+  "pages": "220 "
+},
+"198998233": {
+  "books_id": "198998233",
+  "title": "The Eucharist: Sacrament of the Kingdom",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Schmemann, Alexander",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Schmemann, Alexander",
+    "fl": "Alexander Schmemann",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0881410187",
+  "isbn": {
+    "0": "0881410187",
+    "2": "9780881410181"
+  },
+  "asin": "0881410187",
+  "ean": ["0881410187"],
+  "publication": "St Vladimirs Seminary Pr (2003), Edition: First edition., 245 pages",
+  "date": "2003",
+  "summary": "The Eucharist: Sacrament of the Kingdom by Alexander Schmemann (2003)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["Russian"],
+  "originallanguage_codeA": ["eng",
+  "rus"],
+  "ddc": {
+    "code": ["264.019036"],
+    "wording": ["Christian church and church work",
+    "Eastern Orthodox ritual",
+    "Public Worship; Ritual",
+    "Public worship; ritual",
+    "Religions",
+    "Texts"]
+  },
+  "lcc": {
+    "code": "BX355 .S3613"
+  },
+  "subject": {
+    "0": ["Lord's Supper",
+    "Orthodox Eastern Church"],
+    "2": ["Lord's Supper (Liturgy)"],
+    "4": ["Lord's supper (Liturgy)"],
+    "5": ["Lord\\'s Supper",
+    "Orthodox Eastern Church"],
+    "6": ["Lord\\'s Supper (Liturgy)"],
+    "7": ["Orthodox Eastern Church",
+    "Doctrines"],
+    "8": ["Orthodox Eastern Church",
+    "Liturgy"],
+    "9": ["Orthodox Eastern church",
+    "Doctrines"]
+  },
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "263309",
+  "entrydate": "2021-04-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.75 inches",
+  "height": "8.75 inches",
+  "thickness": "0.75 inches",
+  "length": "5.75 inches",
+  "dimensions": "8.75 x 5.75 x 0.75 inches",
+  "weight": "0.65918216338 pounds",
+  "pages": "245 "
+},
+"198998236": {
+  "books_id": "198998236",
+  "title": "The Mystical Theology of the Eastern Church",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Lossky, Vladimir",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lossky, Vladimir",
+    "fl": "Vladimir Lossky",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0227679199",
+  "isbn": {
+    "0": "0227679199",
+    "2": "9780227679197"
+  },
+  "asin": "0227679199",
+  "ean": ["8601406440234"],
+  "publication": "James Clarke and Co Ltd (1991), Edition: New e., 254 pages",
+  "date": "1991",
+  "summary": "The Mystical Theology of the Eastern Church by Vladimir Lossky (1991)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["230"],
+    "wording": ["Christian doctrinal theology",
+    "Christianity, Christian theology",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BV5082.2 .L6713"
+  },
+  "subject": [["Mysticism",
+  "Orthodox Eastern Church"]],
+  "originaltitle": "Essai sur la th\u00e9ologie mystique de l'Eglise d'Orient",
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "212883",
+  "entrydate": "2021-04-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.59 inches",
+  "height": "8.59 inches",
+  "thickness": "0.63 inches",
+  "length": "5.51 inches",
+  "dimensions": "8.59 x 5.51 x 0.63 inches",
+  "weight": "0.71870697412 pounds",
+  "pages": "252 "
 }}
