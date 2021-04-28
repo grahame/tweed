@@ -164,10 +164,12 @@
 221.922        9780671541347     Wiesel, Elie, 1928-2016       1985 Messengers of God : Biblical portraits and legends
 221.93         9780691002002     Pritchard, James B. (James    1973 The ancient Near East : an anthology of texts and pictures
 221.95         9780664212919     Hayes, John H. (John Haral    1977 Israelite and Judaean history
+222.06         9780905774305     Noth, Martin, 1902-1968       1981 The deuteronomistic history
 222.106        9780800625931     Lohfink, Norbert              1995 Theology of the Pentateuch : themes of the priestly narrativ
 222.106        9780804200851     Mann, Thomas W. (Thomas Wi    1988 The Book of the Torah : the narrative integrity of the Penta
 222.1066       9780884140627     Boorer, Suzanne, 1954-        2016 The vision of the priestly narrative : its genre and hermene
 222.1066       9780800627010     Campbell, Antony F.           2000 Sources of the Pentateuch : texts, introductions, annotation
+222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A history of Pentateuchal traditions
 222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
 222.11                           Vawter, Bruce                 1956 A path through Genesis
 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
@@ -370,7 +372,10 @@
 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
+234.163        9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
 234.163        9780232512984     Voillaume, René               1976 Source of life : the Eucharist and Christian living
+234.163        9780567326607     Zizioulas, Jean, 1931-        2011 The eucharistic communion and the world
+234.1630902    9780814660539     Macy, Gary                    1999 Treasures from the storeroom : medieval religion and the Euc
 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
 234.2          9780060937133     Tillich, Paul, 1886-1965      2009 Dynamics of faith
 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
@@ -500,6 +505,7 @@
 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
 264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
 264.03         9780819223241     Markham, Ian S.               2009 Liturgical life principles : how Episcopal worship can lead 
+264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
 264.03         9780648265962     Sherlock, Charles             2020 Australian Anglicans Worship: peforming APBA
 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
 264.039                          Vroom, F. W.                  1940 An Introduction to the Prayer Book
@@ -555,6 +561,7 @@
 283            9780334028635     Hardy, Daniel W.              2001 Finding the church : the dynamic truth of Anglicanism
 283            9781596280045     Ramsey, Michael, 1904-1988    2004 The Anglican spirit
 283            9781598563894     Ramsey, Michael, 1904-1988    2009 The Gospel and the Catholic Church
+283            9780800631512     Sykes, Stephen                1998 The study of Anglicanism
 283.0922       9781786074416     Butler-Gallie, Fergus         2018 A field guide to the English clergy : a compendium of divers
 283.42         9780232525274     Williams, Rowan, 1950-        2004 Anglican identities
 283.941        9780646480947     Kyme, Brian                   2007 The Wollaston legacy
@@ -562,6 +569,7 @@
 283.941092     9780522855753     Challen, M. B. (Michael B.    2008 Sambell : man of the word
 283.9441       9781610974653     Jensen, Michael P. (Michae    2012 Sydney Anglicanism : an apology
 283.994        9780908284900     Hale, Stephen                 2009 Facing the future : bishops imagine a different church
+285.90922      9780521611879     Lake, Peter                   2004 Moderate Puritans and the Elizabethan church
 289.6          9780143106319     Hamm, Thomas D.               2011 Quaker writings : an anthology, 1650-1920
 289.60994      9780975157916     Religious Society of Frien    2008 This we can say : Australian Quaker life, faith and thought
 291            9780883446461     Smith, Wilfred Cantwell, 1    1990 Towards a world theology : faith and the comparative history
@@ -841,6 +849,7 @@
 782.42166092   9781851777372     Bowie, David                  2013 David Bowie is the subject
 784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
 790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
+791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
 791.450232092  9780671522995     Fern, Yvonne, 1947-           1996 Gene Roddenberry : the last conversation
 791.4572       9780006550426     Krauss, Lawrence M., 1954-    1997 The physics of Star trek
 791.4572       9780563201960     Lynn, Jonathan                1983 Yes, Minister : the diaries of a cabinet minister
