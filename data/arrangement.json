@@ -1,15 +1,63 @@
 {
-    "bookshelves": [
-        { "name": "A", "shelves": 6 },
-        { "name": "B", "shelves": 6 },
-        { "name": "C", "shelves": 6 },
-        { "name": "D", "shelves": 6 },
-        { "name": "E", "shelves": 3 },
-        { "name": "F", "shelves": 6 },
-        { "name": "G", "shelves": 3 },
-        { "name": "H", "shelves": 3 },
-        { "name": "I", "shelves": 3 },
-        { "name": "J", "shelves": 3 }
+    "shelves": [
+        { "bookshelf": "A", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
+        { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
+        { "bookshelf": "A", "shelf": 4, "first_book": { "isbn": "9780684815015" } },
+        { "bookshelf": "A", "shelf": 5, "first_book": { "isbn": "9780674088054" } },
+        { "bookshelf": "A", "shelf": 6, "first_book": { "isbn": "9780664223083" } },
+
+        { "bookshelf": "B", "shelf": 1, "first_book": { "isbn": "9780664212919" } },
+        { "bookshelf": "B", "shelf": 2, "first_book": { "isbn": "9780195396287" } },
+        { "bookshelf": "B", "shelf": 3, "first_book": { "isbn": "9780300180855" } },
+        { "bookshelf": "B", "shelf": 4, "first_book": { "isbn": "9780814635742" } },
+        { "bookshelf": "B", "shelf": 5, "first_book": { "isbn": "9780334009238" } },
+        { "bookshelf": "B", "shelf": 6, "first_book": { "isbn": "9780334053309" } },
+
+        { "bookshelf": "C", "shelf": 1, "first_book": { "isbn": "9780140448948" } },
+        { "bookshelf": "C", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "C", "shelf": 3, "first_book": { "isbn": "" } },
+        { "bookshelf": "C", "shelf": 4, "first_book": { "isbn": "" } },
+        { "bookshelf": "C", "shelf": 5, "first_book": { "isbn": "" } },
+        { "bookshelf": "C", "shelf": 6, "first_book": { "isbn": "" } },
+
+        { "bookshelf": "D", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "D", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "D", "shelf": 3, "first_book": { "isbn": "" } },
+        { "bookshelf": "D", "shelf": 4, "first_book": { "isbn": "" } },
+        { "bookshelf": "D", "shelf": 5, "first_book": { "isbn": "" } },
+        { "bookshelf": "D", "shelf": 6, "first_book": { "isbn": "" } },
+
+
+        { "bookshelf": "E", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "E", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "E", "shelf": 3, "first_book": { "isbn": "" } },
+
+        { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "F", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "F", "shelf": 3, "first_book": { "isbn": "" } },
+        { "bookshelf": "F", "shelf": 4, "first_book": { "isbn": "" } },
+        { "bookshelf": "F", "shelf": 5, "first_book": { "isbn": "" } },
+        { "bookshelf": "F", "shelf": 6, "first_book": { "isbn": "" } },
+
+        { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "G", "shelf": 3, "first_book": { "isbn": "" } },
+
+        { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "" } },
+
+        { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "" } },
+
+        { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "" } },
+
+        { "bookshelf": "Z", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "Z", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "Z", "shelf": 3, "first_book": { "isbn": "" } }
     ],
     "overrides": {}
 }

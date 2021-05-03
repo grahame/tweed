@@ -3,6 +3,7 @@ import json
 import datetime
 import requests
 import functools
+from itertools import tee
 import urllib.parse
 import re
 import sys
@@ -11,6 +12,14 @@ from lxml import etree
 from hashlib import sha256
 
 Book = namedtuple("Book", ("ddc", "author", "title", "isbn", "date"))
+BookPlacement = namedtuple("BookPlacement", ("book", "location"))
+
+# https://docs.python.org/3/library/itertools.html
+def pairwise(iterable):
+    "s -> (s0,s1), (s1,s2), (s2, s3), ..."
+    a, b = tee(iterable)
+    next(b, None)
+    return zip(a, b)
 
 
 def one(l):
@@ -274,13 +283,13 @@ class Library:
     def write_json(self):
         obj = {"books": []}
         seen = set()
-        for book in self.arrangement:
+        for bp in self.arrangement:
             book_obj = (
-                ("ddc", book.ddc),
-                ("isbn", book.isbn),
-                ("author", book.author),
-                ("date", str(book.date)),
-                ("title", book.title),
+                ("ddc", bp.book.ddc),
+                ("isbn", bp.book.isbn),
+                ("author", bp.book.author),
+                ("date", str(bp.book.date)),
+                ("title", bp.book.title),
             )
             if book_obj in seen:
                 continue
@@ -290,14 +299,15 @@ class Library:
             json.dump(obj, fd)
 
     def write_index_txt(self):
-        for book in self.arrangement:
+        for bp in self.arrangement:
             print(
-                "{:14} {:16}  {:28}  {:4} {}".format(
-                    (book.ddc or "")[:14],
-                    (book.isbn or "")[:16],
-                    book.author[:26],
-                    str(book.date)[:4],
-                    book.title[:60],
+                "{:4} {:14} {:16}  {:28}  {:4} {}".format(
+                    bp.location,
+                    (bp.book.ddc or "")[:14],
+                    (bp.book.isbn or "")[:16],
+                    bp.book.author[:26],
+                    str(bp.book.date)[:4],
+                    bp.book.title[:60],
                 )
             )
 
@@ -314,4 +324,23 @@ class Library:
         # allocate to shelves
         with open("data/arrangement.json") as fd:
             arrangement = json.load(fd)
-        return books
+        shelves = arrangement["shelves"]
+        placed = []
+        book_index = 0
+        for on_shelf, next_shelf in pairwise(shelves):
+            if book_index == len(books):
+                break
+            while True:
+                book = books[book_index]
+                if book.isbn == next_shelf["first_book"]["isbn"]:
+                    break
+                placed.append(
+                    BookPlacement(
+                        book, "{}{}".format(on_shelf["bookshelf"], on_shelf["shelf"])
+                    )
+                )
+                book_index += 1
+                if book_index == len(books):
+                    break
+
+        return placed
