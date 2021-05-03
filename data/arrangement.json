@@ -58,5 +58,17 @@
         { "bookshelf": "Z", "shelf": 2, "first_book": { "isbn": "" } },
         { "bookshelf": "Z", "shelf": 3, "first_book": { "isbn": "" } }
     ],
-    "overrides": {}
+    "overrides": [
+        { "isbn": "9781426735837", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426735844", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426721267", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426735851", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426735868", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426735806", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426735820", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426735813", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426735790", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9781426735783", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9780136149347", "bookshelf": "A", "shelf": 3 }
+    ]
 }

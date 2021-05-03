@@ -321,6 +321,20 @@ class Library:
                 book.title.lower(),
             )
         )
+
+        def format_loc(shelf):
+            return "{}{}".format(shelf["bookshelf"], shelf["shelf"])
+
+        def book_matches(book, query):
+            match = True
+            if "isbn" in query:
+                match &= book.isbn == query["isbn"]
+            if "title" in query:
+                match &= book.title == query["title"]
+            if "author" in query:
+                match &= book.author == query["author"]
+            return match
+
         # allocate to shelves
         with open("data/arrangement.json") as fd:
             arrangement = json.load(fd)
@@ -332,16 +346,13 @@ class Library:
                 break
             while True:
                 book = books[book_index]
-                loc = "{}{}".format(on_shelf["bookshelf"], on_shelf["shelf"])
-                if book.isbn == next_shelf["first_book"]["isbn"]:
-                    print(
-                        "FOUND",
-                        loc,
-                        repr(book.isbn),
-                        repr(next_shelf["first_book"]["isbn"]),
-                    )
+                placed_on = on_shelf
+                for override in arrangement["overrides"]:
+                    if book_matches(book, override):
+                        placed_on = override
+                if book_matches(book, next_shelf["first_book"]):
                     break
-                placed.append(BookPlacement(book, loc))
+                placed.append(BookPlacement(book, format_loc(placed_on)))
                 book_index += 1
                 if book_index == len(books):
                     break
