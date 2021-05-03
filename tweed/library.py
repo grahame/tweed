@@ -311,4 +311,7 @@ class Library:
                 book.title.lower(),
             )
         )
+        # allocate to shelves
+        with open("data/arrangement.json") as fd:
+            arrangement = json.load(fd)
         return books

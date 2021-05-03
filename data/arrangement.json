@@ -1,0 +1,15 @@
+{
+    "bookshelves": [
+        { "name": "A", "shelves": 6 },
+        { "name": "B", "shelves": 6 },
+        { "name": "C", "shelves": 6 },
+        { "name": "D", "shelves": 6 },
+        { "name": "E", "shelves": 3 },
+        { "name": "F", "shelves": 6 },
+        { "name": "G", "shelves": 3 },
+        { "name": "H", "shelves": 3 },
+        { "name": "I", "shelves": 3 },
+        { "name": "J", "shelves": 3 }
+    ],
+    "overrides": {}
+}

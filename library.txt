@@ -40,6 +40,7 @@
 070.92         9780679785897     Thompson, Hunter S.           1998 Fear and loathing in Las Vegas : a savage journey to the hea
 070.92         9780007161232     Thompson, Hunter S.           2003 Fear and loathing in Las Vegas : a savage journey to the hea
 070.924        9781862078246     Cameron, James, 1911-1985     2007 Point of departure: experiment in biography
+081            9780944344033     Robbins, Vernon K. 1939- [    1990 Ancient quotes &amp; anecdotes : from crib to crypt
 100            9780415693165     Warburton, Nigel, 1962-       2012 Philosophy : the basics
 109.2          9780753811368     Monk, Ray                     2001 The great philosophers
 110            9780140446197     Aristotle                     1999 Metaphysics
@@ -97,6 +98,7 @@
 213            9781570754517     Ó Murchú, Diarmuid            2002 Evolutionary faith : rediscovering God in our great story
 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
 220            9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
+220                              St. Athanasius Academy of     2008 The Orthodox Study Bible, Hardcover: Ancient Christianity Sp
 220.072        9780800697747     Moore, Stephen D., 1954-      2011 The invention of the biblical scholar : a critical manifesto
 220.09         9781843546276     Armstrong, Karen, 1944-       2007 The Bible : a biography
 220.5          9780691209142     Alter, Robert                 2020 The art of Bible translation
@@ -140,6 +142,7 @@
 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
 221.4403       9780802834133     Holladay, William Lee         1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
+221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
@@ -214,6 +217,7 @@
 225.6          9780334003885     Käsemann, Ernst               2012 Essays on New Testament themes
 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
 225.6          9781563381836     Robbins, Vernon K. (Vernon    1996 Exploring the texture of texts : a guide to socio-rhetorical
+225.6          9780415139984     Robbins, Vernon K. (Vernon    1996 The tapestry of early Christian discourse : rhetoric, societ
 225.6          9780867160987     Rohr, Richard, O.F.M          1988 The great themes of scripture : New Testament
 225.61         9780300173123     Brown, Raymond Edward         2016 An introduction to the New Testament
 225.61         9780802827463     Loader, William R. G., 194    2007 The New Testament with imagination : a fresh approach to its
@@ -249,6 +253,7 @@
 226.2067       9781570753244     Carter, Warren, 1955-         2001 Matthew and the margins : a sociopolitical and religious rea
 226.207        9781876295844     Byrne, Brendan (Brendan J.    2004 Lifting the burden : reading Matthew's Gospel in the church 
 226.207        9781910928226     Wainwright, Elaine Mary, 1    2017 Habitat, human, and holy : an eco-rhetorical reading of the 
+226.306        9780800625955     Robbins, Vernon K. (Vernon    2009 Jesus the teacher : a socio-rhetorical interpretation of Mar
 226.306        9780894532733     Stock, Augustine              1982 Call to discipleship : a literary study of Mark's gospel
 226.306        9780281072507     Williams, Rowan (Rowan Dou    2014 Meeting God in Mark : reflections for the season of Lent
 226.307        9780802818874     Anderson, Hugh, 1920-         1981 The Gospel of Mark : based on the Revised standard version
@@ -310,6 +315,7 @@
 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
 230.14         9780199540631     Augustin (0354-0430; saint    2008 On Christian doctrine
+230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
 230.2          9780883448151     Boff, Leonardo                1993 The path to hope : fragments from a theologian's journey
 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
@@ -490,6 +496,7 @@
 261.88         9781925486193     Kelly, Anthony, 1938-         2016 An integral ecology and the Catholic vision
 261.88         9780800662714     McFague, Sallie               2008 A new climate for theology : God, the world, and global warm
 262            9780567672483     MacDougall, Scott             2018 More than communion : imagining an eschatological ecclesiolo
+262            9780881410297     Zizioulas, Jean, 1931-        1997 Being as communion : studies in personhood and the church
 262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
 262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
 262.14342      9780281072224     Smith, Magdalen               2014 Steel angels : the personal qualities of a priest
@@ -502,6 +509,7 @@
 264.02         9781586179977     Benedict XVI, Pope, 1927-     2014 The spirit of the liturgy
 264.02         9780814649060     Boselli, Goffredo             2014 The spiritual meaning of the liturgy : school of prayer, sou
 264.02                           Bouyer, Louis                 1965 The liturgy revived : a doctrinal commentary of the Concilia
+264.024        9780814637029     Johnson, Maxwell E., 1952-    2015 Benedictine daily prayer : a short breviary
 264.03         9780909827793     Church of England in Austr    1978 An Australian prayer book : for use together with the Book o
 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
 264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
@@ -843,6 +851,7 @@
 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
+755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
 759.94         9780141035796     Berger, John                  2008 Ways of seeing
 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature &amp; outdoor photography
 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
