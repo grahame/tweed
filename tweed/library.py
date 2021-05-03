@@ -332,13 +332,16 @@ class Library:
                 break
             while True:
                 book = books[book_index]
+                loc = "{}{}".format(on_shelf["bookshelf"], on_shelf["shelf"])
                 if book.isbn == next_shelf["first_book"]["isbn"]:
-                    break
-                placed.append(
-                    BookPlacement(
-                        book, "{}{}".format(on_shelf["bookshelf"], on_shelf["shelf"])
+                    print(
+                        "FOUND",
+                        loc,
+                        repr(book.isbn),
+                        repr(next_shelf["first_book"]["isbn"]),
                     )
-                )
+                    break
+                placed.append(BookPlacement(book, loc))
                 book_index += 1
                 if book_index == len(books):
                     break
