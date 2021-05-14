@@ -119,17 +119,17 @@ A5   220.61         9780060609191     Borg, Marcus J.               2002 Reading
 A5   220.61         9780060609191     Borg, Marcus J.               2015 Reading the Bible again for the first time : taking the Bibl
 A5   220.61         9780818909863     Trainor, Michael F., 1950-    2005 Journeying : a beginner's guide to the bible
 A5   220.66         9780800604738     Powell, Mark Allan, 1953-     1991 What is narrative criticism?
-A5   220.7          9780136149347     Brown, Raymond Edward         1989 The new Jerome biblical commentary
-A5   220.7          9781426735837     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426735844     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426721267     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426735851     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426735868     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426735806     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426735820     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426735813     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426735790     Keck, Leander E.              2015 The New interpreter's bible commentary
-A5   220.7          9781426735783     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9780136149347     Brown, Raymond Edward         1989 The new Jerome biblical commentary
+A3   220.7          9781426735837     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426735844     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426721267     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426735851     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426735868     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426735806     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426735820     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426735813     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426735790     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3   220.7          9781426735783     Keck, Leander E.              2015 The New interpreter's bible commentary
 A5   220.77         9780310521938     Barker, Glenn W., 1920-198    2015 Word biblical commentary
 A5   220.77         9780310522003     Barker, Glenn W., 1920-198    2012 Word biblical commentary
 A5   220.83067      9781909697836     Myles, Robert J.              2015 Sexuality, ideology and the Bible : Antipodean engagements
@@ -176,10 +176,12 @@ B1   222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A histo
 B1   222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
 B1   222.11                           Vawter, Bruce                 1956 A path through Genesis
 B1   222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
+B1   222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
 B1   222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
 B1   222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
 B1   222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
 B1   222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
+B1   222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
 B1   222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
 B1   222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
 B1   222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
@@ -278,6 +280,7 @@ B4   227.06         9780800623791     Elliott, Neil, 1956-          2006 Liberat
 B4   227.06         9780567656254     Horrell, David G.             2015 An introduction to the study of Paul
 B4   227.095        9780800663759     Elliot, Neil                  2010 Documents and images for the study of Paul
 B4   227.1          9780195002942     Barth, Karl, 1886-1968        1968 The Epistle to the Romans
+B4   227.1          9781795301213     St Ignatius of Antioch        2019 The Letters of St. Ignatius
 B4   227.106        9780800697686     Elliott, Neil, 1956-          2010 The arrogance of nations : reading Romans in the shadow of e
 B4   227.106        9780800662028     Elliott, Neil, 1956-          2000 The rhetoric of Romans : argumentative constraint and strate
 B4   227.1067       9780281059317     Oakes, Peter (Peter S.)       2009 Reading Romans in Pompeii : Paul's letter at ground level
@@ -359,6 +362,7 @@ B6   232.9          9780281041084     Chilton, Bruce                1984 A Galil
 B6   232.9          9781406838411     Renan, Ernest                 2007 The Life of Jesus
 B6   232.901        9781743319390     Aslan, Reza                   2013 ZEALOT : the Life and Times of Jesus of Nazareth
 B6   232.901        9780141046228     Vermès, Géza, 1924-2013       2010 Jesus : nativity, passion, resurrection
+B6   232.906        9780773520462     Neusner, Jacob, 1932-2016     2000 A Rabbi talks with Jesus : an intermillennial, interfaith ex
 B6   232.908        9780060609177     Borg, Marcus J.               1995 Meeting Jesus again for the first time : the historical Jesu
 B6   232.908        9780883442203     Segundo, Juan Luis            1985 The historical Jesus of the synoptics
 B6   232.92         9780061430718     Borg, Marcus J.               2009 The first Christmas : what the Gospels really teach about Je
@@ -442,6 +446,10 @@ C2   248.4          9781472946089     Williams, Rowan (magdalene    2017 Holy li
 C2   248.46         9780824523671     Gallagher, Timothy M.         2006 The examen prayer : Ignatian wisdom for our lives today
 C2   248.47         9780830835454     Barton, R. Ruth, 1960-        2010 Invitation to solitude and silence : experiencing God's tran
 C2   248.47         9781441103222     Coakley, Sarah, 1951-         2016 The new asceticism : sexuality, gender and the quest for God
+C2   248.4819       9780195390278     Bingaman, Brock [Editor]      2012 The Philokalia : a classic text of Orthodox spirituality
+C2   248.4819       9780571130139     Nicodemus, the Hagiorite,     1983 The Philokalia : the complete text
+C2   248.4819       9780571175253     Nicodemus, the Hagiorite,     1986 The Philokalia : the complete text
+C2   248.4819       9780571193820     Nicodemus, the Hagiorite,     1999 The Philokalia : the complete text
 C2   248.482        9780829427028     Barry, William A.             2008 A friendship like no other : experiencing God's amazing embr
 C2   248.482        9780809134502     Dreyer, Elizabeth, 1945-      1993 Earth crammed with heaven : a spirituality of everyday life
 C2   248.482        9780809124213     Hauser, Richard J.            1982 In his spirit : a guide to today's spirituality
@@ -497,6 +505,7 @@ C3   261.88         9781925486193     Kelly, Anthony, 1938-         2016 An inte
 C3   261.88         9780800662714     McFague, Sallie               2008 A new climate for theology : God, the world, and global warm
 C3   262            9780567672483     MacDougall, Scott             2018 More than communion : imagining an eschatological ecclesiolo
 C3   262            9780881410297     Zizioulas, Jean, 1931-        1997 Being as communion : studies in personhood and the church
+C3   262.14         9780232527438     Croft, Steven J. L.           2008 Ministry in three dimensions : ordination and leadership in 
 C3   262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
 C3   262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
 C3   262.14342      9780281072224     Smith, Magdalen               2014 Steel angels : the personal qualities of a priest
@@ -513,6 +522,7 @@ C3   264.024        9780814637029     Johnson, Maxwell E., 1952-    2015 Benedic
 C3   264.03         9780909827793     Church of England in Austr    1978 An Australian prayer book : for use together with the Book o
 C3   264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
 C3   264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
+C3   264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
 C3   264.03         9780819223241     Markham, Ian S.               2009 Liturgical life principles : how Episcopal worship can lead 
 C3   264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
 C3   264.03         9780648265962     Sherlock, Charles             2020 Australian Anglicans Worship: peforming APBA
@@ -694,7 +704,6 @@ D3   388.4091733    9781844077403     Mees, Paul, 1961-             2009 Transpo
 D3   394.12         9781408812181     Pollan, Michael               2011 The omnivore's dilemma : the search for a perfect meal in a 
 D3   398.2452       9780007902125     Aesop                         2011 Aesop's fables
 D3   400            9780141037653     Pinker, Steven, 1954-         2008 The language instinct
-D3   408            9781863950930     Craven, Peter                 2003 Best Australian Poems 2003
 D3   427.994        9781740512787     Watson, Don, 1949-            2004 Death sentence : the decay of public language
 D3   487.1          9781781251324     Fox, Margalit                 None The riddle of the labyrinth : the quest to crack an ancient 
 D3   487.4          9780334011392     Barclay, William, 1907-197    2012 New Testament words
@@ -859,6 +868,7 @@ D3   779.092        9781472150721     Addario, Lynsey               2015 It's wh
 D3   780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
 D3   782.27                           Methodist Church              1933 The School Hymn Book of the Methodist Church
 D3   782.42166092   9781851777372     Bowie, David                  2013 David Bowie is the subject
+D3   783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
 D3   784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
 D3   790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
 D3   791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
@@ -937,6 +947,7 @@ D3   813.54         9780547877327     Dick, Philip K.               2012 The gam
 D3   813.54         9780141186672     Dick, Philip K.               2010 The man in the high castle
 D3   813.54         9781857988536     Dick, Philip K.               2000 Ubik
 D3   813.54         9780747263746     Gaiman, Neil                  2002 American gods : a novel
+D3   813.54         9780241237229     Gibson, William, 1948-        2020 Agency
 D3   813.54         9780006480419     Gibson, William, 1948-        1995 Neuromancer
 D3   813.54         9780140266146     Gibson, William, 1948-        2010 Pattern recognition
 D3   813.54         9780141016719     Gibson, William, 1948-        2008 Spook country
@@ -951,8 +962,11 @@ D3   813.54         9780340960196     Herbert, Frank                2015 Dune. H
 D3   813.54         9780450424052     Herbert, Frank                1988 Eye
 D3   813.54         9780450012297     Herbert, Frank.               1969 Dune Messiah
 D3   813.54         9780007232192     Hunt, Stephen, 1967-          2007 The Court of the Air
+D3   813.54         9781473223547     Le Guin, Ursula K., 1929-2    2018 The books of Earthsea
+D3   813.54         9781473228412     Le Guin, Ursula K., 1929-2    2019 The dispossessed : a novel
 D3   813.54         9780441478125     Le Guin, Ursula K., 1929-2    1987 The left hand of darkness
 D3   813.54         9781473205765     Le Guin, Ursula K., 1929-2    2001 The wind's twelve quarters and the compass rose
+D3   813.54         9781473230989     Le Guin, Ursula K., 1929-2    2020 Worlds of exile and illusion
 D3   813.54         9780434020485     Lee, Harper, 1926-            2010 To kill a mockingbird
 D3   813.54         9780099283928     MacLeod, Alistair             2006 No great mischief
 D3   813.54         9781472203199     McDevitt, Jack                2001 The engines of God
@@ -1076,6 +1090,7 @@ D3   821.4          9780099529460     Milton, John                  2009 Paradis
 D3   821.4          9781760801182     Rhook, Nadia,                 None Boots
 D3   821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
 D3   821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
+D3   821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
 D3   821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
 D3   821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
 D3   821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
@@ -1109,6 +1124,7 @@ D3   823.5          9780140431490     Defoe, Daniel, 1661?-1731     1982 Roxana,
 D3   823.7          9780141199078     Austen, Jane, 1775-1817       2012 Pride and prejudice
 D3   823.7          9780099589334     Austen, Jane, 1775-1817       2014 Pride and prejudice
 D3   823.7          9781343336766     Scott, Walter                 2015 The Heart Of Mid-lothian
+D3   823.7          9780938819806     Shelley, Mary Wollstonecra    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
 D3   823.74         9780785834212     Austen, Jane, 1775-1817       2016 The complete novels of Jane Austen
 D3   823.8          9780141045207     Brontë, Emily, 1818-1848      2009 Wuthering Heights
 D3   823.8          9781406360431     Carroll, Lewis, 1832-1898     2014 Alice's adventures in Wonderland
@@ -1314,6 +1330,7 @@ D3   891.7342       9781838850586     Zami︠a︡tin, Evgeniĭ Ivanov    2020 We
 D3   891.7344       9780575093133     Strugat︠s︡kiĭ, Arkadiĭ, 19    2001 Roadside picnic
 D3   891.7344       9781612194325     Strugat︠s︡kiĭ, Arkadiĭ, 19    2015 The Dead Mountaineer's Inn : (one more last rite for the det
 D3   892.1          9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
+D3   895            9781863950930     Craven, Peter                 2003 Best Australian Poems 2003
 D3   895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
 D3   895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
 D3   895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
@@ -1381,7 +1398,7 @@ D3   994.12004      9781921401428     Host, John T. (John Thomas    2009 'It's s
 D3                  9780980593730     Ahmed, Safdar                 2021 Still Alive
 D3                                    Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
 D3                  9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
-D3                  9780938819806     Shelley, Mary Wollstonecra    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
+D3                  9780645000900     Skoubourdis, Anna             2020 Philokalia: Volume 5 (St George Monastery)
 D3                  9780648228202     Watts, Rachel                 2018 Survival
 D3                                    Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
 D3                                    Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
