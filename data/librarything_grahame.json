@@ -57330,61 +57330,6 @@
   "weight": "0.15 pounds",
   "pages": "277 "
 },
-"165621378": {
-  "books_id": "165621378",
-  "title": "On Fairness",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Mcmanus, Sally",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Mcmanus, Sally",
-    "fl": "Sally Mcmanus",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0522874851",
-  "isbn": {
-    "0": "0522874851",
-    "2": "9780522874853"
-  },
-  "asin": "0522874851",
-  "ean": ["0522874851"],
-  "publication": "Melbourne University Press (2019), 277 pages",
-  "date": "2019",
-  "summary": "On Fairness by Sally Mcmanus (2019)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["331.80994"],
-    "wording": ["Capital; Labor; Wages",
-    "Economics",
-    "Laboring classes",
-    "Social Sciences"]
-  },
-  "lcc": [],
-  "genre": ["History"],
-  "genre_id": ["1599"],
-  "source": "amazon.com books",
-  "workcode": "22865477",
-  "entrydate": "2019-02-14",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "277 p.; 4.29 inches",
-  "height": "4.29 inches",
-  "thickness": "5.83 inches",
-  "length": "0.31 inches",
-  "dimensions": "4.29 x 0.31 x 5.83 inches",
-  "weight": "0.15 pounds",
-  "pages": "277 "
-},
 "165647460": {
   "books_id": "165647460",
   "title": "Class Struggle in the New Testament",
@@ -60123,7 +60068,8 @@
   "copies": "1",
   "volumes": "1",
   "pages": "107 "
-},"169963854": {
+},
+"169963854": {
   "books_id": "169963854",
   "title": "The Future of Ethics and Moral Theology",
   "sortcharacter": "5",
@@ -60151,8 +60097,7 @@
   "entrydate": "2019-06-19",
   "copies": "1",
   "volumes": "1"
-},
-"170653659": {
+},"170653659": {
   "books_id": "170653659",
   "title": "See What You Made Me Do: Power, Control and Domestic Violence",
   "sortcharacter": "1",
@@ -66397,7 +66342,8 @@
   "physical_description": "304 p.",
   "weight": "1.11 pounds",
   "pages": "304 "
-},"178256148": {
+},
+"178256148": {
   "books_id": "178256148",
   "title": "Theology for Beginners",
   "sortcharacter": "1",
@@ -66461,8 +66407,7 @@
   "dimensions": "5.5 x 0.63 x 8.5 inches",
   "weight": "0.71 pounds",
   "pages": "252 "
-},
-"178256150": {
+},"178256150": {
   "books_id": "178256150",
   "title": "Theology, Church and Ministry",
   "sortcharacter": "1",
@@ -68639,10 +68584,10 @@
     "Fiction"],
     "10": ["science fiction"]
   },
-  "series": ["Parabole",
-  "Ciclo delle parabole",
-  "Earthseed",
-  "Parable"],
+  "series": ["Earthseed",
+  "Parable",
+  "Parabole",
+  "Ciclo delle parabole"],
   "awards": ["Nebula Nominee",
   "ALA Best Books for Young Adults",
   "ALA Outstanding Books for the College Bound"],
@@ -72833,7 +72778,8 @@
   "dimensions": "8.53 x 5.54 x 0.87 inches",
   "weight": "1.0802650838 pounds",
   "pages": "384 "
-},"188283939": {
+},
+"188283939": {
   "books_id": "188283939",
   "title": "The Brothers Karamazov: A Novel in Four Parts and an Epilogue",
   "sortcharacter": "5",
@@ -72957,8 +72903,7 @@
   "dimensions": "1.84 x 7.76 x 5.08 inches",
   "weight": "1.57189592806 pounds",
   "pages": "960 "
-},
-"188283940": {
+},"188283940": {
   "books_id": "188283940",
   "title": "War and Peace (Wordsworth Classics)",
   "sortcharacter": "1",
@@ -79209,7 +79154,8 @@
     "text": "Paperback"
   }],
   "copies": "1"
-},"192688886": {
+},
+"192688886": {
   "books_id": "192688886",
   "title": "Being and Time (Harper Perennial Modern Thought)",
   "sortcharacter": "1",
@@ -79279,8 +79225,7 @@
   "dimensions": "9 x 6 x 1.53 inches",
   "weight": "1.22 pounds",
   "pages": "608 "
-},
-"192706457": {
+},"192706457": {
   "books_id": "192706457",
   "title": "City of God (Penguin Classics)",
   "sortcharacter": "1",
@@ -83232,13 +83177,16 @@
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Disksvijet",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
-  "Mundodisco",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Korongvil\u00e1g",
@@ -83246,12 +83194,10 @@
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
-  "Kettamaailm",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
   "Disgfyd",
+  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
+  "Mundodisco",
   "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
@@ -83259,8 +83205,7 @@
   "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
-  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
-  "Disksvijet",
+  "Kettamaailm",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -83338,13 +83283,16 @@
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Disksvijet",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
-  "Mundodisco",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Korongvil\u00e1g",
@@ -83352,12 +83300,10 @@
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
-  "Kettamaailm",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
   "Disgfyd",
+  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
+  "Mundodisco",
   "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
@@ -83365,8 +83311,7 @@
   "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
-  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
-  "Disksvijet",
+  "Kettamaailm",
   "Skivv\u00e4rlden: D\u00f6den",
   "Kiekkomaailma : Kuolema",
   "Scheibenwelt: Der Tod",
@@ -83453,13 +83398,16 @@
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Disksvijet",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
-  "Mundodisco",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Korongvil\u00e1g",
@@ -83467,12 +83415,10 @@
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
-  "Kettamaailm",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
   "Disgfyd",
+  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
+  "Mundodisco",
   "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
@@ -83480,8 +83426,7 @@
   "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
-  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
-  "Disksvijet",
+  "Kettamaailm",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -83981,9 +83926,9 @@
   },
   "series": ["Rivers of London",
   "Peter Grant",
-  "Le dernier apprenti sorcier",
   "Fl\u00fcsse von London",
-  "Die Fl\u00fcsse von London"],
+  "Die Fl\u00fcsse von London",
+  "Le dernier apprenti sorcier"],
   "originaltitle": "Whispers Under Ground",
   "genre": ["Fiction",
   "Mystery",
@@ -84048,9 +83993,9 @@
   },
   "series": ["Rivers of London",
   "Peter Grant",
-  "Le dernier apprenti sorcier",
   "Fl\u00fcsse von London",
-  "Die Fl\u00fcsse von London"],
+  "Die Fl\u00fcsse von London",
+  "Le dernier apprenti sorcier"],
   "originaltitle": "Moon over Soho",
   "genre": ["Fiction",
   "Mystery",
@@ -85810,7 +85755,8 @@
   "length": "4.65 inches",
   "dimensions": "7.4 x 4.65 x 1.16 inches",
   "weight": "0.78484565272 pounds"
-},"197168282": {
+},
+"197168282": {
   "books_id": "197168282",
   "title": "The complete English works",
   "sortcharacter": "5",
@@ -85867,8 +85813,7 @@
   "dimensions": "8.2677 x 1.1811 x 5.23621 inches",
   "weight": "1.37 pounds",
   "pages": "512 "
-},
-"197168297": {
+},"197168297": {
   "books_id": "197168297",
   "title": "Let us pray",
   "sortcharacter": "1",
@@ -91776,7 +91721,8 @@
   "dimensions": "7.8 x 5.08 x 0.73 inches",
   "weight": "0.70988848364 pounds",
   "pages": "320 "
-},"200302565": {
+},
+"200302565": {
   "books_id": "200302565",
   "title": "Gravity and Grace (Routledge Classics)",
   "sortcharacter": "1",
@@ -91836,8 +91782,7 @@
   "dimensions": "7.79 x 5.08 x 0.51 inches",
   "weight": "0.52029093832 pounds",
   "pages": "224 "
-},
-"200302570": {
+},"200302570": {
   "books_id": "200302570",
   "title": "Prayers of the Cosmos :Reflections on the Original Meaning of Jesus's Words",
   "sortcharacter": "1",
@@ -92976,4 +92921,47 @@
   "length": "5.51 inches",
   "dimensions": "8.27 x 5.51 x 0.55 inches",
   "weight": "0.67 pounds"
+},
+"201178754": {
+  "books_id": "201178754",
+  "title": "National Aeronautics and Space Administration (NASA) Graphics Standards Manual",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Administration, National Aeronautics and Space",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Administration, National Aeronautics and Space",
+    "fl": "National Aeronautics and Space Administration",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1698853572",
+  "isbn": {
+    "0": "1698853572",
+    "2": "9781698853574"
+  },
+  "asin": "1698853572",
+  "ean": ["1698853572"],
+  "publication": "Independently published (2019), 68 pages",
+  "date": "2019",
+  "summary": "National Aeronautics and Space Administration (NASA) Graphics Standards Manual by National Aeronautics and Space Administration (2019)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "26615831",
+  "entrydate": "2021-06-04",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "11 inches",
+  "height": "11 inches",
+  "thickness": "0.16 inches",
+  "length": "8.5 inches",
+  "dimensions": "11 x 8.5 x 0.16 inches"
 }}

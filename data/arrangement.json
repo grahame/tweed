@@ -125,6 +125,7 @@
         { "isbn": "9781570670725", "bookshelf": "Z", "shelf": 1},
         { "isbn": "9780867772456", "bookshelf": "D", "shelf": 6},
         { "isbn": "9781864367492", "bookshelf": "D", "shelf": 6},
-        { "isbn": "9781405394741", "bookshelf": "D", "shelf": 6}
+        { "isbn": "9781405394741", "bookshelf": "D", "shelf": 6},
+        { "isbn": "9781698853574", "bookshelf": "D", "shelf": 6}
     ]
 }
