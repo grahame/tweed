@@ -293,47 +293,46 @@ B5.01 230            9780334009238     Ritschl, Dietrich             2012 The lo
 B5.02 230            9780060794781     Smith, Huston                 2005 The soul of Christianity : restoring the great tradition
 B5.03 230            9780006267683     Stein, Jock                   1984 In Christ all things hold together : an introduction to Chri
 B5.04 230            9781844749089     Stott, John R. W              2013 Basic Christianity : who is Jesus? why the cross? why is it 
-B5.05 230            9780415267670     Weil, Simone, 1909-1943       2002 Lettre à un religieux
-B5.06 230            9781853118036     Williams, Rowan, 1950-        2007 Tokens of trust : an introduction to Christian belief
-B5.07 230            9780908089611     Wilson, John W. (John Warw    1985 The Old Testament and Christian living
-B5.08 230            9780567033154     Zizioulas, Jean, 1931-        2009 Lectures in Christian dogmatics
-B5.09 230.01         9780824514013     Killen, Patricia O'Connell    1994 The art of theological reflection
-B5.10 230.046        9780415196994     Milbank, John                 1998 Radical orthodoxy : a new theology
-B5.11 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
-B5.12 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
-B5.13 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
-B5.14 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
-B5.15 230.14         9780199540631     Augustin (0354-0430; saint    2008 On Christian doctrine
-B5.16 230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
-B5.17 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
-B5.18 230.2          9780883448151     Boff, Leonardo                1993 The path to hope : fragments from a theologian's journey
-B5.19 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
-B5.20 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
-B5.21 230.2          9780232515862     O'Collins, Gerald             1982 Fundamental theology
-B5.22 230.2          9780824505233     Rahner, Karl, 1904-1984       1982 Foundations of Christian faith : an introduction to the idea
-B5.23 230.2          9781887593922     Sheed, F. J. (Francis Jose    2013 Theology for beginners
-B5.24 230.3          9780567008022     Chapman, Mark D. (Mark Dav    2012 Anglican theology
-B5.25 230.3          9780281029372     Church of England. Doctrin    1986 Christian believing : the nature of the Christian faith and 
-B5.26 230.3          9780334023531     Macquarrie, John              2012 Theology, church, and ministry
-B5.27 230.3          9780816422173     Norris, Richard A., Jr. (R    1979 Understanding the faith of the Church
+B5.05 230            9781853118036     Williams, Rowan, 1950-        2007 Tokens of trust : an introduction to Christian belief
+B5.06 230            9780908089611     Wilson, John W. (John Warw    1985 The Old Testament and Christian living
+B5.07 230            9780567033154     Zizioulas, Jean, 1931-        2009 Lectures in Christian dogmatics
+B5.08 230.01         9780824514013     Killen, Patricia O'Connell    1994 The art of theological reflection
+B5.09 230.046        9780415196994     Milbank, John                 1998 Radical orthodoxy : a new theology
+B5.10 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
+B5.11 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
+B5.12 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
+B5.13 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
+B5.14 230.14         9780199540631     Augustin (0354-0430; saint    2008 On Christian doctrine
+B5.15 230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
+B5.16 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
+B5.17 230.2          9780883448151     Boff, Leonardo                1993 The path to hope : fragments from a theologian's journey
+B5.18 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
+B5.19 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
+B5.20 230.2          9780232515862     O'Collins, Gerald             1982 Fundamental theology
+B5.21 230.2          9780824505233     Rahner, Karl, 1904-1984       1982 Foundations of Christian faith : an introduction to the idea
+B5.22 230.2          9781887593922     Sheed, F. J. (Francis Jose    2013 Theology for beginners
+B5.23 230.3          9780567008022     Chapman, Mark D. (Mark Dav    2012 Anglican theology
+B5.24 230.3          9780281029372     Church of England. Doctrin    1986 Christian believing : the nature of the Christian faith and 
+B5.25 230.3          9780334023531     Macquarrie, John              2012 Theology, church, and ministry
+B5.26 230.3          9780816422173     Norris, Richard A., Jr. (R    1979 Understanding the faith of the Church
+B5.27 231            9780060610357     Borg, Marcus J.               1998 The God we never knew : beyond dogmatic religion to a more a
 B5.28 231            9780060610357     Borg, Marcus J.               1998 The God we never knew : beyond dogmatic religion to a more a
-B5.29 231            9780060610357     Borg, Marcus J.               1998 The God we never knew : beyond dogmatic religion to a more a
-B5.30 231            9780006266372     Küng, Hans, 1928-             1983 Does God exist? : an answer for today
-B5.31 231            9780567088505     Mostert, Christiaan           2002 God and the future : Wolfhardt Pannenberg's eschatological d
-B5.32 231            9780860120155     Rahner, Karl, 1904-1984       2001 The Trinity
-B5.33 231.044        9780567087034     Torrance, Thomas F. (Thoma    2000 Trinitarian perspectives : toward doctrinal agreement
-B5.34 231.4          9780664256456     Penchansky, David             1999 What rough beast? : images of God in the Hebrew Bible
-B5.35 231.73         9780007461257     Lewis, C. S. (Clive Staple    2012 Miracles : a preliminary study
-B5.36 231.74         9780717113248     Dulles, Avery, 1918-2008      1983 Models of revelation
-B5.37 231.765        9780800628239     Moltmann, Jürgen, 1926-       1993 God in creation : a new theology of creation and the Spirit 
-B5.38 231.8          9780829419818     Hauser, Richard J.            2002 Finding God in troubled times
-B5.39 231.8          9780007461264     Lewis, C. S. (Clive Staple    2012 The problem of pain
-B5.40 232            9780281037414     Boff, Leonardo                1979 Jesus Christ liberator : a critical Christology for our time
-B5.41 232            9780061434341     Borg, Marcus J.               2015 Jesus : uncovering the life, teachings, and relevance of a r
-B5.42 232            9780060608149     Borg, Marcus J.               1991 Jesus, a new vision : spirit, culture, and the life of disci
-B5.43 232            9780684155326     Fuller, Reginald H. (Regin    1965 The foundations of New Testament Christology,
-B5.44 232            9781450709453     Hardin, Michael               2010 The Jesus driven life : reconnecting humanity with Jesus
-B5.45 232            9780334018063     Hunter, A. M. (Archibald M    2012 The work and words of Jesus
+B5.29 231            9780006266372     Küng, Hans, 1928-             1983 Does God exist? : an answer for today
+B5.30 231            9780567088505     Mostert, Christiaan           2002 God and the future : Wolfhardt Pannenberg's eschatological d
+B5.31 231            9780860120155     Rahner, Karl, 1904-1984       2001 The Trinity
+B5.32 231.044        9780567087034     Torrance, Thomas F. (Thoma    2000 Trinitarian perspectives : toward doctrinal agreement
+B5.33 231.4          9780664256456     Penchansky, David             1999 What rough beast? : images of God in the Hebrew Bible
+B5.34 231.73         9780007461257     Lewis, C. S. (Clive Staple    2012 Miracles : a preliminary study
+B5.35 231.74         9780717113248     Dulles, Avery, 1918-2008      1983 Models of revelation
+B5.36 231.765        9780800628239     Moltmann, Jürgen, 1926-       1993 God in creation : a new theology of creation and the Spirit 
+B5.37 231.8          9780829419818     Hauser, Richard J.            2002 Finding God in troubled times
+B5.38 231.8          9780007461264     Lewis, C. S. (Clive Staple    2012 The problem of pain
+B5.39 232            9780281037414     Boff, Leonardo                1979 Jesus Christ liberator : a critical Christology for our time
+B5.40 232            9780061434341     Borg, Marcus J.               2015 Jesus : uncovering the life, teachings, and relevance of a r
+B5.41 232            9780060608149     Borg, Marcus J.               1991 Jesus, a new vision : spirit, culture, and the life of disci
+B5.42 232            9780684155326     Fuller, Reginald H. (Regin    1965 The foundations of New Testament Christology,
+B5.43 232            9781450709453     Hardin, Michael               2010 The Jesus driven life : reconnecting humanity with Jesus
+B5.44 232            9780334018063     Hunter, A. M. (Archibald M    2012 The work and words of Jesus
 B6.01 232            9780334053309     Moltmann, Jürgen              2015 The crucified God : the cross of Christ as the foundation an
 B6.02 232            9780232528572     Moore, Sebastian, 1917-201    2011 The body of Christ : the shudder of blissful truth
 B6.03 232            9780814650783     Rausch, Thomas P.             2003 Who is Jesus? : an introduction to Christology
@@ -562,10 +561,11 @@ C4.29 277.3083092    9781595553676     Evans, Rachel Held, 1981-2    2012 A year
 C4.30 280            9780281038596     Anglican/Roman Catholic In    1982 The final report : Windsor, September 1981
 C4.31 280                              Molland, Einar                1961 Christendom
 C4.32 281.1          9780813213194     Augustine, of Hippo, Saint    2002 The immortality of the soul ; : The magnitude of the soul ; 
-C4.33 282.09048      9780062548276     Küng, Hans, 1928-             1987 The Church in anguish : has the Vatican betrayed Vatican II?
-C4.34 282.092        9780486442136     Newman, John Henry            2005 Apologia Pro Vita Sua (A Defense of One's Life) (Dover Giant
-C4.35 282.092        9780385502030     Porter, Beth                  2002 Befriending life : encounters with Henri Nouwen
-C4.36 282.7284092    9781570758393     Wright, Scott, 1950-          2010 Oscar Romero and the communion of the saints : a biography
+C4.33 282            9780415267670     Weil, Simone                  2002 Letter to a Priest (Routledge Classics)
+C4.34 282.09048      9780062548276     Küng, Hans, 1928-             1987 The Church in anguish : has the Vatican betrayed Vatican II?
+C4.35 282.092        9780486442136     Newman, John Henry            2005 Apologia Pro Vita Sua (A Defense of One's Life) (Dover Giant
+C4.36 282.092        9780385502030     Porter, Beth                  2002 Befriending life : encounters with Henri Nouwen
+C4.37 282.7284092    9781570758393     Wright, Scott, 1950-          2010 Oscar Romero and the communion of the saints : a biography
 C5.01 282.7309045    9780824515294     Lee, Bernard J., 1932-        1995 The future church of 140 BCE : a hidden revolution
 C5.02 282.945        9780949807090     Pawsey, Margaret M            1983 The Popish plot : culture clashes in Victoria 1860-1863
 C5.03 283            9780340642689     Bunting, Ian                  1999 Celebrating the Anglican way
