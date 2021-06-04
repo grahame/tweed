@@ -292,6 +292,7 @@ class Library:
         seen = set()
         for bp in self.arrangement:
             book_obj = (
+                ("loc", bp.location),
                 ("ddc", bp.book.ddc),
                 ("isbn", bp.book.isbn),
                 ("author", bp.book.author),
