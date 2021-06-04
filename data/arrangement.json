@@ -27,7 +27,7 @@
         { "bookshelf": "D", "shelf": 5, "first_book": { "isbn": "9780670072316" } },
         { "bookshelf": "D", "shelf": 6, "first_book": { "isbn": "9781861977892" } },
 
-        { "bookshelf": "E", "shelf": 1, "first_book": { "isbn": "9780829415117" } },
+        { "bookshelf": "E", "shelf": 1, "first_book": { "isbn": "9781846559181" } },
         { "bookshelf": "E", "shelf": 2, "first_book": { "isbn": "9781922101402" } },
         { "bookshelf": "E", "shelf": 3, "first_book": { "isbn": "9780008117498" } },
 
@@ -149,6 +149,7 @@
         { "isbn": "9781852864972", "bookshelf": "Y", "shelf": 3},
         { "isbn": "9780030131615", "bookshelf": "Y", "shelf": 3},
         { "isbn": "9780340129036", "bookshelf": "Y", "shelf": 3},
+        { "isbn": "9780907547518", "bookshelf": "Y", "shelf": 2},
         { "isbn": "9780980450804", "bookshelf": "Y", "shelf": 3},
         { "title": "Libraryland!", "bookshelf": "Y", "shelf": 3},
         { "title": "Where the wild things aren't", "bookshelf": "Y", "shelf": 3},

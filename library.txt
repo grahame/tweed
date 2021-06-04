@@ -809,24 +809,22 @@ D6.25 759.94         9780141035796     Berger, John                  2008 Ways o
 D6.26 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature &amp; outdoor photography
 D6.27 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
 D6.28 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
-E1.01 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
-E1.02 782.27                           Methodist Church              1933 The School Hymn Book of the Methodist Church
-E1.03 782.42166092   9781851777372     Bowie, David                  2013 David Bowie is the subject
-E1.04 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
-E1.05 784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
-E1.06 790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
-E1.07 791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
-E1.08 791.450232092  9780671522995     Fern, Yvonne, 1947-           1996 Gene Roddenberry : the last conversation
-E1.09 791.4572       9780006550426     Krauss, Lawrence M., 1954-    1997 The physics of Star trek
-E1.10 791.4572       9780563201960     Lynn, Jonathan                1983 Yes, Minister : the diaries of a cabinet minister
-E1.11 792.028092     9780099493761     Alda, Alan, 1936-             2007 Never have your dog stuffed : and other things I've learned
-E1.12 792.7028       9781743319345     Shah, Sami                    2015 I, migrant : a comedian's journey from Karachi to the outbac
-E1.13 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
-E1.14 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
-E1.15 795.415        9780716006800     Fox, George Clive Henry       1982 Begin bridge
-E1.16 799.10994      9780701815608     Vaughan, Harold               1982 The Australian fisherman's companion
-E1.17 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
-E1.18 808.2          9780140446364     Aristotle                     1997 Poetics
+D6.29 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
+D6.30 782.42166092   9781851777372     Bowie, David                  2013 David Bowie is the subject
+E1.01 784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
+E1.02 790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
+E1.03 791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
+E1.04 791.450232092  9780671522995     Fern, Yvonne, 1947-           1996 Gene Roddenberry : the last conversation
+E1.05 791.4572       9780006550426     Krauss, Lawrence M., 1954-    1997 The physics of Star trek
+E1.06 791.4572       9780563201960     Lynn, Jonathan                1983 Yes, Minister : the diaries of a cabinet minister
+E1.07 792.028092     9780099493761     Alda, Alan, 1936-             2007 Never have your dog stuffed : and other things I've learned
+E1.08 792.7028       9781743319345     Shah, Sami                    2015 I, migrant : a comedian's journey from Karachi to the outbac
+E1.09 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
+E1.10 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
+E1.11 795.415        9780716006800     Fox, George Clive Henry       1982 Begin bridge
+E1.12 799.10994      9780701815608     Vaughan, Harold               1982 The Australian fisherman's companion
+E1.13 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
+E1.14 808.2          9780140446364     Aristotle                     1997 Poetics
 E2.01 808.80358      9781922101402     Dolichva, Tsana [Editor]      2016 Defying doomsday
 E2.02 808.8193538    9780932112972     Shomer, Enid [Editor]         2018 All we know of pleasure : poetic erotica by women
 E2.03 808.838762     9780061562358     Dozois, Gardner R.            2009 The new space opera : 2
@@ -1375,6 +1373,7 @@ Y2.14 264.03         9780521612425     Church of England,            2004 The bo
 Y2.15 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
 Y2.16 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
 Y2.17 297.122521     9789960792637     Saheeh International          1997 The Qurʼān : Arabic text with corresponding English meanings
+Y2.18 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
 Y3.01 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
 Y3.02 220                              St. Athanasius Academy of     2008 The Orthodox Study Bible, Hardcover: Ancient Christianity Sp
 Y3.03 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve

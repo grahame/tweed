@@ -68528,10 +68528,10 @@
     "Fiction"],
     "10": ["science fiction"]
   },
-  "series": ["Parabole",
+  "series": ["Earthseed",
+  "Parable",
   "Ciclo delle parabole",
-  "Earthseed",
-  "Parable"],
+  "Parabole"],
   "awards": ["Nebula Nominee",
   "ALA Best Books for Young Adults",
   "ALA Outstanding Books for the College Bound"],
@@ -68728,9 +68728,9 @@
     "37": ["fantastic fiction"],
     "38": ["fantasy"]
   },
-  "series": ["Le avventure di Alice",
+  "series": ["Alice's Adventures",
   "Les aventures d'Alice",
-  "Alice's Adventures"],
+  "Le avventure di Alice"],
   "awards": ["Waterstones The Nation's Favourite Children's Books",
   "IBBY Honour Book",
   "V&A Illustration Award",
@@ -70048,42 +70048,6 @@
   "weight": "1.0361726314 pounds",
   "pages": "400 "
 },
-"185580532": {
-  "books_id": "185580532",
-  "title": "The School Hymn Book of the Methodist Church",
-  "sortcharacter": "5",
-  "public": "1",
-  "primaryauthor": "Methodist Church",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Methodist Church",
-    "fl": "Methodist Church",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "asin": "B0042WPQBK",
-  "publication": "Methodist Youth Department (1933), Edition: Not Stated",
-  "date": "1933",
-  "summary": "The School Hymn Book of the Methodist Church by Methodist Church (1933)",
-  "ddc": {
-    "code": ["782.27"],
-    "wording": ["Arts and Recreation",
-    "Hymns",
-    "Music",
-    "Nondramatic vocal forms",
-    "Vocal music"]
-  },
-  "lcc": [],
-  "source": "amazon.com books",
-  "workcode": "24989840",
-  "entrydate": "2020-06-27",
-  "format": [{
-    "code": "1.1.2",
-    "text": "Hardcover"
-  }],
-  "copies": "1"
-},
 "186391123": {
   "books_id": "186391123",
   "title": "Spark",
@@ -71234,10 +71198,10 @@
     "England",
     "Fiction"]
   },
-  "series": ["Conan Doyle : Sherlock Holmes",
-  "Avanture \u0160erloka Holmsa",
+  "series": ["Sherlock Holmes",
   "S\u00e4mtliche Sherlock-Holmes-Erz\u00e4hlungen",
-  "Sherlock Holmes"],
+  "Avanture \u0160erloka Holmsa",
+  "Conan Doyle : Sherlock Holmes"],
   "genre": ["Fiction",
   "Mystery"],
   "genre_id": ["2",
@@ -71306,10 +71270,10 @@
     "England",
     "Fiction"]
   },
-  "series": ["Conan Doyle : Sherlock Holmes",
-  "Avanture \u0160erloka Holmsa",
+  "series": ["Sherlock Holmes",
   "S\u00e4mtliche Sherlock-Holmes-Erz\u00e4hlungen",
-  "Sherlock Holmes"],
+  "Avanture \u0160erloka Holmsa",
+  "Conan Doyle : Sherlock Holmes"],
   "awards": ["The Telegraph's 110 Best Books: The Perfect Library"],
   "genre": ["Fiction",
   "Mystery"],
@@ -72997,7 +72961,8 @@
   "dimensions": "7.8 x 4.8 x 2.2 inches",
   "weight": "1.37568451488 pounds",
   "pages": "1024 "
-},"188283941": {
+},
+"188283941": {
   "books_id": "188283941",
   "title": "Anna Karenina (Wordsworth Classics)",
   "sortcharacter": "1",
@@ -73142,8 +73107,7 @@
   "dimensions": "7.79 x 5.01 x 1.73 inches",
   "weight": "1.14419913978 pounds",
   "pages": "848 "
-},
-"188283944": {
+},"188283944": {
   "books_id": "188283944",
   "title": "The Beginning and the End of 'Religion'",
   "sortcharacter": "5",
@@ -79256,7 +79220,8 @@
   "dimensions": "2.02 x 7.82 x 5.08 inches",
   "weight": "1.75928885076 pounds",
   "pages": "1184 "
-},"192740906": {
+},
+"192740906": {
   "books_id": "192740906",
   "title": "Christian History: An Introduction",
   "sortcharacter": "1",
@@ -79311,8 +79276,7 @@
   "length": "7.200773 inches",
   "dimensions": "9.598406 x 7.200773 x 0.799211 inches",
   "weight": "1.45064168396 pounds"
-},
-"192768586": {
+},"192768586": {
   "books_id": "192768586",
   "title": "While Mortals Sleep",
   "sortcharacter": "1",
@@ -85808,7 +85772,8 @@
   "height": "24 cm",
   "dimensions": "24 cm",
   "pages": "viii; 366 "
-},"197168316": {
+},
+"197168316": {
   "books_id": "197168316",
   "title": "Graded Reader of Biblical Hebrew, Second Edition: A Guide to Reading the Hebrew Bible (Zondervan Language Basics Series)",
   "sortcharacter": "1",
@@ -85851,8 +85816,7 @@
   "thickness": "0.7 inches",
   "length": "8.5 inches",
   "dimensions": "11 x 8.5 x 0.7 inches"
-},
-"197281937": {
+},"197281937": {
   "books_id": "197281937",
   "title": "Job 1-20, Volume 17 (Word Biblical Commentary)",
   "sortcharacter": "1",
@@ -91795,7 +91759,8 @@
   "dimensions": "0.32 x 8.04 x 5.32 inches",
   "weight": "0.22487150724 pounds",
   "pages": "112 "
-},"200302577": {
+},
+"200302577": {
   "books_id": "200302577",
   "title": "The Philokalia: The Complete Text (Vol. 2): Compiled by St. Nikodimos of the Holy Mountain and St. Makarios of Corinth",
   "sortcharacter": "5",
@@ -91858,8 +91823,7 @@
   "dimensions": "7.75 x 5 x 1.04 inches",
   "weight": "0.9700339528 pounds",
   "pages": "420 "
-},
-"200568895": {
+},"200568895": {
   "books_id": "200568895",
   "title": "Full Circle: A search for the world that comes next",
   "sortcharacter": "1",
