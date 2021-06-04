@@ -72,6 +72,7 @@ A3.08 220.7          9781426735820     Keck, Leander E.              2015 The Ne
 A3.09 220.7          9781426735813     Keck, Leander E.              2015 The New interpreter's bible commentary
 A3.10 220.7          9781426735790     Keck, Leander E.              2015 The New interpreter's bible commentary
 A3.11 220.7          9781426735783     Keck, Leander E.              2015 The New interpreter's bible commentary
+A3.12 266.394                          Cottier, J & J                None Missionary Memories
 A4.01 171.1          9780684815015     Bonhoeffer, Dietrich, 1906    1995 Ethics
 A4.02 171.3          9780140449495     Aristoteles, 384-322 î. Hr    2004 Nicomachean ethics
 A4.03 174.95         9780670028788     Bown, Stephen R.              2006 A most damnable invention : dynamite, nitrates, and the maki
@@ -91,21 +92,20 @@ A4.16 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravit
 A4.17 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
 A4.18 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
 A4.19 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
-A4.20 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
-A4.21 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
-A4.22 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
-A4.23 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
-A4.24 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
-A4.25 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
-A4.26 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
-A4.27 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
-A4.28 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
-A4.29 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
-A4.30 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
-A4.31 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
-A4.32 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
-A4.33 211.6          9781408837412     Grayling, A. C                2013 The God argument : the case against religion and for humanis
-A4.34 211.6          9780674986916     Taylor, Charles, 1931-        2018 A secular age
+A4.20 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
+A4.21 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
+A4.22 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
+A4.23 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
+A4.24 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
+A4.25 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
+A4.26 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
+A4.27 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
+A4.28 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
+A4.29 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
+A4.30 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
+A4.31 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
+A4.32 211.6          9781408837412     Grayling, A. C                2013 The God argument : the case against religion and for humanis
+A4.33 211.6          9780674986916     Taylor, Charles, 1931-        2018 A secular age
 A5.01 211.6091821    9780674088054     Gregory, Brad S. (Brad Ste    2015 The unintended Reformation : how a religious revolution secu
 A5.02 213            9781570754517     Ó Murchú, Diarmuid            2002 Evolutionary faith : rediscovering God in our great story
 A5.03 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
@@ -531,26 +531,22 @@ C3.31 264.02         9780814649060     Boselli, Goffredo             2014 The sp
 C3.32 264.02                           Bouyer, Louis                 1965 The liturgy revived : a doctrinal commentary of the Concilia
 C3.33 264.024        9780814637029     Johnson, Maxwell E., 1952-    2015 Benedictine daily prayer : a short breviary
 C3.34 264.03         9780909827793     Church of England in Austr    1978 An Australian prayer book : for use together with the Book o
-C3.35 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
-C3.36 264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
-C3.37 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
-C3.38 264.03         9780819223241     Markham, Ian S.               2009 Liturgical life principles : how Episcopal worship can lead 
-C3.39 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
-C3.40 264.03         9780648265962     Sherlock, Charles             2020 Australian Anglicans Worship: peforming APBA
-C3.41 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
-C3.42 264.039                          Vroom, F. W.                  1940 An Introduction to the Prayer Book
-C3.43 264.1                            Milner-White, E.              1962 After The Third Collect : Prayers and Thanksgivings for use 
-C3.44 264.13                           Barclay                       None Prayers for the Christian Year by Barclay, William [SCM Pres
-C3.45 265.12         9780227678558     Marcel, Pierre                1981 The biblical doctrine of infant baptism : sacrament of the c
-C3.46 265.3          9780567661579     Dix, Gregory                  2015 The shape of the liturgy
-C3.47 266.001        9780883443446     Galilea, Segundo              1984 The Beatitudes : to evangelize as Jesus did
-C3.48 266.394                          Cottier, J & J                None Missionary Memories
-C3.49 266.394                          Kyrne, Brian and Carroll,     None Grit & Grace: The Story of the Anglican Board of Mission Aus
-C3.50 268.4          9780857463050     Moore, Lucy, 1966-            2015 Messy family fun : a holiday club for all the family
-C3.51 269.6          9780809149940     Byrne, Brendan (Brendan J.    2016 Freedom in the spirit : an Ignatian retreat with Saint Paul
-C3.52 270            9780199568987     Bettenson, Henry, 1908-197    2011 Documents of the Christian Church
-C3.53 270            9780349141206     Holland, Tom                  None Dominion : the making of the western mind
-C3.54 270            9781118337806     McGrath, Alister E., 1953-    2013 Christian history : an introduction
+C3.35 264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
+C3.36 264.03         9780819223241     Markham, Ian S.               2009 Liturgical life principles : how Episcopal worship can lead 
+C3.37 264.03         9780648265962     Sherlock, Charles             2020 Australian Anglicans Worship: peforming APBA
+C3.38 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
+C3.39 264.039                          Vroom, F. W.                  1940 An Introduction to the Prayer Book
+C3.40 264.1                            Milner-White, E.              1962 After The Third Collect : Prayers and Thanksgivings for use 
+C3.41 264.13                           Barclay                       None Prayers for the Christian Year by Barclay, William [SCM Pres
+C3.42 265.12         9780227678558     Marcel, Pierre                1981 The biblical doctrine of infant baptism : sacrament of the c
+C3.43 265.3          9780567661579     Dix, Gregory                  2015 The shape of the liturgy
+C3.44 266.001        9780883443446     Galilea, Segundo              1984 The Beatitudes : to evangelize as Jesus did
+C3.45 266.394                          Kyrne, Brian and Carroll,     None Grit & Grace: The Story of the Anglican Board of Mission Aus
+C3.46 268.4          9780857463050     Moore, Lucy, 1966-            2015 Messy family fun : a holiday club for all the family
+C3.47 269.6          9780809149940     Byrne, Brendan (Brendan J.    2016 Freedom in the spirit : an Ignatian retreat with Saint Paul
+C3.48 270            9780199568987     Bettenson, Henry, 1908-197    2011 Documents of the Christian Church
+C3.49 270            9780349141206     Holland, Tom                  None Dominion : the making of the western mind
+C3.50 270            9781118337806     McGrath, Alister E., 1953-    2013 Christian history : an introduction
 C4.01 270            9780837158778     Neill, Stephen, 1900-1984     1972 The Christian society
 C4.02 270.1          9781577331520     Bargeman, Lisa Ann, 1974-     2005 The Egyptian origin of Christianity
 C4.03 270.1          9780140231991     Chadwick, Henry, 1920-2008    1993 The early church
@@ -1427,4 +1423,8 @@ J3.19                9781376691238     Church of England             2018 The Fi
 J3.20                9780648228202     Watts, Rachel                 2018 Survival
 J3.21                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
 J3.22                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+Z2.01 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
+Z2.02 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
+Z2.03 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
+Z2.04 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
 Z3.01 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed

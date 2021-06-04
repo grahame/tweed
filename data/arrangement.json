@@ -70,6 +70,11 @@
         { "isbn": "9781426735790", "bookshelf": "A", "shelf": 3 },
         { "isbn": "9781426735783", "bookshelf": "A", "shelf": 3 },
         { "isbn": "9780136149347", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9780900424120", "bookshelf": "Z", "shelf": 3 }
+        { "title": "Missionary Memories", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9780900424120", "bookshelf": "Z", "shelf": 3 },
+        { "isbn": "9780191306013", "bookshelf": "Z", "shelf": 2 },
+        { "isbn": "9780521612425", "bookshelf": "Z", "shelf": 2 },
+        { "isbn": "9780195285253", "bookshelf": "Z", "shelf": 2 },
+        { "isbn": "9780334046707", "bookshelf": "Z", "shelf": 2 }
     ]
 }
