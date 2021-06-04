@@ -802,41 +802,40 @@ D6.18 709.252        9781786276551     Hodge, Susie, 1960-           2020 The sh
 D6.19 709.470749411  9780975016893     Dodge, A.R                    2005 St Petersburg 1900
 D6.20 720.103        9780643106468     Donovan, Jenny (Urban desi    2013 Designing to heal
 D6.21 725.94         9781760800260     Atkinson-Phillips, Alison     2019 Survivor memorials : remembering trauma and loss in contempo
-D6.22 740            9780692586532     New York City Transit Auth    2015 Graphics standards manual
-D6.23 741            9780756005184     North, Ryan                   2006 the best of Dinosaur Comics: 2003-2005 A.D.
-D6.24 741.5          9781401227999     Gaiman, Neil                  2010 The Sandman
-D6.25 741.5          9780857680389     Gaiman, Neil                  2010 The Sandman
-D6.26 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
-D6.27 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
-D6.28 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
-D6.29 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes &amp; nocturnes
-D6.30 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
-D6.31 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
-D6.32 741.51                           Davis, Oslo                   2011 Libraryland!
-D6.33 741.51         9780980436778     Davis, Oslo                   2010 Overheard : the art of eavesdropping
-D6.34 741.51                           Davis, Oslo                   None Where the wild things aren't
-D6.35 741.51                           McLeod, Jessica               2007 Mungo Bean
-D6.36 741.51                           Salmon-Lomas, Riley           None Riley: Moments in the Life Of
-D6.37 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
-D6.38 741.56973      9781472269058     Pyle, Nathan W.               2019 Strange planet
-D6.39 741.56973      9780740748479     Watterson, Bill               2005 Calvin and Hobbes
-D6.40 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
-D6.41 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
-D6.42 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
-D6.43 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
-D6.44 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
-D6.45 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
-D6.46 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
-D6.47 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
-D6.48 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
-D6.49 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
-D6.50 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
-D6.51 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
-D6.52 755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
-D6.53 759.94         9780141035796     Berger, John                  2008 Ways of seeing
-D6.54 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature &amp; outdoor photography
-D6.55 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
-D6.56 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
+D6.22 741            9780756005184     North, Ryan                   2006 the best of Dinosaur Comics: 2003-2005 A.D.
+D6.23 741.5          9781401227999     Gaiman, Neil                  2010 The Sandman
+D6.24 741.5          9780857680389     Gaiman, Neil                  2010 The Sandman
+D6.25 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
+D6.26 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
+D6.27 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
+D6.28 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes &amp; nocturnes
+D6.29 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
+D6.30 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
+D6.31 741.51                           Davis, Oslo                   2011 Libraryland!
+D6.32 741.51         9780980436778     Davis, Oslo                   2010 Overheard : the art of eavesdropping
+D6.33 741.51                           Davis, Oslo                   None Where the wild things aren't
+D6.34 741.51                           McLeod, Jessica               2007 Mungo Bean
+D6.35 741.51                           Salmon-Lomas, Riley           None Riley: Moments in the Life Of
+D6.36 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
+D6.37 741.56973      9781472269058     Pyle, Nathan W.               2019 Strange planet
+D6.38 741.56973      9780740748479     Watterson, Bill               2005 Calvin and Hobbes
+D6.39 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
+D6.40 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
+D6.41 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
+D6.42 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
+D6.43 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
+D6.44 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
+D6.45 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
+D6.46 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
+D6.47 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
+D6.48 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
+D6.49 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
+D6.50 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
+D6.51 755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
+D6.52 759.94         9780141035796     Berger, John                  2008 Ways of seeing
+D6.53 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature &amp; outdoor photography
+D6.54 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
+D6.55 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
 E1.01 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
 E1.02 782.27                           Methodist Church              1933 The School Hymn Book of the Methodist Church
 E1.03 782.42166092   9781851777372     Bowie, David                  2013 David Bowie is the subject

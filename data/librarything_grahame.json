@@ -27246,62 +27246,6 @@
   "dimensions": "11 x 8.8 x 0.9 inches",
   "weight": "2.1 pounds"
 },
-"164332066": {
-  "books_id": "164332066",
-  "title": "National Aeronautics and Space Administration Graphics Standards Manual",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Bonanos, Christopher",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Bonanos, Christopher",
-    "fl": "Christopher Bonanos",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0692586539",
-  "isbn": {
-    "0": "0692586539",
-    "2": "9780692586532"
-  },
-  "asin": "0692586539",
-  "ean": ["0692586539"],
-  "publication": "Standards Manual (2015), Edition: 1st, 220 pages",
-  "date": "2015",
-  "summary": "National Aeronautics and Space Administration Graphics Standards Manual by Christopher Bonanos (2015)",
-  "language": ["English",
-  "French"],
-  "language_codeA": ["eng",
-  "fre"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng",
-  "fre"],
-  "ddc": {
-    "code": ["629.40973"],
-    "wording": ["Astronauts and Space Travel ",
-    "Engineering and allied operations",
-    "Other Branches",
-    "Technology & Application of Knowledge"]
-  },
-  "lcc": [],
-  "source": "amazon.com books",
-  "workcode": "17488417",
-  "entrydate": "2019-01-10",
-  "format": [{
-    "code": "1.1.2",
-    "text": "Hardcover"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "220 p.; 9.5 inches",
-  "height": "9.5 inches",
-  "thickness": "11.75 inches",
-  "length": "1 inch",
-  "dimensions": "9.5 x 1 x 11.75 inches",
-  "weight": "3.75 pounds",
-  "pages": "220 "
-},
 "164332120": {
   "books_id": "164332120",
   "title": "Guiness Book of Records",
@@ -32740,7 +32684,8 @@
   "dimensions": "7.2 x 1 x 9.1 inches",
   "weight": "1.4 pounds",
   "pages": "432 "
-},"164355718": {
+},
+"164355718": {
   "books_id": "164355718",
   "title": "Concrete Mathematics: A Foundation for Computer Science (2nd Edition)",
   "sortcharacter": "1",
@@ -32804,8 +32749,7 @@
   "dimensions": "7.7 x 1.4 x 9.3 inches",
   "weight": "3 pounds",
   "pages": "672 "
-},
-"164355755": {
+},"164355755": {
   "books_id": "164355755",
   "title": "Interactive Data Visualization for the Web: An Introduction to Designing with D3",
   "sortcharacter": "1",
@@ -39702,7 +39646,8 @@
   "dimensions": "6.14 x 0.79 x 9.21 inches",
   "weight": "1.05 pounds",
   "pages": "352 "
-},"164360857": {
+},
+"164360857": {
   "books_id": "164360857",
   "title": "The New Paradigm for Financial Markets: The Credit Crisis of 2008 and What It Means",
   "sortcharacter": "5",
@@ -39773,8 +39718,7 @@
   "dimensions": "5.51 x 0.56 x 8.5 inches",
   "weight": "0.65 pounds",
   "pages": "208 "
-},
-"164360991": {
+},"164360991": {
   "books_id": "164360991",
   "title": "Tales of Ten Worlds",
   "sortcharacter": "1",
@@ -47193,7 +47137,8 @@
   "dimensions": "7.75 x 0.5 x 10.5 inches",
   "weight": "0.85 pounds",
   "pages": "120 "
-},"164366863": {
+},
+"164366863": {
   "books_id": "164366863",
   "title": "Microscopic Worlds: Bugs of the Ocean (Natural History)",
   "sortcharacter": "1",
@@ -47247,8 +47192,7 @@
   "dimensions": "7.75 x 0.5 x 10.5 inches",
   "weight": "0.85 pounds",
   "pages": "112 "
-},
-"164366879": {
+},"164366879": {
   "books_id": "164366879",
   "title": "Dinosaurs in Australia: Mesozoic Life from the Southern Continent",
   "sortcharacter": "1",
@@ -54015,7 +53959,8 @@
   "dimensions": "6.93 x 4.33 x 0.63 inches",
   "weight": "0.31 pounds",
   "pages": "210 "
-},"164408971": {
+},
+"164408971": {
   "books_id": "164408971",
   "title": "What's the Matter with Kansas?: How Conservatives Won the Heart of America",
   "sortcharacter": "1",
@@ -54082,8 +54027,7 @@
   "dimensions": "5.5 x 0.9 x 8.18 inches",
   "weight": "0.65 pounds",
   "pages": "322 "
-},
-"164408976": {
+},"164408976": {
   "books_id": "164408976",
   "title": "Rendezvous with Rama",
   "sortcharacter": "1",
@@ -60097,7 +60041,8 @@
   "entrydate": "2019-06-19",
   "copies": "1",
   "volumes": "1"
-},"170653659": {
+},
+"170653659": {
   "books_id": "170653659",
   "title": "See What You Made Me Do: Power, Control and Domestic Violence",
   "sortcharacter": "1",
@@ -60161,8 +60106,7 @@
   "dimensions": "6.14 x 0.93 x 9.21 inches",
   "weight": "1.41 pounds",
   "pages": "416 "
-},
-"171484402": {
+},"171484402": {
   "books_id": "171484402",
   "title": "Yassmin's Story",
   "sortcharacter": "1",
@@ -66407,7 +66351,8 @@
   "dimensions": "5.5 x 0.63 x 8.5 inches",
   "weight": "0.71 pounds",
   "pages": "252 "
-},"178256150": {
+},
+"178256150": {
   "books_id": "178256150",
   "title": "Theology, Church and Ministry",
   "sortcharacter": "1",
@@ -66465,8 +66410,7 @@
   "dimensions": "5.51 x 0.47 x 8.5 inches",
   "weight": "0.58 pounds",
   "pages": "224 "
-},
-"178256151": {
+},"178256151": {
   "books_id": "178256151",
   "title": "Understanding the Faith of the Church (The Church's Teaching Series)",
   "sortcharacter": "1",
@@ -68584,10 +68528,10 @@
     "Fiction"],
     "10": ["science fiction"]
   },
-  "series": ["Earthseed",
-  "Parable",
-  "Parabole",
-  "Ciclo delle parabole"],
+  "series": ["Parabole",
+  "Ciclo delle parabole",
+  "Earthseed",
+  "Parable"],
   "awards": ["Nebula Nominee",
   "ALA Best Books for Young Adults",
   "ALA Outstanding Books for the College Bound"],
@@ -72903,7 +72847,8 @@
   "dimensions": "1.84 x 7.76 x 5.08 inches",
   "weight": "1.57189592806 pounds",
   "pages": "960 "
-},"188283940": {
+},
+"188283940": {
   "books_id": "188283940",
   "title": "War and Peace (Wordsworth Classics)",
   "sortcharacter": "1",
@@ -73052,8 +72997,7 @@
   "dimensions": "7.8 x 4.8 x 2.2 inches",
   "weight": "1.37568451488 pounds",
   "pages": "1024 "
-},
-"188283941": {
+},"188283941": {
   "books_id": "188283941",
   "title": "Anna Karenina (Wordsworth Classics)",
   "sortcharacter": "1",
@@ -79225,7 +79169,8 @@
   "dimensions": "9 x 6 x 1.53 inches",
   "weight": "1.22 pounds",
   "pages": "608 "
-},"192706457": {
+},
+"192706457": {
   "books_id": "192706457",
   "title": "City of God (Penguin Classics)",
   "sortcharacter": "1",
@@ -79311,8 +79256,7 @@
   "dimensions": "2.02 x 7.82 x 5.08 inches",
   "weight": "1.75928885076 pounds",
   "pages": "1184 "
-},
-"192740906": {
+},"192740906": {
   "books_id": "192740906",
   "title": "Christian History: An Introduction",
   "sortcharacter": "1",
@@ -83173,11 +83117,11 @@
     "11": ["fantasy fiction"],
     "12": ["humorous fiction"]
   },
-  "series": ["Biblioteca Terry Pratchett",
+  "series": ["Disksvijet",
+  "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Disksvijet",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
@@ -83279,11 +83223,11 @@
   ["Science fiction"],
   ["fantasy fiction"],
   ["science fiction"]],
-  "series": ["Biblioteca Terry Pratchett",
+  "series": ["Disksvijet",
+  "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Disksvijet",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
@@ -83315,8 +83259,8 @@
   "Skivv\u00e4rlden: D\u00f6den",
   "Kiekkomaailma : Kuolema",
   "Scheibenwelt: Der Tod",
-  "Discworld: Death",
-  "Mundodisco: La Muerte"],
+  "Mundodisco: La Muerte",
+  "Discworld: Death"],
   "originaltitle": "Mort",
   "awards": ["BBC's Big Read",
   "Prix Imaginales"],
@@ -83394,11 +83338,11 @@
     "10": ["fantasy fiction"],
     "11": ["science fiction"]
   },
-  "series": ["Biblioteca Terry Pratchett",
+  "series": ["Disksvijet",
+  "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Disksvijet",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
@@ -85813,7 +85757,8 @@
   "dimensions": "8.2677 x 1.1811 x 5.23621 inches",
   "weight": "1.37 pounds",
   "pages": "512 "
-},"197168297": {
+},
+"197168297": {
   "books_id": "197168297",
   "title": "Let us pray",
   "sortcharacter": "1",
@@ -85863,8 +85808,7 @@
   "height": "24 cm",
   "dimensions": "24 cm",
   "pages": "viii; 366 "
-},
-"197168316": {
+},"197168316": {
   "books_id": "197168316",
   "title": "Graded Reader of Biblical Hebrew, Second Edition: A Guide to Reading the Hebrew Bible (Zondervan Language Basics Series)",
   "sortcharacter": "1",
@@ -91782,7 +91726,8 @@
   "dimensions": "7.79 x 5.08 x 0.51 inches",
   "weight": "0.52029093832 pounds",
   "pages": "224 "
-},"200302570": {
+},
+"200302570": {
   "books_id": "200302570",
   "title": "Prayers of the Cosmos :Reflections on the Original Meaning of Jesus's Words",
   "sortcharacter": "1",
@@ -91850,8 +91795,7 @@
   "dimensions": "0.32 x 8.04 x 5.32 inches",
   "weight": "0.22487150724 pounds",
   "pages": "112 "
-},
-"200302577": {
+},"200302577": {
   "books_id": "200302577",
   "title": "The Philokalia: The Complete Text (Vol. 2): Compiled by St. Nikodimos of the Holy Mountain and St. Makarios of Corinth",
   "sortcharacter": "5",
