@@ -77,6 +77,13 @@
         { "isbn": "9780195285253", "bookshelf": "Z", "shelf": 2 },
         { "isbn": "9780334046707", "bookshelf": "Z", "shelf": 2 },
         { "isbn": "9780521714877", "bookshelf": "Z", "shelf": 2 },
-        { "title": "r:^The Orthodox Study Bible.*", "bookshelf": "Z", "shelf": 3 }
+        { "isbn": "", "bookshelf": "Z", "shelf": 2 },
+        { "title": "r:^The Orthodox Study Bible.*", "bookshelf": "Z", "shelf": 3 },
+        { "isbn": "9780521670807", "bookshelf": "Z", "shelf": 2 },
+        { "isbn": "9781435125391", "bookshelf": "Z", "shelf": 2 },
+        { "isbn": "9780190276096", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9780060786847", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9780529064844", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9780647511176", "bookshelf": "Z", "shelf": 2}
     ]
 }

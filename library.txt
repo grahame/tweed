@@ -108,45 +108,39 @@ A4.32 211.6          9781408837412     Grayling, A. C                2013 The Go
 A4.33 211.6          9780674986916     Taylor, Charles, 1931-        2018 A secular age
 A5.01 211.6091821    9780674088054     Gregory, Brad S. (Brad Ste    2015 The unintended Reformation : how a religious revolution secu
 A5.02 213            9781570754517     Ó Murchú, Diarmuid            2002 Evolutionary faith : rediscovering God in our great story
-A5.03 220            9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
-A5.04 220.072        9780800697747     Moore, Stephen D., 1954-      2011 The invention of the biblical scholar : a critical manifesto
-A5.05 220.09         9781843546276     Armstrong, Karen, 1944-       2007 The Bible : a biography
-A5.06 220.5          9780691209142     Alter, Robert                 2020 The art of Bible translation
-A5.07 220.5203       9781435125391     Doré, Gustave, 1832-1883      2012 The Holy Bible : King James version
-A5.08 220.52043      9780190276096     Newsom, Carol A. (Carol An    2018 The new Oxford annotated Bible : New Revised Standard Versio
-A5.09 220.520434     9780060786847     Meeks, Wayne A. [Editor]      2006 The HarperCollins study Bible : New Revised Standard Version
-A5.10 220.5205       9780529064844     Confraternity of Christian    1990 The New American Bible : translated from the original langua
-A5.11 220.52081      9780647511176                                   2005 The Holy Bible : New International Version with concise bibl
-A5.12 220.6          9780226010731     Akenson, Donald H.            2001 Surpassing wonder : the invention of the Bible and the Talmu
-A5.13 220.6          9780800635602     Anderson, Bernhard W.         2006 The unfolding drama of the Bible
-A5.14 220.6          9780809145201     Campbell, Antony F.           2008 God and Bible : exploring stories from Genesis to Job
-A5.15 220.6          9781842270363     Goldsworthy, Graeme           2006 The Goldsworthy trilogy
-A5.16 220.6          9780994470799     Habel, Norm                   2016 Why on Earth Do You Still Read the Bible?: A Lifetime of Len
-A5.17 220.6          9780732282028     Spong, John Shelby            2005 The sins of Scripture : exposing the Bible's texts of hate t
-A5.18 220.6          9781416566762     Washington, Linda M. (Lind    2008 Puzzlements &amp; predicaments of the Bible : the weird, the
-A5.19 220.6082       9780827229631     Dube Shomanah, Musa W., 19    2000 Postcolonial feminist interpretation of the Bible
-A5.20 220.61         9780060609191     Borg, Marcus J.               2002 Reading the Bible again for the first time : taking the Bibl
-A5.21 220.61         9780060609191     Borg, Marcus J.               2015 Reading the Bible again for the first time : taking the Bibl
-A5.22 220.61         9780818909863     Trainor, Michael F., 1950-    2005 Journeying : a beginner's guide to the bible
-A5.23 220.66         9780800604738     Powell, Mark Allan, 1953-     1991 What is narrative criticism?
-A5.24 220.77         9780310521938     Barker, Glenn W., 1920-198    2015 Word biblical commentary
-A5.25 220.77         9780310522003     Barker, Glenn W., 1920-198    2012 Word biblical commentary
-A5.26 220.83067      9781909697836     Myles, Robert J.              2015 Sexuality, ideology and the Bible : Antipodean engagements
-A5.27 220.92081      9781570755347     Rohr, Richard                 2004 Soul brothers : men in the Bible speak to men today
-A5.28 221            9780691166247     Buber, Martin, 1878-1965      2015 The prophetic faith
-A5.29 221            9780334017943     Rad, Gerhard von, 1901-197    2012 Wisdom in Israel
-A5.30 221            9781506425481     Yee, Gale A., 1949-           2018 The Hebrew Bible : feminist and intersectional perspectives
-A5.31 221.044        9789653011885     Jerusalem, Koren Publisher    2009 Koren Illustrated Five Megillot, Hebrew/English
-A5.32 221.15         9780800632878     Brueggemann, Walter           2001 The prophetic imagination
-A5.33 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
-A5.34 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
-A5.35 221.4403       9780802834133     Holladay, William Lee         1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
-A5.36 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
-A5.37 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
-A5.38 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
-A5.39 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
-A5.40 221.6          9780334020868     Childs, Brevard S.            1983 Introduction to the Old Testament as Scripture
-A5.41 221.6          9781589833494     Crenshaw, James L.            1984 A whirlpool of torment : Israelite traditions of God as an o
+A5.03 220.072        9780800697747     Moore, Stephen D., 1954-      2011 The invention of the biblical scholar : a critical manifesto
+A5.04 220.09         9781843546276     Armstrong, Karen, 1944-       2007 The Bible : a biography
+A5.05 220.5          9780691209142     Alter, Robert                 2020 The art of Bible translation
+A5.06 220.6          9780226010731     Akenson, Donald H.            2001 Surpassing wonder : the invention of the Bible and the Talmu
+A5.07 220.6          9780800635602     Anderson, Bernhard W.         2006 The unfolding drama of the Bible
+A5.08 220.6          9780809145201     Campbell, Antony F.           2008 God and Bible : exploring stories from Genesis to Job
+A5.09 220.6          9781842270363     Goldsworthy, Graeme           2006 The Goldsworthy trilogy
+A5.10 220.6          9780994470799     Habel, Norm                   2016 Why on Earth Do You Still Read the Bible?: A Lifetime of Len
+A5.11 220.6          9780732282028     Spong, John Shelby            2005 The sins of Scripture : exposing the Bible's texts of hate t
+A5.12 220.6          9781416566762     Washington, Linda M. (Lind    2008 Puzzlements &amp; predicaments of the Bible : the weird, the
+A5.13 220.6082       9780827229631     Dube Shomanah, Musa W., 19    2000 Postcolonial feminist interpretation of the Bible
+A5.14 220.61         9780060609191     Borg, Marcus J.               2002 Reading the Bible again for the first time : taking the Bibl
+A5.15 220.61         9780060609191     Borg, Marcus J.               2015 Reading the Bible again for the first time : taking the Bibl
+A5.16 220.61         9780818909863     Trainor, Michael F., 1950-    2005 Journeying : a beginner's guide to the bible
+A5.17 220.66         9780800604738     Powell, Mark Allan, 1953-     1991 What is narrative criticism?
+A5.18 220.77         9780310521938     Barker, Glenn W., 1920-198    2015 Word biblical commentary
+A5.19 220.77         9780310522003     Barker, Glenn W., 1920-198    2012 Word biblical commentary
+A5.20 220.83067      9781909697836     Myles, Robert J.              2015 Sexuality, ideology and the Bible : Antipodean engagements
+A5.21 220.92081      9781570755347     Rohr, Richard                 2004 Soul brothers : men in the Bible speak to men today
+A5.22 221            9780691166247     Buber, Martin, 1878-1965      2015 The prophetic faith
+A5.23 221            9780334017943     Rad, Gerhard von, 1901-197    2012 Wisdom in Israel
+A5.24 221            9781506425481     Yee, Gale A., 1949-           2018 The Hebrew Bible : feminist and intersectional perspectives
+A5.25 221.044        9789653011885     Jerusalem, Koren Publisher    2009 Koren Illustrated Five Megillot, Hebrew/English
+A5.26 221.15         9780800632878     Brueggemann, Walter           2001 The prophetic imagination
+A5.27 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
+A5.28 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
+A5.29 221.4403       9780802834133     Holladay, William Lee         1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
+A5.30 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
+A5.31 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
+A5.32 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
+A5.33 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
+A5.34 221.6          9780334020868     Childs, Brevard S.            1983 Introduction to the Old Testament as Scripture
+A5.35 221.6          9781589833494     Crenshaw, James L.            1984 A whirlpool of torment : Israelite traditions of God as an o
 A6.01 221.6          9780664223083     Eichrodt, Walter              1961 Theology of the Old Testament, Vol. 1 (OTL) (The Old Testame
 A6.02 221.6          9780664223090     Eichrodt, Walther             1967 Theology of the Old Testament, Vol. 2 (OTL) (The Old Testame
 A6.03 221.6          9780800634384     Gunkel, Hermann, 1862-1932    2001 Water for a thirsty land : Israelite literature and religion
@@ -1423,8 +1417,14 @@ J3.21                                  Wollaston, John Ramsden       1954 Wollas
 J3.22                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 Z2.01 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
 Z2.02 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
-Z2.03 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
-Z2.04 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
-Z2.05 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
+Z2.03 220            9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
+Z2.04 220.5203       9781435125391     Doré, Gustave, 1832-1883      2012 The Holy Bible : King James version
+Z2.05 220.52043      9780190276096     Newsom, Carol A. (Carol An    2018 The new Oxford annotated Bible : New Revised Standard Versio
+Z2.06 220.520434     9780060786847     Meeks, Wayne A. [Editor]      2006 The HarperCollins study Bible : New Revised Standard Version
+Z2.07 220.5205       9780529064844     Confraternity of Christian    1990 The New American Bible : translated from the original langua
+Z2.08 220.52081      9780647511176                                   2005 The Holy Bible : New International Version with concise bibl
+Z2.09 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
+Z2.10 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
+Z2.11 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
 Z3.01 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
 Z3.02 220                              St. Athanasius Academy of     2008 The Orthodox Study Bible, Hardcover: Ancient Christianity Sp
