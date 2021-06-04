@@ -602,34 +602,33 @@ C6.06 296.491        9780281056347     Barker, Margaret, 1944-       2017 Temple
 C6.07 296.7          9780743234771     Kushner, Harold S.            2002 Who needs God
 C6.08 296.81         9780674750760     Segal, Alan F., 1945-2011     1986 Rebecca's children : Judaism and Christianity in the Roman w
 C6.09 296.833        9780415278294     Buber, Martin                 2002 The way of man, according to the teaching of Hasidism
-C6.10 297.122521     9789960792637     Saheeh International          1997 The Qurʼān : Arabic text with corresponding English meanings
-C6.11 299.514        9780416469608     Hoff, Benjamin, 1946-         1987 The Tao of Pooh
-C6.12 300.994        9781920769055     Megalogenis, George           2004 Fault lines : race, work, and the politics of changing Austr
-C6.13 301.412        9780007205011     Greer, Germaine, 1939-        2012 The female eunuch
-C6.14 301.417        9780140268683     Foucault, Michel              2006 The history of sexuality
-C6.15 302.230973     9780300089073     Rosen, Jay, 1956-             2001 What are journalists for?
-C6.16 302.2310994    9781921844935     Jericho, Greg                 2013 The rise of the fifth estate : social media and blogging in 
-C6.17 303.372        9780415271028     Weil, Simone, 1909-1943       2001 The need for roots; : prelude to a declaration of duties tow
-C6.18 303.483        9781922213303     Rundle, Guy                   2014 A revolution in the making
-C6.19 303.4833       9780415710978     Croeser, Sky                  2014 Global justice and the politics of information : the struggl
-C6.20 303.4833       9781599042992     Dyson, Laurel Evelyn, 1952    2006 Information technology and indigenous people
-C6.21 303.4833       9780241957219     Lanier, Jaron                 1700 Who owns the future?
-C6.22 303.4833       9781591409694     Rooksby, Emma                 2006 Information technology and social justice
-C6.23 304.25         9781568587295     Parenti, Christian            2012 Tropic of chaos : climate change and the new geography of vi
-C6.24 305.309        9780674543553     Laqueur, Thomas Walter        1992 Making sex : body and gender from the Greeks to Freud
-C6.25 305.4          9780099499381     Beauvoir, Simone de, 1908-    2010 The second sex
-C6.26 305.420973     9780896086135     hooks, bell, 1952-            2000 Feminist theory from margin to center
-C6.27 305.486970994  9780857986177     Abdel-Magied, Yassmin, 199    2017 Yassmin's story
-C6.28 305.509495     9780715617014     De Ste. Croix, G. E. M. (G    1982 The class struggle in the ancient Greek world : from the arc
-C6.29 305.8          9781784872779     Morrison, Toni                2017 Race
-C6.30 305.89915      9781863959810     Heiss, Anita                  2018 Growing up Aboriginal in Australia
-C6.31 305.8991509412 9781741315400     Robertson, Francesca,         2017 Nyoongar boodja koomba bardip kooratan = : Nyoongar land lon
-C6.32 306.01         9780241954294     Wilkinson, Richard G.         2010 The spirit level : why greater equality makes societies stro
-C6.33 306.02         9780525555216     Green, John, 1977-            2021 The Anthropocene reviewed
-C6.34 306.0956       9780547134666     Shadid, Anthony               2012 House of stone : a memoir of home, family, and a lost Middle
-C6.35 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
-C6.36 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
-C6.37 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
+C6.10 299.514        9780416469608     Hoff, Benjamin, 1946-         1987 The Tao of Pooh
+C6.11 300.994        9781920769055     Megalogenis, George           2004 Fault lines : race, work, and the politics of changing Austr
+C6.12 301.412        9780007205011     Greer, Germaine, 1939-        2012 The female eunuch
+C6.13 301.417        9780140268683     Foucault, Michel              2006 The history of sexuality
+C6.14 302.230973     9780300089073     Rosen, Jay, 1956-             2001 What are journalists for?
+C6.15 302.2310994    9781921844935     Jericho, Greg                 2013 The rise of the fifth estate : social media and blogging in 
+C6.16 303.372        9780415271028     Weil, Simone, 1909-1943       2001 The need for roots; : prelude to a declaration of duties tow
+C6.17 303.483        9781922213303     Rundle, Guy                   2014 A revolution in the making
+C6.18 303.4833       9780415710978     Croeser, Sky                  2014 Global justice and the politics of information : the struggl
+C6.19 303.4833       9781599042992     Dyson, Laurel Evelyn, 1952    2006 Information technology and indigenous people
+C6.20 303.4833       9780241957219     Lanier, Jaron                 1700 Who owns the future?
+C6.21 303.4833       9781591409694     Rooksby, Emma                 2006 Information technology and social justice
+C6.22 304.25         9781568587295     Parenti, Christian            2012 Tropic of chaos : climate change and the new geography of vi
+C6.23 305.309        9780674543553     Laqueur, Thomas Walter        1992 Making sex : body and gender from the Greeks to Freud
+C6.24 305.4          9780099499381     Beauvoir, Simone de, 1908-    2010 The second sex
+C6.25 305.420973     9780896086135     hooks, bell, 1952-            2000 Feminist theory from margin to center
+C6.26 305.486970994  9780857986177     Abdel-Magied, Yassmin, 199    2017 Yassmin's story
+C6.27 305.509495     9780715617014     De Ste. Croix, G. E. M. (G    1982 The class struggle in the ancient Greek world : from the arc
+C6.28 305.8          9781784872779     Morrison, Toni                2017 Race
+C6.29 305.89915      9781863959810     Heiss, Anita                  2018 Growing up Aboriginal in Australia
+C6.30 305.8991509412 9781741315400     Robertson, Francesca,         2017 Nyoongar boodja koomba bardip kooratan = : Nyoongar land lon
+C6.31 306.01         9780241954294     Wilkinson, Richard G.         2010 The spirit level : why greater equality makes societies stro
+C6.32 306.02         9780525555216     Green, John, 1977-            2021 The Anthropocene reviewed
+C6.33 306.0956       9780547134666     Shadid, Anthony               2012 House of stone : a memoir of home, family, and a lost Middle
+C6.34 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
+C6.35 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
+C6.36 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
 D1.01 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
 D1.02 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
 D1.03 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
@@ -1420,6 +1419,7 @@ Z2.13 264.03         9780909827793     Church of England in Austr    1978 An Aus
 Z2.14 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
 Z2.15 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
 Z2.16 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
+Z2.17 297.122521     9789960792637     Saheeh International          1997 The Qurʼān : Arabic text with corresponding English meanings
 Z3.01 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
 Z3.02 220                              St. Athanasius Academy of     2008 The Orthodox Study Bible, Hardcover: Ancient Christianity Sp
 Z3.03 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve

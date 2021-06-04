@@ -94,6 +94,7 @@
         { "isbn": "9780814637029", "bookshelf": "Z", "shelf": 2},
         { "isbn": "9780909827793", "bookshelf": "Z", "shelf": 2},
         { "isbn": "9780855741662", "bookshelf": "Z", "shelf": 2},
-        { "isbn": "9780857463050", "bookshelf": "C", "shelf": 5}
+        { "isbn": "9780857463050", "bookshelf": "C", "shelf": 5},
+        { "isbn": "9789960792637", "bookshelf": "Z", "shelf": 2}
     ]
 }
