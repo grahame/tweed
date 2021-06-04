@@ -92872,4 +92872,60 @@
   "thickness": "0.16 inches",
   "length": "8.5 inches",
   "dimensions": "11 x 8.5 x 0.16 inches"
+},
+"201182969": {
+  "books_id": "201182969",
+  "title": "Up, Up and Oy Vey! : How Jewish History, Culture, and Values Shaped the Comic Book Superhero",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Weinstein, Simcha",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Weinstein, Simcha",
+    "fl": "Simcha Weinstein",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9781569804001",
+  "isbn": ["9781569804001",
+  "1569804001"],
+  "asin": "1569804001",
+  "ean": ["1569804001"],
+  "publication": "BARRICADE BOOKS (2014), Edition: Illustrated, 144 pages",
+  "date": "2014",
+  "summary": "Up, Up and Oy Vey! : How Jewish History, Culture, and Values Shaped the Comic Book Superhero by Simcha Weinstein (2014)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.509"],
+    "wording": ["Arts and Recreation",
+    "Cartoons, Caricatures, Comics",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
+    "History"]
+  },
+  "lcc": {
+    "code": "PN6710 .W46"
+  },
+  "awards": ["Hollywood Book Festival"],
+  "genre": ["Graphic Novels"],
+  "genre_id": ["4778"],
+  "source": "amazon.com books",
+  "workcode": "2714888",
+  "entrydate": "2021-06-04",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "10.13 inches",
+  "height": "10.13 inches",
+  "thickness": "0.39 inches",
+  "length": "7.11 inches",
+  "dimensions": "10.13 x 7.11 x 0.39 inches",
+  "weight": "0.76279942652 pounds",
+  "pages": "152 "
 }}
