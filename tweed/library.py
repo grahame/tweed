@@ -7,7 +7,7 @@ from itertools import tee
 import urllib.parse
 import re
 import sys
-from collections import namedtuple, Counter
+from collections import namedtuple, Counter, defaultdict
 from lxml import etree
 from hashlib import sha256
 
@@ -322,8 +322,8 @@ class Library:
             )
         )
 
-        def format_loc(shelf):
-            return "{}{}".format(shelf["bookshelf"], shelf["shelf"])
+        def format_loc(shelf, index):
+            return "{}{}.{:>02}".format(shelf["bookshelf"], shelf["shelf"], index)
 
         def query_matches(query, book):
             match = True
@@ -341,6 +341,7 @@ class Library:
 
         current_shelf = None
         shelves = arrangement["shelves"]
+        indexes = defaultdict(lambda: 1)
 
         placed = []
         for book in books:
@@ -355,6 +356,11 @@ class Library:
             for override in arrangement["overrides"]:
                 if query_matches(override, book):
                     placed_on = override
-            placed.append(BookPlacement(book, format_loc(placed_on)))
+            index_key = (placed_on["bookshelf"], placed_on["shelf"])
+            index = indexes[index_key]
+            indexes[index_key] += 1
+            placed.append(BookPlacement(book, format_loc(placed_on, index)))
+
+        placed.sort(key=lambda x: x.location)
 
         return placed
