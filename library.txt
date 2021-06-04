@@ -848,35 +848,35 @@ E2.03 813.52         9780141188935     Rand, Ayn                     2007 Atlas 
 E2.04 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
 E2.05 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
 E2.06 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-E3.01 813.54         9780008117498     Asimov, Isaac, 1920-1992      2016 Foundation
-E3.02 813.54         9780586071106     Asimov, Isaac, 1920-1992      1994 Foundation and earth
-E3.03 813.54         9780586013557     Asimov, Isaac, 1920-1992      1988 Foundation and empire
-E3.04 813.54         9780586058398     Asimov, Isaac, 1920-1992      1990 Foundation's edge
-E3.05 813.54         9780586025321     Asimov, Isaac, 1920-1992      2004 I, robot
-E3.06 813.54         9780586062005     Asimov, Isaac, 1920-1992      1993 Robots and empire
-E3.07 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
-E3.08 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
-E3.09 813.54         9780722112571     Asimov, Isaac, 1920-1992      1977 The best of Isaac Asimov
-E3.10 813.54         9780586008355     Asimov, Isaac, 1920-1992      1993 The caves of steel
-E3.11 813.54         9780575129054     Asimov, Isaac, 1920-1992      2013 The gods themselves
-E3.12 813.54         9780330328111     Asimov, Isaac, 1920-1992      1993 The positronic man
-E3.13 813.54         9780586061992     Asimov, Isaac, 1920-1992      1985 The robots of dawn
-E3.14 813.54         9780765319159     Asimov, Isaac, 1920-1992      2009 The stars, like dust
-E3.15 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
-E3.16 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
-E3.17 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
-E3.18 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
-E3.19 813.54         9780006482215     Baxter, Stephen               1996 Ring
-E3.20 813.54         9780340769614     Bova, Ben, 1932-              2001 The precipice
-E3.21 813.54         9780671022075     Bradbury, Ray, 1920-2012      1998 Driving blind
-E3.22 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahrenheit 451
-E3.23 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
-E3.24 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
-E3.25 813.54         9781857233858     Brin, David                   1996 Brightness reef
-E3.26 813.54         9781472263667     Butler, Octavia E.            2019 Parable of the sower
-E3.27 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
-E3.28 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
-E3.29 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
+E2.07 813.54         9780008117498     Asimov, Isaac, 1920-1992      2016 Foundation
+E2.08 813.54         9780586071106     Asimov, Isaac, 1920-1992      1994 Foundation and earth
+E2.09 813.54         9780586013557     Asimov, Isaac, 1920-1992      1988 Foundation and empire
+E2.10 813.54         9780586058398     Asimov, Isaac, 1920-1992      1990 Foundation's edge
+E2.11 813.54         9780586025321     Asimov, Isaac, 1920-1992      2004 I, robot
+E2.12 813.54         9780586062005     Asimov, Isaac, 1920-1992      1993 Robots and empire
+E2.13 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
+E2.14 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
+E2.15 813.54         9780722112571     Asimov, Isaac, 1920-1992      1977 The best of Isaac Asimov
+E2.16 813.54         9780586008355     Asimov, Isaac, 1920-1992      1993 The caves of steel
+E2.17 813.54         9780575129054     Asimov, Isaac, 1920-1992      2013 The gods themselves
+E2.18 813.54         9780330328111     Asimov, Isaac, 1920-1992      1993 The positronic man
+E2.19 813.54         9780586061992     Asimov, Isaac, 1920-1992      1985 The robots of dawn
+E2.20 813.54         9780765319159     Asimov, Isaac, 1920-1992      2009 The stars, like dust
+E3.01 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
+E3.02 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
+E3.03 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
+E3.04 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
+E3.05 813.54         9780006482215     Baxter, Stephen               1996 Ring
+E3.06 813.54         9780340769614     Bova, Ben, 1932-              2001 The precipice
+E3.07 813.54         9780671022075     Bradbury, Ray, 1920-2012      1998 Driving blind
+E3.08 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahrenheit 451
+E3.09 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
+E3.10 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
+E3.11 813.54         9781857233858     Brin, David                   1996 Brightness reef
+E3.12 813.54         9781472263667     Butler, Octavia E.            2019 Parable of the sower
+E3.13 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
+E3.14 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
+E3.15 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
 F1.01 813.54         9780434021055     Coupland, Douglas             2010 Player One : what is to become of us : a novel in five hours
 F1.02 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
 F1.03 813.54         9780679752981     Dick, Philip K.               1994 A maze of death
