@@ -76,6 +76,7 @@
         { "isbn": "9780521612425", "bookshelf": "Z", "shelf": 2 },
         { "isbn": "9780195285253", "bookshelf": "Z", "shelf": 2 },
         { "isbn": "9780334046707", "bookshelf": "Z", "shelf": 2 },
-        { "isbn": "9780521714877", "bookshelf": "Z", "shelf": 2 }
+        { "isbn": "9780521714877", "bookshelf": "Z", "shelf": 2 },
+        { "title": "r:^The Orthodox Study Bible.*", "bookshelf": "Z", "shelf": 3 }
     ]
 }

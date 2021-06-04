@@ -327,14 +327,19 @@ class Library:
         def format_loc(shelf, index):
             return "{}{}.{:>02}".format(shelf["bookshelf"], shelf["shelf"], index)
 
+        def match_string(query, s):
+            if query.startswith("r:"):
+                return re.match(query[2:], s) is not None
+            return query == s
+
         def query_matches(query, book):
             match = True
             if "isbn" in query:
                 match &= book.isbn == query["isbn"]
             if "title" in query:
-                match &= book.title == query["title"]
+                match &= match_string(query["title"], book.title)
             if "author" in query:
-                match &= book.author == query["author"]
+                match &= match_string(query["author"], book.author)
             return match
 
         # allocate to shelves
