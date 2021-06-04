@@ -819,12 +819,10 @@ E1.05 791.4572       9780006550426     Krauss, Lawrence M., 1954-    1997 The ph
 E1.06 791.4572       9780563201960     Lynn, Jonathan                1983 Yes, Minister : the diaries of a cabinet minister
 E1.07 792.028092     9780099493761     Alda, Alan, 1936-             2007 Never have your dog stuffed : and other things I've learned
 E1.08 792.7028       9781743319345     Shah, Sami                    2015 I, migrant : a comedian's journey from Karachi to the outbac
-E1.09 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
-E1.10 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
-E1.11 795.415        9780716006800     Fox, George Clive Henry       1982 Begin bridge
-E1.12 799.10994      9780701815608     Vaughan, Harold               1982 The Australian fisherman's companion
-E1.13 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
-E1.14 808.2          9780140446364     Aristotle                     1997 Poetics
+E1.09 795.415        9780716006800     Fox, George Clive Henry       1982 Begin bridge
+E1.10 799.10994      9780701815608     Vaughan, Harold               1982 The Australian fisherman's companion
+E1.11 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
+E1.12 808.2          9780140446364     Aristotle                     1997 Poetics
 E2.01 808.80358      9781922101402     Dolichva, Tsana [Editor]      2016 Defying doomsday
 E2.02 808.8193538    9780932112972     Shomer, Enid [Editor]         2018 All we know of pleasure : poetic erotica by women
 E2.03 808.838762     9780061562358     Dozois, Gardner R.            2009 The new space opera : 2
@@ -1407,6 +1405,8 @@ Y3.30 741.5973       9781852864972     Gaiman, Neil                  1994 The sa
 Y3.31 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
 Y3.32 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
 Y3.33 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
+Y3.34 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
+Y3.35 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
 Z1.01 635            9780857832269     Allen, Darina                 2017 Grow, cook, nourish : a kitchen garden companion in 500 reci
 Z1.02 641.512        9781785031168     Ottolenghi, Yotam             2018 Ottolenghi Simple : a cookbook
 Z1.03 641.5636       9780207153037     Laden, Alice                  1987 The George Bernard Shaw vegetarian cook book;
