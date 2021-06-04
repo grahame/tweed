@@ -15,9 +15,9 @@
 
         { "bookshelf": "C", "shelf": 1, "first_book": { "isbn": "9780140448948" } },
         { "bookshelf": "C", "shelf": 2, "first_book": { "isbn": "9780232516647" } },
-        { "bookshelf": "C", "shelf": 3, "first_book": { "isbn": "9780192830111" } },
-        { "bookshelf": "C", "shelf": 4, "first_book": { "isbn": "9780837158778" } },
-        { "bookshelf": "C", "shelf": 5, "first_book": { "isbn": "9780824515294" } },
+        { "bookshelf": "C", "shelf": 3, "first_book": { "isbn": "9780814628027" } },
+        { "bookshelf": "C", "shelf": 4, "first_book": { "isbn": "9780648265962" } },
+        { "bookshelf": "C", "shelf": 5, "first_book": { "isbn": "9781626980051" } },
         { "bookshelf": "C", "shelf": 6, "first_book": { "isbn": "9780281056347" } },
 
         { "bookshelf": "D", "shelf": 1, "first_book": { "isbn": "9781890951337" } },
@@ -75,7 +75,6 @@
         { "isbn": "9780191306013", "bookshelf": "Z", "shelf": 2 },
         { "isbn": "9780521612425", "bookshelf": "Z", "shelf": 2 },
         { "isbn": "9780195285253", "bookshelf": "Z", "shelf": 2 },
-        { "isbn": "9780334046707", "bookshelf": "Z", "shelf": 2 },
         { "isbn": "9780521714877", "bookshelf": "Z", "shelf": 2 },
         { "isbn": "", "bookshelf": "Z", "shelf": 2 },
         { "title": "r:^The Orthodox Study Bible.*", "bookshelf": "Z", "shelf": 3 },
@@ -91,6 +90,10 @@
         { "isbn": "9780300186093", "bookshelf": "Z", "shelf": 2},
         { "isbn": "9780190461850", "bookshelf": "Z", "shelf": 3},
         { "isbn": "9780851119809", "bookshelf": "Z", "shelf": 3},
-        { "isbn": "9783438054050", "bookshelf": "Z", "shelf": 3}
+        { "isbn": "9783438054050", "bookshelf": "Z", "shelf": 3},
+        { "isbn": "9780814637029", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9780909827793", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9780855741662", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9780857463050", "bookshelf": "C", "shelf": 5}
     ]
 }
