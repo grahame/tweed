@@ -622,40 +622,40 @@ C6.32 306.01         9780241954294     Wilkinson, Richard G.         2010 The sp
 C6.33 306.02         9780525555216     Green, John, 1977-            2021 The Anthropocene reviewed
 C6.34 306.0956       9780547134666     Shadid, Anthony               2012 House of stone : a memoir of home, family, and a lost Middle
 C6.35 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
-C6.36 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
-C6.37 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
-D1.01 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
-D1.02 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
-D1.03 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
-D1.04 307.140994     9780643103771     Tomlinson, Richard, 1952-     2013 Australia's unintended cities : the impact of housing on urb
-D1.05 307.1416209146 9780643095335     Green, Ray (Raymond James)    None Coastal towns in transition : local perceptions of landscape
-D1.06 307.760994     9780643094192     Newton, P. W. (Peter Wesle    2008 Transitions : Pathways Towards Sustainable Urban Development
-D1.07 319.41                                                         None Western Australia Statistical Register
-D1.08 320.011        9780140444216     Yalishiduode Qian 384- qia    1981 The politics
-D1.09 320.1          9780143566465     Machiavelli, Niccolò, 1469    None The prince
-D1.10 320.5130973    9781931498715     Lakoff, George                2004 Don't think of an elephant! : know your values and frame the
-D1.11 320.9174927    9780521438339     Ajami, Fouad                  1992 The Arab predicament : Arab political thought and practice s
-D1.12 320.9385       9780140444315     Aristote                      1984 The Athenian Constitution
-D1.13 320.94         9781844673247     Mair, Peter                   2013 Ruling the void : the hollowing of Western democracy
-D1.14 320.941        9780006862437     Letwin, Shirley Robin         1992 The anatomy of Thatcherism
-D1.15 320.994        9780992482589     Bridges, Scott David Edwar    2014 Kevern write a book : the best of @Rudd2000
-D1.16 320.994        9781863956727     Keating, Paul, 1944-          2014 The book of Paul : the wit &amp; wisdom of Paul Keating
-D1.17 320.994        9780143574088     Kelly, Paul, 1947-            2017 The dismissal : in the queen's name
-D1.18 320.994        9780851791487     Whitington, Don               1971 Inside Canberra, : a guide to Australian federal politics
-D1.19 321.07         9780140455113     Plato                         2007 The republic
-D1.20 321.12         9780393092240     Service, Elman R. (Elman R    1975 Origins of the state and civilization : the process of cultu
-D1.21 323            9781921946356     Falzon, John                  2012 The language of the unheard
-D1.22 323            9780691114743     Ignatieff, Michael            2003 Human rights as politics and idolatry
-D1.23 324.29405      9781863957915     Williams, Evan                None Australian leader eats raw onion whole : headlines from the 
-D1.24 324.2940987092 9781742707662     Brown, Bob, 1944-             2014 Optimism : reflections on a life of action
-D1.25 324.2940987092 9780702259814     Milne, Christine              2018 An activist life
-D1.26 324.994/0207                     Rundle, Guy                   2013 Got Zip! : the 2013 Australian election live from the campai
-D1.27 325.210955     9781760555382     Boochani, Behrouz             None No friend but the mountains : writing from Manus Prison
-D1.28 330            9781848139923     Keen, Steve                   2011 Debunking economics : the naked emperor dethroned?
-D1.29 330            9780060731328     Levitt, Steven D.             2005 Freakonomics : a rogue economist explores the hidden side of
-D1.30 330.9730931    9780670920365     McLean, Bethany               2011 All the devils are here : the hidden history of the financia
-D1.31 331.80994      9780522874853     McManus, Sally                2019 On fairness
-D1.32 331.80994      9780522874853     McManus, Sally                2019 On fairness
+D1.01 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
+D1.02 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
+D1.03 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
+D1.04 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
+D1.05 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
+D1.06 307.140994     9780643103771     Tomlinson, Richard, 1952-     2013 Australia's unintended cities : the impact of housing on urb
+D1.07 307.1416209146 9780643095335     Green, Ray (Raymond James)    None Coastal towns in transition : local perceptions of landscape
+D1.08 307.760994     9780643094192     Newton, P. W. (Peter Wesle    2008 Transitions : Pathways Towards Sustainable Urban Development
+D1.09 319.41                                                         None Western Australia Statistical Register
+D1.10 320.011        9780140444216     Yalishiduode Qian 384- qia    1981 The politics
+D1.11 320.1          9780143566465     Machiavelli, Niccolò, 1469    None The prince
+D1.12 320.5130973    9781931498715     Lakoff, George                2004 Don't think of an elephant! : know your values and frame the
+D1.13 320.9174927    9780521438339     Ajami, Fouad                  1992 The Arab predicament : Arab political thought and practice s
+D1.14 320.9385       9780140444315     Aristote                      1984 The Athenian Constitution
+D1.15 320.94         9781844673247     Mair, Peter                   2013 Ruling the void : the hollowing of Western democracy
+D1.16 320.941        9780006862437     Letwin, Shirley Robin         1992 The anatomy of Thatcherism
+D1.17 320.994        9780992482589     Bridges, Scott David Edwar    2014 Kevern write a book : the best of @Rudd2000
+D1.18 320.994        9781863956727     Keating, Paul, 1944-          2014 The book of Paul : the wit &amp; wisdom of Paul Keating
+D1.19 320.994        9780143574088     Kelly, Paul, 1947-            2017 The dismissal : in the queen's name
+D1.20 320.994        9780851791487     Whitington, Don               1971 Inside Canberra, : a guide to Australian federal politics
+D1.21 321.07         9780140455113     Plato                         2007 The republic
+D1.22 321.12         9780393092240     Service, Elman R. (Elman R    1975 Origins of the state and civilization : the process of cultu
+D1.23 323            9781921946356     Falzon, John                  2012 The language of the unheard
+D1.24 323            9780691114743     Ignatieff, Michael            2003 Human rights as politics and idolatry
+D1.25 324.29405      9781863957915     Williams, Evan                None Australian leader eats raw onion whole : headlines from the 
+D1.26 324.2940987092 9781742707662     Brown, Bob, 1944-             2014 Optimism : reflections on a life of action
+D1.27 324.2940987092 9780702259814     Milne, Christine              2018 An activist life
+D1.28 324.994/0207                     Rundle, Guy                   2013 Got Zip! : the 2013 Australian election live from the campai
+D1.29 325.210955     9781760555382     Boochani, Behrouz             None No friend but the mountains : writing from Manus Prison
+D1.30 330            9781848139923     Keen, Steve                   2011 Debunking economics : the naked emperor dethroned?
+D1.31 330            9780060731328     Levitt, Steven D.             2005 Freakonomics : a rogue economist explores the hidden side of
+D1.32 330.9730931    9780670920365     McLean, Bethany               2011 All the devils are here : the hidden history of the financia
+D1.33 331.80994      9780522874853     McManus, Sally                2019 On fairness
+D1.34 331.80994      9780522874853     McManus, Sally                2019 On fairness
 D2.01 331.8811371109 9781742234588     O'Brien, Michael J., 1930-    2016 The National Tertiary Education Union : the first twenty yea
 D2.02 332.024        9781583334270     Desjardins, Lisa              2011 Zombie economics : a guide to personal finance
 D2.03 332.041        9780674430006     Piketty, Thomas, 1971-        2014 Capital in the twenty-first century
