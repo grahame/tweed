@@ -111,6 +111,10 @@
         { "isbn": "9780749561352", "bookshelf": "D", "shelf": 6},
         { "isbn": "9780207155567", "bookshelf": "D", "shelf": 6},
         { "isbn": "9780643095557", "bookshelf": "D", "shelf": 6},
-        { "isbn": "9780733334252", "bookshelf": "Y", "shelf": 3}
+        { "isbn": "9780733334252", "bookshelf": "Y", "shelf": 3},
+        { "isbn": "9781785031168", "bookshelf": "Z", "shelf": 1},
+        { "isbn": "9780091933685", "bookshelf": "Z", "shelf": 1},
+        { "isbn": "9781785038938", "bookshelf": "Z", "shelf": 1},
+        { "isbn": "9780857832269", "bookshelf": "Z", "shelf": 1}
     ]
 }
