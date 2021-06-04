@@ -5,6 +5,7 @@ import Books from './books.json';
 import DataGrid from 'react-data-grid';
 
 const columns = [
+    { key: 'loc', name: '#', filterable: true, width: 100 },
     { key: 'ddc', name: 'DDC', filterable: true, width: 150 },
     { key: 'author', name: 'Author', filterable: true },
     { key: 'title', name: 'Title', filterable: true },
