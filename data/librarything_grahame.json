@@ -229,9 +229,9 @@
     "5": ["science fiction"]
   },
   "series": ["Hainish-Zyklus",
-  "Ciclo di Haynish",
   "Hainish Cycle",
   "Hain-sviten",
+  "Ciclo di Haynish",
   "Hainish Cycle, Chronological",
   "Cycle de l'Ekumen",
   "Hainish-Zyklus, chronologisch"],
@@ -1004,82 +1004,6 @@
   "dimensions": "7.76 x 0.36 x 5.12 inches",
   "weight": "0.24 pounds",
   "pages": "208 "
-},
-"164253276": {
-  "books_id": "164253276",
-  "title": "Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Thompson, Hunter S.",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Thompson, Hunter S.",
-    "fl": "Hunter S. Thompson",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "9780679785897",
-  "isbn": ["9780679785897",
-  "0679785892"],
-  "asin": "0679785892",
-  "ean": ["0679785892"],
-  "publication": "Vintage (1998), Edition: 2nd, 204 pages",
-  "date": "1998",
-  "summary": "Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream by Hunter S. Thompson (1998)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["070.92"],
-    "wording": ["Biographies",
-    "Biography And History",
-    "Information",
-    "Journalism And Publishing",
-    "Journalism And Publishing"]
-  },
-  "lcc": {
-    "code": "PN4874 .T444"
-  },
-  "subject": {
-    "0": ["Adaptation"],
-    "1": ["Adaptation",
-    "Feature"],
-    "2": ["Comedy"],
-    "3": ["Comedy",
-    "Feature"],
-    "4": ["Journalists",
-    "United States",
-    "Biography"],
-    "6": ["Thompson, Hunter S"],
-    "7": ["adaptation"],
-    "8": ["comedy"]
-  },
-  "originaltitle": "Fear and Loathing in Las Vegas",
-  "awards": ["Waterstones Books of the Century",
-  "CounterPunch's Top 100 [and a few more] Non-fiction Works of the 20th Century",
-  "1001 Books You Must Read Before You Die",
-  "1000 Books to Read Before You Die",
-  "Reading the world in 196 books"],
-  "genre": ["Biography & Memoir"],
-  "genre_id": ["1240"],
-  "source": "amazon.com books",
-  "workcode": "3366",
-  "entrydate": "2019-01-08",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "204 p.; 5.2 inches",
-  "height": "5.2 inches",
-  "thickness": "7.95 inches",
-  "length": "0.6 inches",
-  "dimensions": "5.2 x 0.6 x 7.95 inches",
-  "weight": "0.5 pounds",
-  "pages": "204 "
 },
 "164253291": {
   "books_id": "164253291",
@@ -7653,10 +7577,10 @@
     "26": ["fantasy"],
     "28": ["juvenile literature"]
   },
-  "series": ["Winnie the Pooh (A.A. Milne Original)",
-  "Original Pooh Treasury",
-  "Kubu\u015b Puchatek",
-  "Nalle Puh"],
+  "series": ["Kubu\u015b Puchatek",
+  "Nalle Puh",
+  "Winnie the Pooh (A.A. Milne Original)",
+  "Original Pooh Treasury"],
   "awards": ["Waterstones Books of the Century",
   "IBBY Honour Book",
   "IBBY Honour Book",
@@ -7941,7 +7865,8 @@
   "dimensions": "7.87 x 0.67 x 5.28 inches",
   "weight": "2.15 pounds",
   "pages": "224 "
-},"164295220": {
+},
+"164295220": {
   "books_id": "164295220",
   "title": "A Maze of Death",
   "sortcharacter": "3",
@@ -8009,8 +7934,7 @@
   "dimensions": "5.05 x 0.55 x 7.95 inches",
   "weight": "0.42 pounds",
   "pages": "208 "
-},
-"164295222": {
+},"164295222": {
   "books_id": "164295222",
   "title": "The Cosmic Puppets (Gollancz)",
   "sortcharacter": "5",
@@ -10373,9 +10297,9 @@
   },
   "series": ["La servante \u00e9carlate",
   "The Handmaid's Tale",
+  "Het verhaal van de dienstmaagd",
   "Der Report der Magd",
-  "El cuento de la criada",
-  "Het verhaal van de dienstmaagd"],
+  "El cuento de la criada"],
   "originaltitle": "The Handmaid\u2019s Tale",
   "awards": ["Prix Aurora Award finalist",
   "Booker Prize Shortlist",
@@ -13900,11 +13824,11 @@
   "lcc": {
     "code": "PL2947 .C59"
   },
-  "series": ["El problema de los tres cuerpos",
+  "series": ["Drei Sonnen",
+  "El problema de los tres cuerpos",
   "Le Probl\u00e8me \u00e0 trois corps",
   "Remembrance of Earth's Past",
-  "The Three-Body Problem",
-  "Drei Sonnen"],
+  "The Three-Body Problem"],
   "originaltitle": "\u4e09\u4f53",
   "awards": ["Nebula Nominee",
   "Hugo",
@@ -14274,8 +14198,8 @@
     "Fiction"],
     "8": ["fantasy fiction"]
   },
-  "series": ["Les Voies d'Anubis",
-  "The Anubis Gates"],
+  "series": ["The Anubis Gates",
+  "Les Voies d'Anubis"],
   "originaltitle": "The Anubis Gates",
   "awards": ["Apollo Award",
   "Philip K. Dick Award",
@@ -14456,7 +14380,7 @@
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvijet",
-  "Kettamaailm",
+  "\u015awiat Dysku",
   "Skiveverdenen",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Kiekkomaailma",
@@ -14467,10 +14391,10 @@
   "Les Annales du Disque-Monde",
   "Schijfwereld",
   "Skivv\u00e4rlden",
-  "Mondo Disco",
-  "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
+  "Disgfyd",
+  "Kettamaailm",
   "Plochozem",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Lumea Disc",
@@ -14482,7 +14406,7 @@
   "\u00da\u017easn\u00e1 Zem\u011bplocha",
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
-  "Disgfyd",
+  "Mondo Disco",
   "Discworld",
   "Rincewind-Reihe",
   "Kiekkomaailma : Rincewind",
@@ -14840,7 +14764,8 @@
   "dimensions": "4.2 x 1.01 x 6.89 inches",
   "weight": "0.45 pounds",
   "pages": "324 "
-},"164321191": {
+},
+"164321191": {
   "books_id": "164321191",
   "title": "A Vision of Fire: Book 1 of the Earthend Saga",
   "sortcharacter": "3",
@@ -14897,8 +14822,7 @@
   "dimensions": "9.25 x 0.94 x 5.98 inches",
   "weight": "0.6 pounds",
   "pages": "320 "
-},
-"164321195": {
+},"164321195": {
   "books_id": "164321195",
   "title": "City Watch Trilogy: A Discworld Omnibus: Guards! Guards!, Men At Arms, Feet Of Clay",
   "sortcharacter": "1",
@@ -14957,18 +14881,18 @@
   "Mondo Disco",
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvijet",
-  "Kettamaailm",
   "Discworld",
-  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Kettamaailm",
   "Plochozem",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Lumea Disc",
+  "Korongvil\u00e1g",
+  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Skivv\u00e4rlden: Stadsvakten",
   "Mundodisco: Guardia de la Ciudad",
   "Scheibenwelt: Stadtwache",
@@ -15094,8 +15018,8 @@
     "code": "PR6066 .R34"
   },
   "series": ["La tierra larga",
-  "La Longue Terre",
-  "The Long Earth"],
+  "The Long Earth",
+  "La Longue Terre"],
   "originaltitle": "The Long Earth",
   "awards": ["io9 Best Science Fiction and Fantasy Books of the Year",
   "Goodreads Choice Awards"],
@@ -15188,18 +15112,18 @@
   "Mondo Disco",
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvijet",
-  "Kettamaailm",
   "Discworld",
-  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Kettamaailm",
   "Plochozem",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Lumea Disc",
+  "Korongvil\u00e1g",
+  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Skivv\u00e4rlden: D\u00f6den",
   "Kiekkomaailma : Kuolema",
   "Scheibenwelt: Der Tod",
@@ -20827,7 +20751,8 @@
   "dimensions": "5.2 x 0.79 x 7.8 inches",
   "weight": "0.6 pounds",
   "pages": "192 "
-},"164328801": {
+},
+"164328801": {
   "books_id": "164328801",
   "title": "God of Surprises",
   "sortcharacter": "1",
@@ -20898,8 +20823,7 @@
   "dimensions": "8.4 x 5.3 x 0.7 inches",
   "weight": "0.5 pounds",
   "pages": "160 "
-},
-"164328803": {
+},"164328803": {
   "books_id": "164328803",
   "title": "Why Go to Church?: The Drama of the Eucharist",
   "sortcharacter": "1",
@@ -26975,7 +26899,8 @@
   "dimensions": "5.06 x 0.17 x 7.81 inches",
   "weight": "0.18 pounds",
   "pages": "82 "
-},"164331174": {
+},
+"164331174": {
   "books_id": "164331174",
   "title": "Mr and Mrs Job",
   "sortcharacter": "1",
@@ -27029,8 +26954,7 @@
   "dimensions": "5.51 x 0.35 x 8.5 inches",
   "weight": "0.4 pounds",
   "pages": "164 "
-},
-"164331178": {
+},"164331178": {
   "books_id": "164331178",
   "title": "The Book of Job (1985): A Commentary (The Old Testament Library)",
   "sortcharacter": "5",
@@ -32761,7 +32685,8 @@
   "dimensions": "7.8 x 1.5 x 9.1 inches",
   "weight": "2.9 pounds",
   "pages": "720 "
-},"164355696": {
+},
+"164355696": {
   "books_id": "164355696",
   "title": "The Pragmatic Programmer: From Journeyman to Master",
   "sortcharacter": "5",
@@ -32822,8 +32747,7 @@
   "dimensions": "7.35 x 1 x 9.2 inches",
   "weight": "1.34 pounds",
   "pages": "352 "
-},
-"164355706": {
+},"164355706": {
   "books_id": "164355706",
   "title": "The Mythical Man-Month: Essays on Software Engineering",
   "sortcharacter": "5",
@@ -39658,7 +39582,8 @@
   "dimensions": "4.33 x 0.91 x 7.01 inches",
   "weight": "0.44 pounds",
   "pages": "310 "
-},"164360740": {
+},
+"164360740": {
   "books_id": "164360740",
   "title": "Axiomatic",
   "sortcharacter": "1",
@@ -39722,8 +39647,7 @@
   "dimensions": "9.06 x 5.98 x 1.18 inches",
   "weight": "1.01 pounds",
   "pages": "400 "
-},
-"164360760": {
+},"164360760": {
   "books_id": "164360760",
   "title": "Of Mice and Men",
   "sortcharacter": "1",
@@ -47238,7 +47162,8 @@
   "dimensions": "7.34 x 1.73 x 9.56 inches",
   "weight": "2.85 pounds",
   "pages": "448 "
-},"164366773": {
+},
+"164366773": {
   "books_id": "164366773",
   "title": "Bird Minds: Cognition and Behaviour of Australian Native Birds",
   "sortcharacter": "1",
@@ -47290,8 +47215,7 @@
   "length": "0.63 inches",
   "dimensions": "5.51 x 0.63 x 10.7 inches",
   "pages": "272 "
-},
-"164366800": {
+},"164366800": {
   "books_id": "164366800",
   "title": "Australian Bird Names: A Complete Guide",
   "sortcharacter": "1",
@@ -49605,21 +49529,21 @@
     "Fiction"],
     "15": ["science fiction"]
   },
-  "series": ["Alap\u00edtv\u00e1ny",
-  "Fondation",
+  "series": ["Fondation",
   "Cycle de Fondation",
+  "Alap\u00edtv\u00e1ny",
   "Nadace",
   "Z\u00e1klad\u0148a",
   "De Foundation",
   "Ciclo delle Fondazioni",
   "Serijal o Zakladi",
-  "Trilogia de les Fundacions",
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
   "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
   "Fundaci\u00f3n - Cronol\u00f3gico",
   "Trilog\u00eda de la Fundaci\u00f3n",
+  "Trilogia de les Fundacions",
   "Die Foundation-Romane",
   "Foundation",
   "FOUNDATION",
@@ -49901,21 +49825,21 @@
     "Fiction"],
     "12": ["science fiction"]
   },
-  "series": ["Alap\u00edtv\u00e1ny",
-  "Fondation",
+  "series": ["Fondation",
   "Cycle de Fondation",
+  "Alap\u00edtv\u00e1ny",
   "Nadace",
   "Z\u00e1klad\u0148a",
   "De Foundation",
   "Ciclo delle Fondazioni",
   "Serijal o Zakladi",
-  "Trilogia de les Fundacions",
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
   "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
   "Fundaci\u00f3n - Cronol\u00f3gico",
   "Trilog\u00eda de la Fundaci\u00f3n",
+  "Trilogia de les Fundacions",
   "Die Foundation-Romane",
   "Foundation",
   "FOUNDATION",
@@ -50162,21 +50086,21 @@
     "Fiction"],
     "10": ["science fiction"]
   },
-  "series": ["Alap\u00edtv\u00e1ny",
-  "Fondation",
+  "series": ["Fondation",
   "Cycle de Fondation",
+  "Alap\u00edtv\u00e1ny",
   "Nadace",
   "Z\u00e1klad\u0148a",
   "De Foundation",
   "Ciclo delle Fondazioni",
   "Serijal o Zakladi",
-  "Trilogia de les Fundacions",
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
   "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
   "Fundaci\u00f3n - Cronol\u00f3gico",
   "Trilog\u00eda de la Fundaci\u00f3n",
+  "Trilogia de les Fundacions",
   "Die Foundation-Romane",
   "Foundation",
   "FOUNDATION",
@@ -50694,11 +50618,11 @@
   "subject": [["Science Fiction"],
   ["Science fiction"],
   ["science fiction"]],
-  "series": ["A Kult\u00fara",
+  "series": ["Kultur-Zyklus",
+  "A Kult\u00fara",
   "Kulttuuri",
   "Le cycle de la culture",
   "The Culture",
-  "Kultur-Zyklus",
   "La Cultura"],
   "awards": ["Amazon.com Best Books",
   "Reading List Award shortlist",
@@ -50849,11 +50773,11 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["A Kult\u00fara",
+  "series": ["Kultur-Zyklus",
+  "A Kult\u00fara",
   "Kulttuuri",
   "Le cycle de la culture",
   "The Culture",
-  "Kultur-Zyklus",
   "La Cultura"],
   "awards": ["Locus Recommended Reading",
   "SF Site Editor's Choice",
@@ -51479,11 +51403,11 @@
     "code": "PR6052 .A485"
   },
   "subject": [["Science fiction, English"]],
-  "series": ["A Kult\u00fara",
+  "series": ["Kultur-Zyklus",
+  "A Kult\u00fara",
   "Kulttuuri",
   "Le cycle de la culture",
   "The Culture",
-  "Kultur-Zyklus",
   "La Cultura"],
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
@@ -51544,11 +51468,11 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["A Kult\u00fara",
+  "series": ["Kultur-Zyklus",
+  "A Kult\u00fara",
   "Kulttuuri",
   "Le cycle de la culture",
   "The Culture",
-  "Kultur-Zyklus",
   "La Cultura"],
   "originaltitle": "Inversions",
   "awards": ["British Science Fiction Association Award Shortlist",
@@ -51674,11 +51598,11 @@
   "lcc": {
     "code": "PR6052 .A485"
   },
-  "series": ["A Kult\u00fara",
+  "series": ["Kultur-Zyklus",
+  "A Kult\u00fara",
   "Kulttuuri",
   "Le cycle de la culture",
   "The Culture",
-  "Kultur-Zyklus",
   "La Cultura"],
   "awards": ["John W. Campbell Memorial Award Finalist",
   "Locus Award Finalist",
@@ -51745,11 +51669,11 @@
   "lcc": {
     "code": "PR6052 .A485"
   },
-  "series": ["A Kult\u00fara",
+  "series": ["Kultur-Zyklus",
+  "A Kult\u00fara",
   "Kulttuuri",
   "Le cycle de la culture",
   "The Culture",
-  "Kultur-Zyklus",
   "La Cultura"],
   "awards": ["SF Site Reader's Choice",
   "Locus Award Finalist",
@@ -54028,7 +53952,8 @@
   "dimensions": "5 x 0.96 x 8 inches",
   "weight": "0.54 pounds",
   "pages": "320 "
-},"164408957": {
+},
+"164408957": {
   "books_id": "164408957",
   "title": "Woken Furies",
   "sortcharacter": "1",
@@ -54096,8 +54021,7 @@
   "dimensions": "4.33 x 1.38 x 6.97 inches",
   "weight": "0.49 pounds",
   "pages": "576 "
-},
-"164408964": {
+},"164408964": {
   "books_id": "164408964",
   "title": "Man in the Iron Mask",
   "sortcharacter": "1",
@@ -54158,11 +54082,11 @@
     "13": ["Romances"],
     "15": ["historical fiction"]
   },
-  "series": ["D'Artagnan t\u00f6rt\u00e9netek",
+  "series": ["Die drei Musketiere",
   "Les Trois Mousquetaires",
-  "Die drei Musketiere",
-  "Los tres mosqueteros",
+  "D'Artagnan t\u00f6rt\u00e9netek",
   "D'Artagnan Romances",
+  "Los tres mosqueteros",
   "Tio \u00e5r senare",
   "Le Vicomte de Bragelonne"],
   "source": "amazon.com books",
@@ -55188,10 +55112,10 @@
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
-  "Isaac Asimov's Robot Series",
-  "Les robots",
+  "Rom\u00e1ny o robotech",
   "Die Roboter-Romane",
-  "Rom\u00e1ny o robotech"],
+  "Isaac Asimov's Robot Series",
+  "Les robots"],
   "awards": ["Locus 1987 Poll, All-Time Best SF Novel",
   "Locus 1975 Poll, All-Time Best Novel",
   "Classics of Science Fiction",
@@ -55346,19 +55270,19 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
-  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
-  "Fundaci\u00f3n - Cronol\u00f3gico",
-  "Trilog\u00eda de la Fundaci\u00f3n",
+  "Trilogia de les Fundacions",
+  "Serijal o Zakladi",
+  "Nadace",
+  "Z\u00e1klad\u0148a",
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
-  "Nadace",
-  "Z\u00e1klad\u0148a",
-  "Serijal o Zakladi",
-  "Alap\u00edtv\u00e1ny",
+  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
+  "Fundaci\u00f3n - Cronol\u00f3gico",
+  "Trilog\u00eda de la Fundaci\u00f3n",
   "Fondation",
   "Cycle de Fondation",
-  "Trilogia de les Fundacions",
+  "Alap\u00edtv\u00e1ny",
   "Ciclo delle Fondazioni",
   "Foundation",
   "Die Foundation-Romane",
@@ -55443,10 +55367,10 @@
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
-  "Isaac Asimov's Robot Series",
-  "Les robots",
+  "Rom\u00e1ny o robotech",
   "Die Roboter-Romane",
-  "Rom\u00e1ny o robotech"],
+  "Isaac Asimov's Robot Series",
+  "Les robots"],
   "genre": ["Fiction",
   "Mystery",
   "Science Fiction"],
@@ -55677,19 +55601,19 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
-  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
-  "Fundaci\u00f3n - Cronol\u00f3gico",
-  "Trilog\u00eda de la Fundaci\u00f3n",
+  "Trilogia de les Fundacions",
+  "Serijal o Zakladi",
+  "Nadace",
+  "Z\u00e1klad\u0148a",
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
-  "Nadace",
-  "Z\u00e1klad\u0148a",
-  "Serijal o Zakladi",
-  "Alap\u00edtv\u00e1ny",
+  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
+  "Fundaci\u00f3n - Cronol\u00f3gico",
+  "Trilog\u00eda de la Fundaci\u00f3n",
   "Fondation",
   "Cycle de Fondation",
-  "Trilogia de les Fundacions",
+  "Alap\u00edtv\u00e1ny",
   "Ciclo delle Fondazioni",
   "Foundation",
   "Die Foundation-Romane",
@@ -55776,19 +55700,19 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
-  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
-  "Fundaci\u00f3n - Cronol\u00f3gico",
-  "Trilog\u00eda de la Fundaci\u00f3n",
+  "Trilogia de les Fundacions",
+  "Serijal o Zakladi",
+  "Nadace",
+  "Z\u00e1klad\u0148a",
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
-  "Nadace",
-  "Z\u00e1klad\u0148a",
-  "Serijal o Zakladi",
-  "Alap\u00edtv\u00e1ny",
+  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
+  "Fundaci\u00f3n - Cronol\u00f3gico",
+  "Trilog\u00eda de la Fundaci\u00f3n",
   "Fondation",
   "Cycle de Fondation",
-  "Trilogia de les Fundacions",
+  "Alap\u00edtv\u00e1ny",
   "Ciclo delle Fondazioni",
   "Foundation",
   "Die Foundation-Romane",
@@ -55863,9 +55787,9 @@
   "lcc": {
     "code": "PR6052 .A849 R3"
   },
-  "series": ["Cycle des Xeelees",
+  "series": ["Xeelee Sequence",
   "Der Xeelee-Zyklus",
-  "Xeelee Sequence"],
+  "Cycle des Xeelees"],
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
   "source": "amazon.com books",
@@ -60186,7 +60110,8 @@
   }],
   "copies": "1",
   "volumes": "1"
-},"169954698": {
+},
+"169954698": {
   "books_id": "169954698",
   "title": "The Beatitudes: To Evangelize As Jesus Did",
   "sortcharacter": "5",
@@ -60244,8 +60169,7 @@
   "dimensions": "0.08 x 7.32 x 9.53 inches",
   "weight": "0.45 pounds",
   "pages": "108 "
-},
-"169961569": {
+},"169961569": {
   "books_id": "169961569",
   "title": "The Hunt for Red October",
   "sortcharacter": "5",
@@ -65349,7 +65273,7 @@
 },
 "178256036": {
   "books_id": "178256036",
-  "title": "New Testametn Words",
+  "title": "New Testament Words",
   "sortcharacter": "1",
   "public": "1",
   "primaryauthor": "Barclay, William",
@@ -65370,7 +65294,7 @@
   "ean": ["0334011396"],
   "publication": "Hymns Ancient & Modern Ltd (2012), Edition: 1st, 290 pages",
   "date": "2012",
-  "summary": "New Testametn Words by William Barclay (2012)",
+  "summary": "New Testament Words by William Barclay (2012)",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
@@ -66467,7 +66391,8 @@
   "height": "24 cm",
   "dimensions": "24 cm",
   "pages": "xxxiv; 296 "
-},"178256132": {
+},
+"178256132": {
   "books_id": "178256132",
   "title": "Catholic Sacraments (Michael Glazier Books: Message of the Sacraments)",
   "sortcharacter": "1",
@@ -66521,8 +66446,7 @@
   "length": "5.5 inches",
   "dimensions": "1 x 5.5 x 8.5 inches",
   "pages": "227 "
-},
-"178256134": {
+},"178256134": {
   "books_id": "178256134",
   "title": "The Taize Office",
   "sortcharacter": "5",
@@ -72812,7 +72736,8 @@
   "length": "5.51 inches",
   "dimensions": "8.5 x 5.51 x 0.39 inches",
   "weight": "0.771617917 pounds"
-},"187940874": {
+},
+"187940874": {
   "books_id": "187940874",
   "title": "The Book of Exodus: A Critical, Theological Commentary (The Old Testament Library)",
   "sortcharacter": "5",
@@ -72872,8 +72797,7 @@
   "dimensions": "9.01573 x 5.98424 x 1.5129891 inches",
   "weight": "2.19 pounds",
   "pages": "688 "
-},
-"188283850": {
+},"188283850": {
   "books_id": "188283850",
   "title": "After Writing: On the Liturgical Cosummation of Philosophy",
   "sortcharacter": "1",
@@ -79182,7 +79106,8 @@
   "dimensions": "5.1 x 7.6 x 1 inches",
   "weight": "0.551155655 pounds",
   "pages": "336 "
-},"192688879": {
+},
+"192688879": {
   "books_id": "192688879",
   "title": "The Athenian Constitution (Penguin Classics)",
   "sortcharacter": "5",
@@ -79263,8 +79188,7 @@
   "dimensions": "0.51 x 7.78 x 5.07 inches",
   "weight": "0.34612575134 pounds",
   "pages": "208 "
-},
-"192688880": {
+},"192688880": {
   "books_id": "192688880",
   "title": "The Symposium (Penguin Classics)",
   "sortcharacter": "5",
@@ -82442,68 +82366,6 @@
   "weight": "0.66359140862 pounds",
   "pages": "416 "
 },
-"193659108": {
-  "books_id": "193659108",
-  "title": "Reading the Bible Again for the First Time: Taking the Bible Seriously but Not Literally",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Borg, Marcus J.",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Borg, Marcus J.",
-    "fl": "Marcus J. Borg",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0060609192",
-  "isbn": {
-    "0": "0060609192",
-    "2": "9780060609191"
-  },
-  "asin": "0060609192",
-  "ean": ["8601406195776"],
-  "publication": "HarperOne (2015), Edition: Revised ed., 336 pages",
-  "date": "2015",
-  "summary": "Reading the Bible Again for the First Time: Taking the Bible Seriously but Not Literally by Marcus J. Borg (2015)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["220.61"],
-    "wording": ["--",
-    "Bible",
-    "General introductions to the Bible",
-    "Interpretation and criticism (Exegesis)",
-    "Religions"]
-  },
-  "lcc": {
-    "code": "BS511.3 .B67"
-  },
-  "subject": [["Bible",
-  "Criticism, interpretation, etc"],
-  ["Metaphor in the Bible"]],
-  "genre": ["Nonfiction",
-  "Religion & Spirituality"],
-  "genre_id": ["1247",
-  "1944"],
-  "source": "amazon.com books",
-  "workcode": "45972",
-  "entrydate": "2020-12-16",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "physical_description": "7.9 x 0.9 inches",
-  "height": "0.9 inches",
-  "thickness": "5.4 inches",
-  "length": "7.9 inches",
-  "dimensions": "0.9 x 7.9 x 5.4 inches",
-  "weight": "0.551155655 pounds",
-  "pages": "336 "
-},
 "193659113": {
   "books_id": "193659113",
   "title": "Facing the Future: Bishops Imagine a Different Church",
@@ -83695,27 +83557,28 @@
     "11": ["fantasy fiction"],
     "12": ["humorous fiction"]
   },
-  "series": ["Scheibenwelt",
-  "Discworld",
+  "series": ["Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
+  "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
-  "Skiveverdenen",
+  "Plochozem",
   "Kettamaailm",
   "Disksvijet",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Plochozem",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Lumea Disc",
+  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
@@ -83727,7 +83590,6 @@
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Korongvil\u00e1g",
-  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -83801,27 +83663,28 @@
   ["Science fiction"],
   ["fantasy fiction"],
   ["science fiction"]],
-  "series": ["Scheibenwelt",
-  "Discworld",
+  "series": ["Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
+  "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
-  "Skiveverdenen",
+  "Plochozem",
   "Kettamaailm",
   "Disksvijet",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Plochozem",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Lumea Disc",
+  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
@@ -83833,11 +83696,10 @@
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Korongvil\u00e1g",
-  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Mundodisco: La Muerte",
   "Scheibenwelt: Der Tod",
   "Kiekkomaailma : Kuolema",
   "Skivv\u00e4rlden: D\u00f6den",
-  "Mundodisco: La Muerte",
   "Discworld: Death"],
   "originaltitle": "Mort",
   "awards": ["BBC's Big Read",
@@ -83916,27 +83778,28 @@
     "10": ["fantasy fiction"],
     "11": ["science fiction"]
   },
-  "series": ["Scheibenwelt",
-  "Discworld",
+  "series": ["Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
+  "Scheibenwelt",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
-  "Skiveverdenen",
+  "Plochozem",
   "Kettamaailm",
   "Disksvijet",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Plochozem",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Lumea Disc",
+  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
@@ -83948,7 +83811,6 @@
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Korongvil\u00e1g",
-  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -85891,7 +85753,8 @@
     "text": "Hardcover"
   }],
   "copies": "1"
-},"196720800": {
+},
+"196720800": {
   "books_id": "196720800",
   "title": "Wollaston's Picton Journal (1841-1844). Volume 1 of the Journals and Diaries",
   "sortcharacter": "1",
@@ -85966,8 +85829,7 @@
     "text": "Paperback"
   }],
   "copies": "1"
-},
-"196970671": {
+},"196970671": {
   "books_id": "196970671",
   "title": "Wisdom in Israel",
   "sortcharacter": "1",
@@ -86460,11 +86322,10 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["220.77"],
-    "wording": ["--",
-    "Bible",
-    "Commentaries",
-    "Commentaries with text",
+    "code": ["223.107"],
+    "wording": ["Bible",
+    "Job",
+    "Poetic Books ",
     "Religions"]
   },
   "lcc": {
@@ -86514,11 +86375,10 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["220.77"],
-    "wording": ["--",
-    "Bible",
-    "Commentaries",
-    "Commentaries with text",
+    "code": ["223.107"],
+    "wording": ["Bible",
+    "Job",
+    "Poetic Books ",
     "Religions"]
   },
   "lcc": {
@@ -86547,11 +86407,11 @@
   "title": "Job 38-42, Volume 18B (Word Biblical Commentary)",
   "sortcharacter": "1",
   "public": "1",
-  "primaryauthor": "Zondervan",
+  "primaryauthor": "Clines, David J. A.",
   "primaryauthorrole": "Author",
   "authors": [{
-    "lf": "Zondervan",
-    "fl": "Zondervan",
+    "lf": "Clines, David J. A.",
+    "fl": "David J. A. Clines",
     "role": "Author"
   }],
   "collections_idA": [1],
@@ -86566,13 +86426,13 @@
   "upc": ["025986522001"],
   "publication": "Zondervan (2015), 544 pages",
   "date": "2012",
-  "summary": "Job 38-42, Volume 18B (Word Biblical Commentary) by Zondervan (2012)",
+  "summary": "Job 38-42, Volume 18B (Word Biblical Commentary) by David J. A. Clines (2012)",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["223.1077"],
+    "code": ["223.107"],
     "wording": ["Bible",
     "Job",
     "Poetic Books ",
@@ -87308,64 +87168,6 @@
   "dimensions": "0.47 x 9.21 x 6.14 inches",
   "weight": "0.7 pounds",
   "pages": "224 "
-},
-"197325323": {
-  "books_id": "197325323",
-  "title": "Job 1-20, Volume 17 (Word Biblical Commentary)",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Clines, David J. A.",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Clines, David J. A.",
-    "fl": "David J. A. Clines",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0310521904",
-  "isbn": {
-    "0": "0310521904",
-    "2": "9780310521907"
-  },
-  "asin": "0310521904",
-  "ean": ["0025986521905"],
-  "upc": ["025986521905"],
-  "publication": "Zondervan (2015), Edition: Reissue, 624 pages",
-  "date": "2015",
-  "summary": "Job 1-20, Volume 17 (Word Biblical Commentary) by David J. A. Clines (2015)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["220.77"],
-    "wording": ["--",
-    "Bible",
-    "Commentaries",
-    "Commentaries with text",
-    "Religions"]
-  },
-  "lcc": {
-    "code": "BS491.2 .W67"
-  },
-  "series": ["Word Biblical Commentary"],
-  "genre": ["Religion & Spirituality"],
-  "genre_id": ["1944"],
-  "source": "amazon.com books",
-  "workcode": "26886",
-  "entrydate": "2021-03-06",
-  "format": [{
-    "code": "1.1.2",
-    "text": "Hardcover"
-  }],
-  "copies": "1",
-  "physical_description": "9.25 inches",
-  "height": "9.25 inches",
-  "thickness": "1.69 inches",
-  "length": "6.25 inches",
-  "dimensions": "9.25 x 6.25 x 1.69 inches",
-  "weight": "2.17816714856 pounds"
 },
 "197583302": {
   "books_id": "197583302",
@@ -88617,8 +88419,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["221.6"],
-    "wording": ["--",
-    "Bible",
+    "wording": ["Bible",
+    "Bible. O.T.--exegesis",
+    "Old Testament",
     "Religions"]
   },
   "lcc": {
@@ -88637,6 +88440,7 @@
     "text": "Paperback"
   }],
   "copies": "1",
+  "volumes": "1",
   "physical_description": "9 inches",
   "height": "9 inches",
   "thickness": "1.44 inches",
@@ -91846,7 +91650,8 @@
   "length": "6 inches",
   "dimensions": "9 x 6 x 0.72 inches",
   "weight": "0.95 pounds"
-},"200193587": {
+},
+"200193587": {
   "books_id": "200193587",
   "title": "The Philokalia: The Complete Text (Vol. 1); Compiled by St. Nikodimos of the Holy Mountain and St. Markarios of Corinth",
   "sortcharacter": "5",
@@ -92050,8 +91855,7 @@
   "dimensions": "7.7098271 x 5.12 x 1.21 inches",
   "weight": "1.0912881969 pounds",
   "pages": "340 "
-},
-"200193593": {
+},"200193593": {
   "books_id": "200193593",
   "title": "The Philokalia: Exploring the Classic Text of Orthodox Spirituality",
   "sortcharacter": "5",
