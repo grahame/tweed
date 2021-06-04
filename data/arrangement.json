@@ -85,6 +85,12 @@
         { "isbn": "9780060786847", "bookshelf": "Z", "shelf": 2},
         { "isbn": "9780529064844", "bookshelf": "Z", "shelf": 2},
         { "isbn": "9780647511176", "bookshelf": "Z", "shelf": 2},
-        { "isbn": "9780802834133", "bookshelf": "Z", "shelf": 2}
+        { "isbn": "9780802834133", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9781481476546", "bookshelf": "B", "shelf": 3},
+        { "isbn": "9783438051172", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9780300186093", "bookshelf": "Z", "shelf": 2},
+        { "isbn": "9780190461850", "bookshelf": "Z", "shelf": 3},
+        { "isbn": "9780851119809", "bookshelf": "Z", "shelf": 3},
+        { "isbn": "9783438054050", "bookshelf": "Z", "shelf": 3}
     ]
 }

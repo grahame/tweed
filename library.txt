@@ -191,39 +191,35 @@ B2.11 223.107        9780310521907     Clines, David J. A.           2015 Job : 
 B2.12 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
 B2.13 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
 B2.14 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
-B2.15 223.8052034    9781481476546     Rylant, Cynthia [Illustrat    2018 Ecclesiastes : to everything there is a season
-B2.16 223.9          9780300139495     Salomo Israel, König          1995 Song of songs
-B2.17 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
-B2.18 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
-B2.19 224            9780334011644     Rad, Gerhard von, 1901-       1968 The message of the prophets
-B2.20 224.06         9780060936990     Heschel, Abraham Joshua, 1    2001 The Prophets
-B2.21 224.206        9780800699307     O'Connor, Kathleen M., 194    2012 Jeremiah : pain and promise
-B2.22 224.206        9780931464201     Perdue, Leo G. [Editor; Ot    1984 A Prophet to the nations : essays in Jeremiah studies
-B2.23 224.2077       9780802823694     Thompson, J. A. (John Arth    1980 The book of Jeremiah
-B2.24 224.807                          Marsh, J.                     1959 Amos and Micah [Torch Bible Commentaries]
-B2.25 225            9780232511802     Kee, Howard Clark             2011 The living world of the New Testament
-B2.26 225.08         9780334011385     Batey, Richard A., 1933-      1970 New Testament issues
-B2.27 225.48         9783438051172     Aland, Kurt                   2014 The Greek New Testament;
-B2.28 225.5209       9780300186093     Hart, David Bentley           2017 The New Testament : a translation
-B2.29 225.6          9780334003885     Käsemann, Ernst               2012 Essays on New Testament themes
-B2.30 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
-B2.31 225.6          9781563381836     Robbins, Vernon K. (Vernon    1996 Exploring the texture of texts : a guide to socio-rhetorical
-B2.32 225.6          9780415139984     Robbins, Vernon K. (Vernon    1996 The tapestry of early Christian discourse : rhetoric, societ
-B2.33 225.6          9780867160987     Rohr, Richard, O.F.M          1988 The great themes of scripture : New Testament
-B2.34 225.61         9780300173123     Brown, Raymond Edward         2016 An introduction to the New Testament
-B2.35 225.61         9780802827463     Loader, William R. G., 194    2007 The New Testament with imagination : a fresh approach to its
-B3.01 225.61         9780300180855     Martin, Dale B., 1954-        2012 New Testament history and literature
-B3.02 225.66         9780801027895     Resseguie, James L.           2005 Narrative criticism of the New Testament : an introduction
-B3.03 225.67         9780190203825     Ehrman, Bart D                2015 The New Testament : a historical introduction to the early C
-B3.04 225.68         9780334022114     Bultmann, Rudolf, 1884-197    1985 New Testament and mythology and other basic writings
-B3.05 225.7          9780198261681     Harvey, A. E. (Anthony Ern    1972 The new English Bible : companion to the New Testament
-B3.06 225.83055      9781978702073     Myles, Robert J. [Editor]     2019 Class struggle in the New Testament
-B3.07 225.92         9781847301710     O'Mahony, Kieran J.           2009 Do we still need St. Paul? : a contemporary reading of the A
-B3.08 225.924        9780800662042     Hock, Ronald F., 1944-        1995 The social context of Paul's ministry : tentmaking and apost
-B3.09 225.93         9780060616342     Crossan, John Dominic         2003 Excavating Jesus : beneath the stones, behind the texts
-B3.10 225.95         9780281037919     Kee, Howard Clark             1980 The origins of Christianity; : sources and documents
-B3.11 225.95         9780334018179     Roetzel, Calvin J.            2012 The world that shaped the New Testament
-B3.12 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
+B2.15 223.9          9780300139495     Salomo Israel, König          1995 Song of songs
+B2.16 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
+B2.17 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
+B2.18 224            9780334011644     Rad, Gerhard von, 1901-       1968 The message of the prophets
+B2.19 224.06         9780060936990     Heschel, Abraham Joshua, 1    2001 The Prophets
+B2.20 224.206        9780800699307     O'Connor, Kathleen M., 194    2012 Jeremiah : pain and promise
+B2.21 224.206        9780931464201     Perdue, Leo G. [Editor; Ot    1984 A Prophet to the nations : essays in Jeremiah studies
+B2.22 224.2077       9780802823694     Thompson, J. A. (John Arth    1980 The book of Jeremiah
+B2.23 224.807                          Marsh, J.                     1959 Amos and Micah [Torch Bible Commentaries]
+B2.24 225            9780232511802     Kee, Howard Clark             2011 The living world of the New Testament
+B2.25 225.08         9780334011385     Batey, Richard A., 1933-      1970 New Testament issues
+B2.26 225.6          9780334003885     Käsemann, Ernst               2012 Essays on New Testament themes
+B2.27 225.6          9781563381836     Robbins, Vernon K. (Vernon    1996 Exploring the texture of texts : a guide to socio-rhetorical
+B2.28 225.6          9780415139984     Robbins, Vernon K. (Vernon    1996 The tapestry of early Christian discourse : rhetoric, societ
+B2.29 225.6          9780867160987     Rohr, Richard, O.F.M          1988 The great themes of scripture : New Testament
+B2.30 225.61         9780300173123     Brown, Raymond Edward         2016 An introduction to the New Testament
+B2.31 225.61         9780802827463     Loader, William R. G., 194    2007 The New Testament with imagination : a fresh approach to its
+B3.01 223.8052034    9781481476546     Rylant, Cynthia [Illustrat    2018 Ecclesiastes : to everything there is a season
+B3.02 225.61         9780300180855     Martin, Dale B., 1954-        2012 New Testament history and literature
+B3.03 225.66         9780801027895     Resseguie, James L.           2005 Narrative criticism of the New Testament : an introduction
+B3.04 225.67         9780190203825     Ehrman, Bart D                2015 The New Testament : a historical introduction to the early C
+B3.05 225.68         9780334022114     Bultmann, Rudolf, 1884-197    1985 New Testament and mythology and other basic writings
+B3.06 225.7          9780198261681     Harvey, A. E. (Anthony Ern    1972 The new English Bible : companion to the New Testament
+B3.07 225.83055      9781978702073     Myles, Robert J. [Editor]     2019 Class struggle in the New Testament
+B3.08 225.92         9781847301710     O'Mahony, Kieran J.           2009 Do we still need St. Paul? : a contemporary reading of the A
+B3.09 225.924        9780800662042     Hock, Ronald F., 1944-        1995 The social context of Paul's ministry : tentmaking and apost
+B3.10 225.93         9780060616342     Crossan, John Dominic         2003 Excavating Jesus : beneath the stones, behind the texts
+B3.11 225.95         9780281037919     Kee, Howard Clark             1980 The origins of Christianity; : sources and documents
+B3.12 225.95         9780334018179     Roetzel, Calvin J.            2012 The world that shaped the New Testament
 B3.13 226            9780800601812     Perrin, Norman                1969 What is redaction criticism?
 B3.14 226.0520434    9781844671762     Fraser, Giles [Editor; Oth    2007 The Gospels-- Jesus Christ
 B3.15 226.06         9780620578615     Blackie, Margaret             2013 Rooted in love: Integrating Ignatian spirituality into daily
@@ -232,27 +228,26 @@ B3.17 226.06         9780281074082     Hays, Richard B.              2015 Readin
 B3.18 226.06         9781864071955     Loader, William R. G., 194    1997 Jesus and the fundamentalism of his day
 B3.19 226.06         9780060675349     Spong, John Shelby            1996 Liberating the Gospels : reading the Bible with Jewish eyes 
 B3.20 226.077        9780909246730     Fallon, Michael               1980 The Winston commentary on the Gospels
-B3.21 226.1          9783438054050     Aland, Kurt                   1993 Synopsis of the four gospels
-B3.22 226.2          9780684815008     Bonhoeffer, Dietrich, 1906    1995 The cost of discipleship
-B3.23 226.2          9780800683245     Bonhoeffer, Dietrich, 1906    2003 The cost of discipleship
-B3.24 226.2          9780334009863     Cox, G. E. P. (George Erne    1968 The Gospel according to Saint Matthew
-B3.25 226.206        9780334016946     Bornkamm, Günther             1982 Tradition and interpretation in Matthew
-B3.26 226.206        9781909697386     Myles, Robert J.              2014 The homeless Jesus in the Gospel of Matthew
-B3.27 226.206        9780800617660     Stanton, Graham               1983 The Interpretation of Matthew
-B3.28 226.206        9781350008793     Wainwright, Elaine Mary, 1    2017 Matthew : an introduction and study guide : Basileia of the 
-B3.29 226.20601      9780521716147     Powell, Mark Allan, 1953-     2009 Methods for Matthew
-B3.30 226.2067       9781570753244     Carter, Warren, 1955-         2001 Matthew and the margins : a sociopolitical and religious rea
-B3.31 226.207        9781876295844     Byrne, Brendan (Brendan J.    2004 Lifting the burden : reading Matthew's Gospel in the church 
-B3.32 226.207        9781910928226     Wainwright, Elaine Mary, 1    2017 Habitat, human, and holy : an eco-rhetorical reading of the 
-B3.33 226.306        9780800625955     Robbins, Vernon K. (Vernon    2009 Jesus the teacher : a socio-rhetorical interpretation of Mar
-B3.34 226.306        9780894532733     Stock, Augustine              1982 Call to discipleship : a literary study of Mark's gospel
-B3.35 226.306        9780281072507     Williams, Rowan (Rowan Dou    2014 Meeting God in Mark : reflections for the season of Lent
-B3.36 226.307        9780802818874     Anderson, Hugh, 1920-         1981 The Gospel of Mark : based on the Revised standard version
-B3.37 226.307        9781921032974     Byrne, Brendan (Brendan J.    2008 A costly freedom : a theological reading of Mark's Gospel
-B3.38 226.407        9781876295301     Byrne, Brendan (Brendan J.    2000 The hospitality of God : a reading of Luke's gospel
-B3.39 226.407        9780140137736     Caird, G. B. (George Bradf    1964 The Gospel of St. Luke
-B3.40 226.4077       9780814659663     Johnson, Luke Timothy         2006 The Gospel of Luke
-B3.41 226.4077       9780521676816     Levine, Amy-Jill, 1956-       2018 The Gospel of Luke
+B3.21 226.2          9780684815008     Bonhoeffer, Dietrich, 1906    1995 The cost of discipleship
+B3.22 226.2          9780800683245     Bonhoeffer, Dietrich, 1906    2003 The cost of discipleship
+B3.23 226.2          9780334009863     Cox, G. E. P. (George Erne    1968 The Gospel according to Saint Matthew
+B3.24 226.206        9780334016946     Bornkamm, Günther             1982 Tradition and interpretation in Matthew
+B3.25 226.206        9781909697386     Myles, Robert J.              2014 The homeless Jesus in the Gospel of Matthew
+B3.26 226.206        9780800617660     Stanton, Graham               1983 The Interpretation of Matthew
+B3.27 226.206        9781350008793     Wainwright, Elaine Mary, 1    2017 Matthew : an introduction and study guide : Basileia of the 
+B3.28 226.20601      9780521716147     Powell, Mark Allan, 1953-     2009 Methods for Matthew
+B3.29 226.2067       9781570753244     Carter, Warren, 1955-         2001 Matthew and the margins : a sociopolitical and religious rea
+B3.30 226.207        9781876295844     Byrne, Brendan (Brendan J.    2004 Lifting the burden : reading Matthew's Gospel in the church 
+B3.31 226.207        9781910928226     Wainwright, Elaine Mary, 1    2017 Habitat, human, and holy : an eco-rhetorical reading of the 
+B3.32 226.306        9780800625955     Robbins, Vernon K. (Vernon    2009 Jesus the teacher : a socio-rhetorical interpretation of Mar
+B3.33 226.306        9780894532733     Stock, Augustine              1982 Call to discipleship : a literary study of Mark's gospel
+B3.34 226.306        9780281072507     Williams, Rowan (Rowan Dou    2014 Meeting God in Mark : reflections for the season of Lent
+B3.35 226.307        9780802818874     Anderson, Hugh, 1920-         1981 The Gospel of Mark : based on the Revised standard version
+B3.36 226.307        9781921032974     Byrne, Brendan (Brendan J.    2008 A costly freedom : a theological reading of Mark's Gospel
+B3.37 226.407        9781876295301     Byrne, Brendan (Brendan J.    2000 The hospitality of God : a reading of Luke's gospel
+B3.38 226.407        9780140137736     Caird, G. B. (George Bradf    1964 The Gospel of St. Luke
+B3.39 226.4077       9780814659663     Johnson, Luke Timothy         2006 The Gospel of Luke
+B3.40 226.4077       9780521676816     Levine, Amy-Jill, 1956-       2018 The Gospel of Luke
 B4.01 226.5          9780814635742     Byrne, Brendan (Brendan J.    2014 Life abounding : a reading of John's gospel
 B4.02 226.506        9780300140156     Brown, Raymond Edward         2003 An introduction to the Gospel of John
 B4.03 226.506        9780801045868     Carter, Warren, 1955-         2006 John : storyteller, interpreter, evangelist
@@ -1420,8 +1415,13 @@ Z2.06 220.520434     9780060786847     Meeks, Wayne A. [Editor]      2006 The Ha
 Z2.07 220.5205       9780529064844     Confraternity of Christian    1990 The New American Bible : translated from the original langua
 Z2.08 220.52081      9780647511176                                   2005 The Holy Bible : New International Version with concise bibl
 Z2.09 221.4403       9780802834133     Holladay, William Lee         1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
-Z2.10 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
-Z2.11 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
-Z2.12 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
+Z2.10 225.48         9783438051172     Aland, Kurt                   2014 The Greek New Testament;
+Z2.11 225.5209       9780300186093     Hart, David Bentley           2017 The New Testament : a translation
+Z2.12 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
+Z2.13 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
+Z2.14 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
 Z3.01 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
 Z3.02 220                              St. Athanasius Academy of     2008 The Orthodox Study Bible, Hardcover: Ancient Christianity Sp
+Z3.03 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
+Z3.04 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
+Z3.05 226.1          9783438054050     Aland, Kurt                   1993 Synopsis of the four gospels
