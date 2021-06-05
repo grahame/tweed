@@ -917,22 +917,21 @@ F2.05 813.54         9781857238815     Moon, Elizabeth               1999 Huntin
 F2.06 813.54         9780575076525     Morgan, Richard K., 1965-     2005 Woken furies
 F2.07 813.54         9780575077027     Niven, Larry                  2005 Ringworld
 F2.08 813.54         9780544309760     O'Brien, Tim                  2009 The Things They Carried
-F2.09 813.54         9781529100570     Piercy, Marge                 2019 Woman on the edge of time
-F2.10 813.54         9781785033780     Piercy, Marge                 2016 Woman on the edge of time
-F2.11 813.54         9780141190563     Potok, Chaim                  2009 My name is Asher Lev
-F2.12 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
-F2.13 813.54         9781400095414     Potok, Chaim                  2011 The promise
-F2.14 813.54         9781857236187     Powers, Tim, 1952-            1998 The Anubis gates
-F2.15 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
-F2.16 813.54         9780553573350     Robinson, Kim Stanley         1997 Blue Mars
-F2.17 813.54         9780553572391     Robinson, Kim Stanley         1995 Green mars
-F2.18 813.54         9780356508788     Robinson, Kim Stanley         2018 New York 2140
-F2.19 813.54         9780553560732     Robinson, Kim Stanley         1993 Red Mars
-F2.20 813.54         9780553574012     Robinson, Kim Stanley         2000 The Martians
-F2.21 813.54         9780006482567     Robinson, Kim Stanley         1999 The memory of whiteness : a scientific romance
-F2.22 813.54         9780006480198     Robinson, Kim Stanley         1995 The wild shore
-F2.23 813.54         9780807062999     Russ, Joanna, 1937-2011       2000 The female man
-F2.24 813.54         9780552998116     Russell, Mary Doria, 1950-    1999 Children of God : a novel
+F2.09 813.54         9781785033780     Piercy, Marge                 2016 Woman on the edge of time
+F2.10 813.54         9780141190563     Potok, Chaim                  2009 My name is Asher Lev
+F2.11 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
+F2.12 813.54         9781400095414     Potok, Chaim                  2011 The promise
+F2.13 813.54         9781857236187     Powers, Tim, 1952-            1998 The Anubis gates
+F2.14 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
+F2.15 813.54         9780553573350     Robinson, Kim Stanley         1997 Blue Mars
+F2.16 813.54         9780553572391     Robinson, Kim Stanley         1995 Green mars
+F2.17 813.54         9780356508788     Robinson, Kim Stanley         2018 New York 2140
+F2.18 813.54         9780553560732     Robinson, Kim Stanley         1993 Red Mars
+F2.19 813.54         9780553574012     Robinson, Kim Stanley         2000 The Martians
+F2.20 813.54         9780006482567     Robinson, Kim Stanley         1999 The memory of whiteness : a scientific romance
+F2.21 813.54         9780006480198     Robinson, Kim Stanley         1995 The wild shore
+F2.22 813.54         9780807062999     Russ, Joanna, 1937-2011       2000 The female man
+F2.23 813.54         9780552998116     Russell, Mary Doria, 1950-    1999 Children of God : a novel
 F3.01 813.54         9780140237498     Salinger, J. D. (Jerome Da    1994 The catcher in the rye
 F3.02 813.54         9780441010752     Schmitz, James H., 1911-19    1982 Agent of Vega
 F3.03 813.54                           Selby, Hubert, Jr.            2001 Last Exit To Brooklyn
@@ -968,21 +967,20 @@ F4.14 813.54         9780099267546     Vonnegut, Kurt                1998 Timequ
 F4.15 813.54         9788129115546     Vonnegut, Kurt                2011 While Mortals Sleep
 F4.16 813.54         9780812566628     Wilson, Robert Charles, 19    1999 Darwinia
 F4.17 813.54         9780575132306     Womack, Jack                  2013 Random acts of senseless violence
-F4.18 813.6          9781789091618     Anders, Charlie Jane          None The city in the middle of the night
-F4.19 813.6          9781789091618     Anders, Charlie Jane          2019 The city in the middle of the night
-F4.20 813.6          9781471137716     Anderson, Gillian, 1968-      2014 A vision of fire : a novel
-F4.21 813.6          9781455557967     Baxter, Greg                  2016 Munich Airport : a novel
-F4.22 813.6          9780451460929     Bear, Elizabeth               2006 Blood and iron
-F4.23 813.6          9780575096714     Black, Holly                  None White cat
-F4.24 813.6          9780307346612     Brooks, Max                   2007 World War Z : an oral history of the zombie war
-F4.25 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
-F4.26 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
-F4.27 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
-F4.28 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
-F4.29 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
-F4.30 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
-F4.31 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
-F4.32 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
+F4.18 813.6          9781789091618     Anders, Charlie Jane          2019 The city in the middle of the night
+F4.19 813.6          9781471137716     Anderson, Gillian, 1968-      2014 A vision of fire : a novel
+F4.20 813.6          9781455557967     Baxter, Greg                  2016 Munich Airport : a novel
+F4.21 813.6          9780451460929     Bear, Elizabeth               2006 Blood and iron
+F4.22 813.6          9780575096714     Black, Holly                  None White cat
+F4.23 813.6          9780307346612     Brooks, Max                   2007 World War Z : an oral history of the zombie war
+F4.24 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
+F4.25 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
+F4.26 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
+F4.27 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
+F4.28 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
+F4.29 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
+F4.30 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
+F4.31 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
 F5.01 813.6          9781841499932     Corey, James S. A.            2014 Abaddon's Gate
 F5.02 813.6          9780356504292     Corey, James S. A.            2017 Babylon's ashes
 F5.03 813.6          9781841499918     Corey, James S. A.            None Caliban's war
@@ -1077,31 +1075,30 @@ G2.04 823.8          9780553212426     Doyle, Arthur Conan, 1859-    1986 Sherlo
 G2.05 823.8          9780553212419     Doyle, Arthur Conan, 1859-    1986 Sherlock Holmes : the complete novels and stories
 G2.06 823.8          9780007902279     Grahame, Kenneth              2011 Wind in the Willows (Collins Classics)
 G2.07 823.8          9780333168776     Hardy, Thomas                 1974 Under the greenwood tree : a rural painting of the Dutch sch
-G2.08 823.8          9780141037684     Wilde, Oscar, 1854-1900       2008 The picture of Dorian Gray
-G2.09 823.8          9780007351053     Wilde, Oscar, 1854-1900       2010 The picture of Dorian Gray
-G2.10 823.9          9780722154755     Leiber, Fritz                 1976 The Night of the Wolf
-G2.11 823.91         9780450020674     Asimov, Isaac, 1920-1992      1983 The moons of Jupiter
-G2.12 823.91         9780141185897     Hamilton, Patrick, 1904 Ma    2001 Hangover Square : a story of darkest Earl's Court
-G2.13 823.91         9780425021507     Jones, D. F.                  1972 Implosion
-G2.14 823.91         9780486452814     Lindsay, Norman, 1879-1969    2006 The magic pudding
-G2.15 823.91                           Russell, Bertrand             1953 Satan in the Suburbs and Other Stories
-G2.16 823.91         9780749301026     Russell, Eric Frank, 1905-    1989 With a strange device
-G2.17 823.912        9780486251219     Chesterton, G. K. (Gilbert    1986 The man who was Thursday : a nightmare
-G2.18 823.912        9780600766001     Christie, Agatha, 1890-197    1969 Agatha Christie crime collection
-G2.19 823.912        9780007420261     Conrad, Joseph, 1857-1924     2011 The secret agent, : a simple tale
-G2.20 823.912        9780140119398     Forester, C. S                2005 The young Hornblower
-G2.21 823.912        9780140119404     Forester, C. S. (Cecil Sco    1990 Admiral Hornblower
-G2.22 823.912        9780140432589     Forster, E. M. (Edward Mor    1985 A passage to India
-G2.23 823.912        9780060850524     Huxley, Aldous, 1894-1963     2006 Brave new world
-G2.24 823.912        9780006547297     Huxley, Aldous, 1894-1963     1994 Crome yellow
-G2.25 823.912        9781853260483     Joyce, James, 1882-1941       1999 Dubliners
-G2.26 823.912        9780141037424     Lawrence, D. H. (David Her    2008 John Thomas and Lady Jane
-G2.27 823.912        9780099540755     Lawrence, D. H. (David Her    2011 Sons and lovers
-G2.28 823.912        9780099512080     Lawrence, D. H. (David Her    2008 Women in love
-G2.29 823.912        9781405281317     Milne, A. A. (Alan Alexand    2016 Winnie-the-Pooh
-G2.30 823.912        9780416239102     Milne, A. A. (Alan Alexand    1966 Winnie-the-Pooh
-G2.31 823.912        9781933184500     Nichols, Aidan                2009 G.K. Chesterton, theologian
-G2.32 823.912        9780141187914     O'Connor, Frank, 1903-1966    2005 An only child ; : and, My father's son : an autobiography
+G2.08 823.8          9780007351053     Wilde, Oscar, 1854-1900       2010 The picture of Dorian Gray
+G2.09 823.9          9780722154755     Leiber, Fritz                 1976 The Night of the Wolf
+G2.10 823.91         9780450020674     Asimov, Isaac, 1920-1992      1983 The moons of Jupiter
+G2.11 823.91         9780141185897     Hamilton, Patrick, 1904 Ma    2001 Hangover Square : a story of darkest Earl's Court
+G2.12 823.91         9780425021507     Jones, D. F.                  1972 Implosion
+G2.13 823.91         9780486452814     Lindsay, Norman, 1879-1969    2006 The magic pudding
+G2.14 823.91                           Russell, Bertrand             1953 Satan in the Suburbs and Other Stories
+G2.15 823.91         9780749301026     Russell, Eric Frank, 1905-    1989 With a strange device
+G2.16 823.912        9780486251219     Chesterton, G. K. (Gilbert    1986 The man who was Thursday : a nightmare
+G2.17 823.912        9780600766001     Christie, Agatha, 1890-197    1969 Agatha Christie crime collection
+G2.18 823.912        9780007420261     Conrad, Joseph, 1857-1924     2011 The secret agent, : a simple tale
+G2.19 823.912        9780140119398     Forester, C. S                2005 The young Hornblower
+G2.20 823.912        9780140119404     Forester, C. S. (Cecil Sco    1990 Admiral Hornblower
+G2.21 823.912        9780140432589     Forster, E. M. (Edward Mor    1985 A passage to India
+G2.22 823.912        9780060850524     Huxley, Aldous, 1894-1963     2006 Brave new world
+G2.23 823.912        9780006547297     Huxley, Aldous, 1894-1963     1994 Crome yellow
+G2.24 823.912        9781853260483     Joyce, James, 1882-1941       1999 Dubliners
+G2.25 823.912        9780141037424     Lawrence, D. H. (David Her    2008 John Thomas and Lady Jane
+G2.26 823.912        9780099540755     Lawrence, D. H. (David Her    2011 Sons and lovers
+G2.27 823.912        9780099512080     Lawrence, D. H. (David Her    2008 Women in love
+G2.28 823.912        9781405281317     Milne, A. A. (Alan Alexand    2016 Winnie-the-Pooh
+G2.29 823.912        9780416239102     Milne, A. A. (Alan Alexand    1966 Winnie-the-Pooh
+G2.30 823.912        9781933184500     Nichols, Aidan                2009 G.K. Chesterton, theologian
+G2.31 823.912        9780141187914     O'Connor, Frank, 1903-1966    2005 An only child ; : and, My father's son : an autobiography
 G3.01 823.912        9780141036144     Orwell, George, 1903-1950     2008 1984 : a novel
 G3.02 823.912        9780141036137     Orwell, George, 1903-1950     2008 Animal farm
 G3.03 823.912        9780715637326     Powys, John Cowper, 1872-1    2011 Porius : a romance of the Dark Ages
@@ -1231,27 +1228,26 @@ I2.02 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemi
 I2.03 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
 I2.04 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
 I2.05 823.92         9780575079076     Robson, Justina               2006 Keeping it real
-I2.06 823.92         9780575079076     Robson, Justina               2006 Keeping it real
-I2.07 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
-I2.08 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
-I2.09 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
-I2.10 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
-I2.11 823.92         9780356511108     Stross, Charles               None The labyrinth index
-I2.12 823.92         9780356511368     Thompson, Tade                2018 Rosewater
-I2.13 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
-I2.14 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
-I2.15 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
-I2.16 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
-I2.17 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
-I2.18 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
-I2.19 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
-I2.20 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
-I2.21 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
-I2.22 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
-I2.23 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
-I2.24 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
-I2.25 843.7          9780804901505     Dumas, Alexandre, 1802-187    1978 The man in the iron mask
-I2.26 843.8          9780141045153     Flaubert, Gustave, 1821-18    2009 Madame Bovary
+I2.06 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
+I2.07 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
+I2.08 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
+I2.09 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
+I2.10 823.92         9780356511108     Stross, Charles               None The labyrinth index
+I2.11 823.92         9780356511368     Thompson, Tade                2018 Rosewater
+I2.12 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
+I2.13 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
+I2.14 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
+I2.15 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
+I2.16 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
+I2.17 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
+I2.18 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
+I2.19 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
+I2.20 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
+I2.21 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
+I2.22 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
+I2.23 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
+I2.24 843.7          9780804901505     Dumas, Alexandre, 1802-187    1978 The man in the iron mask
+I2.25 843.8          9780141045153     Flaubert, Gustave, 1821-18    2009 Madame Bovary
 I3.01 843.8          9780460871662     Verne, Jules                  1992 Twenty thousand leagues under the sea
 I3.02 843.914        9780802144478     Beckett, Samuel, 1906-1989    2009 Three novels
 I3.03 843.914        9780141185132     Camus, Albert                 2002 The plague
@@ -1343,13 +1339,12 @@ J3.12 994.11042      9780646191249     Gervas, Stan                  1994 The wa
 J3.13 994.12         9780731694440     Cresswell, Gail J             1990 The light of Leeuwin
 J3.14 994.12004      9781921401428     Host, John T. (John Thomas    2009 'It's still in my heart this is my country' : the single Noo
 J3.15                9781760640835                                   None Full Circle: A search for the world that comes next
-J3.16                9781760640835                                   None Full Circle: A search for the world that comes next
-J3.17                9780980593730     Ahmed, Safdar                 2021 Still Alive
-J3.18                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
-J3.19                9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
-J3.20                9780648228202     Watts, Rachel                 2018 Survival
-J3.21                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
-J3.22                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+J3.16                9780980593730     Ahmed, Safdar                 2021 Still Alive
+J3.17                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
+J3.18                9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
+J3.19                9780648228202     Watts, Rachel                 2018 Survival
+J3.20                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+J3.21                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 Y1.01 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
 Y1.02 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
 Y1.03 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
