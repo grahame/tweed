@@ -277,16 +277,17 @@ B4.27 229.8          9781594770463     Leloup, Jean-Yves             2005 The Go
 B4.28 229.91052      9780521285544     Jonge, M. de (Marinus), 19    1986 Outside the Old Testament
 B4.29 229.9205209    9780195182507     Ehrman, Bart D.               2005 Lost scriptures : books that did not make it into the New Te
 B4.30 230            9783945233078     Anglican Catholic Church A    2017 The Anglican rosary : Anglican prayer beads - a form of cont
-B4.31 230            9780802818195     Barth, Karl, 1886-1968        1992 Evangelical theology : an introduction
-B4.32 230            9780060730680     Borg, Marcus J.               2015 The heart of Christianity : rediscovering a life of faith
-B4.33 230            9780809121748     Brown, Raymond E. (Raymond    1978 The community of the Beloved Disciple
-B4.34 230                              Cox, David                    1963 What Christians Believe
-B4.35 230            9780567041418     Hardy, Daniel W.              2005 God's ways with the world : thinking and practising Christia
-B4.36 230            9780334042082     Hardy, Daniel W.              2010 Wording a radiance : parting conversations on God and the Ch
-B4.37 230            9780006251521     Küng, Hans, 1928-             1978 On being a Christian
-B4.38 230            9781444335149     McGrath, Alister E., 1953-    2011 Christian theology : an introduction
-B4.39 230            9781405102711     McIntosh, Mark Allen, 1960    2007 Divine teaching : an introduction to Christian theology
-B4.40 230            9781585422531     Needleman, Jacob              2003 Lost Christianity
+B4.31 230            9781565484467     Augustine, Saint              2012 The Trinity (Works of Saint Augustine: A Translation for the
+B4.32 230            9780802818195     Barth, Karl, 1886-1968        1992 Evangelical theology : an introduction
+B4.33 230            9780060730680     Borg, Marcus J.               2015 The heart of Christianity : rediscovering a life of faith
+B4.34 230            9780809121748     Brown, Raymond E. (Raymond    1978 The community of the Beloved Disciple
+B4.35 230                              Cox, David                    1963 What Christians Believe
+B4.36 230            9780567041418     Hardy, Daniel W.              2005 God's ways with the world : thinking and practising Christia
+B4.37 230            9780334042082     Hardy, Daniel W.              2010 Wording a radiance : parting conversations on God and the Ch
+B4.38 230            9780006251521     Küng, Hans, 1928-             1978 On being a Christian
+B4.39 230            9781444335149     McGrath, Alister E., 1953-    2011 Christian theology : an introduction
+B4.40 230            9781405102711     McIntosh, Mark Allen, 1960    2007 Divine teaching : an introduction to Christian theology
+B4.41 230            9781585422531     Needleman, Jacob              2003 Lost Christianity
 B5.01 230            9780334009238     Ritschl, Dietrich             2012 The logic of theology : a brief account of the relationship 
 B5.02 230            9780060794781     Smith, Huston                 2005 The soul of Christianity : restoring the great tradition
 B5.03 230            9780006267683     Stein, Jock                   1984 In Christ all things hold together : an introduction to Chri
@@ -533,21 +534,20 @@ C4.20 270.1          9780140444759     Louth, Andrew                 1968 Early 
 C4.21 270.1          9780140214635     Simon, Edith, 1917-2003       1972 The saints
 C4.22 270.1          9781846141508     Vermès, Géza, 1924-2013       2012 Christian beginnings : from Nazareth to Nicaea
 C4.23 270.2          9780745951706     Williams, Rowan (1950- )      2004 Silence and honey cakes : the wisdom of the desert
-C4.24 270.2092       9780140441147     Agustí, sant, bisbe d'Hipo    1970 The confessions
-C4.25 270.2092       9781565484467     Agustí, sant, bisbe d'Hipo    2012 The confessions
-C4.26 270.2092       9780199537822     Agustí, sant, bisbe d'Hipo    2008 The confessions
-C4.27 270.6          9780470672815     McGrath, Alister E., 1953-    2012 Reformation thought : an introduction
-C4.28 270.7          9780140137613     Cragg, Gerald R. (Gerald R    1990 The church and the age of reason, 1648-1789
-C4.29 270.8          9780140137620     Vidler, Alexander Roper, 1    1962 The Church in an age of revolution : 1789 to the present day
-C4.30 270.83         9780801013133     Tickle, Phyllis               2008 The great emergence : how Christianity is changing and why
-C4.31 271.009015     9781405106412     Dunn, Marilyn                 2003 The emergence of monasticism : from the Desert Fathers to th
-C4.32 271.302        9781473604018     Rohr, Richard                 None Eager to love : the alternative way of Francis of Assisi
-C4.33 271.9          9780330284097     Armstrong, Karen, 1944-       1984 Beginning the world
-C4.34 271.97         9781580512190     Chittister, Joan              2009 Called to question : a spiritual memoir
-C4.35 271.97602      9780855740382     Gardiner, Paul, 1924-         1995 Mary MacKillop : an extraordinary Australian : the authorise
-C4.36 274.2          9780140445657     Beda, Venerabilis             1991 A history of the English Church and people
-C4.37 274.205        9780300108286     Duffy, Eamon                  2005 The stripping of the altars : traditional religion in Englan
-C4.38 274.206        9780333921395     MacCulloch, Diarmaid          2001 The later Reformation in England, 1547-1603
+C4.24 270.2092       9780199537822     Augustine, Saint              2008 The Confessions (Oxford World's Classics)
+C4.25 270.2092       9780140441147     R. S. Augustine;Pine-Coffi    1970 Confessions
+C4.26 270.6          9780470672815     McGrath, Alister E., 1953-    2012 Reformation thought : an introduction
+C4.27 270.7          9780140137613     Cragg, Gerald R. (Gerald R    1990 The church and the age of reason, 1648-1789
+C4.28 270.8          9780140137620     Vidler, Alexander Roper, 1    1962 The Church in an age of revolution : 1789 to the present day
+C4.29 270.83         9780801013133     Tickle, Phyllis               2008 The great emergence : how Christianity is changing and why
+C4.30 271.009015     9781405106412     Dunn, Marilyn                 2003 The emergence of monasticism : from the Desert Fathers to th
+C4.31 271.302        9781473604018     Rohr, Richard                 None Eager to love : the alternative way of Francis of Assisi
+C4.32 271.9          9780330284097     Armstrong, Karen, 1944-       1984 Beginning the world
+C4.33 271.97         9781580512190     Chittister, Joan              2009 Called to question : a spiritual memoir
+C4.34 271.97602      9780855740382     Gardiner, Paul, 1924-         1995 Mary MacKillop : an extraordinary Australian : the authorise
+C4.35 274.2          9780140445657     Beda, Venerabilis             1991 A history of the English Church and people
+C4.36 274.205        9780300108286     Duffy, Eamon                  2005 The stripping of the altars : traditional religion in Englan
+C4.37 274.206        9780333921395     MacCulloch, Diarmaid          2001 The later Reformation in England, 1547-1603
 C5.01 268.4          9780857463050     Moore, Lucy, 1966-            2015 Messy family fun : a holiday club for all the family
 C5.02 277.3080899607 9781626980051     Cone, James H.                2013 The cross and the lynching tree
 C5.03 277.3083092    9781595553676     Evans, Rachel Held, 1981-2    2012 A year of Biblical womanhood : how a liberated woman found h
