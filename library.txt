@@ -558,35 +558,36 @@ C5.07 282            9780415267670     Weil, Simone                  2002 Letter
 C5.08 282.09048      9780062548276     Küng, Hans, 1928-             1987 The Church in anguish : has the Vatican betrayed Vatican II?
 C5.09 282.092        9780486442136     Newman, John Henry            2005 Apologia Pro Vita Sua (A Defense of One's Life) (Dover Giant
 C5.10 282.092        9780385502030     Porter, Beth                  2002 Befriending life : encounters with Henri Nouwen
-C5.11 282.7284092    9781570758393     Wright, Scott, 1950-          2010 Oscar Romero and the communion of the saints : a biography
-C5.12 282.7309045    9780824515294     Lee, Bernard J., 1932-        1995 The future church of 140 BCE : a hidden revolution
-C5.13 282.945        9780949807090     Pawsey, Margaret M            1983 The Popish plot : culture clashes in Victoria 1860-1863
-C5.14 283            9780340642689     Bunting, Ian                  1999 Celebrating the Anglican way
-C5.15 283            9780192806932     Chapman, Mark D. (Mark Dav    2006 Anglicanism : a very short introduction
-C5.16 283            9780334028635     Hardy, Daniel W.              2001 Finding the church : the dynamic truth of Anglicanism
-C5.17 283            9781596280045     Ramsey, Michael, 1904-1988    2004 The Anglican spirit
-C5.18 283            9781598563894     Ramsey, Michael, 1904-1988    2009 The Gospel and the Catholic Church
-C5.19 283            9780800631512     Sykes, Stephen                1998 The study of Anglicanism
-C5.20 283.092        9780300226577     MacCulloch, Diarmaid          2017 Thomas Cranmer : a life
-C5.21 283.0922       9781786074416     Butler-Gallie, Fergus         2018 A field guide to the English clergy : a compendium of divers
-C5.22 283.0922       9780281083718     Williams, Rowan, 1950-        2020 Rowan Williams in conversation
-C5.23 283.42         9780232525274     Williams, Rowan, 1950-        2004 Anglican identities
-C5.24 283.941        9780646480947     Kyme, Brian                   2007 The Wollaston legacy
-C5.25 283.941092     9780522855753     Challen, M. B. (Michael B.    2008 Sambell : man of the word
-C5.26 283.9441       9781610974653     Jensen, Michael P. (Michae    2012 Sydney Anglicanism : an apology
-C5.27 283.994        9780908284900     Hale, Stephen                 2009 Facing the future : bishops imagine a different church
-C5.28 285.90922      9780521611879     Lake, Peter                   2004 Moderate Puritans and the Elizabethan church
-C5.29 289.6          9780143106319     Hamm, Thomas D.               2011 Quaker writings : an anthology, 1650-1920
-C5.30 289.60994      9780975157916     Religious Society of Frien    2008 This we can say : Australian Quaker life, faith and thought
-C5.31 291            9780883446461     Smith, Wilfred Cantwell, 1    1990 Towards a world theology : faith and the comparative history
-C5.32 294.592404521  9780393345131     Martin, Charles, 1942-        2013 The Bhagavad Gita : a new translation
-C5.33 296            9780802881335     Edersheim, Alfred, 1825-18    1978 The Temple : its ministry and services as they were at the t
-C5.34 296            9780812982510     Lévy, Bernard-Henri           2017 The genius of Judaism
-C5.35 296            9781501117756     Robinson, George, 1953-       2016 Essential Judaism : a complete guide to beliefs, customs, an
-C5.36 296.0901                         Wellhausen, Julius            2020 Prolegomena to the History of Ancient Israel
-C5.37 296.1092       9780805242546     Wiesel, Elie, 1928-2016       2009 Rashi : a portrait
-C5.38 296.155        9780141046150     Vermès, Géza, 1924-2013       2010 The story of the scrolls : the miraculous discovery and true
-C5.39 296.311        9781400034727     Kushner, Harold S.            2004 When bad things happen to good people
+C5.11 282.0924       9780060617516     Day, Dorothy, 1897-1980       2009 The long loneliness : the autobiography of Dorothy Day
+C5.12 282.7284092    9781570758393     Wright, Scott, 1950-          2010 Oscar Romero and the communion of the saints : a biography
+C5.13 282.7309045    9780824515294     Lee, Bernard J., 1932-        1995 The future church of 140 BCE : a hidden revolution
+C5.14 282.945        9780949807090     Pawsey, Margaret M            1983 The Popish plot : culture clashes in Victoria 1860-1863
+C5.15 283            9780340642689     Bunting, Ian                  1999 Celebrating the Anglican way
+C5.16 283            9780192806932     Chapman, Mark D. (Mark Dav    2006 Anglicanism : a very short introduction
+C5.17 283            9780334028635     Hardy, Daniel W.              2001 Finding the church : the dynamic truth of Anglicanism
+C5.18 283            9781596280045     Ramsey, Michael, 1904-1988    2004 The Anglican spirit
+C5.19 283            9781598563894     Ramsey, Michael, 1904-1988    2009 The Gospel and the Catholic Church
+C5.20 283            9780800631512     Sykes, Stephen                1998 The study of Anglicanism
+C5.21 283.092        9780300226577     MacCulloch, Diarmaid          2017 Thomas Cranmer : a life
+C5.22 283.0922       9781786074416     Butler-Gallie, Fergus         2018 A field guide to the English clergy : a compendium of divers
+C5.23 283.0922       9780281083718     Williams, Rowan, 1950-        2020 Rowan Williams in conversation
+C5.24 283.42         9780232525274     Williams, Rowan, 1950-        2004 Anglican identities
+C5.25 283.941        9780646480947     Kyme, Brian                   2007 The Wollaston legacy
+C5.26 283.941092     9780522855753     Challen, M. B. (Michael B.    2008 Sambell : man of the word
+C5.27 283.9441       9781610974653     Jensen, Michael P. (Michae    2012 Sydney Anglicanism : an apology
+C5.28 283.994        9780908284900     Hale, Stephen                 2009 Facing the future : bishops imagine a different church
+C5.29 285.90922      9780521611879     Lake, Peter                   2004 Moderate Puritans and the Elizabethan church
+C5.30 289.6          9780143106319     Hamm, Thomas D.               2011 Quaker writings : an anthology, 1650-1920
+C5.31 289.60994      9780975157916     Religious Society of Frien    2008 This we can say : Australian Quaker life, faith and thought
+C5.32 291            9780883446461     Smith, Wilfred Cantwell, 1    1990 Towards a world theology : faith and the comparative history
+C5.33 294.592404521  9780393345131     Martin, Charles, 1942-        2013 The Bhagavad Gita : a new translation
+C5.34 296            9780802881335     Edersheim, Alfred, 1825-18    1978 The Temple : its ministry and services as they were at the t
+C5.35 296            9780812982510     Lévy, Bernard-Henri           2017 The genius of Judaism
+C5.36 296            9781501117756     Robinson, George, 1953-       2016 Essential Judaism : a complete guide to beliefs, customs, an
+C5.37 296.0901                         Wellhausen, Julius            2020 Prolegomena to the History of Ancient Israel
+C5.38 296.1092       9780805242546     Wiesel, Elie, 1928-2016       2009 Rashi : a portrait
+C5.39 296.155        9780141046150     Vermès, Géza, 1924-2013       2010 The story of the scrolls : the miraculous discovery and true
+C5.40 296.311        9781400034727     Kushner, Harold S.            2004 When bad things happen to good people
 C6.01 296.36         9781592644490     Sacks, Jonathan, 1948-2020    2016 Essays on ethics : a weekly reading of the Jewish Bible
 C6.02 296.3878730933 9780802805287     Rad, Gerhard von              1996 Holy war in ancient Israel
 C6.03 296.4          9780281064830     Barker, Margaret, 1944-       2011 Temple mysticism : an introduction
@@ -929,9 +930,10 @@ F2.17 813.54         9780356508788     Robinson, Kim Stanley         2018 New Yo
 F2.18 813.54         9780553560732     Robinson, Kim Stanley         1993 Red Mars
 F2.19 813.54         9780553574012     Robinson, Kim Stanley         2000 The Martians
 F2.20 813.54         9780006482567     Robinson, Kim Stanley         1999 The memory of whiteness : a scientific romance
-F2.21 813.54         9780006480198     Robinson, Kim Stanley         1995 The wild shore
-F2.22 813.54         9780807062999     Russ, Joanna, 1937-2011       2000 The female man
-F2.23 813.54         9780552998116     Russell, Mary Doria, 1950-    1999 Children of God : a novel
+F2.21 813.54         9780356508849     Robinson, Kim Stanley         2020 The ministry for the future
+F2.22 813.54         9780006480198     Robinson, Kim Stanley         1995 The wild shore
+F2.23 813.54         9780807062999     Russ, Joanna, 1937-2011       2000 The female man
+F2.24 813.54         9780552998116     Russell, Mary Doria, 1950-    1999 Children of God : a novel
 F3.01 813.54         9780140237498     Salinger, J. D. (Jerome Da    1994 The catcher in the rye
 F3.02 813.54         9780441010752     Schmitz, James H., 1911-19    1982 Agent of Vega
 F3.03 813.54                           Selby, Hubert, Jr.            2001 Last Exit To Brooklyn
@@ -949,7 +951,8 @@ F3.14 813.54         9780099410683     Stephenson, Neal,             2004 Quicks
 F3.15 813.54         9780008132514     Stephenson, Neal,             None Seveneves
 F3.16 813.54         9780575038219     Sturgeon, Theodore            1986 More than human
 F3.17 813.54         9780575078581     Sutin, Lawrence, 1951-        2006 Divine invasions : a life of Philip K. Dick
-F3.18 813.54         9781857981193     Vinge, Vernor                 1993 Across realtime
+F3.18 813.54         9781250769848     Tolmie, Sarah                 2020 The fourth island
+F3.19 813.54         9781857981193     Vinge, Vernor                 1993 Across realtime
 F4.01 813.54         9780008264338     Vonnegut, Kurt                2019 Bluebeard
 F4.02 813.54         9780099842606     Vonnegut, Kurt                2009 Breakfast of champions, or, Goodbye blue Monday!
 F4.03 813.54         9780141045443     Vonnegut, Kurt                2009 Cat's cradle
@@ -1025,19 +1028,20 @@ F6.18 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After 
 F6.19 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
 F6.20 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
 F6.21 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
-F6.22 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
-F6.23 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
-F6.24 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
-F6.25 821.4          9781760801182     Rhook, Nadia,                 None Boots
-F6.26 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
-F6.27 821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
-F6.28 821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
-F6.29 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
-F6.30 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
-F6.31 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
-F6.32 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
-F6.33 821.9208       9781408705872     Banks, Iain, 1954-2013        2016 Poems
-F6.34 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
+F6.22 821.1          9780008433932     Tolkien, J. R. R. 1892-197    2021 Sir Gawain and the Green Knight ; with Pearl ; and Sir Orfeo
+F6.23 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
+F6.24 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
+F6.25 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
+F6.26 821.4          9781760801182     Rhook, Nadia,                 None Boots
+F6.27 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
+F6.28 821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
+F6.29 821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
+F6.30 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
+F6.31 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
+F6.32 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
+F6.33 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
+F6.34 821.9208       9781408705872     Banks, Iain, 1954-2013        2016 Poems
+F6.35 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
 G1.01 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
 G1.02 823            9780143028574     Arundhati, Roy                2002 The god of small things
 G1.03 823            9780702230493     Carey, Peter (Peter Philip    1998 Jack Maggs
