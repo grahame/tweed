@@ -49,18 +49,20 @@ A2.23 121            9780199549900     Hume, David, 1711-1776        2008 An enq
 A2.24 121            9781108840323     Pickstock, Catherine          2020 Aspects of truth : a new religious metaphysics
 A2.25 128.1          9780140444711     Aristotle                     1987 De anima = : On the soul
 A2.26 128.3          9780415096812     Lloyd, Genevieve              1993 The man of reason : "male" and "female" in Western philosoph
-A2.27 152.4          9781784872632     Murakami, Haruki, 1949-       1984 DESIRE
-A2.28 153            9781473527577     De Bono, Edward, 1933-        2015 The mechanism of mind
-A2.29 153.43         9780140217155     De Bono, Edward, 1933-        1973 PO : beyond yes &amp; no
-A2.30 153.6          9781892005038     Rosenberg, Marshall B.,       2003 Nonviolent communication : a language of life
-A2.31 153.65         9780140204537     Thomson, Robert, 1921-        1959 The psychology of thinking
-A2.32 153.83         9780062018205     Ariely, Dan                   2010 Predictably irrational : the hidden forces that shape our de
-A2.33 154.4          9781784872748     Huxley, Aldous, 1894-1963     2017 Psychedelics
-A2.34 158            9781592858491     Brown, Brené                  2010 The gifts of imperfection : let go of who you think you're s
-A2.35 158.12         9781741754476     Michie, David                 None Hurry up and meditate : your starter kit for inner peace and
-A2.36 158.125        9781585426126     Lynch, David, 1946-           2007 Catching the big fish : meditation, consciousness, and creat
-A2.37 170            9780241952795     Layard, Richard, 1934-        2011 Happiness : lessons from a new science
-A2.38 170            9781316602591     Nietzsche, Friedrich Wilhe    2017 On the genealogy of morals
+A2.27 149.3          9781908388001     Underhill, Evelyn, 1875-19    2011 Practical mysticism; : a little book for normal people,
+A2.28 152.4          9781784872632     Murakami, Haruki, 1949-       1984 DESIRE
+A2.29 152.44         9781785043826     Brown, Brené [Editor]         2021 You are your best thing : vulnerability, shame resilience, a
+A2.30 153            9781473527577     De Bono, Edward, 1933-        2015 The mechanism of mind
+A2.31 153.43         9780140217155     De Bono, Edward, 1933-        1973 PO : beyond yes &amp; no
+A2.32 153.6          9781892005038     Rosenberg, Marshall B.,       2003 Nonviolent communication : a language of life
+A2.33 153.65         9780140204537     Thomson, Robert, 1921-        1959 The psychology of thinking
+A2.34 153.83         9780062018205     Ariely, Dan                   2010 Predictably irrational : the hidden forces that shape our de
+A2.35 154.4          9781784872748     Huxley, Aldous, 1894-1963     2017 Psychedelics
+A2.36 158            9781592858491     Brown, Brené                  2010 The gifts of imperfection : let go of who you think you're s
+A2.37 158.12         9781741754476     Michie, David                 None Hurry up and meditate : your starter kit for inner peace and
+A2.38 158.125        9781585426126     Lynch, David, 1946-           2007 Catching the big fish : meditation, consciousness, and creat
+A2.39 170            9780241952795     Layard, Richard, 1934-        2011 Happiness : lessons from a new science
+A2.40 170            9781316602591     Nietzsche, Friedrich Wilhe    2017 On the genealogy of morals
 A3.01 220.7          9780136149347     Brown, Raymond Edward         1989 The new Jerome biblical commentary
 A3.02 220.7          9781426735837     Keck, Leander E.              2015 The New interpreter's bible commentary
 A3.03 220.7          9781426735844     Keck, Leander E.              2015 The New interpreter's bible commentary
@@ -88,25 +90,26 @@ A4.12 193            9780140447477     Kant, Immanuel (1724-1804)    2008 The cr
 A4.13 193            9781593083847     Nietzsche, Friedrich Wilhe    2007 Thus spoke Zarathustra : a book for all and none
 A4.14 194            9780192806963     Descartes, René, 1596-1650    2008 Meditations on first philosophy : with selections from the O
 A4.15 194            9780140259575     Foucault, Michel              2010 The essential works of Michel Foucault, 1954-1984
-A4.16 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravity and grace
-A4.17 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
-A4.18 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
-A4.19 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
-A4.20 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
-A4.21 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
-A4.22 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
-A4.23 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
-A4.24 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
-A4.25 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
-A4.26 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
-A4.27 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
-A4.28 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
-A4.29 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
-A4.30 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
-A4.31 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
-A4.32 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
-A4.33 211.6          9781408837412     Grayling, A. C                2013 The God argument : the case against religion and for humanis
-A4.34 211.6          9780674986916     Taylor, Charles, 1931-        2018 A secular age
+A4.16 194            9780241472903     WEIL, SIMONE                  2020 POWER OF WORDS
+A4.17 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravity and grace
+A4.18 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
+A4.19 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
+A4.20 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
+A4.21 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
+A4.22 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
+A4.23 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
+A4.24 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
+A4.25 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
+A4.26 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
+A4.27 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
+A4.28 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
+A4.29 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
+A4.30 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
+A4.31 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
+A4.32 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
+A4.33 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
+A4.34 211.6          9781408837412     Grayling, A. C                2013 The God argument : the case against religion and for humanis
+A4.35 211.6          9780674986916     Taylor, Charles, 1931-        2018 A secular age
 A5.01 211.6091821    9780674088054     Gregory, Brad S. (Brad Ste    2015 The unintended Reformation : how a religious revolution secu
 A5.02 213            9781570754517     Ó Murchú, Diarmuid            2002 Evolutionary faith : rediscovering God in our great story
 A5.03 220.072        9780800697747     Moore, Stephen D., 1954-      2011 The invention of the biblical scholar : a critical manifesto
@@ -129,15 +132,16 @@ A5.19 221            9780691166247     Buber, Martin, 1878-1965      2015 The pr
 A5.20 221            9780334017943     Rad, Gerhard von, 1901-197    2012 Wisdom in Israel
 A5.21 221            9781506425481     Yee, Gale A., 1949-           2018 The Hebrew Bible : feminist and intersectional perspectives
 A5.22 221.044        9789653011885     Jerusalem, Koren Publisher    2009 Koren Illustrated Five Megillot, Hebrew/English
-A5.23 221.15         9780800632878     Brueggemann, Walter           2001 The prophetic imagination
-A5.24 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
-A5.25 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
-A5.26 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
-A5.27 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
-A5.28 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
-A5.29 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
-A5.30 221.6          9780334020868     Childs, Brevard S.            1983 Introduction to the Old Testament as Scripture
-A5.31 221.6          9781589833494     Crenshaw, James L.            1984 A whirlpool of torment : Israelite traditions of God as an o
+A5.23 221.06                           Westermann, Claus (ed.)       1963 Essays on Old Testament interpretation / edited by Claus Wes
+A5.24 221.15         9780800632878     Brueggemann, Walter           2001 The prophetic imagination
+A5.25 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
+A5.26 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
+A5.27 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
+A5.28 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
+A5.29 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
+A5.30 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
+A5.31 221.6          9780334020868     Childs, Brevard S.            1983 Introduction to the Old Testament as Scripture
+A5.32 221.6          9781589833494     Crenshaw, James L.            1984 A whirlpool of torment : Israelite traditions of God as an o
 A6.01 221.6          9780664223083     Eichrodt, Walter              1961 Theology of the Old Testament, Vol. 1 (OTL) (The Old Testame
 A6.02 221.6          9780664223090     Eichrodt, Walther             1967 Theology of the Old Testament, Vol. 2 (OTL) (The Old Testame
 A6.03 221.6          9780800634384     Gunkel, Hermann, 1862-1932    2001 Water for a thirsty land : Israelite literature and religion
@@ -201,15 +205,17 @@ B2.19 224.06         9780060936990     Heschel, Abraham Joshua, 1    2001 The Pr
 B2.20 224.206        9780800699307     O'Connor, Kathleen M., 194    2012 Jeremiah : pain and promise
 B2.21 224.206        9780931464201     Perdue, Leo G. [Editor; Ot    1984 A Prophet to the nations : essays in Jeremiah studies
 B2.22 224.2077       9780802823694     Thompson, J. A. (John Arth    1980 The book of Jeremiah
-B2.23 224.807                          Marsh, J.                     1959 Amos and Micah [Torch Bible Commentaries]
-B2.24 225            9780232511802     Kee, Howard Clark             2011 The living world of the New Testament
-B2.25 225.08         9780334011385     Batey, Richard A., 1933-      1970 New Testament issues
-B2.26 225.6          9780334003885     Käsemann, Ernst               2012 Essays on New Testament themes
-B2.27 225.6          9781563381836     Robbins, Vernon K. (Vernon    1996 Exploring the texture of texts : a guide to socio-rhetorical
-B2.28 225.6          9780415139984     Robbins, Vernon K. (Vernon    1996 The tapestry of early Christian discourse : rhetoric, societ
-B2.29 225.6          9780867160987     Rohr, Richard, O.F.M          1988 The great themes of scripture : New Testament
-B2.30 225.61         9780300173123     Brown, Raymond Edward         2016 An introduction to the New Testament
-B2.31 225.61         9780802827463     Loader, William R. G., 194    2007 The New Testament with imagination : a fresh approach to its
+B2.23 224.6                            Knight, G. A. F.              1969 Hosea: God's Love
+B2.24 224.807                          Marsh, J.                     1959 Amos and Micah [Torch Bible Commentaries]
+B2.25 225            9780232511802     Kee, Howard Clark             2011 The living world of the New Testament
+B2.26 225.08         9780334011385     Batey, Richard A., 1933-      1970 New Testament issues
+B2.27 225.6          9780334003885     Käsemann, Ernst               2012 Essays on New Testament themes
+B2.28 225.6          9780334010999     Käsemann, Ernst               2012 Essays on New Testament themes
+B2.29 225.6          9781563381836     Robbins, Vernon K. (Vernon    1996 Exploring the texture of texts : a guide to socio-rhetorical
+B2.30 225.6          9780415139984     Robbins, Vernon K. (Vernon    1996 The tapestry of early Christian discourse : rhetoric, societ
+B2.31 225.6          9780867160987     Rohr, Richard, O.F.M          1988 The great themes of scripture : New Testament
+B2.32 225.61         9780300173123     Brown, Raymond Edward         2016 An introduction to the New Testament
+B2.33 225.61         9780802827463     Loader, William R. G., 194    2007 The New Testament with imagination : a fresh approach to its
 B3.01 223.8052034    9781481476546     Rylant, Cynthia [Illustrat    2018 Ecclesiastes : to everything there is a season
 B3.02 225.61         9780300180855     Martin, Dale B., 1954-        2012 New Testament history and literature
 B3.03 225.66         9780801027895     Resseguie, James L.           2005 Narrative criticism of the New Testament : an introduction
@@ -264,77 +270,86 @@ B4.12 226.906        9780567291523     Strecker, Georg, 1929-1994    1999 The Se
 B4.13 227.06         9780281061587     Borg, Marcus J.               2009 The first Paul : reclaiming the radical visionary behind the
 B4.14 227.06         9780800623791     Elliott, Neil, 1956-          2006 Liberating Paul : the justice of God and the politics of the
 B4.15 227.06         9780567656254     Horrell, David G.             2015 An introduction to the study of Paul
-B4.16 227.095        9780800663759     Elliot, Neil                  2010 Documents and images for the study of Paul
-B4.17 227.1          9780195002942     Barth, Karl, 1886-1968        1968 The Epistle to the Romans
-B4.18 227.1          9781795301213     St Ignatius of Antioch        2019 The Letters of St. Ignatius
-B4.19 227.106        9780800697686     Elliott, Neil, 1956-          2010 The arrogance of nations : reading Romans in the shadow of e
-B4.20 227.106        9780800662028     Elliott, Neil, 1956-          2000 The rhetoric of Romans : argumentative constraint and strate
-B4.21 227.1067       9780281059317     Oakes, Peter (Peter S.)       2009 Reading Romans in Pompeii : Paul's letter at ground level
-B4.22 227.1077       9780814633243     Byrne, Brendan (Brendan J.    2010 Galatians and Romans
-B4.23 227.2067       9781592443642     Wire, Antoinette Clark        2003 The Corinthian women prophets : a reconstruction through Pau
-B4.24 227.207        9780687058389     Horsley, Richard A.           1998 1 Corinthians
-B4.25 227.307        9780334002666     Hanson, R. P. C. (Richard     1967 The Second Epistle to the Corinthians : Christ and controver
-B4.26 227.87         9780232528664     O'Collins, Gerald, Sj         2011 Hebrews : also includes the books of James, 1 and 2, Peter, 
-B4.27 229.8          9781594770463     Leloup, Jean-Yves             2005 The Gospel of Thomas : the gnostic wisdom of Jesus
-B4.28 229.91052      9780521285544     Jonge, M. de (Marinus), 19    1986 Outside the Old Testament
-B4.29 229.9205209    9780195182507     Ehrman, Bart D.               2005 Lost scriptures : books that did not make it into the New Te
-B4.30 230            9783945233078     Anglican Catholic Church A    2017 The Anglican rosary : Anglican prayer beads - a form of cont
-B4.31 230            9781565484467     Augustine, Saint              2012 The Trinity (Works of Saint Augustine: A Translation for the
-B4.32 230            9780802818195     Barth, Karl, 1886-1968        1992 Evangelical theology : an introduction
-B4.33 230            9780060730680     Borg, Marcus J.               2015 The heart of Christianity : rediscovering a life of faith
-B4.34 230            9780809121748     Brown, Raymond E. (Raymond    1978 The community of the Beloved Disciple
-B4.35 230                              Cox, David                    1963 What Christians Believe
-B4.36 230            9780567041418     Hardy, Daniel W.              2005 God's ways with the world : thinking and practising Christia
-B4.37 230            9780334042082     Hardy, Daniel W.              2010 Wording a radiance : parting conversations on God and the Ch
-B4.38 230            9780006251521     Küng, Hans, 1928-             1978 On being a Christian
-B4.39 230            9781444335149     McGrath, Alister E., 1953-    2011 Christian theology : an introduction
-B4.40 230            9781405102711     McIntosh, Mark Allen, 1960    2007 Divine teaching : an introduction to Christian theology
-B4.41 230            9781585422531     Needleman, Jacob              2003 Lost Christianity
+B4.16 227.06         9780281073382     Williams, Rowan, 1950-        2015 Meeting God in Paul : reflections for the season of Lent
+B4.17 227.095        9780800663759     Elliot, Neil                  2010 Documents and images for the study of Paul
+B4.18 227.1                            Barrett, C. K.                1956 By C. K. Barrett The Epistle to the Romans: Harper's New Tes
+B4.19 227.1          9780195002942     Barth, Karl, 1886-1968        1968 The Epistle to the Romans
+B4.20 227.1          9781795301213     St Ignatius of Antioch        2019 The Letters of St. Ignatius
+B4.21 227.106        9780800697686     Elliott, Neil, 1956-          2010 The arrogance of nations : reading Romans in the shadow of e
+B4.22 227.106        9780800662028     Elliott, Neil, 1956-          2000 The rhetoric of Romans : argumentative constraint and strate
+B4.23 227.1067       9780281059317     Oakes, Peter (Peter S.)       2009 Reading Romans in Pompeii : Paul's letter at ground level
+B4.24 227.1077       9780814633243     Byrne, Brendan (Brendan J.    2010 Galatians and Romans
+B4.25 227.2067       9781592443642     Wire, Antoinette Clark        2003 The Corinthian women prophets : a reconstruction through Pau
+B4.26 227.207        9780687058389     Horsley, Richard A.           1998 1 Corinthians
+B4.27 227.307        9780334002666     Hanson, R. P. C. (Richard     1967 The Second Epistle to the Corinthians : Christ and controver
+B4.28 227.87         9780232528664     O'Collins, Gerald, Sj         2011 Hebrews : also includes the books of James, 1 and 2, Peter, 
+B4.29 229.8          9781594770463     Leloup, Jean-Yves             2005 The Gospel of Thomas : the gnostic wisdom of Jesus
+B4.30 229.8          9780525433897     Sabar, Ariel                  2021 Veritas : a Harvard professor, a con man and the Gospel of J
+B4.31 229.91052      9780521285544     Jonge, M. de (Marinus), 19    1986 Outside the Old Testament
+B4.32 229.9205209    9780195182507     Ehrman, Bart D.               2005 Lost scriptures : books that did not make it into the New Te
+B4.33 230            9783945233078     Anglican Catholic Church A    2017 The Anglican rosary : Anglican prayer beads - a form of cont
+B4.34 230            9781565484467     Augustine, Saint              2012 The Trinity (Works of Saint Augustine: A Translation for the
+B4.35 230            9780802818195     Barth, Karl, 1886-1968        1992 Evangelical theology : an introduction
+B4.36 230            9780060730680     Borg, Marcus J.               2015 The heart of Christianity : rediscovering a life of faith
+B4.37 230            9780809121748     Brown, Raymond E. (Raymond    1978 The community of the Beloved Disciple
+B4.38 230                              Cox, David                    1963 What Christians Believe
+B4.39 230            9780567041418     Hardy, Daniel W.              2005 God's ways with the world : thinking and practising Christia
+B4.40 230            9780334042082     Hardy, Daniel W.              2010 Wording a radiance : parting conversations on God and the Ch
+B4.41 230            9780006251521     Küng, Hans, 1928-             1978 On being a Christian
+B4.42 230            9781444335149     McGrath, Alister E., 1953-    2011 Christian theology : an introduction
+B4.43 230            9781405102711     McIntosh, Mark Allen, 1960    2007 Divine teaching : an introduction to Christian theology
+B4.44 230            9781585422531     Needleman, Jacob              2003 Lost Christianity
 B5.01 230            9780334009238     Ritschl, Dietrich             2012 The logic of theology : a brief account of the relationship 
 B5.02 230            9780060794781     Smith, Huston                 2005 The soul of Christianity : restoring the great tradition
 B5.03 230            9780006267683     Stein, Jock                   1984 In Christ all things hold together : an introduction to Chri
 B5.04 230            9781844749089     Stott, John R. W              2013 Basic Christianity : who is Jesus? why the cross? why is it 
-B5.05 230            9781853118036     Williams, Rowan, 1950-        2007 Tokens of trust : an introduction to Christian belief
-B5.06 230            9780908089611     Wilson, John W. (John Warw    1985 The Old Testament and Christian living
-B5.07 230            9780567033154     Zizioulas, Jean, 1931-        2009 Lectures in Christian dogmatics
-B5.08 230.01         9780824514013     Killen, Patricia O'Connell    1994 The art of theological reflection
-B5.09 230.046        9780415196994     Milbank, John                 1998 Radical orthodoxy : a new theology
-B5.10 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
-B5.11 230.08664      9781498218795     Tonstad, Linn Marie, 1978-    2018 Queer theology : beyond apologetics
-B5.12 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
-B5.13 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
-B5.14 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
-B5.15 230.14         9780199540631     Augustin (0354-0430; saint    2008 On Christian doctrine
-B5.16 230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
-B5.17 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
-B5.18 230.2          9780883448151     Boff, Leonardo                1993 The path to hope : fragments from a theologian's journey
-B5.19 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
-B5.20 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
-B5.21 230.2          9780232515862     O'Collins, Gerald             1982 Fundamental theology
-B5.22 230.2          9780824505233     Rahner, Karl, 1904-1984       1982 Foundations of Christian faith : an introduction to the idea
-B5.23 230.2          9781887593922     Sheed, F. J. (Francis Jose    2013 Theology for beginners
-B5.24 230.3          9780567008022     Chapman, Mark D. (Mark Dav    2012 Anglican theology
-B5.25 230.3          9780281029372     Church of England. Doctrin    1986 Christian believing : the nature of the Christian faith and 
-B5.26 230.3          9780334023531     Macquarrie, John              2012 Theology, church, and ministry
-B5.27 230.3          9780816422173     Norris, Richard A., Jr. (R    1979 Understanding the faith of the Church
-B5.28 231            9780060610357     Borg, Marcus J.               1998 The God we never knew : beyond dogmatic religion to a more a
-B5.29 231            9780006266372     Küng, Hans, 1928-             1983 Does God exist? : an answer for today
-B5.30 231            9780567088505     Mostert, Christiaan           2002 God and the future : Wolfhardt Pannenberg's eschatological d
-B5.31 231            9780860120155     Rahner, Karl, 1904-1984       2001 The Trinity
-B5.32 231.044        9781138554542     Tonstad, Linn Marie, 1978-    2017 God and difference : the Trinity, sexuality, and the transfo
-B5.33 231.044        9780567087034     Torrance, Thomas F. (Thoma    2000 Trinitarian perspectives : toward doctrinal agreement
-B5.34 231.4          9780664256456     Penchansky, David             1999 What rough beast? : images of God in the Hebrew Bible
-B5.35 231.73         9780007461257     Lewis, C. S. (Clive Staple    2012 Miracles : a preliminary study
-B5.36 231.74         9780717113248     Dulles, Avery, 1918-2008      1983 Models of revelation
-B5.37 231.765        9780800628239     Moltmann, Jürgen, 1926-       1993 God in creation : a new theology of creation and the Spirit 
-B5.38 231.8          9780829419818     Hauser, Richard J.            2002 Finding God in troubled times
-B5.39 231.8          9780007461264     Lewis, C. S. (Clive Staple    2012 The problem of pain
-B5.40 232            9780281037414     Boff, Leonardo                1979 Jesus Christ liberator : a critical Christology for our time
-B5.41 232            9780061434341     Borg, Marcus J.               2015 Jesus : uncovering the life, teachings, and relevance of a r
-B5.42 232            9780060608149     Borg, Marcus J.               1991 Jesus, a new vision : spirit, culture, and the life of disci
-B5.43 232            9780684155326     Fuller, Reginald H. (Regin    1965 The foundations of New Testament Christology,
-B5.44 232            9781450709453     Hardin, Michael               2010 The Jesus driven life : reconnecting humanity with Jesus
-B5.45 232            9780334018063     Hunter, A. M. (Archibald M    2012 The work and words of Jesus
+B5.05 230            9780631214403     Williams, Rowan, 1950-        1999 On Christian theology
+B5.06 230            9781853118036     Williams, Rowan, 1950-        2007 Tokens of trust : an introduction to Christian belief
+B5.07 230            9780908089611     Wilson, John W. (John Warw    1985 The Old Testament and Christian living
+B5.08 230            9780567033154     Zizioulas, Jean, 1931-        2009 Lectures in Christian dogmatics
+B5.09 230.01         9780824514013     Killen, Patricia O'Connell    1994 The art of theological reflection
+B5.10 230.046        9780415196994     Milbank, John                 1998 Radical orthodoxy : a new theology
+B5.11 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
+B5.12 230.08664      9781498218795     Tonstad, Linn Marie, 1978-    2018 Queer theology : beyond apologetics
+B5.13 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
+B5.14 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
+B5.15 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
+B5.16 230.0903       9780802827265     Williams, Rowan, 1950-        2007 Wrestling with angels : conversations in modern theology
+B5.17 230.14         9780199540631     Augustin (0354-0430; saint    2008 On Christian doctrine
+B5.18 230.14092      9781472925275     Williams, Rowan, 1950-        2016 On Augustine
+B5.19 230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
+B5.20 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
+B5.21 230.2          9780883448151     Boff, Leonardo                1993 The path to hope : fragments from a theologian's journey
+B5.22 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
+B5.23 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
+B5.24 230.2          9780232515862     O'Collins, Gerald             1982 Fundamental theology
+B5.25 230.2          9780824505233     Rahner, Karl, 1904-1984       1982 Foundations of Christian faith : an introduction to the idea
+B5.26 230.2          9781887593922     Sheed, F. J. (Francis Jose    2013 Theology for beginners
+B5.27 230.3          9780567008022     Chapman, Mark D. (Mark Dav    2012 Anglican theology
+B5.28 230.3          9780281029372     Church of England. Doctrin    1986 Christian believing : the nature of the Christian faith and 
+B5.29 230.3          9780334023531     Macquarrie, John              2012 Theology, church, and ministry
+B5.30 230.3          9780816422173     Norris, Richard A., Jr. (R    1979 Understanding the faith of the Church
+B5.31 231            9780060610357     Borg, Marcus J.               1998 The God we never knew : beyond dogmatic religion to a more a
+B5.32 231            9780006266372     Küng, Hans, 1928-             1983 Does God exist? : an answer for today
+B5.33 231            9780567088505     Mostert, Christiaan           2002 God and the future : Wolfhardt Pannenberg's eschatological d
+B5.34 231            9780860120155     Rahner, Karl, 1904-1984       2001 The Trinity
+B5.35 231            9780002151528     Smith, Ronald Gregor          1970 The doctrine of God
+B5.36 231.044        9781138554542     Tonstad, Linn Marie, 1978-    2017 God and difference : the Trinity, sexuality, and the transfo
+B5.37 231.044        9780567087034     Torrance, Thomas F. (Thoma    2000 Trinitarian perspectives : toward doctrinal agreement
+B5.38 231.4          9780664256456     Penchansky, David             1999 What rough beast? : images of God in the Hebrew Bible
+B5.39 231.73         9780007461257     Lewis, C. S. (Clive Staple    2012 Miracles : a preliminary study
+B5.40 231.74         9780717113248     Dulles, Avery, 1918-2008      1983 Models of revelation
+B5.41 231.765        9780800628239     Moltmann, Jürgen, 1926-       1993 God in creation : a new theology of creation and the Spirit 
+B5.42 231.8          9780829419818     Hauser, Richard J.            2002 Finding God in troubled times
+B5.43 231.8          9780007461264     Lewis, C. S. (Clive Staple    2012 The problem of pain
+B5.44 232            9780571056859     Baillie, D. M. (Donald Mac    1977 God was in Christ; : an essay on incarnation and atonement
+B5.45 232            9780281037414     Boff, Leonardo                1979 Jesus Christ liberator : a critical Christology for our time
+B5.46 232            9780061434341     Borg, Marcus J.               2015 Jesus : uncovering the life, teachings, and relevance of a r
+B5.47 232            9780060608149     Borg, Marcus J.               1991 Jesus, a new vision : spirit, culture, and the life of disci
+B5.48 232            9780800628871     Bornkamm, Günther             1995 Jesus of Nazareth
+B5.49 232            9780684155326     Fuller, Reginald H. (Regin    1965 The foundations of New Testament Christology,
+B5.50 232            9781450709453     Hardin, Michael               2010 The Jesus driven life : reconnecting humanity with Jesus
+B5.51 232            9780334018063     Hunter, A. M. (Archibald M    2012 The work and words of Jesus
 B6.01 232            9780334053309     Moltmann, Jürgen              2015 The crucified God : the cross of Christ as the foundation an
 B6.02 232            9780232528572     Moore, Sebastian, 1917-201    2011 The body of Christ : the shudder of blissful truth
 B6.03 232            9780814650783     Rausch, Thomas P.             2003 Who is Jesus? : an introduction to Christology
@@ -345,42 +360,44 @@ B6.07 232.09015      9780809135165     Brown, Raymond Edward         1994 An int
 B6.08 232.1          9781629116792     Athanasious Of Alexandria     2016 On the incarnation
 B6.09 232.3          9780802832153     Heim, S. Mark                 2006 Saved from sacrifice : a theology of the cross
 B6.10 232.3          9780824517960     Schwager, Raymund             1999 Jesus in the drama of salvation : toward a biblical doctrine
-B6.11 232.5          9780141030050     Vermès, Géza, 1924-2013       2008 The Resurrection
-B6.12 232.9          9780281041084     Chilton, Bruce                1984 A Galilean rabbi and his Bible : Jesus' own interpretation o
-B6.13 232.9          9781406838411     Renan, Ernest                 2007 The Life of Jesus
-B6.14 232.901        9781743319390     Aslan, Reza                   2013 ZEALOT : the Life and Times of Jesus of Nazareth
-B6.15 232.901        9780141046228     Vermès, Géza, 1924-2013       2010 Jesus : nativity, passion, resurrection
-B6.16 232.906        9780773520462     Neusner, Jacob, 1932-2016     2000 A Rabbi talks with Jesus : an intermillennial, interfaith ex
-B6.17 232.908        9780060609177     Borg, Marcus J.               1995 Meeting Jesus again for the first time : the historical Jesu
-B6.18 232.908        9780883442203     Segundo, Juan Luis            1985 The historical Jesus of the synoptics
-B6.19 232.92         9780061430718     Borg, Marcus J.               2009 The first Christmas : what the Gospels really teach about Je
-B6.20 232.921        9781905048847     Schaberg, Jane                2006 The illegitimacy of Jesus : a feminist theological interpret
-B6.21 232.921        9780060675295     Spong, John Shelby            1992 Born of a woman : a bishop rethinks the birth of Jesus
-B6.22 232.954        9780141003603     Vermes, Geza, 1924-           2005 The authentic gospel of Jesus
-B6.23 232.954066     9780281068111     Crossan, John Dominic         2012 The power of parable : how fiction by Jesus became fiction a
-B6.24 232.957        9780334004141     Jeremias, Joachim, 1900-19    2012 The eucharistic words of Jesus
-B6.25 232.96         9780060872601     Borg, Marcus J.               2007 The last week : the day-by-day account of Jesus's final week
-B6.26 232.962        9780334016786     Bammel, Ernst [Editor]        2012 The Trial of Jesus : Cambridge studies in honour of C.F.D. M
-B6.27 232.97         9780225660487     Léon-Dufour, Xavier           1974 Resurrection and the message of Easter
-B6.28 233.2          9780140445336     Kierkegaard, Søren, 1813-1    1989 The sickness unto death
-B6.29 233.2          9780801585562     Menninger, Karl A. (Karl A    1973 Whatever became of sin?
-B6.30 233.5          9780300081725     Martin, Dale B., 1954-        1999 The Corinthian body
-B6.31 233.5          9780631210702     Rogers, Eugene F., Jr. (Eu    1999 Sexuality and the Christian body : their way into the triune
-B6.32 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
-B6.33 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
-B6.34 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
-B6.35 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
-B6.36 234.163        9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
-B6.37 234.163        9780232512984     Voillaume, René               1976 Source of life : the Eucharist and Christian living
-B6.38 234.163        9780567326607     Zizioulas, Jean, 1931-        2011 The eucharistic communion and the world
-B6.39 234.1630902    9780814660539     Macy, Gary                    1999 Treasures from the storeroom : medieval religion and the Euc
-B6.40 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
-B6.41 234.2          9780060937133     Tillich, Paul, 1886-1965      2009 Dynamics of faith
-B6.42 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
-B6.43 238.2          9780854397983                                   None Faith matters : fundamentals of faith
-B6.44 238.2                            Gore, Bishop                  1939 Belief in God
-B6.45 239            9780881410242     Bloom, Anthony, 1914-2003     1997 God and man
-B6.46 239            9780802456571     Chesterton, G. K. (Gilbert    2009 Orthodoxy
+B6.11 232.4          9780664262648     Williams, Rowan, 1950-        2017 The sign and the sacrifice : the meaning of the cross and Re
+B6.12 232.5          9780141030050     Vermès, Géza, 1924-2013       2008 The Resurrection
+B6.13 232.9          9780281041084     Chilton, Bruce                1984 A Galilean rabbi and his Bible : Jesus' own interpretation o
+B6.14 232.9          9781406838411     Renan, Ernest                 2007 The Life of Jesus
+B6.15 232.901        9781743319390     Aslan, Reza                   2013 ZEALOT : the Life and Times of Jesus of Nazareth
+B6.16 232.901        9780141046228     Vermès, Géza, 1924-2013       2010 Jesus : nativity, passion, resurrection
+B6.17 232.906        9780773520462     Neusner, Jacob, 1932-2016     2000 A Rabbi talks with Jesus : an intermillennial, interfaith ex
+B6.18 232.908        9780060609177     Borg, Marcus J.               1995 Meeting Jesus again for the first time : the historical Jesu
+B6.19 232.908        9780883442203     Segundo, Juan Luis            1985 The historical Jesus of the synoptics
+B6.20 232.91         9780826418272     Johnson, Elizabeth A., 194    2006 Truly our sister : a theology of Mary in the communion of sa
+B6.21 232.92         9780061430718     Borg, Marcus J.               2009 The first Christmas : what the Gospels really teach about Je
+B6.22 232.921        9781905048847     Schaberg, Jane                2006 The illegitimacy of Jesus : a feminist theological interpret
+B6.23 232.921        9780060675295     Spong, John Shelby            1992 Born of a woman : a bishop rethinks the birth of Jesus
+B6.24 232.954        9780141003603     Vermes, Geza, 1924-           2005 The authentic gospel of Jesus
+B6.25 232.954066     9780281068111     Crossan, John Dominic         2012 The power of parable : how fiction by Jesus became fiction a
+B6.26 232.957        9780334004141     Jeremias, Joachim, 1900-19    2012 The eucharistic words of Jesus
+B6.27 232.96         9780060872601     Borg, Marcus J.               2007 The last week : the day-by-day account of Jesus's final week
+B6.28 232.962        9780334016786     Bammel, Ernst [Editor]        2012 The Trial of Jesus : Cambridge studies in honour of C.F.D. M
+B6.29 232.97         9780225660487     Léon-Dufour, Xavier           1974 Resurrection and the message of Easter
+B6.30 233.2          9780140445336     Kierkegaard, Søren, 1813-1    1989 The sickness unto death
+B6.31 233.2          9780801585562     Menninger, Karl A. (Karl A    1973 Whatever became of sin?
+B6.32 233.5          9780300081725     Martin, Dale B., 1954-        1999 The Corinthian body
+B6.33 233.5          9780631210702     Rogers, Eugene F., Jr. (Eu    1999 Sexuality and the Christian body : their way into the triune
+B6.34 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
+B6.35 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
+B6.36 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
+B6.37 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
+B6.38 234.163        9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
+B6.39 234.163        9780232512984     Voillaume, René               1976 Source of life : the Eucharist and Christian living
+B6.40 234.163        9780567326607     Zizioulas, Jean, 1931-        2011 The eucharistic communion and the world
+B6.41 234.1630902    9780814660539     Macy, Gary                    1999 Treasures from the storeroom : medieval religion and the Euc
+B6.42 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
+B6.43 234.2          9780060937133     Tillich, Paul, 1886-1965      2009 Dynamics of faith
+B6.44 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
+B6.45 238.2          9780854397983                                   None Faith matters : fundamentals of faith
+B6.46 238.2                            Gore, Bishop                  1939 Belief in God
+B6.47 239            9780881410242     Bloom, Anthony, 1914-2003     1997 God and man
+B6.48 239            9780802456571     Chesterton, G. K. (Gilbert    2009 Orthodoxy
 C1.01 239.3          9780140448948     Augustine, of Hippo, Saint    2004 The city of God
 C1.02 241                              McCormick, Richard, SJ; Ag    1968 The Future of Ethics and Moral Theology
 C1.03 241            9781570759666     Stivers, Laura A.             2012 Christian ethics : a case method approach
@@ -392,42 +409,48 @@ C1.08 242            9780281059737     Newman, John Henry, 1801-1    2007 John H
 C1.09 242            9781620327722     Ringma, Charles               2013 Hear the ancient wisdom : a meditational reader for the whol
 C1.10 242            9780819281227     Taize, Brother Jean Marc o    2005 Seeds of Trust: Reflecting on the Bible in silence and song
 C1.11 242                              The Taizé Community           1966 The Taize Office
-C1.12 242.2                            Hilton, Mary C.               None The Parish as a Center of Prayer
-C1.13 242.2          9780826494078     Law, Philip                   2006 Seasons of devotion : 365 Bible readings and prayers to guid
-C1.14 242.3          9781853112492     Atwell, Robert                1999 Celebrating the seasons : daily spiritual readings for the C
-C1.15 242.34         9781472978257     Cherry, Stephen               2021 Thy will be done : the 2021 Lent book
-C1.16 242.34         9781627850445     Dear, John                    2015 Walking the Way: Following Jesus on the Lenten Journey of Go
-C1.17 242.34         9780809149667     Leonard, Richard, 1963-       2015 What are we hoping for? : reflections on Lent and Easter
-C1.18 242.34         9780826499561     Radcliffe, Timothy            2009 Why go to church? : the drama of the Eucharist
-C1.19 242.34         9780281085170     Steele, Hannah                2020 Living his story : revealing the extraordinary love of God i
-C1.20 242.37         9781848258822     Atwell, Robert                2017 Celebrating the saints : daily spiritual readings for the Ca
-C1.21 242.4          9780809137534     Fischer, Kathleen R., 1940    1998 Facing discouragement
-C1.22 242.8          9780199561230     Appleton, George, 1902-199    2009 The Oxford book of prayer
-C1.23 248            9780800683252     Bonhoeffer, Dietrich, 1906    2004 Life together : the classic exploration of faith in communit
-C1.24 248            9780857217295     Collicutt, Joanna             2016 Being mindful, being Christian : a guide to mindful disciple
-C1.25 248            9780232522266     Hughes, Gerard W.             1998 God, where are you?
-C1.26 248            9780745935386     Hughes, Gerard W.             1996 Oh God, why? : a spiritual journey towards meaning, wisdom a
-C1.27 248            9780062565433     Lewis, C. S. (Clive Staple    2017 Surprised by joy : the shape of my early life
-C1.28 248            9781570758584     Talbot, John Michael          2010 The world is my cloister : living from the hermit within
-C1.29 248.3          9780892438914     Casey, Michael, 1942-         1996 Sacred reading : the ancient art of lectio divina
-C1.30 248.3          9780486486048     Ignatius, of Loyola, Saint    2011 The spiritual exercises of Saint Ignatius of Loyola
-C1.31 248.3          9780829435351     Manney, Jim                   2011 A simple, life-changing prayer : discovering the power of St
-C1.32 248.32         9780809129355     Barry, William A.             1987 God and you : prayer as a personal relationship
-C1.33 248.32         9781472941756     Gioia, Luigi, 1968-           2018 Say it to God : in search of prayer : the Archbishop of Cant
-C1.34 248.32         9781860828935     Kallistos, Bishop of Diokl    2014 The Jesus prayer
-C1.35 248.32         9780809148035     Leonard, Richard, 1963-       2013 Why bother praying?
-C1.36 248.32         9781979771399     Morwood, Mr Michael J         2018 Prayers For Progressive Christians: A New Template
-C1.37 248.32         9780281065028     Pritchard, John, 1948-        2017 The intercessions handbook : creative ideas for public and p
-C1.38 248.3208822    9780892438907     Casey, Michael, 1942-         1996 Toward God : the ancient wisdom of Western prayer
-C1.39 248.34         9780232527827     Campbell-Johnston, Michael    2010 Time to change : an ignatian retreat in everyday life
-C1.40 248.34         9780867162578     Rohr, Richard                 1995 Radical grace : daily meditations
-C1.41 248.4          9780800636326     Barth, Karl, 1886-1968        2003 The call to discipleship
-C1.42 248.4          9781841012414     Hance, Stephen                2003 Beyond confirmation : going for growth in your Christian lif
-C1.43 248.4          9780809139064     Hart, Thomas N.               1999 Spiritual quest : a guide to the changing landscape
-C1.44 248.4          9780939516186     Hays, Edward M.               1993 Holy fools &amp; mad hatters : a handbook for hobbyhorse hol
-C1.45 248.4          9780904717464     Hughes, Gerard W.             2015 At home in God : essays from the Way, 1962-1985
-C1.46 248.4          9780340861356     Hughes, Gerard W.             2003 God in all things : the sequel to God of surprises
-C1.47 248.4          9780340694879     Hughes, Gerard W.             1998 God of compassion
+C1.12 242            9780819213143     Underhill, Evelyn, 1875-19    1989 The fruits of the spirit
+C1.13 242.2                            Hilton, Mary C.               None The Parish as a Center of Prayer
+C1.14 242.2          9780826494078     Law, Philip                   2006 Seasons of devotion : 365 Bible readings and prayers to guid
+C1.15 242.3          9781853112492     Atwell, Robert                1999 Celebrating the seasons : daily spiritual readings for the C
+C1.16 242.34         9781472978257     Cherry, Stephen               2021 Thy will be done : the 2021 Lent book
+C1.17 242.34         9781627850445     Dear, John                    2015 Walking the Way: Following Jesus on the Lenten Journey of Go
+C1.18 242.34         9780809149667     Leonard, Richard, 1963-       2015 What are we hoping for? : reflections on Lent and Easter
+C1.19 242.34         9780826499561     Radcliffe, Timothy            2009 Why go to church? : the drama of the Eucharist
+C1.20 242.34         9780281085170     Steele, Hannah                2020 Living his story : revealing the extraordinary love of God i
+C1.21 242.37         9781848258822     Atwell, Robert                2017 Celebrating the saints : daily spiritual readings for the Ca
+C1.22 242.4          9780809137534     Fischer, Kathleen R., 1940    1998 Facing discouragement
+C1.23 242.8          9780199561230     Appleton, George, 1902-199    2009 The Oxford book of prayer
+C1.24 242.8          9780281078738     Underhill, Evelyn, 1875-19    2018 Evelyn Underhill's prayer book
+C1.25 248            9780800683252     Bonhoeffer, Dietrich, 1906    2004 Life together : the classic exploration of faith in communit
+C1.26 248            9780857217295     Collicutt, Joanna             2016 Being mindful, being Christian : a guide to mindful disciple
+C1.27 248            9780232522266     Hughes, Gerard W.             1998 God, where are you?
+C1.28 248            9780745935386     Hughes, Gerard W.             1996 Oh God, why? : a spiritual journey towards meaning, wisdom a
+C1.29 248            9780062565433     Lewis, C. S. (Clive Staple    2017 Surprised by joy : the shape of my early life
+C1.30 248            9781570758584     Talbot, John Michael          2010 The world is my cloister : living from the hermit within
+C1.31 248.22         9780486824277     Author of The cloud of unk    2018 The cloud of unknowing
+C1.32 248.22         9781602063266     Nicholas, of Cusa, Cardina    2007 The vision of God
+C1.33 248.22         9780486422381     Underhill, Evelyn, 1875-19    2002 Mysticism : a study in the nature and development of spiritu
+C1.34 248.22092      9780199686643     Kempe, Margery, approximat    None The book of Margery Kempe : fourteen hundred &amp; thirty-si
+C1.35 248.3          9780892438914     Casey, Michael, 1942-         1996 Sacred reading : the ancient art of lectio divina
+C1.36 248.3          9780486486048     Ignatius, of Loyola, Saint    2011 The spiritual exercises of Saint Ignatius of Loyola
+C1.37 248.3          9780829435351     Manney, Jim                   2011 A simple, life-changing prayer : discovering the power of St
+C1.38 248.32         9780809129355     Barry, William A.             1987 God and you : prayer as a personal relationship
+C1.39 248.32         9781472941756     Gioia, Luigi, 1968-           2018 Say it to God : in search of prayer : the Archbishop of Cant
+C1.40 248.32         9781860828935     Kallistos, Bishop of Diokl    2014 The Jesus prayer
+C1.41 248.32         9780809148035     Leonard, Richard, 1963-       2013 Why bother praying?
+C1.42 248.32         9781979771399     Morwood, Mr Michael J         2018 Prayers For Progressive Christians: A New Template
+C1.43 248.32         9780281065028     Pritchard, John, 1948-        2017 The intercessions handbook : creative ideas for public and p
+C1.44 248.3208822    9780892438907     Casey, Michael, 1942-         1996 Toward God : the ancient wisdom of Western prayer
+C1.45 248.34         9780232527827     Campbell-Johnston, Michael    2010 Time to change : an ignatian retreat in everyday life
+C1.46 248.34         9780867162578     Rohr, Richard                 1995 Radical grace : daily meditations
+C1.47 248.4          9780800636326     Barth, Karl, 1886-1968        2003 The call to discipleship
+C1.48 248.4          9781841012414     Hance, Stephen                2003 Beyond confirmation : going for growth in your Christian lif
+C1.49 248.4          9780809139064     Hart, Thomas N.               1999 Spiritual quest : a guide to the changing landscape
+C1.50 248.4          9780939516186     Hays, Edward M.               1993 Holy fools &amp; mad hatters : a handbook for hobbyhorse hol
+C1.51 248.4          9780904717464     Hughes, Gerard W.             2015 At home in God : essays from the Way, 1962-1985
+C1.52 248.4          9780340861356     Hughes, Gerard W.             2003 God in all things : the sequel to God of surprises
+C1.53 248.4          9780340694879     Hughes, Gerard W.             1998 God of compassion
 C2.01 248.4          9780232516647     Hughes, Gerard W.             1985 God of surprises
 C2.02 248.4          9780385236829     Nouwen, Henri J. M            1986 Reaching out : the three movements of the spiritual life
 C2.03 248.4          9780281068913     Rohr, Richard                 2012 Falling upward : a spirituality for the two halves of life
@@ -472,49 +495,50 @@ C2.41 255            9780824516208     Fiand, Barbara                1996 Wrestl
 C2.42 255.106        9780814612729     Benito, Santo, ca. 480-547    1981 The rule of Saint Benedict
 C2.43 255.106        9781612613970     Casey, Michael, 1942-         2013 Strangers to the city : reflections on the beliefs and value
 C3.01 255.106        9780814628027     Derkse, Wil                   2003 The rule of Benedict for beginners : spirituality for daily 
-C3.02 259.23         9780281070510     Griffiths, Steve, 1967-       2013 Models for youth ministry : learning from the life of Christ
-C3.03 259.23         9780281063420     Nash, Sally, 1957-            2011 Youth ministry : a multi-faceted approach
-C3.04 259.23         9780830834884     Root, Andrew, 1974-           2007 Revisiting relational youth ministry : from a strategy of in
-C3.05 259.23         9780281073429     Yaconelli, Mark               2014 Contemplative youth ministry : practicing the presence of Je
-C3.06 259.23         9780310516736     Zondervan                     2013 Starting right : thinking theologically about youth ministry
-C3.07 261            9780156177351     Eliot, T. S. (Thomas Stear    1977 Christianity and culture: : the idea of a Christian society 
-C3.08 261            9781570756665     Kavanaugh, John F.            2006 Following Christ in a consumer society : the spirituality of
-C3.09 261.1          9780883444009     Balasuriya, Tissa             1984 Planetary theology
-C3.10 261.2          9780192830111     Neill, Stephen, 1900-1984     1970 Christian faith and other faiths; : the Christian dialogue w
-C3.11 261.26         9780809139316     Boys, Mary C.                 2000 Has God only one blessing? : Judaism as a source of Christia
-C3.12 261.26         9780061137785     Levine, Amy-Jill, 1956-       2007 The misunderstood Jew : the Church and the scandal of the Je
-C3.13 261.2609       9780618219087     Carroll, James, 1943-         2002 Constantine's sword : the church and the Jews : a history
-C3.14 261.27         9780879072476     Salenson, Christian           2012 Christian de Chergé : a theology of hope
-C3.15 261.55         9780857465795                                   None Messy church does science : 100 sizzling science-based ideas
-C3.16 261.8          9780715144404     Brown, Malcolm, 1954-         2014 Anglican social theology : renewing the vision today
-C3.17 261.8          9780664235161     Brueggemann, Walter           2010 Journey to the common good
-C3.18 261.8          9781398502208     Francis, Pope, 1936-          None Let us dream : the path to a better future
-C3.19 261.8          9780809140923     Grassi, Joseph A.             2003 Informing the future : social justice in the New Testament
-C3.20 261.8                            Masse, Benjamin L.            1964 Justice for All: An Introduction to the Social Teaching of
-C3.21 261.83219691   9780281085965     Williams, Rowan, 1950-        2021 Candles in the dark : faith, hope and love in a time of pand
-C3.22 261.85         9781472929778     Welby, Justin, 1956-          2017 Dethroning Mammon: : making money serve grace : the Archbish
-C3.23 261.873        9781853116506     Williams, Rowan, 1950-        2014 The truce of God
-C3.24 261.88         9781925486193     Kelly, Anthony, 1938-         2016 An integral ecology and the Catholic vision
-C3.25 261.88         9780800662714     McFague, Sallie               2008 A new climate for theology : God, the world, and global warm
-C3.26 262            9780567672483     MacDougall, Scott             2018 More than communion : imagining an eschatological ecclesiolo
-C3.27 262            9780881410297     Zizioulas, Jean, 1931-        1997 Being as communion : studies in personhood and the church
-C3.28 262.1309       9780300206128     Duffy, Eamon                  2015 Saints &amp; sinners : a history of the Popes
-C3.29 262.14         9780232527438     Croft, Steven J. L.           2008 Ministry in three dimensions : ordination and leadership in 
-C3.30 262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
-C3.31 262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
-C3.32 262.14342      9780281072224     Smith, Magdalen               2014 Steel angels : the personal qualities of a priest
-C3.33 262.5          9780232509434     Hastings, Adrian              1968 A concise guide to the documents of the Second Vatican Counc
-C3.34 262.7          9780385113670     Küng, Hans, 1928-             1976 The church
-C3.35 263.04245632   9780851157719     Birch, Debra J. (Debra Jul    2000 Pilgrimage to Rome in the Middle Ages : continuity and chang
-C3.36 264            9781863717670     Nelson, Janet                 1999 Let us pray
-C3.37 264.019        9780913836187     Shmeman, Aleksandr, 1921-1    1966 Introduction to liturgical theology
-C3.38 264.019036     9780881410181     Shmeman, Aleksandr, 1921-1    2003 The Eucharist--sacrament of the Kingdom
-C3.39 264.02         9781586179977     Benedict XVI, Pope, 1927-     2014 The spirit of the liturgy
-C3.40 264.02         9780814649060     Boselli, Goffredo             2014 The spiritual meaning of the liturgy : school of prayer, sou
-C3.41 264.02                           Bouyer, Louis                 1965 The liturgy revived : a doctrinal commentary of the Concilia
-C3.42 264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
-C3.43 264.03         9780819223241     Markham, Ian S.               2009 Liturgical life principles : how Episcopal worship can lead 
-C3.44 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
+C3.02 255.106        9781472973078     Williams, Rowan 1950-         2020 The way of St Benedict
+C3.03 259.23         9780281070510     Griffiths, Steve, 1967-       2013 Models for youth ministry : learning from the life of Christ
+C3.04 259.23         9780281063420     Nash, Sally, 1957-            2011 Youth ministry : a multi-faceted approach
+C3.05 259.23         9780830834884     Root, Andrew, 1974-           2007 Revisiting relational youth ministry : from a strategy of in
+C3.06 259.23         9780281073429     Yaconelli, Mark               2014 Contemplative youth ministry : practicing the presence of Je
+C3.07 259.23         9780310516736     Zondervan                     2013 Starting right : thinking theologically about youth ministry
+C3.08 261            9780156177351     Eliot, T. S. (Thomas Stear    1977 Christianity and culture: : the idea of a Christian society 
+C3.09 261            9781570756665     Kavanaugh, John F.            2006 Following Christ in a consumer society : the spirituality of
+C3.10 261.1          9780883444009     Balasuriya, Tissa             1984 Planetary theology
+C3.11 261.2          9780192830111     Neill, Stephen, 1900-1984     1970 Christian faith and other faiths; : the Christian dialogue w
+C3.12 261.26         9780809139316     Boys, Mary C.                 2000 Has God only one blessing? : Judaism as a source of Christia
+C3.13 261.26         9780061137785     Levine, Amy-Jill, 1956-       2007 The misunderstood Jew : the Church and the scandal of the Je
+C3.14 261.2609       9780618219087     Carroll, James, 1943-         2002 Constantine's sword : the church and the Jews : a history
+C3.15 261.27         9780879072476     Salenson, Christian           2012 Christian de Chergé : a theology of hope
+C3.16 261.55         9780857465795                                   None Messy church does science : 100 sizzling science-based ideas
+C3.17 261.8          9780715144404     Brown, Malcolm, 1954-         2014 Anglican social theology : renewing the vision today
+C3.18 261.8          9780664235161     Brueggemann, Walter           2010 Journey to the common good
+C3.19 261.8          9781398502208     Francis, Pope, 1936-          None Let us dream : the path to a better future
+C3.20 261.8          9780809140923     Grassi, Joseph A.             2003 Informing the future : social justice in the New Testament
+C3.21 261.8                            Masse, Benjamin L.            1964 Justice for All: An Introduction to the Social Teaching of
+C3.22 261.83219691   9780281085965     Williams, Rowan, 1950-        2021 Candles in the dark : faith, hope and love in a time of pand
+C3.23 261.85         9781472929778     Welby, Justin, 1956-          2017 Dethroning Mammon: : making money serve grace : the Archbish
+C3.24 261.873        9781853116506     Williams, Rowan, 1950-        2014 The truce of God
+C3.25 261.88         9781925486193     Kelly, Anthony, 1938-         2016 An integral ecology and the Catholic vision
+C3.26 261.88         9780800662714     McFague, Sallie               2008 A new climate for theology : God, the world, and global warm
+C3.27 262            9780567672483     MacDougall, Scott             2018 More than communion : imagining an eschatological ecclesiolo
+C3.28 262            9780881410297     Zizioulas, Jean, 1931-        1997 Being as communion : studies in personhood and the church
+C3.29 262.1309       9780300206128     Duffy, Eamon                  2015 Saints &amp; sinners : a history of the Popes
+C3.30 262.14         9780232527438     Croft, Steven J. L.           2008 Ministry in three dimensions : ordination and leadership in 
+C3.31 262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
+C3.32 262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
+C3.33 262.14342      9780281072224     Smith, Magdalen               2014 Steel angels : the personal qualities of a priest
+C3.34 262.5          9780232509434     Hastings, Adrian              1968 A concise guide to the documents of the Second Vatican Counc
+C3.35 262.7          9780385113670     Küng, Hans, 1928-             1976 The church
+C3.36 263.04245632   9780851157719     Birch, Debra J. (Debra Jul    2000 Pilgrimage to Rome in the Middle Ages : continuity and chang
+C3.37 264            9781863717670     Nelson, Janet                 1999 Let us pray
+C3.38 264.019        9780913836187     Shmeman, Aleksandr, 1921-1    1966 Introduction to liturgical theology
+C3.39 264.019036     9780881410181     Shmeman, Aleksandr, 1921-1    2003 The Eucharist--sacrament of the Kingdom
+C3.40 264.02         9781586179977     Benedict XVI, Pope, 1927-     2014 The spirit of the liturgy
+C3.41 264.02         9780814649060     Boselli, Goffredo             2014 The spiritual meaning of the liturgy : school of prayer, sou
+C3.42 264.02                           Bouyer, Louis                 1965 The liturgy revived : a doctrinal commentary of the Concilia
+C3.43 264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
+C3.44 264.03         9780819223241     Markham, Ian S.               2009 Liturgical life principles : how Episcopal worship can lead 
+C3.45 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
 C4.01 264.03         9780648265962     Sherlock, Charles             2020 Australian Anglicans Worship: peforming APBA
 C4.02 264.039                          Vroom, F. W.                  1940 An Introduction to the Prayer Book
 C4.03 264.1                            Milner-White, E.              1962 After The Third Collect : Prayers and Thanksgivings for use 
@@ -531,25 +555,27 @@ C4.13 270            9780837158778     Neill, Stephen, 1900-1984     1972 The Ch
 C4.14 270.1          9781577331520     Bargeman, Lisa Ann, 1974-     2005 The Egyptian origin of Christianity
 C4.15 270.1          9780140231991     Chadwick, Henry, 1920-2008    1993 The early church
 C4.16 270.1          9780300125818     Freeman, Charles, 1947-       2009 A new history of early Christianity
-C4.17 270.1          9780800634674     Horsley, Richard A.           2002 The message and the kingdom : how Jesus and Paul ignited a r
-C4.18 270.1          9780745953670     Jenkins, Philip, 1952-        2009 The lost history of Christianity : the thousand-year golden 
-C4.19 270.1          9780801048494     Kreider, Alan, 1941-          2016 The patient ferment of the early church : the improbable ris
-C4.20 270.1          9780140444759     Louth, Andrew                 1968 Early Christian writings : the Apostolic Fathers
-C4.21 270.1          9780140214635     Simon, Edith, 1917-2003       1972 The saints
-C4.22 270.1          9781846141508     Vermès, Géza, 1924-2013       2012 Christian beginnings : from Nazareth to Nicaea
-C4.23 270.2          9780745951706     Williams, Rowan (1950- )      2004 Silence and honey cakes : the wisdom of the desert
-C4.24 270.2092       9780199537822     Augustine, Saint              2008 The Confessions (Oxford World's Classics)
-C4.25 270.2092       9780140441147     R. S. Augustine;Pine-Coffi    1970 Confessions
-C4.26 270.6          9780470672815     McGrath, Alister E., 1953-    2012 Reformation thought : an introduction
-C4.27 270.7          9780140137613     Cragg, Gerald R. (Gerald R    1990 The church and the age of reason, 1648-1789
-C4.28 270.8          9780140137620     Vidler, Alexander Roper, 1    1962 The Church in an age of revolution : 1789 to the present day
-C4.29 270.83         9780801013133     Tickle, Phyllis               2008 The great emergence : how Christianity is changing and why
-C4.30 271.009015     9781405106412     Dunn, Marilyn                 2003 The emergence of monasticism : from the Desert Fathers to th
-C4.31 271.302        9781473604018     Rohr, Richard                 None Eager to love : the alternative way of Francis of Assisi
-C4.32 271.9          9780330284097     Armstrong, Karen, 1944-       1984 Beginning the world
-C4.33 271.97         9781580512190     Chittister, Joan              2009 Called to question : a spiritual memoir
-C4.34 271.97602      9780855740382     Gardiner, Paul, 1924-         1995 Mary MacKillop : an extraordinary Australian : the authorise
-C4.35 274.2          9780140445657     Beda, Venerabilis             1991 A history of the English Church and people
+C4.17 270.1          9780340006511     Frend, W. H. C.               1965 The early church
+C4.18 270.1          9780800634674     Horsley, Richard A.           2002 The message and the kingdom : how Jesus and Paul ignited a r
+C4.19 270.1          9780745953670     Jenkins, Philip, 1952-        2009 The lost history of Christianity : the thousand-year golden 
+C4.20 270.1          9780801048494     Kreider, Alan, 1941-          2016 The patient ferment of the early church : the improbable ris
+C4.21 270.1          9780140444759     Louth, Andrew                 1968 Early Christian writings : the Apostolic Fathers
+C4.22 270.1          9780140214635     Simon, Edith, 1917-2003       1972 The saints
+C4.23 270.1          9781846141508     Vermès, Géza, 1924-2013       2012 Christian beginnings : from Nazareth to Nicaea
+C4.24 270.2          9780745951706     Williams, Rowan (1950- )      2004 Silence and honey cakes : the wisdom of the desert
+C4.25 270.2092       9780199537822     Augustine, Saint              2008 The Confessions (Oxford World's Classics)
+C4.26 270.2092       9781119105732     Cavadini, John C.             2019 Visioning Augustine
+C4.27 270.2092       9780140441147     R. S. Augustine;Pine-Coffi    1970 Confessions
+C4.28 270.6          9780470672815     McGrath, Alister E., 1953-    2012 Reformation thought : an introduction
+C4.29 270.7          9780140137613     Cragg, Gerald R. (Gerald R    1990 The church and the age of reason, 1648-1789
+C4.30 270.8          9780140137620     Vidler, Alexander Roper, 1    1962 The Church in an age of revolution : 1789 to the present day
+C4.31 270.83         9780801013133     Tickle, Phyllis               2008 The great emergence : how Christianity is changing and why
+C4.32 271.009015     9781405106412     Dunn, Marilyn                 2003 The emergence of monasticism : from the Desert Fathers to th
+C4.33 271.302        9781473604018     Rohr, Richard                 None Eager to love : the alternative way of Francis of Assisi
+C4.34 271.9          9780330284097     Armstrong, Karen, 1944-       1984 Beginning the world
+C4.35 271.97         9781580512190     Chittister, Joan              2009 Called to question : a spiritual memoir
+C4.36 271.97602      9780855740382     Gardiner, Paul, 1924-         1995 Mary MacKillop : an extraordinary Australian : the authorise
+C4.37 274.2          9780140445657     Beda, Venerabilis             1991 A history of the English Church and people
 C5.01 268.4          9780857463050     Moore, Lucy, 1966-            2015 Messy family fun : a holiday club for all the family
 C5.02 274.205        9780300108286     Duffy, Eamon                  2005 The stripping of the altars : traditional religion in Englan
 C5.03 274.206        9780333921395     MacCulloch, Diarmaid          2001 The later Reformation in England, 1547-1603
@@ -584,10 +610,11 @@ C5.31 285.90922      9780521611879     Lake, Peter                   2004 Modera
 C5.32 289.6          9780143106319     Hamm, Thomas D.               2011 Quaker writings : an anthology, 1650-1920
 C5.33 289.60994      9780975157916     Religious Society of Frien    2008 This we can say : Australian Quaker life, faith and thought
 C5.34 291            9780883446461     Smith, Wilfred Cantwell, 1    1990 Towards a world theology : faith and the comparative history
-C5.35 294.592404521  9780393345131     Martin, Charles, 1942-        2013 The Bhagavad Gita : a new translation
-C5.36 296            9780802881335     Edersheim, Alfred, 1825-18    1978 The Temple : its ministry and services as they were at the t
-C5.37 296            9780812982510     Lévy, Bernard-Henri           2017 The genius of Judaism
-C5.38 296            9781501117756     Robinson, George, 1953-       2016 Essential Judaism : a complete guide to beliefs, customs, an
+C5.35 294.3423       9780553370904     Karma-gliṅ-pa, active 14th    1993 The Tibetan book of the dead; : or, The after-death experien
+C5.36 294.592404521  9780393345131     Martin, Charles, 1942-        2013 The Bhagavad Gita : a new translation
+C5.37 296            9780802881335     Edersheim, Alfred, 1825-18    1978 The Temple : its ministry and services as they were at the t
+C5.38 296            9780812982510     Lévy, Bernard-Henri           2017 The genius of Judaism
+C5.39 296            9781501117756     Robinson, George, 1953-       2016 Essential Judaism : a complete guide to beliefs, customs, an
 C6.01 296.0901                         Wellhausen, Julius            2020 Prolegomena to the History of Ancient Israel
 C6.02 296.1092       9780805242546     Wiesel, Elie, 1928-2016       2009 Rashi : a portrait
 C6.03 296.155        9780141046150     Vermès, Géza, 1924-2013       2010 The story of the scrolls : the miraculous discovery and true
@@ -622,7 +649,8 @@ C6.31 305.509495     9780715617014     De Ste. Croix, G. E. M. (G    1982 The cl
 C6.32 305.8          9781784872779     Morrison, Toni                2017 Race
 C6.33 305.89915      9781742237404     Davis, Megan                  2021 Everything You Need to Know About the Uluru Statement from t
 C6.34 305.89915      9781863959810     Heiss, Anita                  2018 Growing up Aboriginal in Australia
-C6.35 305.8991509412 9781741315400     Robertson, Francesca,         2017 Nyoongar boodja koomba bardip kooratan = : Nyoongar land lon
+C6.35 305.8991509411 9781760800321     Cook, Denise                  None That was my home : voices from the Noongar camps in Fremantl
+C6.36 305.8991509412 9781741315400     Robertson, Francesca,         2017 Nyoongar boodja koomba bardip kooratan = : Nyoongar land lon
 D1.01 306.01         9780241954294     Wilkinson, Richard G.         2010 The spirit level : why greater equality makes societies stro
 D1.02 306.02         9780525555216     Green, John, 1977-            2021 The Anthropocene reviewed
 D1.03 306.0956       9780547134666     Shadid, Anthony               2012 House of stone : a memoir of home, family, and a lost Middle
@@ -674,24 +702,26 @@ D2.11 338.2092       9781742610979     Ferguson, Adele               2012 Gina R
 D2.12 338.927        9780643100329     Gleeson, James,               2012 Reducing the impacts of development on wildlife
 D2.13 343.730143     9780522854008     Sales, Leigh                  2007 Detainee 002 : the case of David Hicks
 D2.14 343.940998     9781742370385     Pearson, Mark, 1954-          2011 The journalist's guide to media law
-D2.15 352.23860973   9780143116424     Obama, Barack                 2009 The inaugural address, 2009
-D2.16 354.47                           Sloan, Pat                    1942 How the Soviet State is run
-D2.17 355.02         9780140439199     Sunzi, active 6th century     2003 The art of war
-D2.18 355.34340973   9780330435260     Ronson, Jon, 1967-            2004 The men who stare at goats
-D2.19 362.82920994   9781760641405     Hill, Jess                    2019 See what you made me do : the dangers of domestic abuse that
-D2.20 362.849915     9780646913414     Gartland, Georgina            None In the absence of treaty
-D2.21 362.883        9781863956017     Krien, Anna                   2013 Night games : sex, power and sport
-D2.22 363.20973      9781784782924     Vitale, Alex S.               2018 The end of policing
-D2.23 363.59350994   9781875989218     Birmingham, John, 1964-       2000 He died with a felafel in his hand
-D2.24 363.73874      9783319155050     Rauland, Vanessa              2015 Decarbonising cities : mainstreaming low carbon urban develo
-D2.25 364.1320973    9780704311404     Bernstein, Carl, 1944-        1974 All the President's men
-D2.26 364.152309762  9781926428468     Safran, John                  2013 Murder in Mississippi : the true story of how I met a white 
-D2.27 364.1523097814 9780141043081     Capote, Truman, 1924-1984     2010 In cold blood : a true account of a multiple murder and its 
-D2.28 364.168092     9780316037723     Mitnick, Kevin D. (Kevin D    2012 Ghost in the wires : my adventures as the world's most wante
-D2.29 364.1680973    9781416507789     Stoll, Clifford               2005 The cuckoo's egg : tracking a spy through the maze of comput
-D2.30 365            9780140137224     Foucault, Michel, 1926-198    1991 Discipline and punish : the birth of the prison
-D2.31 365.450924     9780299182441     Timerman, Jacobo, 1923-199    2002 Prisoner without a name, cell without a number
-D2.32 365.450947     9780006336426     Solzhenit︠s︡yn, Aleksandr     1973 The Gulag Archipelago, 1918-1956 : an experiment in literary
+D2.15 344.0454       9780226077840     Brundage, James A.            1990 Law, sex, and Christian society in medieval Europe
+D2.16 345.440263     9780674766914     Davis, Natalie Zemon, 1928    1983 The return of Martin Guerre
+D2.17 352.23860973   9780143116424     Obama, Barack                 2009 The inaugural address, 2009
+D2.18 354.47                           Sloan, Pat                    1942 How the Soviet State is run
+D2.19 355.02         9780140439199     Sunzi, active 6th century     2003 The art of war
+D2.20 355.34340973   9780330435260     Ronson, Jon, 1967-            2004 The men who stare at goats
+D2.21 362.82920994   9781760641405     Hill, Jess                    2019 See what you made me do : the dangers of domestic abuse that
+D2.22 362.849915     9780646913414     Gartland, Georgina            None In the absence of treaty
+D2.23 362.883        9781863956017     Krien, Anna                   2013 Night games : sex, power and sport
+D2.24 363.20973      9781784782924     Vitale, Alex S.               2018 The end of policing
+D2.25 363.59350994   9781875989218     Birmingham, John, 1964-       2000 He died with a felafel in his hand
+D2.26 363.73874      9783319155050     Rauland, Vanessa              2015 Decarbonising cities : mainstreaming low carbon urban develo
+D2.27 364.1320973    9780704311404     Bernstein, Carl, 1944-        1974 All the President's men
+D2.28 364.152309762  9781926428468     Safran, John                  2013 Murder in Mississippi : the true story of how I met a white 
+D2.29 364.1523097814 9780141043081     Capote, Truman, 1924-1984     2010 In cold blood : a true account of a multiple murder and its 
+D2.30 364.168092     9780316037723     Mitnick, Kevin D. (Kevin D    2012 Ghost in the wires : my adventures as the world's most wante
+D2.31 364.1680973    9781416507789     Stoll, Clifford               2005 The cuckoo's egg : tracking a spy through the maze of comput
+D2.32 365            9780140137224     Foucault, Michel, 1926-198    1991 Discipline and punish : the birth of the prison
+D2.33 365.450924     9780299182441     Timerman, Jacobo, 1923-199    2002 Prisoner without a name, cell without a number
+D2.34 365.450947     9780006336426     Solzhenit︠s︡yn, Aleksandr     1973 The Gulag Archipelago, 1918-1956 : an experiment in literary
 D3.01 384.06541      9781846146046     Watson, Tom, 1967-            2012 Dial M for Murdoch : News Corporation and the corruption of 
 D3.02 388.4091733    9781844077403     Mees, Paul, 1961-             2009 Transport for suburbia : beyond the automobile age
 D3.03 394.12         9781408812181     Pollan, Michael               2011 The omnivore's dilemma : the search for a perfect meal in a 
@@ -705,20 +735,21 @@ D3.10 492.4          9780486443447     Gesenius, Wilhelm             2006 Geseni
 D3.11 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
 D3.12 495.682421     9784770030085     Kokusai Nihongo Fukyū Kyōk    2006 Japanese for busy people : I,. Romanized version
 D3.13 495.683421     9780007165995                                   2004 Collins Japanese phrasebook &amp; dictionary
-D3.14 500            9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
-D3.15 500.09415      9780094172036                                   1984 Wild Ireland
-D3.16 500.2          9780316071369     Ferris, Timothy               1991 The World treasury of physics, astronomy, and mathematics
-D3.17 501            9780141026183     Dawkins, Richard, 1941-       2006 Unweaving the rainbow : science, delusion, and the appetite 
-D3.18 510            9780201558029     Graham, Ronald L., 1935-20    1994 Concrete mathematics : a foundation for computer science
-D3.19 510.1          9780465026562     Hofstadter, Douglas R., 19    1999 Gödel, Escher, Bach : an eternal golden braid
-D3.20 510.1          9780090566426     Körner, Stephan, 1913-2000    1979 The philosophy of mathematics, : an introductory essay
-D3.21 512.5          9780961408855     Strang, Gilbert               1993 Introduction to linear algebra
-D3.22 515            9780534217983     Stewart, James, 1941-         1994 Calculus
-D3.23 519.20246213   9780201500370     Leon-Garcia, Alberto          1993 Probability and random processes for electrical engineering
-D3.24 519.5          9781500576691     Diez, David M                 2014 Introductory Statistics with Randomization and Simulation
-D3.25 519.5          9781943450039     Diez, David M.                2015 OpenIntro statistics
-D3.26 519.5          9780415872911     Urdan, Timothy C.             2010 Statistics in plain English
-D3.27 519.5          9780393347777     Wheelan, Charles J.           2014 Naked statistics : stripping the dread from the data
+D3.14 499.1503       9781741312331     Rooney, Bernard, 1934-        None Nyoongar dictionary
+D3.15 500            9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
+D3.16 500.09415      9780094172036                                   1984 Wild Ireland
+D3.17 500.2          9780316071369     Ferris, Timothy               1991 The World treasury of physics, astronomy, and mathematics
+D3.18 501            9780141026183     Dawkins, Richard, 1941-       2006 Unweaving the rainbow : science, delusion, and the appetite 
+D3.19 510            9780201558029     Graham, Ronald L., 1935-20    1994 Concrete mathematics : a foundation for computer science
+D3.20 510.1          9780465026562     Hofstadter, Douglas R., 19    1999 Gödel, Escher, Bach : an eternal golden braid
+D3.21 510.1          9780090566426     Körner, Stephan, 1913-2000    1979 The philosophy of mathematics, : an introductory essay
+D3.22 512.5          9780961408855     Strang, Gilbert               1993 Introduction to linear algebra
+D3.23 515            9780534217983     Stewart, James, 1941-         1994 Calculus
+D3.24 519.20246213   9780201500370     Leon-Garcia, Alberto          1993 Probability and random processes for electrical engineering
+D3.25 519.5          9781500576691     Diez, David M                 2014 Introductory Statistics with Randomization and Simulation
+D3.26 519.5          9781943450039     Diez, David M.                2015 OpenIntro statistics
+D3.27 519.5          9780415872911     Urdan, Timothy C.             2010 Statistics in plain English
+D3.28 519.5          9780393347777     Wheelan, Charles J.           2014 Naked statistics : stripping the dread from the data
 D4.01 520            9780345331359     Sagan, Carl, 1934-1996        1985 Cosmos
 D4.02 523.1          9780553401653     Hawking, Stephen, 1942-201    1989 Une brève histoire du temps : du big bang aux trous noirs
 D4.03 523.1          9780099505945     Penrose, Roger                2011 Cycles of time : an extraordinary new view of the universe
@@ -741,21 +772,23 @@ D4.19 577.52         9780684827124     Quammen, David, 1948-         1997 The so
 D4.20 577.7          9780643103221     Swanson, K. M.                2012 Bugs of the ocean
 D4.21 581.63         9781742372181     Laws, Bill                    2011 Fifty plants that changed the course of history
 D4.22 581.6320994    9781741170283     Hiddins, Les, 1946-           2002 Bush tucker field guide
-D4.23 581.99412      9780643100473     Dixon, K. W. (Kingsley W.)    2011 Coastal plants : a guide to the identification and restorati
-D4.24 590            9781446301432     Chaline, Eric                 2011 Fifty animals that changed the course of history
-D4.25 590            9781579656232     Stewart, Tracey (Organizat    2015 Do unto animals : a friendly guide to how animals live, and 
-D4.26 591.5          9780199291151     Dawkins, Richard, 1941-       2006 The selfish gene
-D4.27 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachcomber's guide to South-West beaches
-D4.28 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
-D4.29 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
-D4.30 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
-D4.31 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles &amp; frogs of the Perth region
-D4.32 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
-D4.33 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
-D4.34 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
-D4.35 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
-D4.36 598.0994       9781876334789     Flegg, Jim                    2004 Birds of Australia
-D4.37 598.0994       9780643104693     Fraser, Ian                   2013 Australian bird names : a complete guide
+D4.23 581.632099412  9781760800420     Hansen, Vivienne              2019 Noongar bush tucker : bush food plants and fungi of the sout
+D4.24 581.634        9781742589060     Hansen, Vivienne              2016 Noongar bush medicine : medicinal plants of the south-west o
+D4.25 581.99412      9780643100473     Dixon, K. W. (Kingsley W.)    2011 Coastal plants : a guide to the identification and restorati
+D4.26 590            9781446301432     Chaline, Eric                 2011 Fifty animals that changed the course of history
+D4.27 590            9781579656232     Stewart, Tracey (Organizat    2015 Do unto animals : a friendly guide to how animals live, and 
+D4.28 591.5          9780199291151     Dawkins, Richard, 1941-       2006 The selfish gene
+D4.29 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachcomber's guide to South-West beaches
+D4.30 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
+D4.31 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
+D4.32 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
+D4.33 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles &amp; frogs of the Perth region
+D4.34 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
+D4.35 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
+D4.36 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
+D4.37 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
+D4.38 598.0994       9781876334789     Flegg, Jim                    2004 Birds of Australia
+D4.39 598.0994       9780643104693     Fraser, Ian                   2013 Australian bird names : a complete guide
 D5.01 598.0994       9780670072316     Simpson, Ken, 1936-           2010 Field guide to the birds of Australia
 D5.02 598.09946      9781876334604     Watts, Dave, 1943-            2003 Field guide to Tasmanian birds
 D5.03 598.2          9780643094932     Olsen, Penny                  2011 Stray feathers : reflections on the structure, behaviour and
@@ -879,20 +912,25 @@ E3.08 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahren
 E3.09 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
 E3.10 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
 E3.11 813.54         9781857233858     Brin, David                   1996 Brightness reef
-E3.12 813.54         9781472263667     Butler, Octavia E.            2019 Parable of the sower
-E3.13 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
-E3.14 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
-E3.15 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
-E3.16 813.54         9780434021055     Coupland, Douglas             2010 Player One : what is to become of us : a novel in five hours
-E3.17 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
-E3.18 813.54         9780679752981     Dick, Philip K.               1994 A maze of death
-E3.19 813.54         9781857988475     Dick, Philip K.               1999 A scanner darkly
-E3.20 813.54         9781780220413     Dick, Philip K.               2012 Flow my tears, the policeman said
-E3.21 813.54         9780575074552     Dick, Philip K.               2003 Solar lottery
-E3.22 813.54         9780575076709     Dick, Philip K.               2006 The cosmic puppets
-E3.23 813.54         9780547877327     Dick, Philip K.               2012 The game-players of Titan
-E3.24 813.54         9780141186672     Dick, Philip K.               2010 The man in the high castle
-E3.25 813.54         9781857988536     Dick, Philip K.               2000 Ubik
+E3.12 813.54         9781472281029     Butler, Octavia E.            2021 Clay's ark
+E3.13 813.54         9781472258229     Butler, Octavia E.            2018 Kindred
+E3.14 813.54         9781472263667     Butler, Octavia E.            2019 Parable of the sower
+E3.15 813.54         9781472263650     Butler, Octavia E.            2019 Parable of the talents : a novel
+E3.16 813.54         9781472281043     Butler, Octavia E.            None Patternmaster
+E3.17 813.54         9781472280992     Butler, Octavia E.            2021 Wild seed
+E3.18 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
+E3.19 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
+E3.20 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
+E3.21 813.54         9780434021055     Coupland, Douglas             2010 Player One : what is to become of us : a novel in five hours
+E3.22 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
+E3.23 813.54         9780679752981     Dick, Philip K.               1994 A maze of death
+E3.24 813.54         9781857988475     Dick, Philip K.               1999 A scanner darkly
+E3.25 813.54         9781780220413     Dick, Philip K.               2012 Flow my tears, the policeman said
+E3.26 813.54         9780575074552     Dick, Philip K.               2003 Solar lottery
+E3.27 813.54         9780575076709     Dick, Philip K.               2006 The cosmic puppets
+E3.28 813.54         9780547877327     Dick, Philip K.               2012 The game-players of Titan
+E3.29 813.54         9780141186672     Dick, Philip K.               2010 The man in the high castle
+E3.30 813.54         9781857988536     Dick, Philip K.               2000 Ubik
 F1.01 813.54         9780747263746     Gaiman, Neil                  2002 American gods : a novel
 F1.02 813.54         9780241237229     Gibson, William, 1948-        2020 Agency
 F1.03 813.54         9780006480419     Gibson, William, 1948-        1995 Neuromancer
@@ -1271,19 +1309,20 @@ I3.09 863.3          9780099469698     Cervantes Saavedra, Miguel    2005 Don Qu
 I3.10 882.01         9780140441529     Aristophanes,                 1964 The wasps
 I3.11 883.01         9780140275360     Homer                         1998 The Iliad
 I3.12 883.01         9780140268867     Homer                         1999 The Odyssey
-I3.13 891.5511       9780062509598     Jalāl al-Dīn Rūmī, Maulana    1997 The essential Rumi
-I3.14 891.6631       9780140443226     Gantz, Jeffrey                1976 The Mabinogion
-I3.15 891.730876     9780020226505     Jacobson, H. S.               1981 New Soviet science fiction
-I3.16 891.733        9780140449242     Dostoyevsky, Fyodor, 1821-    2003 The brothers Karamazov
-I3.17 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
-I3.18 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
-I3.19 891.7342       9781838850586     Zami︠a︡tin, Evgeniĭ Ivanov    2020 We
-I3.20 891.7344       9780575093133     Strugat︠s︡kiĭ, Arkadiĭ, 19    2001 Roadside picnic
-I3.21 891.7344       9781612194325     Strugat︠s︡kiĭ, Arkadiĭ, 19    2015 The Dead Mountaineer's Inn : (one more last rite for the det
-I3.22 892.1          9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
-I3.23 895            9781863950930     Craven, Peter                 2003 Best Australian Poems 2003
-I3.24 895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
-I3.25 895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
+I3.13 891.4312       9780486433585     Kabir, active 15th century    2004 Songs of Kabir
+I3.14 891.5511       9780062509598     Jalāl al-Dīn Rūmī, Maulana    1997 The essential Rumi
+I3.15 891.6631       9780140443226     Gantz, Jeffrey                1976 The Mabinogion
+I3.16 891.730876     9780020226505     Jacobson, H. S.               1981 New Soviet science fiction
+I3.17 891.733        9780140449242     Dostoyevsky, Fyodor, 1821-    2003 The brothers Karamazov
+I3.18 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
+I3.19 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
+I3.20 891.7342       9781838850586     Zami︠a︡tin, Evgeniĭ Ivanov    2020 We
+I3.21 891.7344       9780575093133     Strugat︠s︡kiĭ, Arkadiĭ, 19    2001 Roadside picnic
+I3.22 891.7344       9781612194325     Strugat︠s︡kiĭ, Arkadiĭ, 19    2015 The Dead Mountaineer's Inn : (one more last rite for the det
+I3.23 892.1          9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
+I3.24 895            9781863950930     Craven, Peter                 2003 Best Australian Poems 2003
+I3.25 895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
+I3.26 895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
 J1.01 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
 J1.02 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
 J1.03 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
@@ -1303,16 +1342,18 @@ J1.16 895.636        9781529054224     Kawakami, Mieko, 1976-        2020 Breast
 J1.17 895.636        9781782275909     Matayoshi, Naoki, 1980-       2020 Spark
 J1.18 899.15         9781742582962     Scott, Kim, 1957-             2011 Mamang
 J1.19 899.15         9781742582955     Scott, Kim, 1957-             2011 Noongar Mambara Bakitj
-J1.20 901.9          9780415267373     Foucault, Michel, 1926-198    2001 The order of things : an archaeology of the human sciences
-J1.21 907.2094       9780522851281     Macintyre, Stuart, 1947-      2004 The history wars
-J1.22 909.07         9780823285563     Albin, Andrew [Editor; Oth    2019 Whose Middle Ages? : teachable moments for an ill-used past
-J1.23 909.09821      9780300164299     Hart, David Bentley           2010 Atheist delusions : the Christian revolution and its fashion
-J1.24 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
-J1.25 910.41         9781742707266     Hendrie, Doug                 2014 Amalga-nations : how globalisation is good
-J1.26 910.410922     9780316729697     McGregor, Ewan, 1971-         2004 Long way round : chasing shadows across the world
-J1.27 914.1150486    9780099460275     Banks, Iain, 1954-2013        2004 Raw spirit : in search of the perfect dram
-J1.28 919.89         9781869405830     Meduna, Veronika              2012 Science on ice : discovering the secrets of Antarctica
-J1.29 920.71         9780143003540     Facey, A. B. (Albert Barne    2005 A fortunate life
+J1.20 899.15         9781742589664     Scott, Kim, 1957-             2017 Noorn = : Snake
+J1.21 899.1534       9781742585123     Scott, Kim, 1957-             2013 Yira boornak nyininy
+J1.22 901.9          9780415267373     Foucault, Michel, 1926-198    2001 The order of things : an archaeology of the human sciences
+J1.23 907.2094       9780522851281     Macintyre, Stuart, 1947-      2004 The history wars
+J1.24 909.07         9780823285563     Albin, Andrew [Editor; Oth    2019 Whose Middle Ages? : teachable moments for an ill-used past
+J1.25 909.09821      9780300164299     Hart, David Bentley           2010 Atheist delusions : the Christian revolution and its fashion
+J1.26 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
+J1.27 910.41         9781742707266     Hendrie, Doug                 2014 Amalga-nations : how globalisation is good
+J1.28 910.410922     9780316729697     McGregor, Ewan, 1971-         2004 Long way round : chasing shadows across the world
+J1.29 914.1150486    9780099460275     Banks, Iain, 1954-2013        2004 Raw spirit : in search of the perfect dram
+J1.30 919.89         9781869405830     Meduna, Veronika              2012 Science on ice : discovering the secrets of Antarctica
+J1.31 920.71         9780143003540     Facey, A. B. (Albert Barne    2005 A fortunate life
 J2.01 933                              Noth, Martin                  1960 The History of Israel
 J2.02 937.7          9780642902108     Ward-Perkins, J. B. (John     1980 Pompeii A.D. 79 : treasures from the National Archaeological
 J2.03 940.1          9780691154312     Fossier, Robert               2012 The axe and the oath : ordinary life in the Middle Ages
@@ -1353,9 +1394,10 @@ J3.15                9781760640835                                   None Full C
 J3.16                9780980593730     Ahmed, Safdar                 2021 Still Alive
 J3.17                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
 J3.18                9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
-J3.19                9780648228202     Watts, Rachel                 2018 Survival
-J3.20                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
-J3.21                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+J3.19                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
+J3.20                9780648228202     Watts, Rachel                 2018 Survival
+J3.21                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+J3.22                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 Y1.01 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
 Y1.02 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
 Y1.03 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
