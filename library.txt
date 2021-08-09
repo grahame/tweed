@@ -171,21 +171,23 @@ B1.05 222.1066       9780884140627     Boorer, Suzanne, 1954-        2016 The vi
 B1.06 222.1066       9780800627010     Campbell, Antony F.           2000 Sources of the Pentateuch : texts, introductions, annotation
 B1.07 222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A history of Pentateuchal traditions
 B1.08 222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
-B1.09 222.11                           Vawter, Bruce                 1956 A path through Genesis
-B1.10 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
-B1.11 222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
-B1.12 222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
-B1.13 222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
-B1.14 222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
-B1.15 222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
-B1.16 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
-B1.17 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
-B1.18 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
-B1.19 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
-B1.20 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
-B1.21 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
-B1.22 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
-B1.23 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
+B1.09 222.1092                         Fleg, Edmond                  2006 Life of Moses, The
+B1.10 222.11                           Driver, S. R.                 1905 The Book of Genesis
+B1.11 222.11                           Vawter, Bruce                 1956 A path through Genesis
+B1.12 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
+B1.13 222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
+B1.14 222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
+B1.15 222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
+B1.16 222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
+B1.17 222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
+B1.18 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
+B1.19 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
+B1.20 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
+B1.21 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
+B1.22 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
+B1.23 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
+B1.24 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
+B1.25 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
 B2.01 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
 B2.02 223.1          9780300140750     Pope, Marvin H.               1965 Job
 B2.03 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
@@ -406,10 +408,11 @@ B6.43 234.1630902    9780814660539     Macy, Gary                    1999 Treasu
 B6.44 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
 B6.45 234.2          9780060937133     Tillich, Paul, 1886-1965      2009 Dynamics of faith
 B6.46 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
-B6.47 238.2          9780854397983                                   None Faith matters : fundamentals of faith
-B6.48 238.2                            Gore, Bishop                  1939 Belief in God
-B6.49 239            9780881410242     Bloom, Anthony, 1914-2003     1997 God and man
-B6.50 239            9780802456571     Chesterton, G. K. (Gilbert    2009 Orthodoxy
+B6.47 238.11         9781921963179     Benedict XVI, Pope, 1927-     2012 I believe in one God : the creed explained
+B6.48 238.2          9780854397983                                   None Faith matters : fundamentals of faith
+B6.49 238.2                            Gore, Bishop                  1939 Belief in God
+B6.50 239            9780881410242     Bloom, Anthony, 1914-2003     1997 God and man
+B6.51 239            9780802456571     Chesterton, G. K. (Gilbert    2009 Orthodoxy
 C1.01 239.3          9780140448948     Augustine, of Hippo, Saint    2004 The city of God
 C1.02 241                              McCormick, Richard, SJ; Ag    1968 The Future of Ethics and Moral Theology
 C1.03 241            9781570759666     Stivers, Laura A.             2012 Christian ethics : a case method approach
@@ -494,13 +497,13 @@ C2.19 248.482                          Hinnebusch, Paul              1966 Salvat
 C2.20 248.482        9781931018364     Martin, Ralph, 1942-          2006 The fulfillment of all desire : a guidebook for the journey 
 C2.21 248.482        9781570757020     Nouwen, Henri J. M            2007 The selfless way of Christ : downward mobility and the spiri
 C2.22 248.482        9781725261754     Saint, Bonaventure,           2020 The nightingale : together with Hymns from the Office of the
-C2.23 248.842        9780849944383     Dalbey, Gordon, 1944-         2003 Healing the masculine soul : how God restores men to real ma
-C2.24 248.8629       9781616361570     Rohr, Richard                 2011 Breathing under water : spirituality and the twelve steps
-C2.25 248.9          9780875084190     Nee, Watchman                 1964 Sit, walk, stand
-C2.26 251            9780664251581     Barth, Karl, 1886-1968        1991 Homiletics
-C2.27 251            9781444790078     Stott, John R. W              1774 I believe in preaching
-C2.28 252            9780860124238     Duffy, Eamon                  2006 Walking to Emmaus
-C2.29 252.02         9780809128273     Eckhart, Meister, -1327       1986 Meister Eckhart, teacher and preacher
+C2.23 248.487        9780687188871     Jones, G. William (George     1969 The innovator and other modern parables
+C2.24 248.842        9780849944383     Dalbey, Gordon, 1944-         2003 Healing the masculine soul : how God restores men to real ma
+C2.25 248.8629       9781616361570     Rohr, Richard                 2011 Breathing under water : spirituality and the twelve steps
+C2.26 248.9          9780875084190     Nee, Watchman                 1964 Sit, walk, stand
+C2.27 251            9780664251581     Barth, Karl, 1886-1968        1991 Homiletics
+C2.28 251            9781444790078     Stott, John R. W              1774 I believe in preaching
+C2.29 252            9780860124238     Duffy, Eamon                  2006 Walking to Emmaus
 C2.30 252.02         9780809128273     Eckhart, Meister, -1327       1986 Meister Eckhart, teacher and preacher
 C2.31 252.03         9780060653200     Lewis, C. S. (Clive Staple    2001 The weight of glory and other addresses
 C2.32 252.03         9780232520668     Williams, Rowan               1994 Open to judgement : sermons and addresses

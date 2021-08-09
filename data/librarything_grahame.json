@@ -31,7 +31,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -119,7 +119,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -218,7 +218,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -318,7 +318,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -448,7 +448,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -552,7 +552,7 @@
   "ddc": {
     "code": ["823.8"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -770,7 +770,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -841,7 +841,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -909,7 +909,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -994,7 +994,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -1182,7 +1182,8 @@
   "Prix Gens de Mer",
   "NCTE Books For You: An Annotated Booklist for Senior High",
   "ALA Outstanding Books for the College Bound",
-  "1000 Books to Read Before You Die"],
+  "1000 Books to Read Before You Die",
+  "1,000 Books to Read Before You Die Page-A-Day Calendar 2021"],
   "genre": ["Biography & Memoir",
   "General Nonfiction",
   "Science & Nature",
@@ -1305,7 +1306,7 @@
   "ddc": {
     "code": ["823.8"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -1463,7 +1464,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -1540,7 +1541,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -1654,7 +1655,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -1732,7 +1733,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -1845,7 +1846,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -1962,7 +1963,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -2197,7 +2198,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -2278,7 +2279,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -2417,7 +2418,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -2493,7 +2494,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -2566,7 +2567,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -2773,8 +2774,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["843.8"],
-    "wording": ["Fiction",
-    "French",
+    "wording": ["French",
+    "French fiction",
     "Later 19th century 1848\u20131900",
     "Literature"]
   },
@@ -2949,7 +2950,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -3086,7 +3087,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Authors, American and American Miscellany ",
+    "Authors, American and American miscellany",
     "Literature"]
   },
   "lcc": {
@@ -3147,7 +3148,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -3213,7 +3214,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": [],
@@ -3272,7 +3273,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -3467,8 +3468,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["843.8"],
-    "wording": ["Fiction",
-    "French",
+    "wording": ["French",
+    "French fiction",
     "Later 19th century 1848\u20131900",
     "Literature"]
   },
@@ -3820,10 +3821,10 @@
   "rus"],
   "ddc": {
     "code": ["891.7"],
-    "wording": ["East Slavic languages (Russian \u2219 Ukrainian \u2219 Belarusian)",
-    "Literature",
+    "wording": ["Literature",
     "Literature of east Indo-European and Celtic languages",
-    "Literature of other languages"]
+    "Literature of other languages",
+    "Russian and East Slavic languages"]
   },
   "lcc": {
     "code": "PG3276 .N48"
@@ -4145,7 +4146,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -4276,7 +4277,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -4337,7 +4338,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -4738,7 +4739,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -4875,7 +4876,7 @@
   "ddc": {
     "code": ["823.4"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Post-Elizabethan 1625-1702"]
   },
@@ -4935,7 +4936,7 @@
     "code": ["823.3"],
     "wording": ["Elizabethan 1558-1625",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -5271,7 +5272,7 @@
   "ddc": {
     "code": ["823.8"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -5405,7 +5406,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -5471,7 +5472,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5636,7 +5637,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": [],
@@ -5692,7 +5693,7 @@
     "code": ["823.91"],
     "wording": ["20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5791,7 +5792,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -6078,7 +6079,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -6150,7 +6151,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -6298,7 +6299,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -6380,7 +6381,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -6600,7 +6601,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -6668,10 +6669,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["891.73"],
-    "wording": ["East Slavic languages (Russian \u2219 Ukrainian \u2219 Belarusian)",
-    "Literature",
+    "wording": ["Literature",
     "Literature of east Indo-European and Celtic languages",
     "Literature of other languages",
+    "Russian and East Slavic languages",
     "Russian fiction"]
   },
   "lcc": {
@@ -6735,6 +6736,7 @@
   "ddc": {
     "code": ["895.61008"],
     "wording": ["Asian (east and south east) languages",
+    "Collections",
     "Japanese",
     "Japanese poetry",
     "Literature",
@@ -6987,7 +6989,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7422,8 +7424,8 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Literature",
-    "Poetry"]
+    "American poetry",
+    "Literature"]
   },
   "lcc": {
     "code": "PS3529 .H28"
@@ -7480,9 +7482,9 @@
     "wording": ["By form",
     "Collections",
     "English",
+    "English poetry",
     "For and by kinds of persons",
-    "Literature",
-    "Poetry"]
+    "Literature"]
   },
   "lcc": [],
   "genre": ["Fiction and Literature"],
@@ -7535,7 +7537,7 @@
     "wording": ["Adventure Fiction",
     "By Type",
     "English",
-    "Fiction",
+    "English fiction",
     "Genre Fiction",
     "Literature",
     "Science and Fantasy Fiction"]
@@ -7610,7 +7612,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7735,7 +7737,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -7806,7 +7808,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -7896,7 +7898,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -7981,7 +7983,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -8050,7 +8052,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -8126,7 +8128,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -8197,7 +8199,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -8276,7 +8278,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": [],
@@ -8508,13 +8510,14 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["813.08760806"],
-    "wording": ["Adventure Fiction",
+    "wording": ["Adventure fiction",
     "American and Canadian",
+    "American fiction",
     "Anthologies and Criticism",
-    "Fantasy Fiction And Science Fiction",
-    "Fiction",
-    "Genre Fiction",
-    "Literature"]
+    "Collections",
+    "Genre fiction",
+    "Literature",
+    "Science fiction and fantasy"]
   },
   "lcc": {
     "code": "PS648 .S3"
@@ -8771,7 +8774,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Essays",
+    "American essays",
     "Literature"]
   },
   "lcc": {
@@ -8960,7 +8963,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9047,7 +9050,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9140,7 +9143,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9331,14 +9334,15 @@
   "eng"],
   "ddc": {
     "code": ["813.0876608"],
-    "wording": ["Adventure Fiction",
+    "wording": ["Adventure fiction",
     "American and Canadian",
+    "American fiction",
     "Anthologies and Criticism",
+    "Collections",
     "Fantasy",
-    "Fantasy Fiction And Science Fiction",
-    "Fiction",
-    "Genre Fiction",
-    "Literature"]
+    "Genre fiction",
+    "Literature",
+    "Science fiction and fantasy"]
   },
   "lcc": {
     "code": "PS648 .S3"
@@ -9467,7 +9471,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9535,7 +9539,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9599,7 +9603,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9677,7 +9681,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9749,7 +9753,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9844,7 +9848,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -9945,7 +9949,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -10020,7 +10024,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -10088,7 +10092,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -10164,7 +10168,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -10235,7 +10239,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -10385,7 +10389,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -10526,7 +10530,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -10737,7 +10741,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -10806,7 +10810,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -10951,7 +10955,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -11101,7 +11105,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -11181,7 +11185,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -11249,7 +11253,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -11322,7 +11326,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -11388,7 +11392,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -11449,7 +11453,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -11533,7 +11537,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -11602,7 +11606,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -12361,7 +12365,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -12783,7 +12787,7 @@
     "wording": ["Adventure Fiction",
     "By Type",
     "English",
-    "Fiction",
+    "English fiction",
     "Genre Fiction",
     "Literature",
     "Science and Fantasy Fiction"]
@@ -12838,14 +12842,15 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["813.0876608"],
-    "wording": ["Adventure Fiction",
+    "wording": ["Adventure fiction",
     "American and Canadian",
+    "American fiction",
     "Anthologies and Criticism",
+    "Collections",
     "Fantasy",
-    "Fantasy Fiction And Science Fiction",
-    "Fiction",
-    "Genre Fiction",
-    "Literature"]
+    "Genre fiction",
+    "Literature",
+    "Science fiction and fantasy"]
   },
   "lcc": {
     "code": "PS648 .S3"
@@ -13280,7 +13285,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -13352,7 +13357,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -13424,7 +13429,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -13492,7 +13497,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -13572,7 +13577,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -13647,7 +13652,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -13710,7 +13715,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": [],
@@ -13770,7 +13775,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -13874,7 +13879,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -13941,9 +13946,9 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
+    "English poetry",
     "Literature",
-    "Modern period 1900-",
-    "Poetry"]
+    "Modern period 1900-"]
   },
   "lcc": {
     "code": "PR6058 .E2"
@@ -14177,7 +14182,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -14287,7 +14292,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": [],
@@ -14347,7 +14352,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -14430,7 +14435,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -14522,7 +14527,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -14605,7 +14610,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -14865,7 +14870,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -15054,7 +15059,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -15111,7 +15116,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -15275,7 +15280,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -15343,7 +15348,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -16677,7 +16682,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -20500,7 +20505,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -27340,7 +27345,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -27899,7 +27904,7 @@
   "ddc": {
     "code": ["823.4"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Post-Elizabethan 1625-1702"]
   },
@@ -27934,7 +27939,7 @@
   "ddc": {
     "code": ["823.4"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Post-Elizabethan 1625-1702"]
   },
@@ -29377,9 +29382,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["899.15"],
-    "wording": ["Australian Aborigines",
+    "wording": ["Australian Aboriginal languages",
     "Literature",
     "Literature of other languages",
+    "Non-Austronesian languages",
     "Other Literature: Pacific Islands, Basque, Artificial Languages, Georgia, Mesopotamia  "]
   },
   "lcc": [],
@@ -29640,9 +29646,9 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
+    "English poetry",
     "Literature",
-    "Modern period 1900-",
-    "Poetry"]
+    "Modern period 1900-"]
   },
   "lcc": {
     "code": "PR6054 .A35"
@@ -30418,7 +30424,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -34402,7 +34408,7 @@
   "ddc": {
     "code": ["823.5"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Queen Anne 1702-45"]
   },
@@ -34741,11 +34747,11 @@
     "code": ["839.82374"],
     "wording": ["1900\u20132000",
     "Danish and Norwegian literature ",
-    "Fiction",
     "German and Germanic",
     "Late 20th century 1945\u20132000",
     "Literature",
     "Literature in other Germanic languages ",
+    "Norwegian Bokm\u00e5l fiction",
     "Norwegian Bokm\u00e5l, Riksm\u00e5l"]
   },
   "lcc": {
@@ -34814,8 +34820,8 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Literature",
-    "Poetry"]
+    "American poetry",
+    "Literature"]
   },
   "lcc": {
     "code": "PS3557 .R67"
@@ -34926,7 +34932,7 @@
     "code": ["823.91"],
     "wording": ["20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -37238,7 +37244,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -37283,10 +37289,10 @@
     "26": ["fantasy"],
     "28": ["juvenile literature"]
   },
-  "series": ["Kubu\u015b Puchatek",
-  "Nalle Puh",
-  "Winnie the Pooh (A.A. Milne Original)",
-  "Original Pooh Treasury"],
+  "series": ["Winnie the Pooh (A.A. Milne Original)",
+  "Original Pooh Treasury",
+  "Kubu\u015b Puchatek",
+  "Nalle Puh"],
   "awards": ["Waterstones Books of the Century",
   "IBBY Honour Book",
   "IBBY Honour Book",
@@ -37708,9 +37714,9 @@
   "lcc": {
     "code": "PL856 .U673"
   },
-  "series": ["Trilogie der Ratte",
-  "Patk\u00e1ny-tril\u00f3gia",
-  "The Rat"],
+  "series": ["The Rat",
+  "Trilogie der Ratte",
+  "Patk\u00e1ny-tril\u00f3gia"],
   "originaltitle": "Hitsuji o meguru b\u014dken",
   "awards": ["Noma Literary Newcomer's Prize",
   "Harvard Bookstore Top 100"],
@@ -39136,7 +39142,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -39166,9 +39172,9 @@
   "series": ["Old Kingdom",
   "Abhorsen",
   "Abhorsen",
+  "La Saga di Abhorsen",
   "Das alte K\u00f6nigreich",
-  "Het Oude Koninkrijk",
-  "La Saga di Abhorsen"],
+  "Het Oude Koninkrijk"],
   "originaltitle": "Sabriel",
   "awards": ["Aurealis Award",
   "ALA Best Books for Young Adults",
@@ -39233,7 +39239,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -39251,8 +39257,8 @@
   "Het transgalactisch liftershandboek",
   "Liftartrilogin",
   "Guida galattica per gli autostoppisti",
-  "Galakse-blafferen",
-  "Stopa\u0159\u016fv pr\u016fvodce po Galaxii"],
+  "Stopa\u0159\u016fv pr\u016fvodce po Galaxii",
+  "Galakse-blafferen"],
   "originaltitle": "And Another Thing...",
   "genre": ["General Fiction",
   "Science Fiction",
@@ -39373,7 +39379,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -39543,7 +39549,7 @@
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": [],
@@ -39648,7 +39654,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -39728,7 +39734,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -39796,7 +39802,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -39907,7 +39913,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -40192,7 +40198,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -40329,7 +40335,7 @@
     "wording": ["Austen, Jane 1775\u20131817",
     "Early 19th century 1800-37",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -40557,7 +40563,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -40621,7 +40627,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -40696,7 +40702,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -40765,7 +40771,7 @@
     "wording": ["1900-1944",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -40867,7 +40873,7 @@
     "wording": ["1900-1944",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -41090,7 +41096,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -41151,7 +41157,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -41227,7 +41233,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -41295,7 +41301,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -41354,7 +41360,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -41567,7 +41573,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -41642,7 +41648,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -41728,7 +41734,7 @@
   "ddc": {
     "code": ["813.4"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Later 19th Century 1861-1900",
     "Literature"]
   },
@@ -41867,7 +41873,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -42058,7 +42064,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -42200,7 +42206,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -42261,7 +42267,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -42387,7 +42393,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -42792,7 +42798,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -43000,7 +43006,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -43107,7 +43113,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -43188,7 +43194,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -43303,8 +43309,8 @@
     "code": ["843.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "Fiction",
     "French",
+    "French fiction",
     "Literature",
     "Modern Period"]
   },
@@ -43428,7 +43434,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -43529,7 +43535,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -43684,7 +43690,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -43765,7 +43771,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -43836,7 +43842,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -43973,7 +43979,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -44058,7 +44064,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -44148,7 +44154,7 @@
   "ddc": {
     "code": ["823.8"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -44228,7 +44234,7 @@
     "code": ["823.91"],
     "wording": ["20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -44291,7 +44297,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -44347,7 +44353,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -44415,7 +44421,7 @@
     "wording": ["1900-1944",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -44506,7 +44512,7 @@
     "wording": ["1900-1944",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -44778,7 +44784,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -44864,7 +44870,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -44974,7 +44980,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -45152,7 +45158,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -45323,7 +45329,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -45391,7 +45397,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -45463,7 +45469,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -45535,7 +45541,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -45620,7 +45626,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -45709,7 +45715,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -45783,7 +45789,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -45855,7 +45861,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -45938,7 +45944,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -46016,7 +46022,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -46109,7 +46115,7 @@
   "ddc": {
     "code": ["823.9"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -46171,7 +46177,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -46252,7 +46258,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -46328,7 +46334,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -46466,7 +46472,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -46605,7 +46611,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -46859,7 +46865,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -46932,7 +46938,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -49286,8 +49292,8 @@
   "ddc": {
     "code": ["821.8"],
     "wording": ["English",
+    "English poetry",
     "Literature",
-    "Poetry",
     "Victorian period 1837-1900"]
   },
   "lcc": {
@@ -49401,9 +49407,9 @@
   "ddc": {
     "code": ["811.4"],
     "wording": ["American and Canadian",
+    "American poetry",
     "Later 19th Century (1861-1900)",
-    "Literature",
-    "Poetry"]
+    "Literature"]
   },
   "lcc": {
     "code": "PS1541 .A6"
@@ -49460,7 +49466,7 @@
     "wording": ["1900-1944",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -49549,7 +49555,7 @@
     "wording": ["1900-1944",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -49640,7 +49646,7 @@
     "wording": ["1900-1944",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -49768,7 +49774,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -49906,7 +49912,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -50085,7 +50091,7 @@
   "ddc": {
     "code": ["813.3"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature",
     "Middle 19th Century 1830-1861"]
   },
@@ -50248,7 +50254,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -50332,7 +50338,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -50403,7 +50409,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -50466,7 +50472,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -50541,7 +50547,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -50624,7 +50630,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -50722,7 +50728,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -50778,13 +50784,14 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["813.087608"],
-    "wording": ["Adventure Fiction",
+    "wording": ["Adventure fiction",
     "American and Canadian",
+    "American fiction",
     "Anthologies and Criticism",
-    "Fantasy Fiction And Science Fiction",
-    "Fiction",
-    "Genre Fiction",
-    "Literature"]
+    "Collections",
+    "Genre fiction",
+    "Literature",
+    "Science fiction and fantasy"]
   },
   "lcc": {
     "code": "PS648 .F3"
@@ -50851,7 +50858,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -50949,7 +50956,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -51010,7 +51017,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -51070,7 +51077,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -51158,7 +51165,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -51259,7 +51266,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -51352,7 +51359,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -51426,7 +51433,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -51519,7 +51526,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -51666,7 +51673,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -51743,7 +51750,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -51887,7 +51894,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -51971,7 +51978,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -52048,7 +52055,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -52195,7 +52202,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -52262,7 +52269,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -52324,7 +52331,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -52407,7 +52414,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -52468,7 +52475,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -52536,7 +52543,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -52764,7 +52771,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -52827,7 +52834,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -52902,7 +52909,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -52963,7 +52970,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -53036,7 +53043,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -53107,7 +53114,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -53173,7 +53180,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -53254,7 +53261,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -53339,7 +53346,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -53478,7 +53485,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -53554,7 +53561,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -53683,7 +53690,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -53754,7 +53761,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -53811,7 +53818,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -53867,7 +53874,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -53935,7 +53942,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -53993,7 +54000,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -54052,7 +54059,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -54111,7 +54118,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -54230,7 +54237,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -54283,7 +54290,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -54356,7 +54363,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -54465,7 +54472,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -54622,7 +54629,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -54681,7 +54688,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -54747,7 +54754,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -54816,7 +54823,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -54884,7 +54891,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -54951,7 +54958,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -55023,7 +55030,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -55089,7 +55096,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -55155,7 +55162,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -55295,7 +55302,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -55425,7 +55432,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -55493,8 +55500,8 @@
   "ddc": {
     "code": ["843.7"],
     "wording": ["Constitutional monarchy 1815\u201348",
-    "Fiction",
     "French",
+    "French fiction",
     "Literature"]
   },
   "lcc": {
@@ -55577,7 +55584,7 @@
     "wording": ["Adventure Fiction",
     "By Type",
     "English",
-    "Fiction",
+    "English fiction",
     "Genre Fiction",
     "Literature",
     "Science and Fantasy Fiction"]
@@ -55763,7 +55770,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -55857,7 +55864,7 @@
   "ddc": {
     "code": ["823.9"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -55986,7 +55993,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -56067,7 +56074,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -56149,7 +56156,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -56252,7 +56259,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": [],
@@ -56436,7 +56443,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -56510,10 +56517,10 @@
     "code": ["839.8226"],
     "wording": ["1800\u20131900",
     "Danish and Norwegian literature ",
-    "Drama",
     "German and Germanic",
     "Literature",
     "Literature in other Germanic languages ",
+    "Norwegian Bokm\u00e5l drama",
     "Norwegian Bokm\u00e5l, Riksm\u00e5l"]
   },
   "lcc": {
@@ -56570,7 +56577,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -56652,7 +56659,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -56727,7 +56734,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -56825,7 +56832,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -56907,7 +56914,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -56985,7 +56992,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -57062,7 +57069,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -57161,7 +57168,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -57267,7 +57274,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -57418,7 +57425,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -57478,7 +57485,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -57531,7 +57538,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -57607,7 +57614,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -57884,7 +57891,7 @@
     "wording": ["Adventure Fiction",
     "By Type",
     "English",
-    "Fiction",
+    "English fiction",
     "Genre Fiction",
     "Literature",
     "Science and Fantasy Fiction"]
@@ -57926,7 +57933,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": [],
@@ -58851,7 +58858,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -58915,11 +58922,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["891.7344"],
-    "wording": ["East Slavic languages (Russian \u2219 Ukrainian \u2219 Belarusian)",
-    "Late 20th century 1917\u20131991",
+    "wording": ["Late 20th century 1917\u20131991",
     "Literature",
     "Literature of east Indo-European and Celtic languages",
     "Literature of other languages",
+    "Russian and East Slavic languages",
     "Russian fiction",
     "USSR 1917\u20131991"]
   },
@@ -59226,7 +59233,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -59834,7 +59841,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -59912,7 +59919,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -60037,7 +60044,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -60130,9 +60137,9 @@
     "wording": ["1900-1944",
     "20th Century",
     "English",
+    "English poetry",
     "Literature",
-    "Modern period 1900-",
-    "Poetry"]
+    "Modern period 1900-"]
   },
   "lcc": {
     "code": "PR6039 .O32"
@@ -60188,7 +60195,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -60249,7 +60256,7 @@
     "wording": ["1900-1945",
     "20th Century",
     "American and Canadian",
-    "Authors, American and American Miscellany ",
+    "Authors, American and American miscellany",
     "Literature"]
   },
   "lcc": {
@@ -60304,7 +60311,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -60372,9 +60379,9 @@
     "wording": ["1900-1944",
     "20th Century",
     "English",
+    "English poetry",
     "Literature",
-    "Modern period 1900-",
-    "Poetry"]
+    "Modern period 1900-"]
   },
   "lcc": {
     "code": "PR6039 .O32"
@@ -61735,7 +61742,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -62120,12 +62127,13 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
     "code": "PS3601 .N428"
   },
+  "originaltitle": "The City in the Middle of the Night",
   "awards": ["Hugo Nominee",
   "Locus Award Finalist",
   "Arthur C. Clarke Award Shortlist",
@@ -62187,7 +62195,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -62247,7 +62255,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -62339,7 +62347,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -62642,7 +62650,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -62724,7 +62732,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -62789,7 +62797,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -62856,7 +62864,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -62916,7 +62924,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -62978,7 +62986,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -63041,7 +63049,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -63098,7 +63106,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -63217,7 +63225,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -63279,7 +63287,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -63322,7 +63330,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -63434,7 +63442,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -63555,7 +63563,8 @@
   },
   "awards": ["Nettie Palmer Prize for Australian Nonfiction",
   "Australian Book Industry Awards",
-  "Australian Book Industry Awards"],
+  "Australian Book Industry Awards",
+  "National Biography Award"],
   "genre": ["Biography & Memoir",
   "Biography",
   "Nonfiction"],
@@ -63672,7 +63681,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -63773,7 +63782,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -63984,7 +63993,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -64098,7 +64107,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -64167,7 +64176,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -64224,7 +64233,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -64764,7 +64773,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -64856,7 +64865,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -65118,8 +65127,12 @@
     "code": ["821.009382"],
     "wording": ["By form",
     "English",
+    "English poetry",
+    "History of English poetry",
     "Literature",
-    "Poetry"]
+    "Philosophy and ideas",
+    "Religious ideas",
+    "Themes and subjects"]
   },
   "lcc": {
     "code": "PR508 .R4"
@@ -65725,7 +65738,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -65795,7 +65808,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -65870,9 +65883,9 @@
     "code": ["821.920809411"],
     "wording": ["21st Century",
     "English",
+    "English poetry",
     "Literature",
-    "Modern period 1900-",
-    "Poetry"]
+    "Modern period 1900-"]
   },
   "lcc": {
     "code": "PR6052 .A485"
@@ -65989,7 +66002,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -66066,7 +66079,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -66135,7 +66148,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -66212,7 +66225,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -66287,7 +66300,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -66348,7 +66361,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -69423,7 +69436,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -69496,7 +69509,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -69563,7 +69576,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -70223,7 +70236,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -70614,7 +70627,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -70673,7 +70686,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -70837,7 +70850,7 @@
   "ddc": {
     "code": ["823.8"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -71095,7 +71108,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -71462,7 +71475,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -72187,7 +72200,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -72443,7 +72456,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -72760,7 +72773,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -72812,7 +72825,7 @@
   "ddc": {
     "code": ["823.8"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -72916,7 +72929,8 @@
   "1000 Books to Read Before You Die",
   "The New Lifetime Reading Plan With Going Further",
   "66 B\u00fccher, von denen alle sagen, dass du sie gelesen haben musst",
-  "Greatest Books algorithm"],
+  "Greatest Books algorithm",
+  "1,000 Books to Read Before You Die Page-A-Day Calendar 2021"],
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
   "source": "amazon.com books",
@@ -72967,7 +72981,7 @@
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -73305,7 +73319,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -73444,7 +73458,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -73518,7 +73532,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -73997,8 +74011,8 @@
     "code": ["843.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "Fiction",
     "French",
+    "French fiction",
     "Literature",
     "Modern Period"]
   },
@@ -74100,7 +74114,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -74351,8 +74365,8 @@
     "code": ["843.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "Fiction",
     "French",
+    "French fiction",
     "Literature",
     "Modern Period"]
   },
@@ -74464,7 +74478,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -74729,7 +74743,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -75032,10 +75046,10 @@
   "ddc": {
     "code": ["891.733"],
     "wording": ["1800\u20131917",
-    "East Slavic languages (Russian \u2219 Ukrainian \u2219 Belarusian)",
     "Literature",
     "Literature of east Indo-European and Celtic languages",
     "Literature of other languages",
+    "Russian and East Slavic languages",
     "Russian fiction"]
   },
   "lcc": {
@@ -75297,10 +75311,10 @@
   "ddc": {
     "code": ["891.733"],
     "wording": ["1800\u20131917",
-    "East Slavic languages (Russian \u2219 Ukrainian \u2219 Belarusian)",
     "Literature",
     "Literature of east Indo-European and Celtic languages",
     "Literature of other languages",
+    "Russian and East Slavic languages",
     "Russian fiction"]
   },
   "lcc": {
@@ -75684,7 +75698,7 @@
   "ddc": {
     "code": ["823"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -76699,7 +76713,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -78474,7 +78488,7 @@
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -81976,7 +81990,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -82084,7 +82098,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -82227,7 +82241,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -82299,7 +82313,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -82358,7 +82372,7 @@
     "code": ["823.3"],
     "wording": ["Elizabethan 1558-1625",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": [],
@@ -82412,7 +82426,7 @@
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature"]
   },
   "lcc": {
@@ -82795,9 +82809,9 @@
     "code": ["821.9208"],
     "wording": ["21st Century",
     "English",
+    "English poetry",
     "Literature",
-    "Modern period 1900-",
-    "Poetry"]
+    "Modern period 1900-"]
   },
   "lcc": [],
   "genre": ["Fiction and Literature"],
@@ -82850,8 +82864,8 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Literature",
-    "Poetry"]
+    "American poetry",
+    "Literature"]
   },
   "lcc": {
     "code": "PR9199.3 .C57"
@@ -82906,7 +82920,7 @@
     "code": ["813.6000"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -83086,8 +83100,8 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Literature",
-    "Poetry"]
+    "American poetry",
+    "Literature"]
   },
   "lcc": {
     "code": "PR9199.3 .A8"
@@ -83142,8 +83156,8 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Literature",
-    "Poetry"]
+    "American poetry",
+    "Literature"]
   },
   "lcc": {
     "code": "PS3551 .N464"
@@ -83882,8 +83896,8 @@
     "code": ["821.3"],
     "wording": ["Elizabethan 1558-1625",
     "English",
-    "Literature",
-    "Poetry"]
+    "English poetry",
+    "Literature"]
   },
   "lcc": [],
   "genre": ["Fiction and Literature"],
@@ -84090,7 +84104,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -84184,7 +84198,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -84723,8 +84737,8 @@
     "code": ["843.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "Fiction",
     "French",
+    "French fiction",
     "Literature",
     "Modern Period"]
   },
@@ -85129,8 +85143,8 @@
     "code": ["843.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "Fiction",
     "French",
+    "French fiction",
     "Literature",
     "Modern Period"]
   },
@@ -85205,8 +85219,8 @@
   "ddc": {
     "code": ["821.4"],
     "wording": ["English",
+    "English poetry",
     "Literature",
-    "Poetry",
     "Post-Elizabethan 1625-1702"]
   },
   "lcc": {
@@ -85478,7 +85492,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -85866,7 +85880,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -85982,7 +85996,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -86092,7 +86106,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -86576,7 +86590,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -86670,7 +86684,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -86741,7 +86755,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -86811,11 +86825,11 @@
   "ddc": {
     "code": ["891.6631"],
     "wording": ["Celtic languages",
-    "Fiction",
     "Literature",
     "Literature of east Indo-European and Celtic languages",
     "Literature of other languages",
     "Welsh",
+    "Welsh fiction",
     "\u20131600"]
   },
   "lcc": {
@@ -87099,10 +87113,10 @@
   "ddc": {
     "code": ["891.7342"],
     "wording": ["Early 20th century 1917\u20131945",
-    "East Slavic languages (Russian \u2219 Ukrainian \u2219 Belarusian)",
     "Literature",
     "Literature of east Indo-European and Celtic languages",
     "Literature of other languages",
+    "Russian and East Slavic languages",
     "Russian fiction",
     "USSR 1917\u20131991"]
   },
@@ -87181,7 +87195,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -87246,7 +87260,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -87319,7 +87333,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -87399,7 +87413,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -87655,7 +87669,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -87734,7 +87748,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -87803,7 +87817,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -88555,8 +88569,8 @@
     "code": ["821.3"],
     "wording": ["Elizabethan 1558-1625",
     "English",
-    "Literature",
-    "Poetry"]
+    "English poetry",
+    "Literature"]
   },
   "lcc": {
     "code": "PR3507 .A1"
@@ -88947,7 +88961,7 @@
     "code": ["814.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Essays",
+    "American essays",
     "Literature"]
   },
   "lcc": [],
@@ -88997,7 +89011,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -89068,8 +89082,8 @@
   "fre"],
   "ddc": {
     "code": ["842"],
-    "wording": ["Drama",
-    "French",
+    "wording": ["French",
+    "French drama",
     "Literature"]
   },
   "lcc": {
@@ -91248,7 +91262,7 @@
     "code": ["823.92"],
     "wording": ["21st Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -93462,9 +93476,9 @@
     "wording": ["1900-1944",
     "20th Century",
     "English",
+    "English poetry",
     "Literature",
-    "Modern period 1900-",
-    "Poetry"]
+    "Modern period 1900-"]
   },
   "lcc": {
     "code": "PR6039 .O32"
@@ -93954,7 +93968,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -94067,7 +94081,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -94125,7 +94139,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -94194,7 +94208,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -94580,8 +94594,8 @@
   "ddc": {
     "code": ["821.4"],
     "wording": ["English",
+    "English poetry",
     "Literature",
-    "Poetry",
     "Post-Elizabethan 1625-1702"]
   },
   "lcc": [],
@@ -95231,7 +95245,7 @@
     "code": ["813.6"],
     "wording": ["21st Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -96217,7 +96231,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": [],
@@ -96326,7 +96340,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -96636,7 +96650,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -96713,7 +96727,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -96856,7 +96870,7 @@
   "ddc": {
     "code": ["813"],
     "wording": ["American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -97080,7 +97094,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -97147,7 +97161,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -97236,7 +97250,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -97316,7 +97330,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -97396,7 +97410,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -99531,7 +99545,7 @@
   "ddc": {
     "code": ["823.8"],
     "wording": ["English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -99611,7 +99625,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -99679,7 +99693,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -99731,7 +99745,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -99917,7 +99931,7 @@
     "wording": ["1945-1999",
     "20th Century",
     "American and Canadian",
-    "Fiction",
+    "American fiction",
     "Literature"]
   },
   "lcc": {
@@ -99982,7 +99996,7 @@
     "wording": ["1901-1945",
     "20th Century",
     "English",
-    "Fiction",
+    "English fiction",
     "Literature",
     "Modern Period"]
   },
@@ -101847,12 +101861,12 @@
     "10": ["Literature",
     "Collections"]
   },
-  "series": ["The Divine Comedy",
-  "Den guddommelige Komedia",
+  "series": ["Den guddommelige Komedia",
+  "Die g\u00f6ttliche Kom\u00f6die",
   "De goddelijke komedie",
   "Divina Commedia",
   "Den gudomliga komedin",
-  "Die g\u00f6ttliche Kom\u00f6die"],
+  "The Divine Comedy"],
   "awards": ["1000 Books to Read Before You Die",
   "David Bowie's Top 100",
   "From Zero to Well-Read in 100 Books",
@@ -102932,79 +102946,6 @@
   "weight": "1.23017942196 pounds",
   "pages": "448 "
 },
-"203971397": {
-  "books_id": "203971397",
-  "title": "Meister Eckhart: Teacher and Preacher (English, Latin and German Edition)",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Eckhart, Meister",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Eckhart, Meister",
-    "fl": "Meister Eckhart",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0809128276",
-  "isbn": {
-    "0": "0809128276",
-    "2": "9780809128273"
-  },
-  "asin": "0809128276",
-  "ean": ["0809128276"],
-  "publication": "Paulist Press (1986), Edition: 1st, 448 pages",
-  "date": "1986",
-  "summary": "Meister Eckhart: Teacher and Preacher (English, Latin and German Edition) by Meister Eckhart (1986)",
-  "language": ["German",
-  "English"],
-  "language_codeA": ["ger",
-  "eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["ger",
-  "eng"],
-  "ddc": {
-    "code": ["252.02"],
-    "wording": ["Catholic",
-    "Christian pastoral theology, homiletics and religious orders",
-    "Religions",
-    "Texts of sermons"]
-  },
-  "lcc": {
-    "code": "BV5080 .E3213"
-  },
-  "subject": {
-    "0": ["Sermons, Medieval"],
-    "2": ["Spiritual life",
-    "Christianity",
-    "History of doctrines",
-    "Middle Ages, 600-1500"],
-    "3": ["Spiritual life",
-    "History of doctrines"]
-  },
-  "originaltitle": "Meister Eckhart, teacher and preacher",
-  "genre": ["History",
-  "Religion & Spirituality",
-  "Nonfiction"],
-  "genre_id": ["1599",
-  "1944",
-  "20275895"],
-  "source": "amazon.com books",
-  "workcode": "567710",
-  "entrydate": "2021-08-05",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "physical_description": "9.04 inches",
-  "height": "9.04 inches",
-  "thickness": "1.17 inches",
-  "length": "6.09 inches",
-  "dimensions": "9.04 x 6.09 x 1.17 inches",
-  "weight": "1.23017942196 pounds",
-  "pages": "448 "
-},
 "203971399": {
   "books_id": "203971399",
   "title": "The Identity of Jesus Christ, Expanded and Updated Edition: The Hermeneutical Bases of Dogmatic Theology",
@@ -103065,4 +103006,206 @@
   "length": "6 inches",
   "dimensions": "9 x 6 x 0.66 inches",
   "weight": "0.80027801106 pounds"
+},
+"204166547": {
+  "books_id": "204166547",
+  "title": "I believe in one God : the creed explained",
+  "sortcharacter": "3",
+  "public": "1",
+  "primaryauthor": "Benedict, Pope",
+  "authors": [{
+    "lf": "Benedict, Pope",
+    "fl": "Pope Benedict"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9781921963179",
+  "isbn": ["9781921963179",
+  "1921963174"],
+  "publication": "Strathfield, NSW : St. Pauls Publications, [2012]",
+  "date": "2012",
+  "summary": "I believe in one God : the creed explained by Pope Benedict (2012)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["242.5"],
+    "wording": ["Biblical Devotions",
+    "Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BT993.3 .B465"
+  },
+  "subject": [["Faith development"]],
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "National Library of Australia",
+  "workcode": "13930022",
+  "entrydate": "2021-08-09",
+  "format": [{
+    "code": "1.1",
+    "text": "Paper Book"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "159 p.; 16 cm",
+  "height": "16 cm",
+  "dimensions": "16 cm",
+  "pages": "159 "
+},
+"204166703": {
+  "books_id": "204166703",
+  "title": "The Innovator and Other Modern Parables",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Jones, G. Williams",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Jones, G. Williams",
+    "fl": "G. Williams Jones",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0687188873",
+  "isbn": {
+    "0": "0687188873",
+    "2": "9780687188871"
+  },
+  "asin": "0687188873",
+  "ean": ["0687188873"],
+  "publication": "Abingdon Press (1969), Edition: 1st edition., 112 pages",
+  "date": "1969",
+  "summary": "The Innovator and Other Modern Parables by G. Williams Jones (1969)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.4"],
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
+    "Christian Living",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BV4515.2 .J6"
+  },
+  "subject": [["Christian life",
+  "Fiction"]],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "1117494",
+  "entrydate": "2021-08-09",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "8.4 inches",
+  "thickness": "0.3 inches",
+  "length": "5.4 inches",
+  "dimensions": "8.4 x 5.4 x 0.3 inches",
+  "weight": "0.35 pounds",
+  "pages": "112 "
+},
+"204166986": {
+  "books_id": "204166986",
+  "title": "The Book of Genesis",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Driver, S. R.",
+  "authors": [{
+    "lf": "Driver, S. R.",
+    "fl": "S. R. Driver"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "publication": "London : Methuen, 1905.",
+  "date": "1905",
+  "summary": "The Book of Genesis by S. R. Driver (1905)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["222.11"],
+    "wording": ["Bible",
+    "Genesis",
+    "Historical Books ",
+    "Pentateuch",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS491 .W4"
+  },
+  "series": ["Westminster Commentaries"],
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "Oxford University",
+  "workcode": "584410",
+  "entrydate": "2021-08-09",
+  "format": [{
+    "code": "1.1",
+    "text": "Paper Book"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "lxxiv, 420 p.; 23 cm",
+  "height": "23 cm",
+  "dimensions": "23 cm",
+  "pages": "lxxiv; 420 "
+},
+"204167073": {
+  "books_id": "204167073",
+  "title": "Life of Moses, The",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Fleg, Edmond",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Fleg, Edmond",
+    "fl": "Edmond Fleg",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "asin": "B002DW9DRO",
+  "publication": "Hope Publishing House (2006), 292 pages",
+  "date": "2006",
+  "summary": "Life of Moses, The by Edmond Fleg (2006)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["French"],
+  "originallanguage_codeA": ["eng",
+  "fre"],
+  "ddc": {
+    "code": ["222.1092"],
+    "wording": ["Bible",
+    "Biography",
+    "Biography; By Place",
+    "Historical Books ",
+    "Pentateuch",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS580 .M6"
+  },
+  "genre": ["Nonfiction"],
+  "genre_id": ["20275895"],
+  "source": "amazon.com books",
+  "workcode": "2066574",
+  "entrydate": "2021-08-09",
+  "format": [{
+    "code": "1.3",
+    "text": "Ebook"
+  }],
+  "copies": "1"
 }}
