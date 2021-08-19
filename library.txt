@@ -826,20 +826,6 @@ D4.22 581.6320994    9781741170283     Hiddins, Les, 1946-           2002 Bush t
 D4.23 581.632099412  9781760800420     Hansen, Vivienne              2019 Noongar bush tucker : bush food plants and fungi of the sout
 D4.24 581.634        9781742589060     Hansen, Vivienne              2016 Noongar bush medicine : medicinal plants of the south-west o
 D4.25 581.99412      9780643100473     Dixon, K. W. (Kingsley W.)    2011 Coastal plants : a guide to the identification and restorati
-D4.26 590            9781446301432     Chaline, Eric                 2011 Fifty animals that changed the course of history
-D4.27 590            9781579656232     Stewart, Tracey (Organizat    2015 Do unto animals : a friendly guide to how animals live, and 
-D4.28 591.5          9780199291151     Dawkins, Richard, 1941-       2006 The selfish gene
-D4.29 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachcomber's guide to South-West beaches
-D4.30 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
-D4.31 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
-D4.32 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
-D4.33 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles & frogs of the Perth region
-D4.34 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
-D4.35 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
-D4.36 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
-D4.37 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
-D4.38 598.0994       9781876334789     Flegg, Jim                    2004 Birds of Australia
-D4.39 598.0994       9780643104693     Fraser, Ian                   2013 Australian bird names : a complete guide
 D5.01 598.0994       9780670072316     Simpson, Ken, 1936-           2010 Field guide to the birds of Australia
 D5.02 598.09946      9781876334604     Watts, Dave, 1943-            2003 Field guide to Tasmanian birds
 D5.03 598.2          9780643094932     Olsen, Penny                  2011 Stray feathers : reflections on the structure, behaviour and
@@ -870,37 +856,27 @@ D5.27 640            9781405317757     Goldsmith, Sheherazade        None A slic
 D5.28 641.2520973    9780760351727     Minnick, Fred, 1978-          2016 Bourbon : the rise, fall, and rebirth of an American whiskey
 D5.29 641.25209946   9780980450811     Kudelka, Jon,                 2014 Kudelka and First Dog's spiritual journey : in which two int
 D5.30 641.5          9781846147500     Pollan, Michael               None Cooked : a natural history of transformation
-D6.01 582.13099412   9781921361784     Breeden, Stanley, 1937 or     2010 Wildflower country : discovering biodiversity in Australia's
-D6.02 598            9781486302925     Elphick, Jonathan             2014 The world of birds
-D6.03 598.0222       9781555214685     Hyman, Susan                  1989 Edward Lear's birds
-D6.04 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain & Europe
-D6.05 598.2994       9780207155567     Cayley, Neville William, 1    1984 What bird is that?
-D6.06 598.42         9780643095557     De Roy, Tui                   2008 Albatross : their world, their ways
-D6.07 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
-D6.08 635.04840994   9780867772456     Bennett, Peter                1988 Organic gardening
-D6.09 635.95194      9781864367492     Urquhart, Paul                2002 The new native garden : designing with Australian plants
-D6.10 641.252        9781405394741     Smith, Gavin D.               2012 Whisky opus
-D6.11 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
-D6.12 658.3          9781107664852     Teicher, Julian               2013 Australian workplace relations
-D6.13 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
-D6.14 704.9482       9781852301866     Temple, Richard (Richard C    1991 Icons and the mystical origins of Christianity
-D6.15 709            9780714849690     Dr Andrew Fitzpatrick         2009 10,000 years of art
-D6.16 709            9780714847030     Gombrich, E. H. (Ernst Han    2006 The story of art
-D6.17 709.2          978-0-9751947-5-  Bromfield, David              2011 Now the hard part : the work of Martin Heine 1965-2011
-D6.18 709.252        9781786276551     Hodge, Susie, 1960-           2020 The short story of women artists : a pocket guide to movemen
-D6.19 709.470749411  9780975016893     Dodge, A.R                    2005 St Petersburg 1900
-D6.20 720.103        9780643106468     Donovan, Jenny (Urban desi    2013 Designing to heal
-D6.21 725.94         9781760800260     Atkinson-Phillips, Alison     2019 Survivor memorials : remembering trauma and loss in contempo
-D6.22 741.509        9781569804001     Weinstein, Simcha             2014 Up, up, and oy vey! : how Jewish history, culture, and value
-D6.23 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
-D6.24 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
-D6.25 755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
-D6.26 759.94         9780141035796     Berger, John                  2008 Ways of seeing
-D6.27 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature & outdoor photography
-D6.28 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
-D6.29 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
-D6.30 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
-D6.31 782.42166092   9781851777372     Bowie, David                  2013 David Bowie is the subject
+D6.01 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
+D6.02 658.3          9781107664852     Teicher, Julian               2013 Australian workplace relations
+D6.03 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
+D6.04 704.9482       9781852301866     Temple, Richard (Richard C    1991 Icons and the mystical origins of Christianity
+D6.05 709            9780714849690     Dr Andrew Fitzpatrick         2009 10,000 years of art
+D6.06 709            9780714847030     Gombrich, E. H. (Ernst Han    2006 The story of art
+D6.07 709.2          978-0-9751947-5-  Bromfield, David              2011 Now the hard part : the work of Martin Heine 1965-2011
+D6.08 709.252        9781786276551     Hodge, Susie, 1960-           2020 The short story of women artists : a pocket guide to movemen
+D6.09 709.470749411  9780975016893     Dodge, A.R                    2005 St Petersburg 1900
+D6.10 720.103        9780643106468     Donovan, Jenny (Urban desi    2013 Designing to heal
+D6.11 725.94         9781760800260     Atkinson-Phillips, Alison     2019 Survivor memorials : remembering trauma and loss in contempo
+D6.12 741.509        9781569804001     Weinstein, Simcha             2014 Up, up, and oy vey! : how Jewish history, culture, and value
+D6.13 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
+D6.14 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
+D6.15 755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
+D6.16 759.94         9780141035796     Berger, John                  2008 Ways of seeing
+D6.17 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature & outdoor photography
+D6.18 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
+D6.19 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
+D6.20 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
+D6.21 782.42166092   9781851777372     Bowie, David                  2013 David Bowie is the subject
 E1.01 784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
 E1.02 790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
 E1.03 791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
@@ -932,48 +908,72 @@ E1.28 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hu
 E1.29 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
 E1.30 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
 E1.31 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
-E2.01 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
-E2.02 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
-E2.03 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
-E2.04 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
-E2.05 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-E2.06 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-E2.07 813.54         9780008117498     Asimov, Isaac, 1920-1992      2016 Foundation
-E2.08 813.54         9780586071106     Asimov, Isaac, 1920-1992      1994 Foundation and earth
-E2.09 813.54         9780586013557     Asimov, Isaac, 1920-1992      1988 Foundation and empire
-E2.10 813.54         9780586058398     Asimov, Isaac, 1920-1992      1990 Foundation's edge
-E2.11 813.54         9780586025321     Asimov, Isaac, 1920-1992      2004 I, robot
-E2.12 813.54         9780586062005     Asimov, Isaac, 1920-1992      1993 Robots and empire
-E2.13 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
-E2.14 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
-E2.15 813.54         9780722112571     Asimov, Isaac, 1920-1992      1977 The best of Isaac Asimov
-E2.16 813.54         9780586008355     Asimov, Isaac, 1920-1992      1993 The caves of steel
-E2.17 813.54         9780575129054     Asimov, Isaac, 1920-1992      2013 The gods themselves
-E2.18 813.54         9780330328111     Asimov, Isaac, 1920-1992      1993 The positronic man
-E2.19 813.54         9780586061992     Asimov, Isaac, 1920-1992      1985 The robots of dawn
-E2.20 813.54         9780765319159     Asimov, Isaac, 1920-1992      2009 The stars, like dust
-E3.01 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
-E3.02 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
-E3.03 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
-E3.04 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
-E3.05 813.54         9780006482215     Baxter, Stephen               1996 Ring
-E3.06 813.54         9780340769614     Bova, Ben, 1932-              2001 The precipice
-E3.07 813.54         9780671022075     Bradbury, Ray, 1920-2012      1998 Driving blind
-E3.08 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahrenheit 451
-E3.09 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
-E3.10 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
-E3.11 813.54         9781857233858     Brin, David                   1996 Brightness reef
-E3.12 813.54         9781472281029     Butler, Octavia E.            2021 Clay's ark
-E3.13 813.54         9781472258229     Butler, Octavia E.            2018 Kindred
-E3.14 813.54         9781472263667     Butler, Octavia E.            2019 Parable of the sower
-E3.15 813.54         9781472263650     Butler, Octavia E.            2019 Parable of the talents : a novel
-E3.16 813.54         9781472281043     Butler, Octavia E.            None Patternmaster
-E3.17 813.54         9781472280992     Butler, Octavia E.            2021 Wild seed
-E3.18 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
-E3.19 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
-E3.20 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
-E3.21 813.54         9780434021055     Coupland, Douglas             2010 Player One : what is to become of us : a novel in five hours
-E3.22 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
+E1.32 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
+E1.33 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
+E1.34 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
+E1.35 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
+E1.36 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+E1.37 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+E2.01 813.54         9780008117498     Asimov, Isaac, 1920-1992      2016 Foundation
+E2.02 813.54         9780586071106     Asimov, Isaac, 1920-1992      1994 Foundation and earth
+E2.03 813.54         9780586013557     Asimov, Isaac, 1920-1992      1988 Foundation and empire
+E2.04 813.54         9780586058398     Asimov, Isaac, 1920-1992      1990 Foundation's edge
+E2.05 813.54         9780586025321     Asimov, Isaac, 1920-1992      2004 I, robot
+E2.06 813.54         9780586062005     Asimov, Isaac, 1920-1992      1993 Robots and empire
+E2.07 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
+E2.08 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
+E2.09 813.54         9780722112571     Asimov, Isaac, 1920-1992      1977 The best of Isaac Asimov
+E2.10 813.54         9780586008355     Asimov, Isaac, 1920-1992      1993 The caves of steel
+E2.11 813.54         9780575129054     Asimov, Isaac, 1920-1992      2013 The gods themselves
+E2.12 813.54         9780330328111     Asimov, Isaac, 1920-1992      1993 The positronic man
+E2.13 813.54         9780586061992     Asimov, Isaac, 1920-1992      1985 The robots of dawn
+E2.14 813.54         9780765319159     Asimov, Isaac, 1920-1992      2009 The stars, like dust
+E2.15 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
+E2.16 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
+E2.17 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
+E2.18 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
+E2.19 813.54         9780006482215     Baxter, Stephen               1996 Ring
+E2.20 813.54         9780340769614     Bova, Ben, 1932-              2001 The precipice
+E2.21 813.54         9780671022075     Bradbury, Ray, 1920-2012      1998 Driving blind
+E2.22 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahrenheit 451
+E2.23 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
+E2.24 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
+E2.25 813.54         9781857233858     Brin, David                   1996 Brightness reef
+E2.26 813.54         9781472281029     Butler, Octavia E.            2021 Clay's ark
+E2.27 813.54         9781472258229     Butler, Octavia E.            2018 Kindred
+E2.28 813.54         9781472263667     Butler, Octavia E.            2019 Parable of the sower
+E2.29 813.54         9781472263650     Butler, Octavia E.            2019 Parable of the talents : a novel
+E2.30 813.54         9781472281043     Butler, Octavia E.            None Patternmaster
+E2.31 813.54         9781472280992     Butler, Octavia E.            2021 Wild seed
+E2.32 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
+E2.33 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
+E2.34 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
+E2.35 813.54         9780434021055     Coupland, Douglas             2010 Player One : what is to become of us : a novel in five hours
+E2.36 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
+E3.01 582.13099412   9781921361784     Breeden, Stanley, 1937 or     2010 Wildflower country : discovering biodiversity in Australia's
+E3.02 598            9781486302925     Elphick, Jonathan             2014 The world of birds
+E3.03 598.0222       9781555214685     Hyman, Susan                  1989 Edward Lear's birds
+E3.04 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain & Europe
+E3.05 598.2994       9780207155567     Cayley, Neville William, 1    1984 What bird is that?
+E3.06 598.42         9780643095557     De Roy, Tui                   2008 Albatross : their world, their ways
+E3.07 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
+E3.08 635.04840994   9780867772456     Bennett, Peter                1988 Organic gardening
+E3.09 635.95194      9781864367492     Urquhart, Paul                2002 The new native garden : designing with Australian plants
+E3.10 641.252        9781405394741     Smith, Gavin D.               2012 Whisky opus
+E3.11 590            9781446301432     Chaline, Eric                 2011 Fifty animals that changed the course of history
+E3.12 590            9781579656232     Stewart, Tracey (Organizat    2015 Do unto animals : a friendly guide to how animals live, and 
+E3.13 591.5          9780199291151     Dawkins, Richard, 1941-       2006 The selfish gene
+E3.14 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachcomber's guide to South-West beaches
+E3.15 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
+E3.16 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
+E3.17 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
+E3.18 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles & frogs of the Perth region
+E3.19 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
+E3.20 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
+E3.21 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
+E3.22 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
+E3.23 598.0994       9781876334789     Flegg, Jim                    2004 Birds of Australia
+E3.24 598.0994       9780643104693     Fraser, Ian                   2013 Australian bird names : a complete guide
 F1.01 813.54         9780679752981     Dick, Philip K.               1994 A maze of death
 F1.02 813.54         9781857988475     Dick, Philip K.               1999 A scanner darkly
 F1.03 813.54         9781780220413     Dick, Philip K.               2012 Flow my tears, the policeman said
