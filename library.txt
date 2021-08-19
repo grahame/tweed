@@ -161,31 +161,31 @@ A6.10 221.92         9781606087718     Rad, Gerhard von, 1901-197    2011 Moses
 A6.11 221.922        9780800615376     Trible, Phyllis               1984 Texts of terror : literary-feminist readings of Biblical nar
 A6.12 221.922        9780671541347     Wiesel, Elie, 1928-2016       1985 Messengers of God : Biblical portraits and legends
 A6.13 221.93         9780691002002     Pritchard, James B. (James    1973 The ancient Near East : an anthology of texts and pictures
-B1.01 221.95         9780664212919     Hayes, John H. (John Haral    1977 Israelite and Judaean history
-B1.02 222.06         9780905774305     Noth, Martin, 1902-1968       1981 The deuteronomistic history
-B1.03 222.106        9780800625931     Lohfink, Norbert              1995 Theology of the Pentateuch : themes of the priestly narrativ
-B1.04 222.106        9780804200851     Mann, Thomas W. (Thomas Wi    1988 The Book of the Torah : the narrative integrity of the Penta
-B1.05 222.1066       9780884140627     Boorer, Suzanne, 1954-        2016 The vision of the priestly narrative : its genre and hermene
-B1.06 222.1066       9780800627010     Campbell, Antony F.           2000 Sources of the Pentateuch : texts, introductions, annotation
-B1.07 222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A history of Pentateuchal traditions
-B1.08 222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
-B1.09 222.1092                         Fleg, Edmond                  2006 Life of Moses, The
-B1.10 222.11                           Driver, S. R.                 1905 The Book of Genesis
-B1.11 222.11                           Vawter, Bruce                 1956 A path through Genesis
-B1.12 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
-B1.13 222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
-B1.14 222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
-B1.15 222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
-B1.16 222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
-B1.17 222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
-B1.18 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
-B1.19 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
-B1.20 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
-B1.21 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
-B1.22 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
-B1.23 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
-B1.24 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
-B1.25 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
+A6.14 221.95         9780664212919     Hayes, John H. (John Haral    1977 Israelite and Judaean history
+A6.15 222.06         9780905774305     Noth, Martin, 1902-1968       1981 The deuteronomistic history
+A6.16 222.106        9780800625931     Lohfink, Norbert              1995 Theology of the Pentateuch : themes of the priestly narrativ
+A6.17 222.106        9780804200851     Mann, Thomas W. (Thomas Wi    1988 The Book of the Torah : the narrative integrity of the Penta
+A6.18 222.1066       9780884140627     Boorer, Suzanne, 1954-        2016 The vision of the priestly narrative : its genre and hermene
+A6.19 222.1066       9780800627010     Campbell, Antony F.           2000 Sources of the Pentateuch : texts, introductions, annotation
+A6.20 222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A history of Pentateuchal traditions
+A6.21 222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
+A6.22 222.1092                         Fleg, Edmond                  2006 Life of Moses, The
+A6.23 222.11                           Driver, S. R.                 1905 The Book of Genesis
+A6.24 222.11                           Vawter, Bruce                 1956 A path through Genesis
+A6.25 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
+A6.26 222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
+A6.27 222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
+A6.28 222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
+A6.29 222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
+B1.01 222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
+B1.02 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
+B1.03 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
+B1.04 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
+B1.05 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
+B1.06 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
+B1.07 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
+B1.08 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
+B1.09 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
 B2.01 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
 B2.02 223.1          9780300140750     Pope, Marvin H.               1965 Job
 B2.03 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
