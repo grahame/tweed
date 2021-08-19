@@ -5,7 +5,7 @@
         { "bookshelf": "A", "shelf": 3, "first_book": { "isbn": "9781316602591" } },
         { "bookshelf": "A", "shelf": 4, "first_book": { "isbn": "9781907523502" } },
         { "bookshelf": "A", "shelf": 5, "first_book": { "isbn": "9780674088054" } },
-        { "bookshelf": "A", "shelf": 6, "first_book": { "isbn": "9780664223083" } },
+        { "bookshelf": "A", "shelf": 6, "first_book": { "isbn": "9780718892289" } },
 
         { "bookshelf": "B", "shelf": 1, "first_book": { "isbn": "9780664212919" } },
         { "bookshelf": "B", "shelf": 2, "first_book": { "isbn": "9780195396287" } },
