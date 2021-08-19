@@ -364,27 +364,40 @@ class Library:
         with open("data/arrangement.json") as fd:
             arrangement = json.load(fd)
 
-        current_shelf = None
         shelves = arrangement["shelves"]
         indexes = defaultdict(lambda: 1)
-
         placed = []
+
+        def get_override(book):
+            for override in arrangement["overrides"]:
+                if query_matches(override, book):
+                    return override
+
+        def place_book(placed_on, book):
+            index_key = (placed_on["bookshelf"], placed_on["shelf"])
+            index = indexes[index_key]
+            indexes[index_key] += 1
+            placed.append(BookPlacement(book, format_loc(placed_on, index)))
+
+        # overriden books go to the start of their shelf
         for book in books:
+            placed_on = get_override(book)
+            if placed_on is not None:
+                place_book(placed_on, book)
+
+        # place everything else linearly across available shelf space
+        current_shelf = None
+        for book in books:
+            # skip overridden books, already placed
+            if get_override(book):
+                continue
             # check if we are at the start of another shelf
             for shelf in shelves:
                 if query_matches(shelf["first_book"], book):
                     current_shelf = shelf
                     break
             # default to the current shelf
-            placed_on = current_shelf
-            # check overrides
-            for override in arrangement["overrides"]:
-                if query_matches(override, book):
-                    placed_on = override
-            index_key = (placed_on["bookshelf"], placed_on["shelf"])
-            index = indexes[index_key]
-            indexes[index_key] += 1
-            placed.append(BookPlacement(book, format_loc(placed_on, index)))
+            place_book(current_shelf, book)
 
         placed.sort(key=lambda x: x.location)
 
