@@ -38,7 +38,7 @@ A2.11 070.40285      9781449330064     Gray, Jonathan (Jonathan A    2012 The da
 A2.12 070.92         9780732224189     Bowden, Tim, 1937-            1989 One crowded hour : Neil Davis, combat cameraman
 A2.13 070.92         9780007161232     Thompson, Hunter S.           2003 Fear and loathing in Las Vegas : a savage journey to the hea
 A2.14 070.924        9781862078246     Cameron, James, 1911-1985     2007 Point of departure: experiment in biography
-A2.15 081            9780944344033     Robbins, Vernon K. 1939- [    1990 Ancient quotes &amp; anecdotes : from crib to crypt
+A2.15 081            9780944344033     Robbins, Vernon K. 1939- [    1990 Ancient quotes & anecdotes : from crib to crypt
 A2.16 100            9780415693165     Warburton, Nigel, 1962-       2012 Philosophy : the basics
 A2.17 109.2          9780753811368     Monk, Ray                     2001 The great philosophers
 A2.18 110            9780140446197     Aristotle                     1999 Metaphysics
@@ -53,7 +53,7 @@ A2.26 149.3          9781908388001     Underhill, Evelyn, 1875-19    2011 Practi
 A2.27 152.4          9781784872632     Murakami, Haruki, 1949-       1984 DESIRE
 A2.28 152.44         9781785043826     Brown, Brené [Editor]         2021 You are your best thing : vulnerability, shame resilience, a
 A2.29 153            9781473527577     De Bono, Edward, 1933-        2015 The mechanism of mind
-A2.30 153.43         9780140217155     De Bono, Edward, 1933-        1973 PO : beyond yes &amp; no
+A2.30 153.43         9780140217155     De Bono, Edward, 1933-        1973 PO : beyond yes & no
 A2.31 153.6          9781892005038     Rosenberg, Marshall B.,       2003 Nonviolent communication : a language of life
 A2.32 153.65         9780140204537     Thomson, Robert, 1921-        1959 The psychology of thinking
 A2.33 153.83         9780062018205     Ariely, Dan                   2010 Predictably irrational : the hidden forces that shape our de
@@ -83,7 +83,7 @@ A4.05 184            9780872206335     Plato                         2002 Five d
 A4.06 184            9780140449747     Plato                         2005 Phaedrus
 A4.07 184            9780140449273     Plato                         2003 Symposium
 A4.08 184            9780140440379     Plato                         1970 The last days of Socrates
-A4.09 188            9781907523502     Marcus Aurelius, Emperor o    2011 The meditations of Marcus Aurelius : selections annotated &a
+A4.09 188            9781907523502     Marcus Aurelius, Emperor o    2011 The meditations of Marcus Aurelius : selections annotated & 
 A4.10 190            9780631206729     Pickstock, Catherine          1997 After writing : on the liturgical consummation of philosophy
 A4.11 190.9          9780415325059     Russell, Bertrand, 1872-19    2004 A history of western philosophy
 A4.12 193            9780140447477     Kant, Immanuel (1724-1804)    2008 The critique of pure reason : the critique of practical reas
@@ -124,7 +124,7 @@ A5.08 220.6          9780809145201     Campbell, Antony F.           2008 God an
 A5.09 220.6          9781842270363     Goldsworthy, Graeme           2006 The Goldsworthy trilogy
 A5.10 220.6          9780994470799     Habel, Norm                   2016 Why on Earth Do You Still Read the Bible?: A Lifetime of Len
 A5.11 220.6          9780732282028     Spong, John Shelby            2005 The sins of Scripture : exposing the Bible's texts of hate t
-A5.12 220.6          9781416566762     Washington, Linda M. (Lind    2008 Puzzlements &amp; predicaments of the Bible : the weird, the
+A5.12 220.6          9781416566762     Washington, Linda M. (Lind    2008 Puzzlements & predicaments of the Bible : the weird, the wac
 A5.13 220.6082       9780827229631     Dube Shomanah, Musa W., 19    2000 Postcolonial feminist interpretation of the Bible
 A5.14 220.61         9780060609191     Borg, Marcus J.               2002 Reading the Bible again for the first time : taking the Bibl
 A5.15 220.61         9780818909863     Trainor, Michael F., 1950-    2005 Journeying : a beginner's guide to the bible
@@ -453,7 +453,7 @@ C1.37 248.22         9781573229746     Jean de la Croix, saint, 1    2003 Dark n
 C1.38 248.22         9780812974218     McGinn, Bernard, 1937-        2006 The essential writings of Christian mysticism
 C1.39 248.22         9781602063266     Nicholas, of Cusa, Cardina    2007 The vision of God
 C1.40 248.22         9780486422381     Underhill, Evelyn, 1875-19    2002 Mysticism : a study in the nature and development of spiritu
-C1.41 248.22092      9780199686643     Kempe, Margery, approximat    None The book of Margery Kempe : fourteen hundred &amp; thirty-si
+C1.41 248.22092      9780199686643     Kempe, Margery, approximat    None The book of Margery Kempe : fourteen hundred & thirty-six
 C1.42 248.3          9780892438914     Casey, Michael, 1942-         1996 Sacred reading : the ancient art of lectio divina
 C1.43 248.3          9780486486048     Ignatius, of Loyola, Saint    2011 The spiritual exercises of Saint Ignatius of Loyola
 C1.44 248.3          9780829435351     Manney, Jim                   2011 A simple, life-changing prayer : discovering the power of St
@@ -471,7 +471,7 @@ C1.55 248.4          9780800636326     Barth, Karl, 1886-1968        2003 The ca
 C1.56 248.4          9781786223098     Gioia, Luigi, 1968-           2020 The wisdom of St Benedict : monastic spirituality and the li
 C1.57 248.4          9781841012414     Hance, Stephen                2003 Beyond confirmation : going for growth in your Christian lif
 C1.58 248.4          9780809139064     Hart, Thomas N.               1999 Spiritual quest : a guide to the changing landscape
-C1.59 248.4          9780939516186     Hays, Edward M.               1993 Holy fools &amp; mad hatters : a handbook for hobbyhorse hol
+C1.59 248.4          9780939516186     Hays, Edward M.               1993 Holy fools & mad hatters : a handbook for hobbyhorse holines
 C1.60 248.4          9780904717464     Hughes, Gerard W.             2015 At home in God : essays from the Way, 1962-1985
 C1.61 248.4          9780340861356     Hughes, Gerard W.             2003 God in all things : the sequel to God of surprises
 C1.62 248.4          9780340694879     Hughes, Gerard W.             1998 God of compassion
@@ -556,7 +556,7 @@ C3.29 261.88         9781925486193     Kelly, Anthony, 1938-         2016 An int
 C3.30 261.88         9780800662714     McFague, Sallie               2008 A new climate for theology : God, the world, and global warm
 C3.31 262            9780567672483     MacDougall, Scott             2018 More than communion : imagining an eschatological ecclesiolo
 C3.32 262            9780881410297     Zizioulas, Jean, 1931-        1997 Being as communion : studies in personhood and the church
-C3.33 262.1309       9780300206128     Duffy, Eamon                  2015 Saints &amp; sinners : a history of the Popes
+C3.33 262.1309       9780300206128     Duffy, Eamon                  2015 Saints & sinners : a history of the Popes
 C3.34 262.14         9780232527438     Croft, Steven J. L.           2008 Ministry in three dimensions : ordination and leadership in 
 C3.35 262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
 C3.36 262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
@@ -722,7 +722,7 @@ D1.22 320.9385       9780140444315     Aristote                      1984 The At
 D1.23 320.94         9781844673247     Mair, Peter                   2013 Ruling the void : the hollowing of Western democracy
 D1.24 320.941        9780006862437     Letwin, Shirley Robin         1992 The anatomy of Thatcherism
 D1.25 320.994        9780992482589     Bridges, Scott David Edwar    2014 Kevern write a book : the best of @Rudd2000
-D1.26 320.994        9781863956727     Keating, Paul, 1944-          2014 The book of Paul : the wit &amp; wisdom of Paul Keating
+D1.26 320.994        9781863956727     Keating, Paul, 1944-          2014 The book of Paul : the wit & wisdom of Paul Keating
 D1.27 320.994        9780143574088     Kelly, Paul, 1947-            2017 The dismissal : in the queen's name
 D1.28 320.994        9780851791487     Whitington, Don               1971 Inside Canberra, : a guide to Australian federal politics
 D1.29 321.07         9780140455113     Plato                         2007 The republic
@@ -783,11 +783,11 @@ D3.06 408            9781863950930     Craven, Peter                 2003 Best A
 D3.07 427.994        9781740512787     Watson, Don, 1949-            2004 Death sentence : the decay of public language
 D3.08 487.1          9781781251324     Fox, Margalit                 None The riddle of the labyrinth : the quest to crack an ancient 
 D3.09 487.4          9780334011392     Barclay, William, 1907-197    2012 New Testament words
-D3.10 491.628                          &Oacute; Domhnall&aacute;i    1967 Bunt&uacute;s cainte : first steps in spoken Irish: a series
+D3.10 491.628                          Ó Domhnalláin, Tomás          1967 Buntús cainte : first steps in spoken Irish: a series of les
 D3.11 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
 D3.12 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
 D3.13 495.682421     9784770030085     Kokusai Nihongo Fukyū Kyōk    2006 Japanese for busy people : I,. Romanized version
-D3.14 495.683421     9780007165995                                   2004 Collins Japanese phrasebook &amp; dictionary
+D3.14 495.683421     9780007165995                                   2004 Collins Japanese phrasebook & dictionary
 D3.15 499.1503       9781741312331     Rooney, Bernard, 1934-        None Nyoongar dictionary
 D3.16 500            9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
 D3.17 500.09415      9780094172036                                   1984 Wild Ireland
@@ -835,7 +835,7 @@ D4.29 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachc
 D4.30 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
 D4.31 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
 D4.32 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
-D4.33 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles &amp; frogs of the Perth region
+D4.33 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles & frogs of the Perth region
 D4.34 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
 D4.35 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
 D4.36 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
@@ -845,7 +845,7 @@ D4.39 598.0994       9780643104693     Fraser, Ian                   2013 Austra
 D5.01 598.0994       9780670072316     Simpson, Ken, 1936-           2010 Field guide to the birds of Australia
 D5.02 598.09946      9781876334604     Watts, Dave, 1943-            2003 Field guide to Tasmanian birds
 D5.03 598.2          9780643094932     Olsen, Penny                  2011 Stray feathers : reflections on the structure, behaviour and
-D5.04 598.294        9780261674028     Nicolai, Jürgen               1993 Birds of Britain &amp; Europe
+D5.04 598.294        9780261674028     Nicolai, Jürgen               1993 Birds of Britain & Europe
 D5.05 598.2973       9781572153172     Audubon, John James, 1785-    2004 Audubon's masterpieces : 150 prints from the Birds of Americ
 D5.06 598.2994       9780207199356     Pizzey, Graham, 1930-2001     2008 A field guide to the birds of Australia
 D5.07 598.2994       9780207198212     Pizzey, Graham, 1930-2001     2005 A field guide to the birds of Australia
@@ -875,7 +875,7 @@ D5.30 641.5          9781846147500     Pollan, Michael               None Cooked
 D6.01 582.13099412   9781921361784     Breeden, Stanley, 1937 or     2010 Wildflower country : discovering biodiversity in Australia's
 D6.02 598            9781486302925     Elphick, Jonathan             2014 The world of birds
 D6.03 598.0222       9781555214685     Hyman, Susan                  1989 Edward Lear's birds
-D6.04 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain &amp; Europe
+D6.04 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain & Europe
 D6.05 598.2994       9780207155567     Cayley, Neville William, 1    1984 What bird is that?
 D6.06 598.42         9780643095557     De Roy, Tui                   2008 Albatross : their world, their ways
 D6.07 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
@@ -898,7 +898,7 @@ D6.23 741.6019       9781592535156     Malamed, Connie               2009 Visual
 D6.24 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
 D6.25 755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
 D6.26 759.94         9780141035796     Berger, John                  2008 Ways of seeing
-D6.27 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature &amp; outdoor photography
+D6.27 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature & outdoor photography
 D6.28 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
 D6.29 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
 D6.30 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
@@ -1142,7 +1142,7 @@ F6.35 821.9208       9781786277152     National Poetry Library       2020 Instag
 G1.01 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
 G1.02 823            9780143028574     Arundhati, Roy                2002 The god of small things
 G1.03 823            9780702230493     Carey, Peter (Peter Philip    1998 Jack Maggs
-G1.04 823            9780571153046     Carey, Peter, 1943-           1989 Oscar &amp; Lucinda
+G1.04 823            9780571153046     Carey, Peter, 1943-           1989 Oscar & Lucinda
 G1.05 823            9780958685658     Dedman, Stephen               1999 The Lady of Situations
 G1.06 823            9781857984163     Egan, Greg, 1961-             1995 Axiomatic
 G1.07 823            9781857982183     Egan, Greg, 1961-             1995 Permutation city
@@ -1496,7 +1496,7 @@ Y3.09 741.5          9780857680389     Gaiman, Neil                  2010 The Sa
 Y3.10 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
 Y3.11 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
 Y3.12 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
-Y3.13 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes &amp; nocturnes
+Y3.13 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes & nocturnes
 Y3.14 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
 Y3.15 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
 Y3.16 741.51                           Davis, Oslo                   2011 Libraryland!
@@ -1523,7 +1523,7 @@ Z1.01 635            9780857832269     Allen, Darina                 2017 Grow, 
 Z1.02 641.512        9781785031168     Ottolenghi, Yotam             2018 Ottolenghi Simple : a cookbook
 Z1.03 641.5636       9780207153037     Laden, Alice                  1987 The George Bernard Shaw vegetarian cook book;
 Z1.04 641.5636       9780091933685     Ottolenghi, Yotam             2010 Plenty
-Z1.05 641.56360952   9781570670725     Schinner, Miyoko Nishimoto    1999 Japanese cooking contemporary &amp; traditional : simple, de
+Z1.05 641.56360952   9781570670725     Schinner, Miyoko Nishimoto    1999 Japanese cooking contemporary & traditional : simple, delici
 Z1.06 641.5676       9789463887137     Hoffman, Moshi,               2020 Hoffy's : the jewish kitchen
 Z1.07 641.595692     9780857835772     Gregory-Smith, John           2019 Saffron in the souks : vibrant recipes from the heart of leb
 Z1.08 641.595694     9780711245280     Kalla, Joudie                 2019 Palestine on a plate : memories from my mother's kitchen

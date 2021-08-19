@@ -3,6 +3,7 @@ import json
 import datetime
 import requests
 import functools
+import html
 from itertools import tee
 import urllib.parse
 import re
@@ -20,6 +21,12 @@ def pairwise(iterable):
     a, b = tee(iterable)
     next(b, None)
     return zip(a, b)
+
+
+def he(s):
+    if s is None:
+        return
+    return html.unescape(s)
 
 
 def one(l):
@@ -153,11 +160,12 @@ class OCLC:
             if not candidate_ddcs:
                 return None, None
             holdings, ddc = candidate_ddcs[0]
+
             # rank by overall holdings for this work, not just the particular classification
             return int(work.get("holdings")), Book(
                 ddc,
-                get_author(),
-                work.get("title"),
+                he(get_author()),
+                he(work.get("title")),
                 isbn,
                 None,
             )
@@ -202,8 +210,8 @@ class LibraryThing:
     def get_book(book):
         return Book(
             LibraryThing.get_ddc(book),
-            LibraryThing.get_author(book),
-            LibraryThing.get_title(book),
+            he(LibraryThing.get_author(book)),
+            he(LibraryThing.get_title(book)),
             LibraryThing.get_isbn(book),
             LibraryThing.get_date(book),
         )
