@@ -75,44 +75,44 @@ A3.10 220.7          9781426735790     Keck, Leander E.              2015 The Ne
 A3.11 220.7          9781426735783     Keck, Leander E.              2015 The New interpreter's bible commentary
 A3.12 266.394                          Cottier, J & J                None Missionary Memories
 A3.13 170            9781316602591     Nietzsche, Friedrich Wilhe    2017 On the genealogy of morals
-A4.01 171.1          9780684815015     Bonhoeffer, Dietrich, 1906    1995 Ethics
-A4.02 171.3          9780140449495     Aristoteles, 384-322 î. Hr    2004 Nicomachean ethics
-A4.03 174.95         9780670028788     Bown, Stephen R.              2006 A most damnable invention : dynamite, nitrates, and the maki
-A4.04 177.3          9780691122946     Frankfurt, Harry G., 1929-    2005 On bullshit
-A4.05 184            9780872206335     Plato                         2002 Five dialogues
-A4.06 184            9780140449747     Plato                         2005 Phaedrus
-A4.07 184            9780140449273     Plato                         2003 Symposium
-A4.08 184            9780140440379     Plato                         1970 The last days of Socrates
-A4.09 188            9781907523502     Marcus Aurelius, Emperor o    2011 The meditations of Marcus Aurelius : selections annotated & 
-A4.10 190            9780631206729     Pickstock, Catherine          1997 After writing : on the liturgical consummation of philosophy
-A4.11 190.9          9780415325059     Russell, Bertrand, 1872-19    2004 A history of western philosophy
-A4.12 193            9780140447477     Kant, Immanuel (1724-1804)    2008 The critique of pure reason : the critique of practical reas
-A4.13 193            9781593083847     Nietzsche, Friedrich Wilhe    2007 Thus spoke Zarathustra : a book for all and none
-A4.14 193            9780199554966     Nietzsche, Friedrich Wilhe    2009 Twilight of the idols, or, How to philosophize with a hammer
-A4.15 194            9780192806963     Descartes, René, 1596-1650    2008 Meditations on first philosophy : with selections from the O
-A4.16 194            9780140259575     Foucault, Michel              2010 The essential works of Michel Foucault, 1954-1984
-A4.17 194            9780241472903     WEIL, SIMONE                  2020 POWER OF WORDS
-A4.18 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravity and grace
-A4.19 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
-A4.20 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
-A4.21 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
-A4.22 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
-A4.23 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
-A4.24 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
-A4.25 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
-A4.26 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
-A4.27 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
-A4.28 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
-A4.29 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
-A4.30 201.65         9780226478982     Harrison, Peter, 1955-        2017 The territories of science and religion
-A4.31 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
-A4.32 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
-A4.33 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
-A4.34 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
-A4.35 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
-A4.36 211            9780300209358     Hart, David Bentley           2014 The experience of God : being, consciousness, bliss
-A4.37 211.6          9781408837412     Grayling, A. C                2013 The God argument : the case against religion and for humanis
-A4.38 211.6          9780674986916     Taylor, Charles, 1931-        2018 A secular age
+A3.14 171.1          9780684815015     Bonhoeffer, Dietrich, 1906    1995 Ethics
+A3.15 171.3          9780140449495     Aristoteles, 384-322 î. Hr    2004 Nicomachean ethics
+A3.16 174.95         9780670028788     Bown, Stephen R.              2006 A most damnable invention : dynamite, nitrates, and the maki
+A3.17 177.3          9780691122946     Frankfurt, Harry G., 1929-    2005 On bullshit
+A3.18 184            9780872206335     Plato                         2002 Five dialogues
+A3.19 184            9780140449747     Plato                         2005 Phaedrus
+A3.20 184            9780140449273     Plato                         2003 Symposium
+A3.21 184            9780140440379     Plato                         1970 The last days of Socrates
+A4.01 188            9781907523502     Marcus Aurelius, Emperor o    2011 The meditations of Marcus Aurelius : selections annotated & 
+A4.02 190            9780631206729     Pickstock, Catherine          1997 After writing : on the liturgical consummation of philosophy
+A4.03 190.9          9780415325059     Russell, Bertrand, 1872-19    2004 A history of western philosophy
+A4.04 193            9780140447477     Kant, Immanuel (1724-1804)    2008 The critique of pure reason : the critique of practical reas
+A4.05 193            9781593083847     Nietzsche, Friedrich Wilhe    2007 Thus spoke Zarathustra : a book for all and none
+A4.06 193            9780199554966     Nietzsche, Friedrich Wilhe    2009 Twilight of the idols, or, How to philosophize with a hammer
+A4.07 194            9780192806963     Descartes, René, 1596-1650    2008 Meditations on first philosophy : with selections from the O
+A4.08 194            9780140259575     Foucault, Michel              2010 The essential works of Michel Foucault, 1954-1984
+A4.09 194            9780241472903     WEIL, SIMONE                  2020 POWER OF WORDS
+A4.10 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravity and grace
+A4.11 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
+A4.12 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
+A4.13 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
+A4.14 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
+A4.15 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
+A4.16 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
+A4.17 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
+A4.18 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
+A4.19 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
+A4.20 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
+A4.21 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
+A4.22 201.65         9780226478982     Harrison, Peter, 1955-        2017 The territories of science and religion
+A4.23 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
+A4.24 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
+A4.25 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
+A4.26 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
+A4.27 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
+A4.28 211            9780300209358     Hart, David Bentley           2014 The experience of God : being, consciousness, bliss
+A4.29 211.6          9781408837412     Grayling, A. C                2013 The God argument : the case against religion and for humanis
+A4.30 211.6          9780674986916     Taylor, Charles, 1931-        2018 A secular age
 A5.01 211.6091821    9780674088054     Gregory, Brad S. (Brad Ste    2015 The unintended Reformation : how a religious revolution secu
 A5.02 213            9781570754517     Ó Murchú, Diarmuid            2002 Evolutionary faith : rediscovering God in our great story
 A5.03 220.072        9780800697747     Moore, Stephen D., 1954-      2011 The invention of the biblical scholar : a critical manifesto
