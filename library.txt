@@ -974,35 +974,35 @@ E3.19 813.54         9781841154930     Chabon, Michael               2001 The am
 E3.20 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
 E3.21 813.54         9780434021055     Coupland, Douglas             2010 Player One : what is to become of us : a novel in five hours
 E3.22 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
-E3.23 813.54         9780679752981     Dick, Philip K.               1994 A maze of death
-E3.24 813.54         9781857988475     Dick, Philip K.               1999 A scanner darkly
-E3.25 813.54         9781780220413     Dick, Philip K.               2012 Flow my tears, the policeman said
-E3.26 813.54         9780575074552     Dick, Philip K.               2003 Solar lottery
-E3.27 813.54         9780575076709     Dick, Philip K.               2006 The cosmic puppets
-E3.28 813.54         9780547877327     Dick, Philip K.               2012 The game-players of Titan
-E3.29 813.54         9780141186672     Dick, Philip K.               2010 The man in the high castle
-E3.30 813.54         9781857988536     Dick, Philip K.               2000 Ubik
-F1.01 813.54         9780747263746     Gaiman, Neil                  2002 American gods : a novel
-F1.02 813.54         9780241237229     Gibson, William, 1948-        2020 Agency
-F1.03 813.54         9780006480419     Gibson, William, 1948-        1995 Neuromancer
-F1.04 813.54         9780140266146     Gibson, William, 1948-        2010 Pattern recognition
-F1.05 813.54         9780141016719     Gibson, William, 1948-        2008 Spook country
-F1.06 813.54         9780670919550     Gibson, William, 1948-        2011 Zero history
-F1.07 813.54         9780747545187     Goldman, William, 1931-201    1999 The princess bride: S. Morgenstern's classic tale of true lo
-F1.08 813.54         9780141029542     Hamid, Mohsin, 1971-          2008 The reluctant fundamentalist
-F1.09 813.54         9780575120723     Heinlein, Robert A. (Rober    2001 The door into summer
-F1.10 813.54         9780450051272     Heinlein, Robert A. (Rober    1981 The number of the beast
-F1.11 813.54         9780099470465     Heller, Joseph, 1923-1999     2004 Catch-22 : a novel
-F1.12 813.54         9781784872786     Heller, Joseph, 1923-1999,    2017 WORK
-F1.13 813.54         9780340960196     Herbert, Frank                2015 Dune. House Harkonnen
-F1.14 813.54         9780450424052     Herbert, Frank                1988 Eye
-F1.15 813.54         9780450012297     Herbert, Frank.               1969 Dune Messiah
-F1.16 813.54         9780007232192     Hunt, Stephen, 1967-          2007 The Court of the Air
-F1.17 813.54         9781473223547     Le Guin, Ursula K., 1929-2    2018 The books of Earthsea
-F1.18 813.54         9781473228412     Le Guin, Ursula K., 1929-2    2019 The dispossessed : a novel
-F1.19 813.54         9780441478125     Le Guin, Ursula K., 1929-2    1987 The left hand of darkness
-F1.20 813.54         9781473205765     Le Guin, Ursula K., 1929-2    2001 The wind's twelve quarters and the compass rose
-F1.21 813.54         9781473230989     Le Guin, Ursula K., 1929-2    2020 Worlds of exile and illusion
+F1.01 813.54         9780679752981     Dick, Philip K.               1994 A maze of death
+F1.02 813.54         9781857988475     Dick, Philip K.               1999 A scanner darkly
+F1.03 813.54         9781780220413     Dick, Philip K.               2012 Flow my tears, the policeman said
+F1.04 813.54         9780575074552     Dick, Philip K.               2003 Solar lottery
+F1.05 813.54         9780575076709     Dick, Philip K.               2006 The cosmic puppets
+F1.06 813.54         9780547877327     Dick, Philip K.               2012 The game-players of Titan
+F1.07 813.54         9780141186672     Dick, Philip K.               2010 The man in the high castle
+F1.08 813.54         9781857988536     Dick, Philip K.               2000 Ubik
+F1.09 813.54         9780747263746     Gaiman, Neil                  2002 American gods : a novel
+F1.10 813.54         9780241237229     Gibson, William, 1948-        2020 Agency
+F1.11 813.54         9780006480419     Gibson, William, 1948-        1995 Neuromancer
+F1.12 813.54         9780140266146     Gibson, William, 1948-        2010 Pattern recognition
+F1.13 813.54         9780141016719     Gibson, William, 1948-        2008 Spook country
+F1.14 813.54         9780670919550     Gibson, William, 1948-        2011 Zero history
+F1.15 813.54         9780747545187     Goldman, William, 1931-201    1999 The princess bride: S. Morgenstern's classic tale of true lo
+F1.16 813.54         9780141029542     Hamid, Mohsin, 1971-          2008 The reluctant fundamentalist
+F1.17 813.54         9780575120723     Heinlein, Robert A. (Rober    2001 The door into summer
+F1.18 813.54         9780450051272     Heinlein, Robert A. (Rober    1981 The number of the beast
+F1.19 813.54         9780099470465     Heller, Joseph, 1923-1999     2004 Catch-22 : a novel
+F1.20 813.54         9781784872786     Heller, Joseph, 1923-1999,    2017 WORK
+F1.21 813.54         9780340960196     Herbert, Frank                2015 Dune. House Harkonnen
+F1.22 813.54         9780450424052     Herbert, Frank                1988 Eye
+F1.23 813.54         9780450012297     Herbert, Frank.               1969 Dune Messiah
+F1.24 813.54         9780007232192     Hunt, Stephen, 1967-          2007 The Court of the Air
+F1.25 813.54         9781473223547     Le Guin, Ursula K., 1929-2    2018 The books of Earthsea
+F1.26 813.54         9781473228412     Le Guin, Ursula K., 1929-2    2019 The dispossessed : a novel
+F1.27 813.54         9780441478125     Le Guin, Ursula K., 1929-2    1987 The left hand of darkness
+F1.28 813.54         9781473205765     Le Guin, Ursula K., 1929-2    2001 The wind's twelve quarters and the compass rose
+F1.29 813.54         9781473230989     Le Guin, Ursula K., 1929-2    2020 Worlds of exile and illusion
 F2.01 813.54         9780434020485     Lee, Harper, 1926-            2010 To kill a mockingbird
 F2.02 813.54         9780099283928     MacLeod, Alistair             2006 No great mischief
 F2.03 813.54         9781472203199     McDevitt, Jack                2001 The engines of God
