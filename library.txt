@@ -186,45 +186,45 @@ B1.06 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuter
 B1.07 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
 B1.08 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
 B1.09 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
-B2.01 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
-B2.02 223.1          9780300140750     Pope, Marvin H.               1965 Job
-B2.03 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
-B2.04 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
-B2.05 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
-B2.06 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
-B2.07 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
-B2.08 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
-B2.09 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
-B2.10 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
-B2.11 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
-B2.12 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
-B2.13 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
-B2.14 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
-B2.15 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
-B2.16 223.9077       9780300139495     Pope, Marvin H.               1995 Song of songs : a new translation with introduction and comm
-B2.17 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
-B2.18 224            9780334011644     Rad, Gerhard von, 1901-       1968 The message of the prophets
-B2.19 224.06         9780060936990     Heschel, Abraham Joshua, 1    2001 The Prophets
-B2.20 224.206        9780800699307     O'Connor, Kathleen M., 194    2012 Jeremiah : pain and promise
-B2.21 224.206        9780931464201     Perdue, Leo G. [Editor; Ot    1984 A Prophet to the nations : essays in Jeremiah studies
-B2.22 224.2077       9780802823694     Thompson, J. A. (John Arth    1980 The book of Jeremiah
-B2.23 224.6                            Knight, G. A. F.              1969 Hosea: God's Love
-B2.24 224.807                          Marsh, J.                     1959 Amos and Micah [Torch Bible Commentaries]
-B2.25 225            9780232511802     Kee, Howard Clark             2011 The living world of the New Testament
-B2.26 225.08         9780334011385     Batey, Richard A., 1933-      1970 New Testament issues
-B2.27 225.6          9780334003885     Käsemann, Ernst               2012 Essays on New Testament themes
-B2.28 225.6          9780334010999     Käsemann, Ernst               2012 Essays on New Testament themes
-B2.29 225.6          9781563381836     Robbins, Vernon K. (Vernon    1996 Exploring the texture of texts : a guide to socio-rhetorical
-B2.30 225.6          9780415139984     Robbins, Vernon K. (Vernon    1996 The tapestry of early Christian discourse : rhetoric, societ
-B2.31 225.6          9780867160987     Rohr, Richard, O.F.M          1988 The great themes of scripture : New Testament
-B2.32 225.61         9780300173123     Brown, Raymond Edward         2016 An introduction to the New Testament
-B2.33 225.61         9780802827463     Loader, William R. G., 194    2007 The New Testament with imagination : a fresh approach to its
+B1.10 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
+B1.11 223.1          9780300140750     Pope, Marvin H.               1965 Job
+B1.12 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
+B1.13 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
+B1.14 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
+B1.15 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
+B1.16 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
+B1.17 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
+B1.18 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
+B1.19 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
+B1.20 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
+B1.21 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
+B1.22 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
+B1.23 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
+B1.24 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
+B1.25 223.9077       9780300139495     Pope, Marvin H.               1995 Song of songs : a new translation with introduction and comm
+B1.26 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
+B1.27 224            9780334011644     Rad, Gerhard von, 1901-       1968 The message of the prophets
+B1.28 224.06         9780060936990     Heschel, Abraham Joshua, 1    2001 The Prophets
+B1.29 224.206        9780800699307     O'Connor, Kathleen M., 194    2012 Jeremiah : pain and promise
+B1.30 224.206        9780931464201     Perdue, Leo G. [Editor; Ot    1984 A Prophet to the nations : essays in Jeremiah studies
+B2.01 224.2077       9780802823694     Thompson, J. A. (John Arth    1980 The book of Jeremiah
+B2.02 224.6                            Knight, G. A. F.              1969 Hosea: God's Love
+B2.03 224.807                          Marsh, J.                     1959 Amos and Micah [Torch Bible Commentaries]
+B2.04 225            9780232511802     Kee, Howard Clark             2011 The living world of the New Testament
+B2.05 225.08         9780334011385     Batey, Richard A., 1933-      1970 New Testament issues
+B2.06 225.6          9780334003885     Käsemann, Ernst               2012 Essays on New Testament themes
+B2.07 225.6          9780334010999     Käsemann, Ernst               2012 New Testament questions of today
+B2.08 225.6          9781563381836     Robbins, Vernon K. (Vernon    1996 Exploring the texture of texts : a guide to socio-rhetorical
+B2.09 225.6          9780415139984     Robbins, Vernon K. (Vernon    1996 The tapestry of early Christian discourse : rhetoric, societ
+B2.10 225.6          9780867160987     Rohr, Richard, O.F.M          1988 The great themes of scripture : New Testament
+B2.11 225.61         9780300173123     Brown, Raymond Edward         2016 An introduction to the New Testament
+B2.12 225.61         9780802827463     Loader, William R. G., 194    2007 The New Testament with imagination : a fresh approach to its
 B3.01 223.8052034    9781481476546     Rylant, Cynthia [Illustrat    2018 Ecclesiastes : to everything there is a season
 B3.02 225.61         9780300180855     Martin, Dale B., 1954-        2012 New Testament history and literature
 B3.03 225.66         9780801027895     Resseguie, James L.           2005 Narrative criticism of the New Testament : an introduction
 B3.04 225.67         9780190203825     Ehrman, Bart D                2015 The New Testament : a historical introduction to the early C
 B3.05 225.68         9780334022114     Bultmann, Rudolf, 1884-197    1985 New Testament and mythology and other basic writings
-B3.06 225.7          9780198261681     Harvey, A. E. (Anthony Ern    1972 The new English Bible : companion to the New Testament
+B3.06 225.7          9780198261681     Harvey, A. E. (Anthony Ern    1972 Companion to the New Testament : the New English Bible
 B3.07 225.83055      9781978702073     Myles, Robert J. [Editor]     2019 Class struggle in the New Testament
 B3.08 225.835500937  9781978704046     Zeichman, Christopher B.      2021 The Roman army and the New Testament
 B3.09 225.92         9781847301710     O'Mahony, Kieran J.           2009 Do we still need St. Paul? : a contemporary reading of the A
