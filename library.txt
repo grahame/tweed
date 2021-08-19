@@ -139,12 +139,11 @@ A5.23 221.06                           Westermann, Claus (ed.)       1963 Essays
 A5.24 221.15         9780800632878     Brueggemann, Walter           2001 The prophetic imagination
 A5.25 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
 A5.26 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
-A5.27 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
-A5.28 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
-A5.29 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
-A5.30 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
-A5.31 221.6          9780334020868     Childs, Brevard S.            1983 Introduction to the Old Testament as Scripture
-A5.32 221.6          9781589833494     Crenshaw, James L.            1984 A whirlpool of torment : Israelite traditions of God as an o
+A5.27 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
+A5.28 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
+A5.29 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
+A5.30 221.6          9780334020868     Childs, Brevard S.            1983 Introduction to the Old Testament as Scripture
+A5.31 221.6          9781589833494     Crenshaw, James L.            1984 A whirlpool of torment : Israelite traditions of God as an o
 A6.01 221.6          9780664223083     Eichrodt, Walter              1961 Theology of the Old Testament, Vol. 1 (OTL) (The Old Testame
 A6.02 221.6          9780664223090     Eichrodt, Walther             1967 Theology of the Old Testament, Vol. 2 (OTL) (The Old Testame
 A6.03 221.6          9780800634384     Gunkel, Hermann, 1862-1932    2001 Water for a thirsty land : Israelite literature and religion
@@ -1486,39 +1485,40 @@ Y2.17 297.122521     9789960792637     Saheeh International          1997 The Qu
 Y2.18 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
 Y3.01 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
 Y3.02 220                              St. Athanasius Academy of     2008 The Orthodox Study Bible, Hardcover: Ancient Christianity Sp
-Y3.03 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
-Y3.04 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
-Y3.05 226.1          9783438054050     Aland, Kurt                   1993 Synopsis of the four gospels
-Y3.06 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
-Y3.07 741            9780756005184     North, Ryan                   2006 the best of Dinosaur Comics: 2003-2005 A.D.
-Y3.08 741.5          9781401227999     Gaiman, Neil                  2010 The Sandman
-Y3.09 741.5          9780857680389     Gaiman, Neil                  2010 The Sandman
-Y3.10 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
-Y3.11 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
-Y3.12 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
-Y3.13 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes & nocturnes
-Y3.14 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
-Y3.15 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
-Y3.16 741.51                           Davis, Oslo                   2011 Libraryland!
-Y3.17 741.51         9780980436778     Davis, Oslo                   2010 Overheard : the art of eavesdropping
-Y3.18 741.51                           Davis, Oslo                   None Where the wild things aren't
-Y3.19 741.51                           McLeod, Jessica               2007 Mungo Bean
-Y3.20 741.51                           Salmon-Lomas, Riley           None Riley: Moments in the Life Of
-Y3.21 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
-Y3.22 741.56973      9781472269058     Pyle, Nathan W.               2019 Strange planet
-Y3.23 741.56973      9780740748479     Watterson, Bill               2005 Calvin and Hobbes
-Y3.24 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
-Y3.25 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
-Y3.26 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
-Y3.27 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
-Y3.28 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
-Y3.29 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
-Y3.30 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
-Y3.31 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
-Y3.32 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
-Y3.33 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
-Y3.34 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
-Y3.35 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
+Y3.03 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
+Y3.04 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
+Y3.05 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
+Y3.06 226.1          9783438054050     Aland, Kurt                   1993 Synopsis of the four gospels
+Y3.07 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
+Y3.08 741            9780756005184     North, Ryan                   2006 the best of Dinosaur Comics: 2003-2005 A.D.
+Y3.09 741.5          9781401227999     Gaiman, Neil                  2010 The Sandman
+Y3.10 741.5          9780857680389     Gaiman, Neil                  2010 The Sandman
+Y3.11 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
+Y3.12 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
+Y3.13 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
+Y3.14 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes & nocturnes
+Y3.15 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
+Y3.16 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
+Y3.17 741.51                           Davis, Oslo                   2011 Libraryland!
+Y3.18 741.51         9780980436778     Davis, Oslo                   2010 Overheard : the art of eavesdropping
+Y3.19 741.51                           Davis, Oslo                   None Where the wild things aren't
+Y3.20 741.51                           McLeod, Jessica               2007 Mungo Bean
+Y3.21 741.51                           Salmon-Lomas, Riley           None Riley: Moments in the Life Of
+Y3.22 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
+Y3.23 741.56973      9781472269058     Pyle, Nathan W.               2019 Strange planet
+Y3.24 741.56973      9780740748479     Watterson, Bill               2005 Calvin and Hobbes
+Y3.25 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
+Y3.26 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
+Y3.27 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
+Y3.28 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
+Y3.29 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
+Y3.30 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
+Y3.31 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
+Y3.32 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
+Y3.33 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
+Y3.34 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
+Y3.35 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
+Y3.36 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
 Z1.01 635            9780857832269     Allen, Darina                 2017 Grow, cook, nourish : a kitchen garden companion in 500 reci
 Z1.02 641.512        9781785031168     Ottolenghi, Yotam             2018 Ottolenghi Simple : a cookbook
 Z1.03 641.5636       9780207153037     Laden, Alice                  1987 The George Bernard Shaw vegetarian cook book;
