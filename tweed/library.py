@@ -388,14 +388,14 @@ class Library:
         # place everything else linearly across available shelf space
         current_shelf = None
         for book in books:
-            # skip overridden books, already placed
-            if get_override(book):
-                continue
             # check if we are at the start of another shelf
             for shelf in shelves:
                 if query_matches(shelf["first_book"], book):
                     current_shelf = shelf
                     break
+            # skip overridden books, already placed
+            if get_override(book):
+                continue
             # default to the current shelf
             place_book(current_shelf, book)
 
