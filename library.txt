@@ -782,25 +782,23 @@ D3.07 427.994        9781740512787     Watson, Don, 1949-            2004 Death 
 D3.08 487.1          9781781251324     Fox, Margalit                 None The riddle of the labyrinth : the quest to crack an ancient 
 D3.09 487.4          9780334011392     Barclay, William, 1907-197    2012 New Testament words
 D3.10 491.628                          Ó Domhnalláin, Tomás          1967 Buntús cainte : first steps in spoken Irish: a series of les
-D3.11 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
-D3.12 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
-D3.13 495.682421     9784770030085     Kokusai Nihongo Fukyū Kyōk    2006 Japanese for busy people : I,. Romanized version
-D3.14 495.683421     9780007165995                                   2004 Collins Japanese phrasebook & dictionary
-D3.15 499.1503       9781741312331     Rooney, Bernard, 1934-        None Nyoongar dictionary
-D3.16 500            9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
-D3.17 500.09415      9780094172036                                   1984 Wild Ireland
-D3.18 500.2          9780316071369     Ferris, Timothy               1991 The World treasury of physics, astronomy, and mathematics
-D3.19 501            9780141026183     Dawkins, Richard, 1941-       2006 Unweaving the rainbow : science, delusion, and the appetite 
-D3.20 510            9780201558029     Graham, Ronald L., 1935-20    1994 Concrete mathematics : a foundation for computer science
-D3.21 510.1          9780465026562     Hofstadter, Douglas R., 19    1999 Gödel, Escher, Bach : an eternal golden braid
-D3.22 510.1          9780090566426     Körner, Stephan, 1913-2000    1979 The philosophy of mathematics, : an introductory essay
-D3.23 512.5          9780961408855     Strang, Gilbert               1993 Introduction to linear algebra
-D3.24 515            9780534217983     Stewart, James, 1941-         1994 Calculus
-D3.25 519.20246213   9780201500370     Leon-Garcia, Alberto          1993 Probability and random processes for electrical engineering
-D3.26 519.5          9781500576691     Diez, David M                 2014 Introductory Statistics with Randomization and Simulation
-D3.27 519.5          9781943450039     Diez, David M.                2015 OpenIntro statistics
-D3.28 519.5          9780415872911     Urdan, Timothy C.             2010 Statistics in plain English
-D3.29 519.5          9780393347777     Wheelan, Charles J.           2014 Naked statistics : stripping the dread from the data
+D3.11 495.682421     9784770030085     Kokusai Nihongo Fukyū Kyōk    2006 Japanese for busy people : I,. Romanized version
+D3.12 495.683421     9780007165995                                   2004 Collins Japanese phrasebook & dictionary
+D3.13 499.1503       9781741312331     Rooney, Bernard, 1934-        None Nyoongar dictionary
+D3.14 500            9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
+D3.15 500.09415      9780094172036                                   1984 Wild Ireland
+D3.16 500.2          9780316071369     Ferris, Timothy               1991 The World treasury of physics, astronomy, and mathematics
+D3.17 501            9780141026183     Dawkins, Richard, 1941-       2006 Unweaving the rainbow : science, delusion, and the appetite 
+D3.18 510            9780201558029     Graham, Ronald L., 1935-20    1994 Concrete mathematics : a foundation for computer science
+D3.19 510.1          9780465026562     Hofstadter, Douglas R., 19    1999 Gödel, Escher, Bach : an eternal golden braid
+D3.20 510.1          9780090566426     Körner, Stephan, 1913-2000    1979 The philosophy of mathematics, : an introductory essay
+D3.21 512.5          9780961408855     Strang, Gilbert               1993 Introduction to linear algebra
+D3.22 515            9780534217983     Stewart, James, 1941-         1994 Calculus
+D3.23 519.20246213   9780201500370     Leon-Garcia, Alberto          1993 Probability and random processes for electrical engineering
+D3.24 519.5          9781500576691     Diez, David M                 2014 Introductory Statistics with Randomization and Simulation
+D3.25 519.5          9781943450039     Diez, David M.                2015 OpenIntro statistics
+D3.26 519.5          9780415872911     Urdan, Timothy C.             2010 Statistics in plain English
+D3.27 519.5          9780393347777     Wheelan, Charles J.           2014 Naked statistics : stripping the dread from the data
 D4.01 520            9780345331359     Sagan, Carl, 1934-1996        1985 Cosmos
 D4.02 523.1          9780553401653     Hawking, Stephen, 1942-201    1989 Une brève histoire du temps : du big bang aux trous noirs
 D4.03 523.1          9780099505945     Penrose, Roger                2011 Cycles of time : an extraordinary new view of the universe
@@ -1459,11 +1457,13 @@ J3.19                9781911405177     Underhill, Evelyn             2016 'The S
 J3.20                9780648228202     Watts, Rachel                 2018 Survival
 J3.21                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
 J3.22                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
-Y1.01 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
-Y1.02 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
-Y1.03 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
-Y1.04 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
-Y1.05 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
+Y1.01 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
+Y1.02 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
+Y1.03 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
+Y1.04 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
+Y1.05 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
+Y1.06 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
+Y1.07 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
 Y2.01 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
 Y2.02 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
 Y2.03 220            9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
