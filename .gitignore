@@ -12,3 +12,8 @@ dist/
 .cache
 .vscode/
 cache/
+**/.yarn/*
+!**/.yarn/releases
+!**/.yarn/plugins
+**/.pnp.*
+**/.pnp.*
