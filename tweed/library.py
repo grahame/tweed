@@ -324,17 +324,20 @@ class Library:
             json.dump(obj, fd)
 
     def write_index_txt(self):
-        for bp in self.arrangement:
-            print(
-                "{:4} {:14} {:16}  {:28}  {:4} {}".format(
-                    bp.location,
-                    (bp.book.ddc or "")[:14],
-                    (bp.book.isbn or "")[:16],
-                    bp.book.author[:26],
-                    str(bp.book.date)[:4],
-                    bp.book.title[:60],
+        with open("library.txt.new", "w") as fd:
+            for bp in self.arrangement:
+                print(
+                    "{:4} {:14} {:16}  {:28}  {:4} {}".format(
+                        bp.location,
+                        (bp.book.ddc or "")[:14],
+                        (bp.book.isbn or "")[:16],
+                        bp.book.author[:26],
+                        str(bp.book.date)[:4],
+                        bp.book.title[:60],
+                    ),
+                    file=fd,
                 )
-            )
+        os.rename("library.txt.new", "index.txt")
 
     def arrange(self):
         books = list(self.meta)
