@@ -331,14 +331,63 @@ class Library:
             def insert(book):
                 print("insert:", book)
 
-            old_idx = 0
-            new_idx = 0
-            while True:
-                # are we out of old books? then everything after is insertion
-                if old_idx >= len(old):
-                    for book in new[new_idx:]:
-                        insert(book)
-                break
+            old_books_id = set(t["books_id"] for t in old)
+            new_books_id = set(t["books_id"] for t in new)
+            row_index = dict((t["books_id"], idx) for (idx, t) in enumerate(new))
+
+            # paranoia: validate core assumption
+            assert len(old_books_id) == len(old)
+            assert len(new_books_id) == len(new)
+
+            def make_instructions(op, books_ids):
+                r = []
+                for book_id in books_ids:
+                    book_index = row_index[book_id]
+                    book = new[book_index]
+                    book_before = book_after = None
+                    if book_index > 0:
+                        book_before = new[book_index - 1]
+                    if book_index < len(new) - 1:
+                        book_after = new[book_index + 1]
+                    case, shelf, offset = re.match(
+                        r"^([A-Z]+)(\d+)\.(\d+)", book["loc"]
+                    ).groups()
+                    r.append(
+                        (
+                            (case, int(shelf), int(offset)),
+                            op,
+                            book_before,
+                            book,
+                            book_after,
+                        )
+                    )
+                return r
+
+            instructions = []
+            added_books_id = new_books_id - old_books_id
+            instructions += make_instructions("+", added_books_id)
+            removed_books_id = old_books_id - new_books_id
+            instructions += make_instructions("-", removed_books_id)
+            instructions.sort()
+
+            def describe(book):
+                return "{:4} {:14} {:28}  {}".format(
+                    book["loc"],
+                    (book["isbn"] or "")[:14],
+                    book["author"][:26],
+                    book["title"][:40],
+                )
+
+            def book_msg(s, book):
+                if not book:
+                    return
+                print("{:>1} {}".format(s, describe(book)))
+
+            for (tpl, op, book_before, book, book_after) in instructions:
+                book_msg("", book_before)
+                book_msg(op, book)
+                book_msg("", book_after)
+                print()
 
         BOOKS_JSON = "frontend/src/books.json"
         with open(BOOKS_JSON) as fd:
@@ -346,7 +395,7 @@ class Library:
         new_state = get_state()
 
         # make a report for the librarian
-        report(old_state, new_state)
+        report(old_state["books"], new_state["books"])
 
         with open("frontend/src/books.json", "w") as fd:
             json.dump(new_state, fd)
