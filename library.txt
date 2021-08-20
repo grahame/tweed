@@ -500,28 +500,30 @@ C2.24 248.842        9780849944383     Dalbey, Gordon, 1944-         2003 Healin
 C2.25 248.8629       9781616361570     Rohr, Richard                 2011 Breathing under water : spirituality and the twelve steps
 C2.26 248.9          9780875084190     Nee, Watchman                 1964 Sit, walk, stand
 C2.27 251            9780664251581     Barth, Karl, 1886-1968        1991 Homiletics
-C2.28 251            9781444790078     Stott, John R. W              1774 I believe in preaching
-C2.29 252            9780860124238     Duffy, Eamon                  2006 Walking to Emmaus
-C2.30 252.02         9780809128273     Eckhart, Meister, -1327       1986 Meister Eckhart, teacher and preacher
-C2.31 252.03         9780060653200     Lewis, C. S. (Clive Staple    2001 The weight of glory and other addresses
-C2.32 252.03         9780232520668     Williams, Rowan               1994 Open to judgement : sermons and addresses
-C2.33 252.03         9780802841322     Wright, N. T. (Nicholas Th    1995 Following Jesus : biblical reflections on discipleship
-C2.34 252.03092                        Harlin, Butterley             None Murder in the Pulpit
-C2.35 252.0342       9781859310175     Ramsey, Michael, 1904-1988    1994 Introducing the Christian faith
-C2.36 252.0793       9780895368171     Bass, George                  1986 The cradle, the cross and the crown : sermons for Advent, Ch
-C2.37 252.0793       9780995381568     Carnley, Peter                2016 A kind of retirement : more sermons from Archbishop Peter Ca
-C2.38 252.0793       9781986621403     Crooks, Fr Ian                2018 Prayer and Priesthood: Addresses from Father Ian Crooks
-C2.39 252.6          9780809144167     Leonard, Richard, 1963-       2006 Preaching to the converted : on Sundays and feast days throu
-C2.40 252.6          9780908284870     Weller, Keith                 2011 Better be a good sermon : preaching for special occasions
-C2.41 253            9781921577031     Frame, T. R.                  2009 Called to minister : vocational discernment in the contempor
-C2.42 253            9780892760732     Hagin, Kenneth E., 1917-20    1998 The ministery gifts
-C2.43 253            9780816423514     Holmes, Urban T., III, 193    1976 Ministry and imagination
-C2.44 253            9780281057481     Pritchard, John, 1948-        2007 The life and work of a priest
-C2.45 253            9781783590889     Stott, John R. W              2014 Christian leadership : 9 studies for individuals or groups
-C2.46 255            9780809126941     Cassianus, Johannes           1985 Conferences
-C2.47 255            9780824516208     Fiand, Barbara                1996 Wrestling with God : religious life in search of its soul
-C2.48 255.106        9780814612729     Benito, Santo, ca. 480-547    1981 The rule of Saint Benedict
-C2.49 255.106        9781612613970     Casey, Michael, 1942-         2013 Strangers to the city : reflections on the beliefs and value
+C2.28 251            9780851115573     Robinson, Haddon W.           2001 Expository preaching : its principles and practice
+C2.29 251            9781444790078     Stott, John R. W              1774 I believe in preaching
+C2.30 252            9780860124238     Duffy, Eamon                  2006 Walking to Emmaus
+C2.31 252.02         9780809128273     Eckhart, Meister, -1327       1986 Meister Eckhart, teacher and preacher
+C2.32 252.03         9780060653200     Lewis, C. S. (Clive Staple    2001 The weight of glory and other addresses
+C2.33 252.03         9780232520668     Williams, Rowan               1994 Open to judgement : sermons and addresses
+C2.34 252.03         9780802841322     Wright, N. T. (Nicholas Th    1995 Following Jesus : biblical reflections on discipleship
+C2.35 252.03092                        Harlin, Butterley             None Murder in the Pulpit
+C2.36 252.0342       9781859310175     Ramsey, Michael, 1904-1988    1994 Introducing the Christian faith
+C2.37 252.0793       9780895368171     Bass, George                  1986 The cradle, the cross and the crown : sermons for Advent, Ch
+C2.38 252.0793       9780995381568     Carnley, Peter                2016 A kind of retirement : more sermons from Archbishop Peter Ca
+C2.39 252.0793       9781986621403     Crooks, Fr Ian                2018 Prayer and Priesthood: Addresses from Father Ian Crooks
+C2.40 252.0793                         Witham, Ted                   2020 God's Work of Art: Darkness and Prayer
+C2.41 252.6          9780809144167     Leonard, Richard, 1963-       2006 Preaching to the converted : on Sundays and feast days throu
+C2.42 252.6          9780908284870     Weller, Keith                 2011 Better be a good sermon : preaching for special occasions
+C2.43 253            9781921577031     Frame, T. R.                  2009 Called to minister : vocational discernment in the contempor
+C2.44 253            9780892760732     Hagin, Kenneth E., 1917-20    1998 The ministery gifts
+C2.45 253            9780816423514     Holmes, Urban T., III, 193    1976 Ministry and imagination
+C2.46 253            9780281057481     Pritchard, John, 1948-        2007 The life and work of a priest
+C2.47 253            9781783590889     Stott, John R. W              2014 Christian leadership : 9 studies for individuals or groups
+C2.48 255            9780809126941     Cassianus, Johannes           1985 Conferences
+C2.49 255            9780824516208     Fiand, Barbara                1996 Wrestling with God : religious life in search of its soul
+C2.50 255.106        9780814612729     Benito, Santo, ca. 480-547    1981 The rule of Saint Benedict
+C2.51 255.106        9781612613970     Casey, Michael, 1942-         2013 Strangers to the city : reflections on the beliefs and value
 C3.01 255.106        9780814628027     Derkse, Wil                   2003 The rule of Benedict for beginners : spirituality for daily 
 C3.02 255.106        9781472973078     Williams, Rowan 1950-         2020 The way of St Benedict
 C3.03 259.23         9780281070510     Griffiths, Steve, 1967-       2013 Models for youth ministry : learning from the life of Christ
@@ -798,7 +800,7 @@ D3.25 519.5          9781943450039     Diez, David M.                2015 OpenIn
 D3.26 519.5          9780415872911     Urdan, Timothy C.             2010 Statistics in plain English
 D3.27 519.5          9780393347777     Wheelan, Charles J.           2014 Naked statistics : stripping the dread from the data
 D4.01 520            9780345331359     Sagan, Carl, 1934-1996        1985 Cosmos
-D4.02 523.1          9780553401653     Hawking, Stephen, 1942-201    1989 Une brève histoire du temps : du big bang aux trous noirs
+D4.02 523.1          9780553401653     Hawking, Stephen W.           1989 A Brief History of Time
 D4.03 523.1          9780099505945     Penrose, Roger                2011 Cycles of time : an extraordinary new view of the universe
 D4.04 526.6209       9781857025712     Sobel, Dava                   1998 Longitude : the true story of a lone genius who solved the g
 D4.05 526.8          9780226767475     Snyder, John Parr, 1926-      1993 Flattening the earth : two thousand years of map projections
