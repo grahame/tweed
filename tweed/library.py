@@ -337,7 +337,7 @@ class Library:
                     ),
                     file=fd,
                 )
-        os.rename("library.txt.new", "index.txt")
+        os.rename("library.txt.new", "library.txt")
 
     def arrange(self):
         books = list(self.meta)
