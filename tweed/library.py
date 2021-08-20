@@ -12,7 +12,7 @@ from collections import namedtuple, Counter, defaultdict
 from lxml import etree
 from hashlib import sha256
 
-Book = namedtuple("Book", ("ddc", "author", "title", "isbn", "date"))
+Book = namedtuple("Book", ("ddc", "author", "title", "isbn", "date", "books_id"))
 BookPlacement = namedtuple("BookPlacement", ("book", "location"))
 
 # https://docs.python.org/3/library/itertools.html
@@ -168,11 +168,7 @@ class OCLC:
 
             # rank by overall holdings for this work, not just the particular classification
             return int(work.get("holdings")), Book(
-                ddc,
-                he(get_author()),
-                he(work.get("title")),
-                isbn,
-                None,
+                ddc, he(get_author()), he(work.get("title")), isbn, None, None
             )
 
         def fill_blanks(a, b):
@@ -187,6 +183,7 @@ class OCLC:
                 fill_blanks(a.title, b.title),
                 fill_blanks(a.isbn, b.isbn),
                 fill_blanks(a.date, b.date),
+                fill_blanks(a.books_id, b.books_id),
             )
 
         books = [
@@ -219,6 +216,7 @@ class LibraryThing:
             he(LibraryThing.get_title(book)),
             LibraryThing.get_isbn(book),
             LibraryThing.get_date(book),
+            LibraryThing.get_books_id(book),
         )
 
     @staticmethod
@@ -238,6 +236,10 @@ class LibraryThing:
         if "ddc" not in book:
             return None
         return book["ddc"]["code"][0]
+
+    @staticmethod
+    def get_books_id(book):
+        return int(book["books_id"])
 
     @staticmethod
     def get_isbn(book):
@@ -294,6 +296,7 @@ class LibraryMetadata:
                 best_attr("title"),
                 best_attr("isbn"),
                 best_attr("date"),
+                best_attr("books_id"),
             )
 
 
@@ -305,23 +308,48 @@ class Library:
         self.write_json()
 
     def write_json(self):
-        obj = {"books": []}
-        seen = set()
-        for bp in self.arrangement:
-            book_obj = (
-                ("loc", bp.location),
-                ("ddc", bp.book.ddc),
-                ("isbn", bp.book.isbn),
-                ("author", bp.book.author),
-                ("date", str(bp.book.date)),
-                ("title", bp.book.title),
-            )
-            if book_obj in seen:
-                continue
-            seen.add(book_obj)
-            obj["books"].append(dict(book_obj))
+        def get_state():
+            obj = {"books": []}
+            seen = set()
+            for bp in self.arrangement:
+                book_obj = (
+                    ("loc", bp.location),
+                    ("ddc", bp.book.ddc),
+                    ("isbn", bp.book.isbn),
+                    ("author", bp.book.author),
+                    ("date", str(bp.book.date)),
+                    ("title", bp.book.title),
+                    ("books_id", bp.book.books_id),
+                )
+                if book_obj in seen:
+                    continue
+                seen.add(book_obj)
+                obj["books"].append(dict(book_obj))
+            return obj
+
+        def report(old, new):
+            def insert(book):
+                print("insert:", book)
+
+            old_idx = 0
+            new_idx = 0
+            while True:
+                # are we out of old books? then everything after is insertion
+                if old_idx >= len(old):
+                    for book in new[new_idx:]:
+                        insert(book)
+                break
+
+        BOOKS_JSON = "frontend/src/books.json"
+        with open(BOOKS_JSON) as fd:
+            old_state = json.load(fd)
+        new_state = get_state()
+
+        # make a report for the librarian
+        report(old_state, new_state)
+
         with open("frontend/src/books.json", "w") as fd:
-            json.dump(obj, fd)
+            json.dump(new_state, fd)
 
     def write_index_txt(self):
         with open("library.txt.new", "w") as fd:
