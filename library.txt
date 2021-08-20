@@ -1450,13 +1450,12 @@ J3.12 994.11042      9780646191249     Gervas, Stan                  1994 The wa
 J3.13 994.12         9780731694440     Cresswell, Gail J             1990 The light of Leeuwin
 J3.14 994.12004      9781921401428     Host, John T. (John Thomas    2009 'It's still in my heart this is my country' : the single Noo
 J3.15                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
-J3.16                9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
-J3.17                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
-J3.18                9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
-J3.19                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
-J3.20                9780648228202     Watts, Rachel                 2018 Survival
-J3.21                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
-J3.22                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+J3.16                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
+J3.17                9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
+J3.18                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
+J3.19                9780648228202     Watts, Rachel                 2018 Survival
+J3.20                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+J3.21                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 Y1.01 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
 Y1.02 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
 Y1.03 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
@@ -1483,6 +1482,7 @@ Y2.16 264.03         9780195285253     Episcopal Church              2007 The Bo
 Y2.17 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
 Y2.18 297.122521     9789960792637     Saheeh International          1997 The Qurʼān : Arabic text with corresponding English meanings
 Y2.19 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
+Y2.20                9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
 Y3.01 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
 Y3.02 220                              St. Athanasius Academy of     2008 The Orthodox Study Bible, Hardcover: Ancient Christianity Sp
 Y3.03 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
