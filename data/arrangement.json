@@ -11,8 +11,8 @@
         { "bookshelf": "B", "shelf": 2, "first_book": { "isbn": "9780802823694" } },
         { "bookshelf": "B", "shelf": 3, "first_book": { "isbn": "9781570753244" } },
         { "bookshelf": "B", "shelf": 4, "first_book": { "isbn": "9780525433897" } },
-        { "bookshelf": "B", "shelf": 5, "first_book": { "isbn": "9781570758232" } },
-        { "bookshelf": "B", "shelf": 6, "first_book": { "isbn": "9780824517960" } },
+        { "bookshelf": "B", "shelf": 5, "first_book": { "isbn": "9780232515862" } },
+        { "bookshelf": "B", "shelf": 6, "first_book": { "isbn": "9780664262648" } },
 
         { "bookshelf": "C", "shelf": 1, "first_book": { "title": "The Future of Ethics and Moral Theology" } },
         { "bookshelf": "C", "shelf": 2, "first_book": { "isbn": "9780486486048" } },

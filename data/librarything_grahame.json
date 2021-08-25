@@ -35,7 +35,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 S65"
   },
   "subject": {
     "0": ["American fiction",
@@ -124,7 +124,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6058 .O689"
+    "code": "PR6058.O689 H54"
   },
   "subject": {
     "0": ["Bildungsromane"],
@@ -222,7 +222,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3562 .E42"
+    "code": "PS3562.E42 L39"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -323,7 +323,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6116 .A46"
+    "code": "PR6116.A46 A88"
   },
   "genre": ["Science Fiction",
   "Fiction and Literature"],
@@ -383,7 +383,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "DU117.17 .K45"
+    "code": "DU117 .K45"
   },
   "originaltitle": "The Dismissal: In the Queen's Name",
   "awards": ["Australian Book Industry Awards Shortlist"],
@@ -452,7 +452,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 Q53"
   },
   "subject": {
     "0": ["Adventure and adventurers",
@@ -557,7 +557,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PZ7 .G75266"
+    "code": "PZ7.G75266 W"
   },
   "subject": {
     "0": ["Amiti\u00e9",
@@ -775,7 +775,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A46"
+    "code": "PR6052.A46 H4"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -845,7 +845,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A46"
+    "code": "PR6052.A46"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -914,7 +914,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A46"
+    "code": "PR6052.A46 C7"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -998,7 +998,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A46"
+    "code": "PR6052.A46 C6"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -1468,7 +1468,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.4 .S727"
+    "code": "PR9199.S727 S73"
   },
   "originaltitle": "Station Eleven",
   "awards": ["National Book Award finalist",
@@ -1546,7 +1546,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 S5"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -1660,7 +1660,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 N37"
   },
   "subject": {
     "0": ["Fantasy fiction"],
@@ -1738,7 +1738,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 L6"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -1851,7 +1851,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 L6"
   },
   "subject": {
     "0": ["Adventure"],
@@ -1968,7 +1968,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 L6"
   },
   "subject": {
     "0": ["Adventure"],
@@ -2202,7 +2202,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 B7"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -2283,7 +2283,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 S6"
   },
   "subject": {
     "0": ["Extraterrestrial beings",
@@ -2422,7 +2422,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 J3"
   },
   "subject": {
     "0": ["Ex-convicts",
@@ -2498,7 +2498,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 M68"
   },
   "subject": [["Rock music"],
   ["Science Fiction"],
@@ -2572,7 +2572,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6045 .A97"
+    "code": "PR6045.A97 B7"
   },
   "subject": {
     "0": ["British literature",
@@ -2780,7 +2780,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ2469 .V4"
+    "code": "PQ2469.V4 E5"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -2892,7 +2892,7 @@
     "Spanish fiction"]
   },
   "lcc": {
-    "code": "PQ8098.1 .L54"
+    "code": "PQ8098.L54 C8413"
   },
   "originaltitle": "Cuentos de Eva Luna",
   "awards": ["New York Times bestseller"],
@@ -2955,7 +2955,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6015 .U9"
+    "code": "PR6015.U9 B65"
   },
   "subject": {
     "0": ["Alienation (Social psychology)",
@@ -3091,7 +3091,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 A89"
   },
   "originaltitle": "Armageddon in Retrospect",
   "awards": ["Audie Winner",
@@ -3153,7 +3153,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR9619.3 .W5667"
+    "code": "PR9619.W5667 P76"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -3277,7 +3277,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3 .W4987"
+    "code": "PR9199.W4987 D37"
   },
   "subject": {
     "0": ["Alternative histories (Fiction)"],
@@ -3341,7 +3341,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "PR6045 .O72"
+    "code": "PR6045.O72 T6"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -3474,7 +3474,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ2246 .M2"
+    "code": "PQ2246.M2 E5"
   },
   "subject": {
     "0": ["Adultery",
@@ -3632,7 +3632,7 @@
     "Television"]
   },
   "lcc": {
-    "code": "PN1992.4 .R55"
+    "code": "PN1992.R55 F47"
   },
   "subject": [["Roddenberry, Gene",
   "Interviews"]],
@@ -3700,7 +3700,7 @@
     "Technology and Application of Knowledge"]
   },
   "lcc": {
-    "code": "RC455.4 .F3"
+    "code": "RC455.F3 M53"
   },
   "genre": ["General Nonfiction",
   "Nonfiction"],
@@ -3758,7 +3758,7 @@
     "Psychology"]
   },
   "lcc": {
-    "code": "BF637 .C45"
+    "code": "BF637.C45 R645"
   },
   "subject": {
     "0": ["Affective education"],
@@ -4281,7 +4281,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .I534"
+    "code": "PS3572.I534"
   },
   "series": ["Across Realtime",
   "Las Burbujas"],
@@ -4342,7 +4342,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3612 .I517"
+    "code": "PS3612.I517 T35"
   },
   "originaltitle": "Taipei",
   "genre": ["General Fiction",
@@ -4403,7 +4403,7 @@
     "Socioeconomic Regions"]
   },
   "lcc": {
-    "code": "DS63.1 .A35"
+    "code": "DS63 .A35"
   },
   "subject": [["Arab countries",
   "Politics and government",
@@ -4468,7 +4468,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "JN94 .A91"
+    "code": "JN94.A91 M35"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -4531,7 +4531,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "DU117.2 .K4 .M37"
+    "code": "DU117 .M37"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -4594,7 +4594,7 @@
     "Research"]
   },
   "lcc": {
-    "code": "D13.5 .A8"
+    "code": "D13.A8 M33"
   },
   "subject": {
     "0": ["Australia",
@@ -4744,7 +4744,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6051 .D3352"
+    "code": "PR6051.D3352 S25"
   },
   "series": ["Dirk Gently",
   "Dirk Gentle, d\u00e9tective holistique",
@@ -4818,7 +4818,7 @@
     "Technology and Application of Knowledge"]
   },
   "lcc": {
-    "code": "HC461.5 .A2 .M87"
+    "code": "HC461.5 .M87 A3"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -4940,7 +4940,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9619.4 .M53"
+    "code": "PR9619.4 .M53 B87"
   },
   "genre": ["Children's Books",
   "Fiction and Literature"],
@@ -5001,7 +5001,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL852 .I663"
+    "code": "PL852.I663 N413"
   },
   "originaltitle": "Neko No Kyaku",
   "awards": ["Kiyama Shohei Literary Award"],
@@ -5144,7 +5144,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "QK46.5 .H85"
+    "code": "QK46.H85 P66"
   },
   "subject": {
     "0": ["Botany"],
@@ -5221,7 +5221,7 @@
     "Public Entertainments, TV, Movies"]
   },
   "lcc": {
-    "code": "PR6062 .Y618 Y4"
+    "code": "PR6062.Y618 Y4"
   },
   "series": ["Yes, Prime Minister"],
   "source": "amazon.com books",
@@ -5277,7 +5277,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR5819 .A2"
+    "code": "PR5819.A2 M54"
   },
   "subject": {
     "0": ["Adaptations"],
@@ -5410,7 +5410,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3604 .O27"
+    "code": "PS3604.O27 M35"
   },
   "awards": ["SF Site Reader's Choice",
   "Prometheus Award Shortlist",
@@ -5477,7 +5477,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6045 .A97"
+    "code": "PR6045.A97 H3"
   },
   "subject": {
     "0": ["Adultery",
@@ -5565,7 +5565,7 @@
     "Journalism And Publishing"]
   },
   "lcc": {
-    "code": "PN4874 .T444"
+    "code": "PN4874.T444 A3"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -5698,7 +5698,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6015 .A6425 .Y64"
+    "code": "PR6015.A6425 PR6045 .Y64"
   },
   "subject": {
     "0": ["Blind",
@@ -5796,7 +5796,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9619.3 .C36"
+    "code": "PR9619.C36 O73"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -5968,7 +5968,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "PS3557 .I2264"
+    "code": "PS3557.I2264 N48"
   },
   "subject": {
     "0": ["Business intelligence",
@@ -6083,7 +6083,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3557 .I2264"
+    "code": "PS3557.I2264 S66"
   },
   "subject": {
     "0": ["Intelligence officers",
@@ -6155,7 +6155,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3557 .I2264"
+    "code": "PS3557.I2264 Z47"
   },
   "series": ["Blue Ant"],
   "originaltitle": "Zero History",
@@ -6217,7 +6217,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "PS3557 .I2264"
+    "code": "PS3557.I2264 P38"
   },
   "subject": {
     "0": ["Business intelligence",
@@ -6303,7 +6303,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6011 .O56"
+    "code": "PR6011 .O56 Y6"
   },
   "subject": {
     "0": ["Great Britain",
@@ -6385,7 +6385,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6011 .O56"
+    "code": "PR6011.O56"
   },
   "subject": [["Fiction in English 1900-1945 Texts"]],
   "series": ["Horatio Hornblower",
@@ -6606,7 +6606,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6025 .O7552"
+    "code": "PR6025.O7552 R775"
   },
   "subject": [["Detective and mystery stories, English"],
   ["Large type books"],
@@ -6676,7 +6676,7 @@
     "Russian fiction"]
   },
   "lcc": {
-    "code": "PG3476 .S78835"
+    "code": "PG3476.S78835 O8413"
   },
   "originaltitle": "\u041e\u0442\u0435\u043b\u044c \u00ab\u0423 \u043f\u043e\u0433\u0438\u0431\u0448\u0435\u0433\u043e \u0430\u043b\u044c\u043f\u0438\u043d\u0438\u0441\u0442\u0430\u00bb",
   "genre": ["General Fiction",
@@ -6743,7 +6743,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL782 .E3"
+    "code": "PL782.E3 H24"
   },
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
@@ -6792,7 +6792,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "DU117.18 .A978"
+    "code": "DU117 .A978"
   },
   "genre": ["History",
   "Nonfiction"],
@@ -6934,7 +6934,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "PN4751 .J55"
+    "code": "JA85.A8 J47"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -6994,7 +6994,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7 .Z837"
+    "code": "PZ7.Z837 B"
   },
   "subject": {
     "0": ["Books and reading",
@@ -7268,7 +7268,7 @@
     "Social problems and services; associations"]
   },
   "lcc": {
-    "code": "UB271 .R92"
+    "code": "UB271.R92 H477"
   },
   "subject": {
     "0": ["Computer crimes",
@@ -7428,7 +7428,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3529 .H28"
+    "code": "PS3529.H28 M4"
   },
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
@@ -7617,7 +7617,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7 .M64"
+    "code": "PZ7.M64 W"
   },
   "subject": {
     "0": ["Bears",
@@ -7741,7 +7741,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 Z89"
   },
   "subject": [["Authors, American",
   "20th century",
@@ -7812,7 +7812,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 S28"
   },
   "subject": {
     "0": ["Detectives",
@@ -7902,7 +7902,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 U24"
   },
   "subject": {
     "0": ["Businessmen",
@@ -7987,7 +7987,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 M35"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -8056,7 +8056,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 C65"
   },
   "subject": {
     "0": ["Fantasy fiction"],
@@ -8132,7 +8132,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 S65"
   },
   "subject": {
     "0": ["Lotteries",
@@ -8203,7 +8203,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 F56"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -8520,7 +8520,7 @@
     "Speculative fiction"]
   },
   "lcc": {
-    "code": "PS648 .S3"
+    "code": "PS648.S3 H84"
   },
   "genre": ["Science Fiction",
   "Fiction and Literature"],
@@ -8572,7 +8572,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "HB74 .P8"
+    "code": "HB74.P8 L479"
   },
   "subject": {
     "0": ["Economics",
@@ -8778,7 +8778,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .E314"
+    "code": "PS3569.E314 L38"
   },
   "originaltitle": "Let's Explore Diabetes With Owls",
   "awards": ["Amazon's Best Books of the Month",
@@ -8846,17 +8846,13 @@
   "awards": ["Andrew Carnegie Medals for Excellence in Nonfiction Longlist",
   "ALA Notable Books for Adults",
   "William Saroyan International Prize for Writing"],
-  "genre": ["Biography & Memoir",
-  "General Nonfiction",
+  "genre": ["General Nonfiction",
   "History",
   "Technology",
-  "Biography",
   "Nonfiction"],
-  "genre_id": ["1240",
-  "1247",
+  "genre_id": ["1247",
   "1599",
   "17963",
-  "20216197",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "13524179",
@@ -8967,7 +8963,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 M26"
   },
   "subject": {
     "0": ["Alternative histories"],
@@ -9054,7 +9050,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 A53"
   },
   "subject": [["Disasters",
   "Fiction"],
@@ -9147,7 +9143,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 S47"
   },
   "originaltitle": "Seveneves",
   "awards": ["Amazon's Best Books of the Month",
@@ -9278,7 +9274,7 @@
     "Secularism"]
   },
   "lcc": {
-    "code": "BL2747.6 .G73"
+    "code": "BL2747 .G73"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -9345,7 +9341,7 @@
     "Speculative fiction"]
   },
   "lcc": {
-    "code": "PS648 .S3"
+    "code": "PS648.S3 N47"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -9407,7 +9403,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "QA76.76 .O63"
+    "code": "QA76.O63 S7369"
   },
   "subject": {
     "0": ["OPERATING SYSTEMS (COMPUTERS)"],
@@ -9475,7 +9471,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 R43"
   },
   "originaltitle": "Reamde",
   "awards": ["New York Times bestseller",
@@ -9543,7 +9539,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 R57"
   },
   "series": ["D.O.D.O."],
   "originaltitle": "The Rise and Fall of D.O.D.O.",
@@ -9607,7 +9603,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 D53"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -9685,7 +9681,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 Z39"
   },
   "subject": [["Boston (Mass.)",
   "Fiction"],
@@ -9757,7 +9753,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 C55"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -9852,7 +9848,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 S97"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -9953,7 +9949,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9619.3 .W5667"
+    "code": "PR9619.W5667 M48"
   },
   "subject": [["Cities and towns",
   "United States",
@@ -10029,7 +10025,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6119 .T79"
+    "code": "PR6119.T79 A66"
   },
   "series": ["La laverie",
   "The Laundry"],
@@ -10096,7 +10092,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ3 .H364"
+    "code": "PZ3 .H364 D"
   },
   "subject": {
     "0": ["Artificial hibernation",
@@ -10172,7 +10168,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6119 .T79"
+    "code": "PR6119.T79 S56"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -10243,7 +10239,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3573 .O575"
+    "code": "PS3573.O575 R36"
   },
   "subject": {
     "0": ["Black humor (Literature)"],
@@ -10309,7 +10305,7 @@
     "Physics"]
   },
   "lcc": {
-    "code": "QC16 .F49"
+    "code": "QC16.F49 A37"
   },
   "subject": {
     "0": ["Feynman, Richard Phillips"],
@@ -10393,7 +10389,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3 .A8"
+    "code": "PR9199.A8 H3"
   },
   "subject": {
     "0": ["Canadian fiction"],
@@ -10534,7 +10530,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS595 .B54"
+    "code": "PS595.B54"
   },
   "subject": [["Birds in art",
   "Fiction"],
@@ -10589,7 +10585,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "PR6068 .E95"
+    "code": "PR6068.E95 C47"
   },
   "subject": {
     "0": ["Life on other planets",
@@ -10664,7 +10660,7 @@
     "Men"]
   },
   "lcc": {
-    "code": "CT2808 .F27"
+    "code": "CT2808 .F27 A33"
   },
   "subject": {
     "0": ["Australia",
@@ -10745,7 +10741,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3610 .O3"
+    "code": "PS3610.O3 O76"
   },
   "originaltitle": "The Orphan Master's Son",
   "awards": ["New York Times bestseller",
@@ -10814,7 +10810,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3615 .K67"
+    "code": "PS3615.K67 B56"
   },
   "series": ["Binti"],
   "awards": ["British Science Fiction Association Award Shortlist",
@@ -10960,7 +10956,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3623 .E432449"
+    "code": "PS3623.E432449 M37"
   },
   "series": ["Mark Watney"],
   "awards": ["Audie Winner",
@@ -11038,7 +11034,7 @@
     "Photography"]
   },
   "lcc": {
-    "code": "TR140 .A265"
+    "code": "TR140.A265 A3"
   },
   "originaltitle": "It's What I Do: A Photographer's Life of Love and War",
   "awards": ["Amazon's Best Books of the Month",
@@ -11111,7 +11107,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6119 .T79"
+    "code": "PR6119.T79 J46"
   },
   "subject": {
     "0": ["Geeks (Computer enthusiasts)",
@@ -11191,7 +11187,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6119 .T79"
+    "code": "PR6119.T79 F85"
   },
   "series": ["La laverie",
   "The Laundry"],
@@ -11258,7 +11254,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6119 .T79"
+    "code": "PR6119.T79 I76"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -11331,7 +11327,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3602 .E2475"
+    "code": "PS3602.E2475 B58"
   },
   "subject": {
     "0": ["Fantasy fiction"],
@@ -11458,7 +11454,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3612 .E9238"
+    "code": "PS3612.E9238 M33"
   },
   "subject": {
     "0": ["Biographical fiction"],
@@ -11543,7 +11539,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR9387.9 .A34354"
+    "code": "PR9387.A34354 A44"
   },
   "awards": ["Andrew Carnegie Medals for Excellence in Fiction Shortlist",
   "Heartland Prize",
@@ -11612,7 +11608,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6025 .O7552"
+    "code": "PR6025.O7552 R78"
   },
   "subject": [["Detective and mystery stories, English"],
   ["Large Type Books"],
@@ -11794,7 +11790,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL696 .F3"
+    "code": "QL696.F3 H48"
   },
   "subject": [["Birds of prey"]],
   "genre": ["General Nonfiction",
@@ -11856,7 +11852,7 @@
     "Pacific"]
   },
   "lcc": {
-    "code": "DU117.2 .K4"
+    "code": "DU117.K4 O37"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -11961,7 +11957,7 @@
     "Western Australia"]
   },
   "lcc": {
-    "code": "DU378 .V47"
+    "code": "DU378.V47"
   },
   "genre": ["History",
   "Nonfiction"],
@@ -12016,7 +12012,7 @@
     "[formerly : Electronic]"]
   },
   "lcc": {
-    "code": "QA76.8 .I2594"
+    "code": "QA76.I2594 N68"
   },
   "subject": {
     "0": ["IBM Personal Computer",
@@ -12251,7 +12247,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.73 .E75"
+    "code": "QA76.E75 A765"
   },
   "subject": {
     "0": ["ERLANG (Computer program language)"],
@@ -12317,7 +12313,7 @@
     "Journalism And Publishing"]
   },
   "lcc": {
-    "code": "PN4784 .E5"
+    "code": "PN4784.E5 D36"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -12371,7 +12367,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR9619.4 .O94"
+    "code": "PR9619.O94 D53"
   },
   "genre": ["General Fiction",
   "Fiction and Literature"],
@@ -12431,7 +12427,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.73 .C153"
+    "code": "QA76.C153 S77"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -12492,7 +12488,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.6 .C662"
+    "code": "QA76 .C662"
   },
   "subject": {
     "0": ["COMPUTER PROGRAMMING"],
@@ -12700,7 +12696,7 @@
     "United States"]
   },
   "lcc": {
-    "code": "HV9468 .S245"
+    "code": "HV9468.S245"
   },
   "subject": {
     "0": ["Australians",
@@ -12854,7 +12850,7 @@
     "Speculative fiction"]
   },
   "lcc": {
-    "code": "PS648 .S3"
+    "code": "PS648.S3 N4712"
   },
   "series": ["The New Space Opera"],
   "awards": ["Locus",
@@ -13105,7 +13101,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL681 .A9752"
+    "code": "QL681.A93"
   },
   "genre": ["Science & Nature",
   "Sports and Leisure",
@@ -13223,7 +13219,7 @@
     "Social problems and services; associations"]
   },
   "lcc": {
-    "code": "HV6772 .M58"
+    "code": "HV6772.M58 A3"
   },
   "originaltitle": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
   "awards": ["New York Times bestseller"],
@@ -13290,7 +13286,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3612 .E3353"
+    "code": "PS3612.E3353 A83"
   },
   "series": ["Les chroniques du Radch",
   "Imperial Radch"],
@@ -13362,7 +13358,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3612 .E3353"
+    "code": "PS3612.E3353 A834"
   },
   "series": ["Les chroniques du Radch",
   "Imperial Radch"],
@@ -13434,7 +13430,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3612 .E3353"
+    "code": "PS3612.E3353 A84"
   },
   "series": ["Les chroniques du Radch",
   "Imperial Radch"],
@@ -13502,7 +13498,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7.1 .T448"
+    "code": "PZ7.T448 H"
   },
   "series": ["THUG"],
   "awards": ["Boston Globe\u2013Horn Book Award",
@@ -13583,7 +13579,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6051 .A76"
+    "code": "PR6051.A76 R58"
   },
   "series": ["Peter Grant",
   "Fl\u00fcsse von London",
@@ -13657,7 +13653,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3612 .E3353"
+    "code": "PS3612.E3353 P76"
   },
   "series": ["Les chroniques du Radch",
   "Imperial Radch"],
@@ -13780,7 +13776,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6057 .A319"
+    "code": "PR6057.A319 A84"
   },
   "subject": {
     "0": ["Adventure stories, English"],
@@ -13884,7 +13880,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3603 .H347"
+    "code": "PS3603.H347 L66"
   },
   "series": ["Wayfarers",
   "Galactic Commons"],
@@ -13952,7 +13948,7 @@
     "Modern period 1900-"]
   },
   "lcc": {
-    "code": "PR6058 .E2"
+    "code": "PR6058.E2"
   },
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
@@ -14060,7 +14056,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL2947 .C59"
+    "code": "PL2947.C59 S3613"
   },
   "series": ["Le Probl\u00e8me \u00e0 trois corps",
   "Remembrance of Earth's Past",
@@ -14358,7 +14354,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7 .P8865"
+    "code": "PZ7.P8865 T"
   },
   "subject": {
     "0": ["Children's stories"],
@@ -14440,7 +14436,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566 .O95"
+    "code": "PS3566.O95 A58"
   },
   "subject": {
     "0": ["Fantasy fiction"],
@@ -14533,7 +14529,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6005 .O4"
+    "code": "PR6005.O4 S4"
   },
   "subject": {
     "0": ["Anarchists",
@@ -14616,7 +14612,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066.R34 C6"
   },
   "subject": {
     "0": ["Discworld (Imaginary place)",
@@ -14742,7 +14738,7 @@
     "Tales and lore of plants and animals"]
   },
   "lcc": {
-    "code": "PA3855 .E5"
+    "code": "PA3855.E5 G54"
   },
   "subject": {
     "0": ["Aesop"],
@@ -14876,7 +14872,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6051 .D345"
+    "code": "PR6051.D345 W3"
   },
   "subject": {
     "0": ["Adventure and adventurers",
@@ -14986,7 +14982,7 @@
     "Natural sciences and mathematics"]
   },
   "lcc": {
-    "code": "QB44.2 .S235"
+    "code": "QB44.S235"
   },
   "subject": {
     "0": ["Astronomy",
@@ -15064,7 +15060,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .N54365"
+    "code": "PS3601.N54365 V57"
   },
   "series": ["The Earthend Saga"],
   "genre": ["Science Fiction",
@@ -15121,7 +15117,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066 .R34 C48"
   },
   "subject": [["Discworld (Imaginary place)",
   "Fiction"],
@@ -15286,7 +15282,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066.R34 L66"
   },
   "series": ["La tierra larga",
   "La Longue Terre",
@@ -15354,7 +15350,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066.R34 R4"
   },
   "subject": {
     "0": ["Death",
@@ -15622,7 +15618,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT315.2 .S66"
+    "code": "BT315 .S66"
   },
   "subject": [["Bible. N.T.",
   "Criticism, interpretation, etc"],
@@ -15690,7 +15686,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2545 .J8"
+    "code": "BS2545.J8 G73"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -15748,7 +15744,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2650.52 .B67"
+    "code": "BS2650 .B67"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -15957,7 +15953,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS511.3 .S69"
+    "code": "BS511 .S69"
   },
   "subject": [["Bible",
   "Criticism, interpretation, etc"],
@@ -16077,7 +16073,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT738 .E4"
+    "code": "BT738"
   },
   "subject": {
     "0": ["Christian sociology"],
@@ -16143,7 +16139,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS511.2 .A385"
+    "code": "BS511 .A385"
   },
   "subject": [["Bible",
   "Criticism, interpretation, etc"],
@@ -16221,7 +16217,7 @@
     "Sabbath + Sunday + Christian pilgrims and pilgrimages + Church year"]
   },
   "lcc": {
-    "code": "BX2320.5 .I8"
+    "code": "BX2320.I8 B57"
   },
   "subject": [["Christian pilgrims and pilgrimages",
   "Rome",
@@ -16369,7 +16365,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT380.2 .R65"
+    "code": "BT380 .R65"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -16428,7 +16424,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV210.2 .C368"
+    "code": "BV210 .C368"
   },
   "subject": [["Prayer",
   "Catholic Church"]],
@@ -16571,7 +16567,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS574.5 .R64"
+    "code": "BS574 .R64"
   },
   "subject": {
     "0": ["Christian men",
@@ -16688,7 +16684,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6070 .O455"
+    "code": "PR6070.O455 T47"
   },
   "awards": ["Booker Prize Shortlist",
   "International IMPAC Dublin Literary Award Longlist",
@@ -16803,7 +16799,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT21.3 .H55"
+    "code": "BT21 .H55"
   },
   "subject": [["Theology, Doctrinal",
   "History"]],
@@ -16930,7 +16926,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR162.3 .F73"
+    "code": "BR162 .F73"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -17117,7 +17113,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX3004 .Z5"
+    "code": "BX3004.Z5 D47"
   },
   "subject": [["Spiritual life",
   "Christianity"]],
@@ -17588,7 +17584,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2350.2 .N676"
+    "code": "BX2350 .N676"
   },
   "subject": {
     "0": ["Christian life"],
@@ -17659,7 +17655,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV210.3 .L46"
+    "code": "BV210 .L46"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -17788,7 +17784,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.2 .H3634"
+    "code": "BV4501 .H3634"
   },
   "subject": [["Spiritual life",
   "Christianity"]],
@@ -17913,7 +17909,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2555.52 .B49"
+    "code": "BS2555 .B49"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -17978,7 +17974,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4647 .S4"
+    "code": "BV4647.S4 N68"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -18233,7 +18229,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX4705 .R669"
+    "code": "BX4705.R669 W75"
   },
   "genre": ["Biography & Memoir",
   "Religion & Spirituality",
@@ -18296,7 +18292,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX4705 .B545"
+    "code": "BX4705.B545 A3"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -18415,7 +18411,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT315.3 .B673"
+    "code": "BT315 .B673"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -18635,7 +18631,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5131.2 .C53"
+    "code": "BX5131 .C53"
   },
   "subject": [["Anglican Communion",
   "Doctrines"],
@@ -18752,7 +18748,7 @@
     "Sisterhoods"]
   },
   "lcc": {
-    "code": "BX4705 .M22"
+    "code": "BX4705.M22 G37"
   },
   "genre": ["Biography & Memoir",
   "Religion & Spirituality",
@@ -18873,7 +18869,7 @@
     "Texts of sermons"]
   },
   "lcc": {
-    "code": "BV4501.2 .W744"
+    "code": "BV4501 .W744"
   },
   "subject": {
     "0": ["Christian life",
@@ -18933,7 +18929,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5145 .A663"
+    "code": "BX5145.A663"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -19105,7 +19101,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1171 .R7"
+    "code": "BS1171.R7"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -19158,7 +19154,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2585.53 .B97"
+    "code": "BS2585 .B97"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -19272,7 +19268,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2575.53 .B97"
+    "code": "BS2575 .B97"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -19331,7 +19327,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2595.3 .B87"
+    "code": "BS2595 .B87"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -19390,7 +19386,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2615.52 .K45"
+    "code": "BS2615 .K45"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -19579,7 +19575,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX1756 .D84"
+    "code": "BX1756.D84 W35"
   },
   "subject": [["Sermons, English"],
   ["Universities and colleges",
@@ -19640,7 +19636,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1505.2 .H4"
+    "code": "BS1505.2"
   },
   "subject": [["Bible. O.T. Prophets",
   "Criticism, interpretation, etc"],
@@ -19839,7 +19835,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2350.2 .D74"
+    "code": "BX2350 .D74"
   },
   "subject": [["Laity",
   "Catholic Church"],
@@ -19976,7 +19972,7 @@
     "Music"]
   },
   "lcc": {
-    "code": "BX2170 .L4"
+    "code": "BX2170.L4 H84"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -20179,7 +20175,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR115 .G58"
+    "code": "BR115.G58 M34"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -20309,7 +20305,7 @@
     "Sisterhoods"]
   },
   "lcc": {
-    "code": "BX4668.3 .A75"
+    "code": "BX4668.A75 A32"
   },
   "subject": [["Armstrong, Karen, 1944-"],
   ["Ex-nuns",
@@ -20374,7 +20370,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BL51 .S588"
+    "code": "BL51.S588"
   },
   "subject": [["Christianity and other religions"],
   ["Faith"],
@@ -20441,7 +20437,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX4705 .N87"
+    "code": "BX4705.N87 B44"
   },
   "subject": [["Nouwen, Henri J. M. (Henri Josef Machiel), 1932-"],
   ["Spiritual life",
@@ -20510,7 +20506,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .I265"
+    "code": "PS3568.I265 C48"
   },
   "subject": {
     "0": ["Bible. N.T.",
@@ -20646,7 +20642,7 @@
     "Theological anthropology; Humankind"]
   },
   "lcc": {
-    "code": "BV4625 .M46"
+    "code": "BV4625.M46"
   },
   "subject": [["Sin",
   "Christianity"]],
@@ -21063,7 +21059,7 @@
     "Theodicy"]
   },
   "lcc": {
-    "code": "BT732.7 .H39"
+    "code": "BT732 .H39"
   },
   "subject": [["Suffering",
   "Religious aspects",
@@ -21127,7 +21123,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.3 .B374"
+    "code": "BV4501 .B374"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -21246,7 +21242,7 @@
     "Seasonal Devotions"]
   },
   "lcc": {
-    "code": "BS491.5 .H84"
+    "code": "BS491.H84"
   },
   "subject": [["Lent",
   "Meditations"],
@@ -21382,7 +21378,7 @@
     "Seasonal Devotions"]
   },
   "lcc": {
-    "code": "BX5149 .C5"
+    "code": "BX5149.C5 R33"
   },
   "originaltitle": "Why Go to Church?: The Drama of the Eucharist",
   "awards": ["Archbishop of Canterbury's Lent book"],
@@ -21560,7 +21556,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT378 .P8"
+    "code": "BT378.P8 K45"
   },
   "originaltitle": "Counterfeit gods : the empty promises of money, sex, and power, and the only hope that matters",
   "awards": ["Besides the Bible: 100 Books That Have, Should, or Will Create Christian Culture"],
@@ -21832,7 +21828,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2350.3 .G35"
+    "code": "BX2350 .G35"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -21891,7 +21887,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4810 .S33"
+    "code": "BV4810.S437"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -22009,7 +22005,7 @@
     "Sisterhoods"]
   },
   "lcc": {
-    "code": "BX2350.65 .C48"
+    "code": "BX2350 .C48"
   },
   "subject": [["Spiritual life",
   "Catholic Church"],
@@ -22077,7 +22073,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.3 .T35"
+    "code": "BV4501 .T35"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -22138,7 +22134,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2350.2 .H358"
+    "code": "BX2350 .H358"
   },
   "subject": [["Spiritual life",
   "Catholic Church"],
@@ -22339,7 +22335,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR121.2 .N38"
+    "code": "BR121 .N44"
   },
   "subject": {
     "0": ["Christianity"],
@@ -22475,7 +22471,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.3 .B38"
+    "code": "BV4501 .B38"
   },
   "subject": {
     "0": ["Silence",
@@ -22550,7 +22546,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2555.2 .S65"
+    "code": "BS2555 .S65"
   },
   "subject": [["Bible. N.T. Gospels",
   "Criticism, interpretation, etc"],
@@ -22683,7 +22679,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX4705 .C2625"
+    "code": "BX4705.C2625"
   },
   "series": ["Modern Spiritual Masters Series"],
   "genre": ["Religion & Spirituality",
@@ -22802,7 +22798,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2350.2 .F497"
+    "code": "BX2350 .F497"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -22854,7 +22850,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX4700 .F6"
+    "code": "BX4700.F6 R6235"
   },
   "awards": ["Independent Press Award"],
   "genre": ["General Nonfiction",
@@ -22977,7 +22973,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR121.3 .T53"
+    "code": "BR121 .T53"
   },
   "subject": [["Christianity"]],
   "awards": ["Besides the Bible: 100 Books That Have, Should, or Will Create Christian Culture"],
@@ -23044,7 +23040,7 @@
     "Salvation; Soteriology"]
   },
   "lcc": {
-    "code": "BX2215.2 .H38"
+    "code": "BX2215.H38"
   },
   "subject": {
     "0": ["Church and social problems",
@@ -23114,7 +23110,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2650.52 .O46"
+    "code": "BS2650 .O46"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -23171,7 +23167,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2179 .L8"
+    "code": "BX2179.L8 M327"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -23231,7 +23227,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1198 .B84"
+    "code": "BS1198.B84"
   },
   "subject": {
     "0": ["Pastoral theology"],
@@ -23295,7 +23291,7 @@
     "Texts of sermons"]
   },
   "lcc": {
-    "code": "BX1756 .L453"
+    "code": "BX1756.L453 P74"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -23424,7 +23420,7 @@
     "Translations"]
   },
   "lcc": {
-    "code": "BP130.4 .A3"
+    "code": "BP130 .A3"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -23586,7 +23582,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS191.5 .A1"
+    "code": "BS191.A1 .N49"
   },
   "subject": [["Bible. English. New Revised Standard"],
   ["Catholic Church",
@@ -23647,7 +23643,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS191.5 .A1"
+    "code": "BS191.A1 .N49"
   },
   "subject": [["Bible",
   "Commentaries"],
@@ -23767,7 +23763,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2585.54 .W55"
+    "code": "BS2585 .W55"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -23825,7 +23821,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1192.6 .C73"
+    "code": "BS1192 .C73"
   },
   "subject": [["Bible. O.T.",
   "Theology"],
@@ -23952,7 +23948,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5145 .A4"
+    "code": "BX5145.A4"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -24221,7 +24217,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS680 .P64"
+    "code": "BS680.P64"
   },
   "subject": [["Intercessory prayer"]],
   "genre": ["Religion & Spirituality",
@@ -24397,7 +24393,7 @@
     "Seasonal Devotions"]
   },
   "lcc": {
-    "code": "BR115 .E3"
+    "code": "BR115.E3 W45"
   },
   "awards": ["Archbishop of Canterbury's Lent book"],
   "genre": ["General Nonfiction",
@@ -24519,7 +24515,7 @@
     "Seasonal Devotions"]
   },
   "lcc": {
-    "code": "BV85 .L466"
+    "code": "BV85.L466"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -24698,7 +24694,7 @@
     "Other aspects"]
   },
   "lcc": {
-    "code": "BS1405.2 .A48"
+    "code": "BS1405 .A48"
   },
   "subject": [["Bible. O.T.",
   "Language, Style"],
@@ -24947,7 +24943,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS605.2 .A5"
+    "code": "BS605 .A5"
   },
   "subject": [["Bible",
   "Textbooks"]],
@@ -25066,7 +25062,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1140.3 .C653"
+    "code": "BS1140 .C653"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -25125,7 +25121,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1525.52 .O26"
+    "code": "BS1525 .O26"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -25249,7 +25245,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2860 .T52"
+    "code": "BS2860.T52 G6713"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -25442,7 +25438,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS491.2 .N485"
+    "code": "BS491 .N485"
   },
   "subject": [["Bible",
   "Commentaries"]],
@@ -25505,7 +25501,7 @@
     "Drawing and decorative arts"]
   },
   "lcc": {
-    "code": "ND3359 .L5"
+    "code": "ND3359.L5 B3"
   },
   "subject": {
     "0": ["Bible. N.T. Gospels",
@@ -25592,7 +25588,7 @@
     "Texts of sermons"]
   },
   "lcc": {
-    "code": "BX8333 .N6 .C376"
+    "code": "BX8333 .C376"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -25825,7 +25821,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV660.2 .R34"
+    "code": "BV660.2"
   },
   "subject": [["Clergy",
   "Office"]],
@@ -25886,7 +25882,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT28 .B273"
+    "code": "BT28.B273"
   },
   "subject": {
     "0": ["Liberty"],
@@ -26054,7 +26050,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.3 .B37713"
+    "code": "BV4501 .B37713"
   },
   "subject": [["Christian life",
   "Reformed authors"]],
@@ -26420,7 +26416,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1199 .P6"
+    "code": "BS1199.P6 B78"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -26479,7 +26475,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2361.3 .M37"
+    "code": "BS2361 .M37"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -26650,7 +26646,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX7631.3 .Q35"
+    "code": "BX7631 .Q35"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -26841,7 +26837,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR45 .B6513"
+    "code": "BR45 BV4503 .B6513"
   },
   "subject": {
     "0": ["Bible. O.T. Psalms",
@@ -26966,7 +26962,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2615.52 .B76"
+    "code": "BS2615 .B76"
   },
   "subject": [["Bible. N.T. John",
   "Introductions"]],
@@ -27084,7 +27080,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2595.3 .C3"
+    "code": "BS2595 .C3"
   },
   "subject": [["Bible. N.T. Luke",
   "Commentaries"]],
@@ -27144,7 +27140,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2330.2 .E36"
+    "code": "BS2330 .E36"
   },
   "subject": [["Bible. N.T.",
   "Introductions"],
@@ -27213,7 +27209,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS475.3 .T902"
+    "code": "BS475.T2005"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -27351,7 +27347,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7 .T5744"
+    "code": "PZ7.T5744 H"
   },
   "subject": {
     "0": ["Adventure"],
@@ -27422,6 +27418,7 @@
   "The Lord of the Rings",
   "Gospodar prstenova",
   "Il Signore degli Anelli"],
+  "originaltitle": "The hobbit",
   "awards": ["New York Herald Tribune's Children's Spring Book Festival Award",
   "Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
@@ -27511,7 +27508,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1415.3"
+    "code": "BS1415 .E25"
   },
   "series": ["Old Testament Guides"],
   "genre": ["Religion & Spirituality",
@@ -27630,7 +27627,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1415.3 .H29"
+    "code": "BS1415 .H29"
   },
   "series": ["Cambridge Bible Commentary",
   "Old Testament Library"],
@@ -27756,7 +27753,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV660.2 .R34"
+    "code": "BV660.2"
   },
   "subject": [["Clergy",
   "Office"]],
@@ -27817,7 +27814,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5175 .P961"
+    "code": "BX5175"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -28085,7 +28082,7 @@
     "Drawing and decorative arts"]
   },
   "lcc": {
-    "code": "PN6728 .P4"
+    "code": "PN6728 .P4 S327"
   },
   "series": ["Peanuts",
   "Peanuts [Gallimard]"],
@@ -28375,7 +28372,7 @@
     "Natural sciences and mathematics"]
   },
   "lcc": {
-    "code": "QA76.73 .P98"
+    "code": "QA76.73 .P98 L36"
   },
   "series": ["Texts in Computational Science and Engineering"],
   "genre": ["Science & Nature",
@@ -28496,7 +28493,7 @@
     "Technology and Application of Knowledge"]
   },
   "lcc": {
-    "code": "TX837 .A4546"
+    "code": "TX837.A4546"
   },
   "genre": ["Food & Cooking",
   "Home & Garden",
@@ -28687,7 +28684,7 @@
     "Games Of Skill"]
   },
   "lcc": {
-    "code": "GV1469.62 .D84"
+    "code": "GV1469.D84 G94"
   },
   "subject": {
     "0": ["Dungeons and Dragons (Game)"],
@@ -28745,7 +28742,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.73 .E75"
+    "code": "QA76.E75 A765"
   },
   "subject": {
     "0": ["ERLANG (Computer program language)"],
@@ -28812,7 +28809,7 @@
     "Other"]
   },
   "lcc": {
-    "code": "GV1469.62 .B23 C61"
+    "code": "GV1469.B23 C61"
   },
   "source": "amazon.com books",
   "workcode": "617659",
@@ -28876,7 +28873,7 @@
     "Vocal music"]
   },
   "lcc": {
-    "code": "ML420 .B754"
+    "code": "ML420.B754 D46"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -29005,7 +29002,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.6 .A255"
+    "code": "QA76 .A255"
   },
   "subject": {
     "0": ["COMPUTER PROGRAMMING"],
@@ -29078,7 +29075,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.73 .P98"
+    "code": "QA76.P98 M42"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -29141,7 +29138,7 @@
     "Systems programs"]
   },
   "lcc": {
-    "code": "QA76.76 .O63"
+    "code": "QA76.O63 D4743"
   },
   "subject": {
     "0": ["OPERATING SYSTEMS (COMPUTERS)"],
@@ -29264,7 +29261,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .C34"
+    "code": "PN6728.C34 W38525"
   },
   "subject": {
     "0": ["Calvin (Fictitious character : Watterson)",
@@ -29652,7 +29649,7 @@
     "Modern period 1900-"]
   },
   "lcc": {
-    "code": "PR6054 .A35"
+    "code": "PR6054.A35 R4"
   },
   "subject": {
     "0": ["Children's poetry, English"],
@@ -29823,7 +29820,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL696 .C4"
+    "code": "QL696.C4"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -29998,7 +29995,7 @@
     "North Korea (Democratic People's Republic of Korea)"]
   },
   "lcc": {
-    "code": "DS935.5 .C47"
+    "code": "DS935 .C47"
   },
   "originaltitle": "The Impossible State: North Korea, Past and Future",
   "genre": ["General Nonfiction",
@@ -30142,7 +30139,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.62 .F64"
+    "code": "QA76 .F64"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -30205,7 +30202,7 @@
     "Specific Databases And Data Files"]
   },
   "lcc": {
-    "code": "QA76.9 .D3"
+    "code": "QA76.9 .D3 E47"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -30267,7 +30264,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "HD8846.5 .A87"
+    "code": "HD8846 .A87"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -30326,12 +30323,13 @@
     "Technology and Application of Knowledge"]
   },
   "lcc": [],
+  "originaltitle": "How to Grow Edibles in Containers: Good Produce from Small Spaces",
   "genre": ["Home & Garden",
   "Nonfiction"],
   "genre_id": ["37454",
   "20275895"],
   "source": "amazon.com books",
-  "workcode": "18965155",
+  "workcode": "18480376",
   "entrydate": "2019-01-11",
   "format": [{
     "code": "1.1.1",
@@ -30429,7 +30427,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3562 .E353"
+    "code": "PS3562.E353 T6"
   },
   "subject": {
     "0": ["African Americans",
@@ -30619,7 +30617,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "HQ663.9 .S53"
+    "code": "HQ663 .S53"
   },
   "awards": ["New York Times bestseller",
   "National Book Award finalist",
@@ -30836,7 +30834,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL696 .S8"
+    "code": "QL696"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -30948,7 +30946,7 @@
     "Reptilia"]
   },
   "lcc": {
-    "code": "QE861.4 .C66"
+    "code": "QE861 .C66"
   },
   "genre": ["General Nonfiction",
   "Science & Nature",
@@ -31117,7 +31115,7 @@
     "Information"]
   },
   "lcc": {
-    "code": "TK5105.59 .Z354"
+    "code": "TK5105 .Z354"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -31181,7 +31179,7 @@
     "Urban communities"]
   },
   "lcc": {
-    "code": "TD885.5 .C3"
+    "code": "TD885.5 .C3 R38"
   },
   "genre": ["Science & Nature",
   "Business",
@@ -31301,7 +31299,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PL539.5 .E5"
+    "code": "PL539.3"
   },
   "subject": [["Japanese language",
   "Textbooks for foreign speakers",
@@ -31365,7 +31363,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "HT384 .A87"
+    "code": "HT384.A87 A8"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -31424,7 +31422,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.73 .S34"
+    "code": "QA76.S34 F75"
   },
   "subject": {
     "0": ["LISP (Computer program language)"],
@@ -31550,7 +31548,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "HC79 .E5"
+    "code": "HC79 .E5 G54"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -31609,7 +31607,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL677.79 .F55"
+    "code": "QL677.F55 F75"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -31893,7 +31891,7 @@
     "Networking Protocols"]
   },
   "lcc": {
-    "code": "TK5105.55 .S74"
+    "code": "TK5105 .S74"
   },
   "subject": [["TCP/IP (Computer network protocol)"]],
   "series": ["TCP/IP Illustrated"],
@@ -31957,7 +31955,7 @@
     "Systems programs"]
   },
   "lcc": {
-    "code": "QA76.76 .O63"
+    "code": "QA76.O63 T36"
   },
   "subject": {
     "0": ["OPERATING SYSTEMS (COMPUTERS)"],
@@ -32087,7 +32085,7 @@
     "Physics"]
   },
   "lcc": {
-    "code": "QC21.2 .H35"
+    "code": "QC21 .H35"
   },
   "subject": {
     "0": ["Physics"],
@@ -32435,7 +32433,7 @@
     "European"]
   },
   "lcc": {
-    "code": "PN6737 .M66"
+    "code": "PN6737.M66 W38"
   },
   "subject": {
     "0": ["Comic books, strips, etc"],
@@ -32523,7 +32521,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G35"
   },
   "series": ["The Sandman",
   "The Sandman TPBs",
@@ -32591,7 +32589,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G35"
   },
   "subject": [["Comic books, strips, etc"],
   ["Fantasy comic books, strips, etc"],
@@ -32665,7 +32663,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G35"
   },
   "series": ["The Sandman",
   "The Sandman TPBs",
@@ -32737,7 +32735,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G35"
   },
   "subject": [["Graphic Novels"],
   ["Graphic novels"]],
@@ -32806,7 +32804,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26 G35"
+    "code": "PN6728.S26 G35"
   },
   "subject": {
     "0": ["Comic books, strips, etc"],
@@ -32880,7 +32878,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G29"
   },
   "subject": [["Comic books, strips, etc"],
   ["Graphic Novels"],
@@ -32952,7 +32950,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G35"
   },
   "subject": [["Comic books, strips, etc"],
   ["Fantasy comic books, strips, etc"],
@@ -33024,7 +33022,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G35"
   },
   "subject": [["Fantasy comic books, strips, etc"],
   ["Graphic Novels"],
@@ -33098,7 +33096,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G35"
   },
   "subject": [["Fantasy comic books, strips, etc"],
   ["Graphic Novels"],
@@ -33169,7 +33167,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S26"
+    "code": "PN6728.S26 G35"
   },
   "subject": [["England",
   "Fiction"],
@@ -33248,7 +33246,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6737 .M66"
+    "code": "PN6737.M66 F77"
   },
   "series": ["From Hell"],
   "originaltitle": "From Hell",
@@ -33383,7 +33381,7 @@
     "Techniques"]
   },
   "lcc": {
-    "code": "QA76.6 .B568"
+    "code": "QA76 .B568"
   },
   "subject": [["Functional programming (Computer science)"]],
   "genre": ["Technology",
@@ -33509,7 +33507,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.73 .C15"
+    "code": "QA76.73 .C15 S43"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -33569,7 +33567,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.6 .H857"
+    "code": "QA76 .H857"
   },
   "subject": [["COMPUTER PROGRAMMING"],
   ["Computer programming"]],
@@ -33635,7 +33633,7 @@
     "Programming -- Subdivisions"]
   },
   "lcc": {
-    "code": "QA76.758 .B75"
+    "code": "QA76 .B75"
   },
   "subject": {
     "0": ["Software engineering"],
@@ -33698,7 +33696,7 @@
     "Systems programming and programs"]
   },
   "lcc": {
-    "code": "QA76.76 .C65"
+    "code": "QA76.C65 A37"
   },
   "subject": [["Compilers (Computer programs)"]],
   "genre": ["General Nonfiction",
@@ -33763,7 +33761,7 @@
     "Information"]
   },
   "lcc": {
-    "code": "QA76.9 .A25"
+    "code": "QA76.A25 F466"
   },
   "subject": {
     "0": ["Computer Security"],
@@ -33829,7 +33827,7 @@
     "Natural sciences and mathematics"]
   },
   "lcc": {
-    "code": "QA39.2 .G733"
+    "code": "QA39 .G733"
   },
   "subject": {
     "0": ["Computer science",
@@ -33899,7 +33897,7 @@
     "Web & Multimedia Programming"]
   },
   "lcc": {
-    "code": "QA76.73 .J38"
+    "code": "QA76.J38 M87"
   },
   "genre": ["Technology",
   "Nonfiction"],
@@ -33959,7 +33957,7 @@
     "Special Topics"]
   },
   "lcc": {
-    "code": "QA76.9 .D343"
+    "code": "QA76.D343 S374"
   },
   "genre": ["General Nonfiction",
   "Technology",
@@ -34020,7 +34018,7 @@
     "Statistical Mathematics"]
   },
   "lcc": {
-    "code": "QA276.12 .D54"
+    "code": "QA276.12 .D539"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -34133,7 +34131,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B2430 .F722 E5"
+    "code": "B2430.F722 E5"
   },
   "subject": {
     "0": ["Philosophy, French",
@@ -34494,7 +34492,7 @@
     "Utopia [by current use]"]
   },
   "lcc": {
-    "code": "HX810.5 .E54"
+    "code": "HX810 .E54"
   },
   "subject": {
     "0": ["Catalogs, Booksellers'",
@@ -34757,7 +34755,7 @@
     "Norwegian Bokm\u00e5l, Riksm\u00e5l"]
   },
   "lcc": {
-    "code": "PT8951.17 .A17"
+    "code": "PT8951.A17 S6413"
   },
   "originaltitle": "Sofies verden",
   "awards": ["Prix des libraires du Qu\u00e9bec",
@@ -34826,7 +34824,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3557 .R67"
+    "code": "PS3557.R67"
   },
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
@@ -34939,7 +34937,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ4 .R96 .U63"
+    "code": "PZ4.R96 PR6035 .U63"
   },
   "awards": ["New York Times bestseller"],
   "genre": ["General Fiction",
@@ -34996,7 +34994,7 @@
     "Social change"]
   },
   "lcc": {
-    "code": "HC79 .I55"
+    "code": "HC79.I55 L365"
   },
   "awards": ["Amazon's Best Books of the Month",
   "Amazon.com Best Books",
@@ -35115,7 +35113,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B3313 .A43"
+    "code": "B3313.A43 E5"
   },
   "subject": {
     "0": ["Filosofie"],
@@ -35328,7 +35326,7 @@
     "Thought, thinking, reasoning, intuition, value, judgment"]
   },
   "lcc": {
-    "code": "BF455 .D37"
+    "code": "BF455.D37"
   },
   "subject": {
     "0": ["Memory"],
@@ -35389,7 +35387,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "DA965 .C6"
+    "code": "DA965.C6 C66"
   },
   "subject": [["Collins, Michael, 1890-1922"],
   ["Ireland",
@@ -35607,7 +35605,7 @@
     "Thought, thinking, reasoning, intuition, value, judgment"]
   },
   "lcc": {
-    "code": "BF455 .T54"
+    "code": "BF455.T54"
   },
   "genre": ["General Nonfiction",
   "Science & Nature",
@@ -35735,7 +35733,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "P91.3 .B356"
+    "code": "P91 .B356"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -35790,7 +35788,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "JQ4005 .W48"
+    "code": "JQ4005.W48"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -35841,7 +35839,7 @@
     "Journalism And Publishing"]
   },
   "lcc": {
-    "code": "PN4775 .L224"
+    "code": "PN4775.L224"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -35896,7 +35894,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "PR6029 .C33"
+    "code": "PR6029 .C33 Z"
   },
   "subject": [["Dramatists, Irish",
   "20th century",
@@ -36016,7 +36014,7 @@
     "Transportation"]
   },
   "lcc": {
-    "code": "HE305 .M43"
+    "code": "HE305.M43"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -36073,7 +36071,7 @@
     "Wide-Area Networks"]
   },
   "lcc": {
-    "code": "HE7572 .U6"
+    "code": "HE7572.U6 G38"
   },
   "subject": {
     "0": ["Computer industry",
@@ -36523,7 +36521,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "DC203 .C9"
+    "code": "DC203"
   },
   "subject": [["France",
   "Kings and rulers",
@@ -36595,7 +36593,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "DA591 .T47"
+    "code": "DA591.T47 T476"
   },
   "subject": {
     "0": ["Conservative Party (Great Britain)"],
@@ -36675,7 +36673,7 @@
     "Pacific"]
   },
   "lcc": {
-    "code": "DU117.2 .H38"
+    "code": "DU117.H38 A3"
   },
   "subject": {
     "0": ["Australia",
@@ -36822,7 +36820,7 @@
     "Universe"]
   },
   "lcc": {
-    "code": "QB991 .C92"
+    "code": "QB991.C92 P46"
   },
   "genre": ["General Nonfiction",
   "Science & Nature",
@@ -36880,7 +36878,7 @@
     "Technology and Application of Knowledge"]
   },
   "lcc": {
-    "code": "QA76.2 .J63"
+    "code": "QA76.J63 I83"
   },
   "awards": ["New York Times bestseller",
   "Christian Science Monitor Best Book",
@@ -36952,7 +36950,7 @@
     "United States"]
   },
   "lcc": {
-    "code": "E185.97 .O23"
+    "code": "E185.O23 A3"
   },
   "subject": {
     "0": ["African Americans",
@@ -37128,7 +37126,7 @@
     "The legislative process"]
   },
   "lcc": {
-    "code": "DS371.43 .J69"
+    "code": "DS371.J69 A3"
   },
   "awards": ["Dayton Literary Peace Prize Long List"],
   "genre": ["Biography & Memoir",
@@ -37251,7 +37249,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7 .M64"
+    "code": "PZ7.M64 W"
   },
   "subject": {
     "0": ["Bears",
@@ -37376,7 +37374,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 S5513"
   },
   "originaltitle": "\u8272\u5f69\u3092\u6301\u305f\u306a\u3044\u591a\u5d0e\u3064\u304f\u308b\u3068\u3001 \u5f7c\u306e\u5de1\u793c\u306e\u5e74",
   "awards": ["Bad Sex in Fiction Award Shortlist",
@@ -37440,7 +37438,7 @@
     "Music"]
   },
   "lcc": {
-    "code": "ML422 .O9"
+    "code": "ML422.O9 A5"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -37505,7 +37503,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL855 .A859"
+    "code": "PL855.A859 S4613"
   },
   "originaltitle": "\u30bb\u30f3\u30bb\u30a4\u306e\u9784",
   "awards": ["Tanizaki Jun\u2019ichir\u014d Sh\u014d",
@@ -37572,7 +37570,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 Z465"
   },
   "subject": [["Marathon running"]],
   "originaltitle": "Hashiru koto ni tsuite kataru toki ni boku no kataru koto",
@@ -37640,7 +37638,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 S4513"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -37714,7 +37712,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 H5713"
   },
   "series": ["The Rat",
   "Trilogie der Ratte",
@@ -37785,7 +37783,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 U4813"
   },
   "subject": [["Relationships",
   "Fiction"],
@@ -37869,7 +37867,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 N4513"
   },
   "subject": {
     "0": ["Detective and mystery stories"],
@@ -37962,7 +37960,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 A61213"
   },
   "series": ["1Q84"],
   "originaltitle": "1Q84",
@@ -38041,7 +38039,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 N6713"
   },
   "subject": [["Love stories"],
   ["Man-woman relationships",
@@ -38113,7 +38111,7 @@
     "Pacific"]
   },
   "lcc": {
-    "code": "DU117.2 .K42"
+    "code": "DU117.K42 W37"
   },
   "subject": {
     "0": ["Australia",
@@ -38204,7 +38202,7 @@
     "The political process"]
   },
   "lcc": {
-    "code": "HQ1090.7 .A8 .B769"
+    "code": "HQ1090 .B769"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -38345,7 +38343,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "HN850 .S6 M45"
+    "code": "HN850.S6 M45"
   },
   "subject": [["Australia",
   "Social conditions"],
@@ -38485,7 +38483,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "KU1065 .P43"
+    "code": "KU1065.P43"
   },
   "subject": [["Journalism",
   "Law and legislation",
@@ -38558,7 +38556,7 @@
     "Telecommunications (Telegraph, Internet, Cables, Broadcasting, Telephones, Movies)"]
   },
   "lcc": {
-    "code": "PN4734.5 .N48"
+    "code": "PN4734.N48 W38"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -38777,7 +38775,7 @@
     "Theories of evolution"]
   },
   "lcc": {
-    "code": "QH366.2 .D37"
+    "code": "QH366 .D37"
   },
   "subject": {
     "0": ["Biological diversity"],
@@ -39006,7 +39004,7 @@
     "Natural sciences and mathematics"]
   },
   "lcc": {
-    "code": "QH366.2 .D374"
+    "code": "QH366 .D374"
   },
   "originaltitle": "The Greatest Show on Earth: The Evidence for Evolution",
   "awards": ["New York Times bestseller"],
@@ -39074,7 +39072,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6025 .O7552"
+    "code": "PR6025.O7552 Z47"
   },
   "subject": {
     "0": ["Authors, English",
@@ -39148,7 +39146,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7 .N647"
+    "code": "PZ7.N647 S"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -39245,7 +39243,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6103 .O4427"
+    "code": "PR6103.O4427 A84"
   },
   "series": ["The Hitchhiker's Guide to the Galaxy",
   "Gu\u00eda del autoestopista gal\u00e1ctico",
@@ -39320,7 +39318,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "DS359.7 .D35"
+    "code": "DS359 .D35"
   },
   "awards": ["Samuel Johnson Prize for Non-fiction shortlist",
   "Independent Booksellers' Book Prize Shortlist",
@@ -39384,7 +39382,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3604 .O44"
+    "code": "PS3604.O44 Z456"
   },
   "subject": {
     "0": ["College dropouts",
@@ -39459,7 +39457,7 @@
     "Social problems and services; associations"]
   },
   "lcc": {
-    "code": "HV6533 .K3"
+    "code": "HV6533.K3 C3"
   },
   "subject": {
     "0": ["Crime films and programs"],
@@ -39660,7 +39658,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6025 .O7552"
+    "code": "PR6025.O7552 R785"
   },
   "subject": {
     "0": ["Attorney and client",
@@ -39740,7 +39738,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6025 .O7552"
+    "code": "PR6025.O7552 R77"
   },
   "subject": {
     "0": ["Detective and mystery stories, English"],
@@ -39807,7 +39805,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9619.3 .C36"
+    "code": "PR9619.C36 J33"
   },
   "subject": {
     "0": ["Convicts",
@@ -39918,7 +39916,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .E547"
+    "code": "PS3569.E547 R4"
   },
   "subject": {
     "0": ["Allegories"],
@@ -39996,7 +39994,7 @@
     "United States"]
   },
   "lcc": {
-    "code": "JA85.2 .U6"
+    "code": "JA85.U6 L35"
   },
   "subject": {
     "0": ["Communication in politics",
@@ -40125,7 +40123,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "PS3552 .A7424"
+    "code": "PS3552.A7424 J46"
   },
   "subject": {
     "0": ["Capitalism",
@@ -40204,7 +40202,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR9619.3 .E35"
+    "code": "PR9619.E35 T4"
   },
   "subject": [["Butterflies",
   "Evolution",
@@ -40276,7 +40274,7 @@
     "Variety shows and theatrical dancing"]
   },
   "lcc": {
-    "code": "DU122 .A73"
+    "code": "DU122.A73"
   },
   "awards": ["Western Australian Premier's Book Awards Shortlist"],
   "genre": ["Biography & Memoir",
@@ -40340,7 +40338,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ3 .A93 10"
+    "code": "PZ3.A93 PR4030 10"
   },
   "genre": ["General Fiction",
   "Romance",
@@ -40401,7 +40399,7 @@
     "Journalism And Publishing"]
   },
   "lcc": {
-    "code": "DU172 .D3"
+    "code": "DU172.D3"
   },
   "subject": {
     "0": ["Davis, Neil, 1934-1985"],
@@ -40489,7 +40487,7 @@
     "Other Topics"]
   },
   "lcc": {
-    "code": "D810 .C88"
+    "code": "D810.C88 S43"
   },
   "subject": {
     "0": ["Enigma cipher system",
@@ -40632,7 +40630,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9619.3 .E35"
+    "code": "PR9619.E35 P47"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -40707,7 +40705,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9619.3 .E35"
+    "code": "PR9619.E35 A96"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -40776,7 +40774,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3537 .T3234"
+    "code": "PS3537.T3234 O2"
   },
   "subject": {
     "0": ["Cowboys",
@@ -40878,7 +40876,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3537 .T3234"
+    "code": "PS3537.T3234 P4"
   },
   "subject": {
     "0": ["Avarice",
@@ -40958,7 +40956,7 @@
     "Theory And Instruction"]
   },
   "lcc": {
-    "code": "PN4888 .T4"
+    "code": "PN4888.T4 H355"
   },
   "subject": [["Press",
   "Economic aspects",
@@ -41102,7 +41100,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6005 .L36"
+    "code": "PZ3.C551205 PR6005 .L36"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -41162,7 +41160,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .R4825"
+    "code": "PS3552.R4825 B75"
   },
   "subject": {
     "0": ["Life on other planets",
@@ -41173,11 +41171,11 @@
   },
   "series": ["Second Uplift Trilogy",
   "Die zweite Uplift-Trilogie",
-  "Uplift Saga",
   "Uplift-Reihe",
   "La Elevaci\u00f3n de los Pupilos",
   "\u00c9l\u00e9vation",
-  "R\u00e9demption"],
+  "R\u00e9demption",
+  "Uplift Saga"],
   "awards": ["Hugo Nominee",
   "Locus Poll Nominee"],
   "genre": ["Science Fiction",
@@ -41238,7 +41236,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .R4175"
+    "code": "PS3552.R4175 K2"
   },
   "subject": [["Fantasy fiction"],
   ["Feature"],
@@ -41306,7 +41304,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6062 .Y618 Y4"
+    "code": "PR6062.Y618 Y4"
   },
   "series": ["Yes, Minister"],
   "genre": ["Fiction and Literature"],
@@ -41365,7 +41363,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3503 .R167"
+    "code": "PS3503.R167 F3"
   },
   "subject": {
     "0": ["Book burning",
@@ -41579,7 +41577,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6027 .O54"
+    "code": "PR6027.O54 O5"
   },
   "subject": {
     "0": ["Nuclear warfare",
@@ -41654,7 +41652,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6027 .O54"
+    "code": "PR6027.O54 T69"
   },
   "subject": {
     "0": ["Alice Springs (N.T.)",
@@ -41740,7 +41738,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7 .B934"
+    "code": "PZ7.B934 S"
   },
   "subject": {
     "0": ["American fiction"],
@@ -41879,7 +41877,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6054 .A35"
+    "code": "PR6054.A35 R6"
   },
   "subject": [["Short stories, English"]],
   "series": ["Tales of the Unexpected [Dahl]"],
@@ -42001,7 +41999,7 @@
     "Transcendental meditation"]
   },
   "lcc": {
-    "code": "BF637 .T68"
+    "code": "BF637.T68 L96"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -42069,7 +42067,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .O84"
+    "code": "PS3552.O84 P65"
   },
   "subject": {
     "0": ["Astronautics",
@@ -42211,7 +42209,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3606 .O857"
+    "code": "PS3606.O857 S68"
   },
   "subject": [["Domestic Fiction"],
   ["Domestic fiction"],
@@ -42273,7 +42271,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6029 .R8"
+    "code": "PR6029.R8 A63"
   },
   "subject": {
     "0": ["Allegories"],
@@ -42399,7 +42397,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6029 .R8"
+    "code": "PR6029.R8 N49"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -42451,6 +42449,7 @@
     "37": ["satire"],
     "38": ["science fiction"]
   },
+  "originaltitle": "Nineteen Eighty-Four",
   "awards": ["1001 Books You Must Read Before You Die",
   "The Great American Read",
   "David Bowie's Top 100",
@@ -42552,7 +42551,7 @@
     "Spain"]
   },
   "lcc": {
-    "code": "DP269.9 .O713"
+    "code": "DP269 .O713"
   },
   "subject": {
     "0": ["Authors, English",
@@ -42679,7 +42678,7 @@
     "United States"]
   },
   "lcc": {
-    "code": "HD9502 .U54"
+    "code": "HD9502.U54 E5763"
   },
   "subject": {
     "0": ["Business failures",
@@ -42750,7 +42749,7 @@
     "Games Of Chance"]
   },
   "lcc": {
-    "code": "GV1282.3 .F63"
+    "code": "GV1282 .F63"
   },
   "genre": ["General Nonfiction",
   "Nonfiction"],
@@ -42803,7 +42802,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3563 .O52873"
+    "code": "PS3563.O52873"
   },
   "subject": [["Women air pilots",
   "Fiction"]],
@@ -43011,7 +43010,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3553 .A655"
+    "code": "PS3553.A655 E5"
   },
   "subject": {
     "0": ["Brothers and sisters",
@@ -43033,8 +43032,8 @@
     "16": ["Young adult fiction"],
     "17": ["science fiction"]
   },
-  "series": ["Ender's saga",
-  "Ender's Game"],
+  "series": ["Ender's Game",
+  "Ender's saga"],
   "originaltitle": "Ender's Game",
   "awards": ["Hugo",
   "Nebula",
@@ -43119,7 +43118,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6063 .A2515"
+    "code": "PR6063.A2515 E95"
   },
   "subject": {
     "0": ["Great Britain",
@@ -43199,7 +43198,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3563 .C3556"
+    "code": "PS3563.C3556 E5"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -43374,7 +43373,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL812 .A8"
+    "code": "PL812.A8 W313"
   },
   "subject": [["Japan",
   "Fiction"]],
@@ -43439,7 +43438,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ4 .N734"
+    "code": "PZ4 .N734 R"
   },
   "subject": {
     "0": ["Computer adventure games",
@@ -43456,9 +43455,9 @@
   "Espacio Conocido",
   "Ringwelt",
   "Ringwelt-Zyklus",
-  "Ringwereld",
   "Ringworld",
-  "L'anneau-monde"],
+  "L'anneau-monde",
+  "Ringwereld"],
   "originaltitle": "Ringworld",
   "awards": ["Hugo",
   "Nebula",
@@ -43540,7 +43539,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3565 .B75"
+    "code": "PS3565.B75 T48"
   },
   "subject": {
     "0": ["Psychological fiction"],
@@ -43695,7 +43694,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3558 .A42169"
+    "code": "PS3558.A42169 R45"
   },
   "subject": {
     "0": ["Am\u00e9ricains d'origine pakistanaise",
@@ -43776,7 +43775,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6015 .A4644"
+    "code": "PR6015.A4644 H36"
   },
   "subject": [["Earl's Court (London, England)",
   "Fiction"],
@@ -43847,7 +43846,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3 .M3342"
+    "code": "PR9199.M3342 N6"
   },
   "subject": {
     "0": ["Bildungsromane"],
@@ -43985,7 +43984,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6063 .A2515"
+    "code": "PR6063.A2515 L43"
   },
   "subject": {
     "0": ["Astronomers",
@@ -44070,7 +44069,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR9499.3 .B424"
+    "code": "PR9499.B424"
   },
   "genre": ["General Fiction",
   "Fiction and Literature"],
@@ -44240,7 +44239,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ4 .J752 I"
+    "code": "PZ4.J752 PR6060 .O496"
   },
   "subject": [["Science Fiction"],
   ["Science fiction"],
@@ -44302,7 +44301,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ4 .I65 PR6059"
+    "code": "PZ4.I65 PR9619 .3"
   },
   "genre": ["General Fiction",
   "Fiction and Literature"],
@@ -44358,7 +44357,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .E82"
+    "code": "PS3554.E82 H85"
   },
   "subject": {
     "0": ["India",
@@ -44426,7 +44425,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3515 .E37"
+    "code": "PS3515.E37 F3"
   },
   "subject": {
     "0": ["Fiction in English American writers 1900-1945 Texts"],
@@ -44517,7 +44516,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3515 .E37"
+    "code": "PS3515.E37 F6"
   },
   "subject": {
     "0": ["Americans",
@@ -44712,7 +44711,7 @@
     "State & Political Crimes"]
   },
   "lcc": {
-    "code": "E860 .B47"
+    "code": "E860.B47"
   },
   "subject": {
     "0": ["Adaptatio"],
@@ -44789,7 +44788,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9499.3 .G536"
+    "code": "PR9499.G536 H86"
   },
   "subject": {
     "0": ["Americans",
@@ -44876,7 +44875,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6023 .A93"
+    "code": "PR6023.A93 L2"
   },
   "subject": {
     "0": ["Adultery",
@@ -44986,7 +44985,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6061 .U68"
+    "code": "PR6061.U68 G33"
   },
   "subject": {
     "0": ["Bildungsromans"],
@@ -45058,7 +45057,7 @@
     "Modern period (1900-)"]
   },
   "lcc": {
-    "code": "PT2621 .A26"
+    "code": "PT2621.A26 P713"
   },
   "subject": {
     "0": ["Allegories"],
@@ -45164,7 +45163,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6019 .O9"
+    "code": "PR6019.O9 D8"
   },
   "subject": {
     "0": ["City and town life",
@@ -45334,7 +45333,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .O2893"
+    "code": "PS3568.O2893 M4"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -45402,7 +45401,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .O2893"
+    "code": "PS3568.O2893 M37"
   },
   "subject": [["Mars (Planet)",
   "Fiction"],
@@ -45474,7 +45473,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .O2893"
+    "code": "PS3568.O2893 G7"
   },
   "series": ["La trilogie martienne",
   "Mars Trilogy",
@@ -45546,7 +45545,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .O2893"
+    "code": "PS3568.O2893 B55"
   },
   "subject": {
     "0": ["Life on other planets",
@@ -45631,7 +45630,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .O2893"
+    "code": "PS3568.O2893"
   },
   "subject": {
     "0": ["Life on other planets",
@@ -45720,7 +45719,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .O2893"
+    "code": "PS3568.O2893 W55"
   },
   "subject": {
     "0": ["Orange County (Calif.)",
@@ -45794,7 +45793,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6068 .E95"
+    "code": "PR6068.E95 C44"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -45866,7 +45865,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .U76678"
+    "code": "PS3568.U76678 C48"
   },
   "subject": {
     "0": ["Interplanetary voyages",
@@ -45949,7 +45948,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .U763"
+    "code": "PS3568.U763 F4"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -46027,7 +46026,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9499.3 .R59"
+    "code": "PR9499.R59 G63"
   },
   "subject": {
     "0": ["Domestic Fiction"],
@@ -46121,7 +46120,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PS3523 .E4583"
+    "code": "PS3523.E4583"
   },
   "genre": ["Horror",
   "Science Fiction",
@@ -46183,7 +46182,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6113 .A87"
+    "code": "PR6113.A87 I515"
   },
   "subject": {
     "0": ["Bildungsromans"],
@@ -46263,7 +46262,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3557 .O384"
+    "code": "PS3557.O384 P75"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -46339,7 +46338,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3537 .A426"
+    "code": "PS3537.A426 C3"
   },
   "subject": {
     "0": ["Bildungsromane"],
@@ -46477,7 +46476,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3558 .E476"
+    "code": "PS3558.E476 C3"
   },
   "subject": {
     "0": ["Adaptations"],
@@ -46617,7 +46616,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7 .R79835"
+    "code": "PZ7.R79835 H"
   },
   "subject": {
     "0": ["Bildungsromans"],
@@ -46871,7 +46870,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6118 .O28"
+    "code": "PR6118.O28 K44"
   },
   "subject": {
     "0": ["Fantasy fiction"],
@@ -46944,7 +46943,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6035 .U862"
+    "code": "PR6035.U862"
   },
   "originaltitle": "With a Strange Device",
   "genre": ["Science Fiction",
@@ -47060,7 +47059,7 @@
     "Technology and Application of Knowledge"]
   },
   "lcc": {
-    "code": "TX833.5 .O88"
+    "code": "TX833 .O88"
   },
   "awards": ["The British Book Industry Awards Shortlist",
   "Australian Book Industry Awards Shortlist"],
@@ -47127,6 +47126,7 @@
   "lcc": {
     "code": "TX801 .O88"
   },
+  "series": ["Plenty (Ottolenghi)"],
   "originaltitle": "Plenty: Vibrant Vegetable Recipes from London's Ottolenghi",
   "awards": ["Galaxy National Book Awards",
   "James Beard Foundation Award Nominee"],
@@ -47357,7 +47357,7 @@
     "Research"]
   },
   "lcc": {
-    "code": "Q182.3 .K57"
+    "code": "Q182 .K57"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -47479,7 +47479,7 @@
     "Philosophy And Psychology"]
   },
   "lcc": {
-    "code": "QA9.8 .H63"
+    "code": "QA9 .H63"
   },
   "subject": {
     "0": ["Artificial Intelligence"],
@@ -47569,7 +47569,7 @@
     "Drawing and decorative arts"]
   },
   "lcc": {
-    "code": "NC1429 .M86"
+    "code": "NC1429.M86"
   },
   "series": ["xkcd"],
   "originaltitle": "xkcd: Volume 0",
@@ -47681,7 +47681,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL696 .P63"
+    "code": "QL696.P63 D47"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -47794,7 +47794,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL691 .J4"
+    "code": "QL691.J4"
   },
   "genre": ["Science & Nature",
   "Reference",
@@ -48178,7 +48178,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL696 .P7"
+    "code": "QL696.P7 F63"
   },
   "subject": [["Parrots"],
   ["Parrots",
@@ -48248,7 +48248,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL693 .P59"
+    "code": "QL693.P59"
   },
   "subject": {
     "0": ["Birds",
@@ -48323,7 +48323,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL693 .P59"
+    "code": "QL693.P59"
   },
   "subject": {
     "0": ["Birds",
@@ -48457,7 +48457,7 @@
     "Zoology"]
   },
   "lcc": {
-    "code": "QL693 .K375"
+    "code": "QL693"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -48695,7 +48695,7 @@
     "Nature of Life"]
   },
   "lcc": {
-    "code": "QR106 .S93"
+    "code": "QR106.S93"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -48755,7 +48755,7 @@
     "Reptilia"]
   },
   "lcc": {
-    "code": "QE861.9 .A8"
+    "code": "QE861.A8 K43"
   },
   "genre": ["Science & Nature",
   "Nonfiction"],
@@ -48813,7 +48813,7 @@
     "Polar regions"]
   },
   "lcc": {
-    "code": "QH84.2 .M438"
+    "code": "QH84 .M438"
   },
   "genre": ["Science & Nature",
   "History",
@@ -49055,7 +49055,7 @@
     "Theory And Instruction"]
   },
   "lcc": {
-    "code": "NA2543 .S6"
+    "code": "NA2543.S6 D66"
   },
   "genre": ["Art & Design",
   "Nonfiction"],
@@ -49115,7 +49115,7 @@
     "Social change"]
   },
   "lcc": {
-    "code": "HM851 .C764"
+    "code": "HM851.C748"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -49235,7 +49235,9 @@
     "Reptiles; Birds",
     "Zoology"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "QL690.A1"
+  },
   "series": ["Collins Nature Guides"],
   "genre": ["General Nonfiction",
   "Science & Nature",
@@ -49298,7 +49300,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR4803 .H44"
+    "code": "PR4803.H44 A6"
   },
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
@@ -49354,7 +49356,7 @@
     "Rhetoric and anthologies"]
   },
   "lcc": {
-    "code": "PN6084 .G33"
+    "code": "PN6084.G33"
   },
   "genre": ["Home & Garden",
   "Fiction and Literature"],
@@ -49471,7 +49473,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3535 .A547"
+    "code": "PS3535.A547 F6"
   },
   "subject": {
     "0": ["Architects",
@@ -49560,7 +49562,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3535 .A547"
+    "code": "PS3535.A547 A94"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -49651,7 +49653,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3535 .A547"
+    "code": "PS3535.A547 Z587"
   },
   "genre": ["Biography & Memoir",
   "Fiction and Literature",
@@ -49779,7 +49781,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3553 .O855"
+    "code": "PS3553.O855 P57"
   },
   "awards": ["Scotiabank Giller Prize Longlist"],
   "genre": ["General Fiction",
@@ -49840,7 +49842,7 @@
     "Organisms characteristic of specific kinds of environments"]
   },
   "lcc": {
-    "code": "QH541.5 .I8"
+    "code": "QH541.I8 Q35"
   },
   "subject": {
     "0": ["Biogeography"],
@@ -49918,7 +49920,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6058 .A5536"
+    "code": "PR6058.A5536 D74"
   },
   "subject": [["Science Fiction"],
   ["Science fiction"],
@@ -50097,7 +50099,7 @@
     "Middle 19th Century 1830-1861"]
   },
   "lcc": {
-    "code": "PS2382 .M4"
+    "code": "PS2382"
   },
   "series": ["Treasury of World Masterpieces"],
   "genre": ["General Fiction",
@@ -50259,7 +50261,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3558 .E63"
+    "code": "PS3558.E63 D86"
   },
   "subject": {
     "0": ["Dune (Imaginary place)",
@@ -50343,7 +50345,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 D43"
   },
   "subject": {
     "0": ["Humorous fiction"],
@@ -50415,7 +50417,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485"
   },
   "subject": {
     "0": ["Revenge",
@@ -50477,7 +50479,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 C76"
   },
   "subject": {
     "0": ["Domestic Fiction"],
@@ -50553,7 +50555,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485"
   },
   "subject": {
     "0": ["Anthropologists",
@@ -50636,7 +50638,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 W3"
   },
   "subject": {
     "0": ["Fathers and sons",
@@ -50733,7 +50735,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3602 .A977"
+    "code": "PS3602.A977 M86"
   },
   "genre": ["General Fiction",
   "Fiction and Literature"],
@@ -50795,7 +50797,7 @@
     "Speculative fiction"]
   },
   "lcc": {
-    "code": "PS648 .F3"
+    "code": "PS648.F3 I78"
   },
   "subject": [["Fantasy fiction, American"],
   ["Fantasy fiction, English"]],
@@ -50863,7 +50865,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 S37"
   },
   "subject": {
     "0": ["Large Type Books"],
@@ -51082,7 +51084,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 R6"
   },
   "subject": {
     "0": ["Baley, Elijah (Fictitious character)",
@@ -51170,7 +51172,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 F6"
   },
   "subject": {
     "0": ["Large Type Books"],
@@ -51271,7 +51273,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ3 .A8316"
+    "code": "PZ3 .A8316 I3"
   },
   "subject": {
     "0": ["Feature"],
@@ -51364,7 +51366,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 B5"
   },
   "subject": {
     "0": ["Robots",
@@ -51438,7 +51440,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 F594"
   },
   "subject": {
     "0": ["Life on other planets",
@@ -51531,7 +51533,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485"
   },
   "genre": ["General Fiction",
   "Fiction and Literature"],
@@ -51679,7 +51681,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 S66"
   },
   "subject": {
     "0": ["Castles",
@@ -51755,7 +51757,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3602 .R6445"
+    "code": "PS3602.R6445 W67"
   },
   "subject": {
     "0": ["Audiobooks"],
@@ -51900,7 +51902,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6015 .U9"
+    "code": "PR6015.U9 C76"
   },
   "subject": {
     "0": ["Country homes",
@@ -51984,7 +51986,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 M38"
   },
   "subject": [["Science Fiction"],
   ["Science fiction"],
@@ -52060,7 +52062,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3610 .E46"
+    "code": "PS3610.E46 H86"
   },
   "series": ["The Inheritance Trilogy"],
   "awards": ["Amazon.com Best Books",
@@ -52128,7 +52130,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 L66"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -52208,7 +52210,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 T73"
   },
   "originaltitle": "Transition",
   "awards": ["SF Site Reader's Choice",
@@ -52275,7 +52277,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6058 .E62 P67"
+    "code": "PR6058.E62 P67"
   },
   "genre": ["General Fiction",
   "Horror",
@@ -52336,7 +52338,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A849"
+    "code": "PR6052.A849 V69"
   },
   "subject": {
     "0": ["Alternative histories (Fiction)"],
@@ -52419,7 +52421,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 A73"
   },
   "originaltitle": "Against a Dark Background",
   "genre": ["General Fiction",
@@ -52480,7 +52482,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ3 .C551205 .L36"
+    "code": "PZ3.C551205 PR6005 .L36"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -52548,7 +52550,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3608 .O9566"
+    "code": "PS3608.O9566 W66"
   },
   "series": ["Silo [Hugh Howey]",
   "Silo Series",
@@ -52616,7 +52618,7 @@
     "Pseudo-Callisthenes"]
   },
   "lcc": {
-    "code": "PA4025 .A2"
+    "code": "PA4025.A2 F33"
   },
   "subject": {
     "0": ["1736"],
@@ -52776,7 +52778,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485"
   },
   "subject": [["Science fiction, English"]],
   "series": ["Kultur-Zyklus",
@@ -52839,7 +52841,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 I58"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -52915,7 +52917,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 S76"
   },
   "genre": ["General Fiction",
   "Mystery",
@@ -52976,7 +52978,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 H93"
   },
   "series": ["Kultur-Zyklus",
   "A Kult\u00fara",
@@ -53049,7 +53051,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 S87"
   },
   "series": ["Kultur-Zyklus",
   "A Kult\u00fara",
@@ -53119,7 +53121,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 W47"
   },
   "subject": [["Bildungsromans"],
   ["Cults",
@@ -53185,7 +53187,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 S74"
   },
   "subject": {
     "0": ["Children of the rich",
@@ -53267,7 +53269,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6051 .D3352"
+    "code": "PR6051.D3352 D5"
   },
   "subject": {
     "0": ["Detective and mystery stories"],
@@ -53352,7 +53354,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6063 .C4"
+    "code": "PR6063.C4 A88"
   },
   "subject": {
     "0": ["Atonement",
@@ -53491,7 +53493,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6005 .L36"
+    "code": "PR6005.L36 A616"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -53633,7 +53635,7 @@
     "Social problems and services; associations"]
   },
   "lcc": {
-    "code": "HV6533 .M7"
+    "code": "HV6533.M7 S34"
   },
   "originaltitle": "Murder in Mississippi",
   "awards": ["The Indie Book Award Shortlist",
@@ -53695,7 +53697,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3603 .L548"
+    "code": "PS3603.L548 R43"
   },
   "series": ["Ready Player One"],
   "awards": ["Amazon.com Best Books",
@@ -53767,7 +53769,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A849"
+    "code": "PR6052.A849 M37"
   },
   "genre": ["Science Fiction",
   "Fiction and Literature"],
@@ -53823,7 +53825,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A849"
+    "code": "PR6052.A849 T73"
   },
   "subject": [["Alternative histories"]],
   "originaltitle": "Traces",
@@ -53880,7 +53882,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6063 .A2515"
+    "code": "PR6063.A2515 N49"
   },
   "subject": [["Life on other planets",
   "Fiction"],
@@ -53947,7 +53949,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9619.4 .B46"
+    "code": "PR9619.B46 T45"
   },
   "series": ["Spider Webb"],
   "awards": ["Philip K. Dick Award Nominee",
@@ -54005,7 +54007,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3602 .U8665"
+    "code": "PS3602.U8665 T47"
   },
   "genre": ["General Fiction",
   "Fiction and Literature"],
@@ -54242,7 +54244,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .A9496"
+    "code": "PS3552.A9496"
   },
   "series": ["Cycle des Xeelees",
   "Der Xeelee-Zyklus",
@@ -54295,7 +54297,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7 .B52878"
+    "code": "PZ7.B52878 W"
   },
   "series": ["Curse Workers"],
   "awards": ["YALSA Best Fiction for Young Adults",
@@ -54368,7 +54370,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3553 .H15"
+    "code": "PS3553.H15 A82"
   },
   "subject": {
     "0": ["Artists",
@@ -54478,7 +54480,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6051 .D3352"
+    "code": "PR6051.D3352 L66"
   },
   "subject": {
     "0": ["Detective and mystery stories, English"],
@@ -54693,7 +54695,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3558 .E63"
+    "code": "PS3558.E63 E9"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -54760,7 +54762,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A849"
+    "code": "PR6052.A849 F56"
   },
   "series": ["Flut",
   "Flood"],
@@ -54829,7 +54831,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A849"
+    "code": "PR6052.A849 M36"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -54896,7 +54898,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A849"
+    "code": "PR6052.A849 M35"
   },
   "subject": [["Science Fiction"],
   ["Science fiction"],
@@ -54964,7 +54966,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A849"
+    "code": "PR6052.A849 E95"
   },
   "subject": [["Science Fiction"],
   ["Science fiction"],
@@ -55036,7 +55038,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A9496"
+    "code": "PR6052.A9496"
   },
   "series": ["Kinder des Schicksals",
   "Destiny's Children",
@@ -55101,7 +55103,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A9496"
+    "code": "PR6052.A849 V33"
   },
   "subject": [["Science fiction, English"]],
   "series": ["Cycle des Xeelees",
@@ -55167,7 +55169,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3 .H8235"
+    "code": "PR9199.H8235 C68"
   },
   "subject": {
     "0": ["Fantasy fiction"],
@@ -55307,7 +55309,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3603 .H53"
+    "code": "PS3603.H53 S76"
   },
   "subject": {
     "0": ["Science Fiction, American"],
@@ -55372,7 +55374,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "PN5123 .C2"
+    "code": "PN5123.C2"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -55438,7 +55440,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6113 .O748"
+    "code": "PR6113.O748 W65"
   },
   "subject": {
     "0": ["Life on other planets",
@@ -55640,7 +55642,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "TL685.3 .H46"
+    "code": "TL685.H46"
   },
   "subject": [["Airplanes, Military",
   "Flight testing"],
@@ -55704,7 +55706,7 @@
     "Western U.S."]
   },
   "lcc": {
-    "code": "F686.2 .F73"
+    "code": "F686 .F73"
   },
   "subject": {
     "0": ["Conservatism",
@@ -55776,7 +55778,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ3 .C551205 .L36"
+    "code": "PZ3.C551205 PR6005 .L36"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -55870,7 +55872,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ4 .A363 .L3"
+    "code": "PZ4.A363 PR6051 .L3"
   },
   "subject": [["Science Fiction"],
   ["Science fiction"],
@@ -55931,7 +55933,7 @@
     "Japan"]
   },
   "lcc": {
-    "code": "DS882 .S78"
+    "code": "DS881"
   },
   "subject": {
     "0": ["Japan",
@@ -55998,7 +56000,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6055 .L79"
+    "code": "PR6055.L79 P66"
   },
   "subject": {
     "0": ["Criminals",
@@ -56079,7 +56081,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T875"
+    "code": "PS3569.T875 M67"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -56318,7 +56320,7 @@
     "Zootechny"]
   },
   "lcc": {
-    "code": "SF613 .H44"
+    "code": "SF613.H44"
   },
   "subject": [["Herriot, James"],
   ["Veterinarians",
@@ -56448,7 +56450,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3515 .E288"
+    "code": "PS3515 .E288 N8"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -56582,7 +56584,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PZ3.A8316 PS3551 .S5"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -56664,7 +56666,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ3 .A8316 .S5"
+    "code": "PZ3.A8316 PS3551 .S5"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -56739,7 +56741,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 S37"
   },
   "subject": {
     "0": ["Large Type Books"],
@@ -56837,7 +56839,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 R64"
   },
   "subject": {
     "0": ["Baley, Elijah (Fictitious character)",
@@ -56919,7 +56921,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -56997,7 +56999,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ3 .A8316"
+    "code": "PZ3 .A8316 G"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -57074,7 +57076,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 F596"
   },
   "subject": {
     "0": ["Epic literature"],
@@ -57173,7 +57175,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .S5"
+    "code": "PS3551.S5 F59"
   },
   "subject": {
     "0": ["Forecasting",
@@ -57279,7 +57281,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A849 R3"
+    "code": "PR6052 .A849 R56"
   },
   "series": ["Cycle des Xeelees",
   "Der Xeelee-Zyklus",
@@ -57343,7 +57345,7 @@
     "Taoism"]
   },
   "lcc": {
-    "code": "PR6025 .I65"
+    "code": "PR6025.I65 Z68"
   },
   "subject": {
     "0": ["Children",
@@ -57430,7 +57432,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554 .I3"
+    "code": "PS3554.I3 G3"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -57490,7 +57492,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ4 .S3546 .C5175"
+    "code": "PZ4.S3546 PS3569 .C5175"
   },
   "genre": ["Science Fiction",
   "Fiction and Literature"],
@@ -57543,7 +57545,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ4 .S463"
+    "code": "PZ4.S463 PS3569 .E547"
   },
   "subject": {
     "0": ["Brooklyn (New York, N.Y.)",
@@ -57620,7 +57622,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ4 .P889 .O98"
+    "code": "PZ4.P889 PR6066 .O98"
   },
   "genre": ["General Fiction",
   "Fiction and Literature"],
@@ -57671,7 +57673,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "DA16 .C47"
+    "code": "DA16.C47"
   },
   "subject": {
     "0": ["English-speaking countries",
@@ -57734,7 +57736,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "DA16 .C47"
+    "code": "DA16.C47"
   },
   "subject": {
     "0": ["English-speaking countries",
@@ -58148,7 +58150,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS511.3 .B67"
+    "code": "BS511 .B67"
   },
   "subject": [["Bible",
   "Criticism, interpretation, etc"],
@@ -58211,7 +58213,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5133 .W549"
+    "code": "BX5133.W549 O64"
   },
   "subject": [["Anglican Communion",
   "Sermons"],
@@ -58343,7 +58345,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4596 .T88"
+    "code": "BV4596.T88 R64"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -58405,7 +58407,7 @@
     "The Historical Jesus"]
   },
   "lcc": {
-    "code": "BT303.2 .B59"
+    "code": "BT303 .B59"
   },
   "subject": [["Jesus Christ",
   "Historicity"],
@@ -58605,7 +58607,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4935 .L43"
+    "code": "BV4935.L43 A3"
   },
   "subject": {
     "0": ["Anglican converts"],
@@ -58706,7 +58708,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "PN4749 .R668"
+    "code": "PN4749.R668"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -58864,7 +58866,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 B47"
   },
   "series": ["Tales of Middle Earth",
   "Racconti della Terra di Mezzo"],
@@ -58932,7 +58934,7 @@
     "USSR 1917\u20131991"]
   },
   "lcc": {
-    "code": "PG3476 .S78835"
+    "code": "PG3476.S78835 P5513"
   },
   "subject": [["Russian fiction"],
   ["Science Fiction"],
@@ -59007,7 +59009,7 @@
     "Victorian Period Through House Of Windsor 1837-"]
   },
   "lcc": {
-    "code": "DA533 .H85"
+    "code": "DA533.H85"
   },
   "subject": {
     "0": ["Great Britain",
@@ -59181,7 +59183,7 @@
     "Revised Standard Version and Related"]
   },
   "lcc": {
-    "code": "BS191.5 .A1"
+    "code": "BS191.A1 .C35"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -59238,7 +59240,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .B677"
+    "code": "PS3601.B677 L48"
   },
   "series": ["The Expanse"],
   "originaltitle": "Leviathan Wakes",
@@ -59363,7 +59365,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2555.52 .H39"
+    "code": "BS2555 .H39"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -59422,7 +59424,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2595.53 .L48"
+    "code": "BS2595 .L48"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -59481,7 +59483,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2091.5 .A1"
+    "code": "BS2091 .A1"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -59670,7 +59672,7 @@
     "Programs"]
   },
   "lcc": {
-    "code": "QA76.76 .O63"
+    "code": "QA76.O63 M398745"
   },
   "subject": [["Free computer software"],
   ["FreeBSD"],
@@ -59734,7 +59736,7 @@
     "Social change"]
   },
   "lcc": {
-    "code": "GN380 .I58"
+    "code": "GN380.I58"
   },
   "genre": ["Technology",
   "Nonfiction"],
@@ -59847,7 +59849,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6045 .O72"
+    "code": "PR6045.O72"
   },
   "subject": {
     "0": ["Dust jackets (Binding)",
@@ -59925,7 +59927,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6011 .O58"
+    "code": "PR6011.O58 P3"
   },
   "subject": {
     "0": ["British",
@@ -60049,7 +60051,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6057 .A319"
+    "code": "PR6057.A319 G6"
   },
   "subject": {
     "0": ["End of the world",
@@ -60143,7 +60145,7 @@
     "Modern period 1900-"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 A6"
   },
   "subject": [["Children's poetry, English"],
   ["Fantasy poetry, English"],
@@ -60200,7 +60202,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 F35"
   },
   "awards": ["New York Times Notable Book of the Year"],
   "genre": ["General Fiction",
@@ -60317,7 +60319,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 F354"
   },
   "series": ["Tales of Middle Earth",
   "Racconti della Terra di Mezzo"],
@@ -60385,7 +60387,7 @@
     "Modern period 1900-"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 L28"
   },
   "genre": ["Fantasy",
   "Fiction and Literature",
@@ -60441,7 +60443,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1485 .O83"
+    "code": "BS1485 .G813"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -60502,7 +60504,7 @@
     "Roman Catholic ritual"]
   },
   "lcc": {
-    "code": "BX1975 .B6713"
+    "code": "BX1975.B6713"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -60560,7 +60562,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX3004 .Z5"
+    "code": "BX3004.Z5 C339"
   },
   "subject": [["Benedictines",
   "Rules"]],
@@ -60678,7 +60680,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX4705 .C463585"
+    "code": "BX4705.C463585 S25"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -60793,7 +60795,7 @@
     "Salvation; Soteriology"]
   },
   "lcc": {
-    "code": "BX2215.2 .V5813"
+    "code": "BX2215.V5813"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -60845,7 +60847,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "HN37 .C3"
+    "code": "HN37 .C3 M474"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -60897,7 +60899,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT202 .B5313"
+    "code": "BT202.B5313"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -61054,7 +61056,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.2 .F47"
+    "code": "BV4501 .F47"
   },
   "subject": [["Spiritual life",
   "Christianity"]],
@@ -61237,7 +61239,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT127.2 .D78"
+    "code": "BT127 .D78"
   },
   "subject": [["Revelation",
   "Comparative studies"]],
@@ -61340,7 +61342,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1235 .V3"
+    "code": "BS1235.V3"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -61393,7 +61395,7 @@
     "The Church in Society and the World"]
   },
   "lcc": {
-    "code": "BR115 .W6"
+    "code": "BR115.W6 B33"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -61452,7 +61454,7 @@
     "Systems, scientific principles, psychology of religion, philosophy and religion"]
   },
   "lcc": {
-    "code": "BL98 .N56"
+    "code": "BL98.N56"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -61512,7 +61514,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS192.3 .A1"
+    "code": "BS192.A1"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -61571,7 +61573,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2575 .C67"
+    "code": "BS2575.C67"
   },
   "series": ["Torch Bible Commentaries"],
   "genre": ["Religion & Spirituality",
@@ -61629,7 +61631,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR1483 .V5"
+    "code": "BR1483.V5 P38"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -61747,7 +61749,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3553 .L245"
+    "code": "PS3553.L245 H8"
   },
   "subject": {
     "0": ["Computer adventure games",
@@ -62132,7 +62134,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .N428"
+    "code": "PS3601.N428 C58"
   },
   "originaltitle": "The City in the Middle of the Night",
   "awards": ["Hugo Nominee",
@@ -62201,7 +62203,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 S86"
   },
   "genre": ["Fantasy",
   "Fiction and Literature",
@@ -62261,7 +62263,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6031 .O867"
+    "code": "PR6031.O867 P67"
   },
   "subject": {
     "0": ["Arthurian romances",
@@ -62352,7 +62354,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3563 .I4215"
+    "code": "PS3563.I4215 C3"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -62655,7 +62657,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3 .A8"
+    "code": "PR9199.A8 T48"
   },
   "series": ["The Handmaid's Tale",
   "Het verhaal van de dienstmaagd",
@@ -62737,7 +62739,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .B677"
+    "code": "PS3601.B677 C35"
   },
   "series": ["The Expanse"],
   "originaltitle": "Caliban's War",
@@ -62802,7 +62804,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .B677"
+    "code": "PS3601.B677 A64"
   },
   "series": ["The Expanse"],
   "originaltitle": "Dandelion Sky",
@@ -62869,7 +62871,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .B677"
+    "code": "PS3601.B677 C53"
   },
   "series": ["The Expanse"],
   "genre": ["Science Fiction",
@@ -62929,7 +62931,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .B677"
+    "code": "PS3601.B677 N46"
   },
   "series": ["The Expanse"],
   "awards": ["Buzzfeed",
@@ -62991,7 +62993,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .B677"
+    "code": "PS3601.B677 B33"
   },
   "series": ["The Expanse"],
   "awards": ["Locus Recommended Reading",
@@ -63054,7 +63056,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .B677"
+    "code": "PS3601.B677 P47"
   },
   "series": ["The Expanse"],
   "awards": ["Locus Award Finalist"],
@@ -63111,7 +63113,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601 .B677"
+    "code": "PS3601.B677 T53"
   },
   "series": ["The Expanse"],
   "genre": ["Science Fiction",
@@ -63172,7 +63174,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2575.3 .C38"
+    "code": "BS2575 .C38"
   },
   "series": ["Bible & Liberation"],
   "genre": ["Religion & Spirituality",
@@ -63231,7 +63233,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6120 .H6653"
+    "code": "PR6120.H6653 R67"
   },
   "series": ["Wormwood Trilogy"],
   "awards": ["Locus Recommended Reading",
@@ -63336,7 +63338,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6119 .T79"
+    "code": "PR6119.T79 L33"
   },
   "series": ["The Laundry",
   "La laverie"],
@@ -63448,7 +63450,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066.R34 G83"
   },
   "subject": {
     "0": ["Discworld (Imaginary place)",
@@ -63560,7 +63562,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "HV640.5 .K87"
+    "code": "HV640.K87 B44"
   },
   "awards": ["Nettie Palmer Prize for Australian Nonfiction",
   "Australian Book Industry Awards",
@@ -63624,7 +63626,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL856 .U673"
+    "code": "PL856.U673 K5713"
   },
   "originaltitle": "Kishidancho goroshi:Dai-ichi-bu, Arawareru hen",
   "awards": ["Bad Sex in Fiction Award Shortlist",
@@ -63687,7 +63689,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A46"
+    "code": "PR6052.A46 E45"
   },
   "subject": {
     "0": ["Bildungsromans"],
@@ -63787,7 +63789,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 C3"
   },
   "subject": {
     "0": ["End of the world",
@@ -63865,7 +63867,7 @@
     "Of Philosophy "]
   },
   "lcc": {
-    "code": "PN2287 .A45"
+    "code": "PN2287.A45 A3"
   },
   "subject": {
     "0": ["Actors",
@@ -63938,7 +63940,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .S768"
+    "code": "PN6728.S768 P94"
   },
   "series": ["Strange Planet"],
   "awards": ["Goodreads Choice Awards"],
@@ -63998,7 +64000,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3558 .E63"
+    "code": "PS3558.E63 D8"
   },
   "subject": {
     "0": ["Dune (Imaginary place)"],
@@ -64112,7 +64114,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3603 .H347"
+    "code": "PS3603.H347 C5"
   },
   "series": ["Wayfarers",
   "Galactic Commons"],
@@ -64181,7 +64183,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3603 .H347"
+    "code": "PS3603.H347 R43"
   },
   "series": ["Wayfarers",
   "Galactic Commons"],
@@ -64238,7 +64240,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3603 .H347"
+    "code": "PS3603.H347 T6"
   },
   "awards": ["British Science Fiction Association Award Shortlist",
   "Hugo Nominee",
@@ -64655,7 +64657,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1225.3 .M34"
+    "code": "BS1225 .M34"
   },
   "subject": [["Bible. O.T. Pentateuch",
   "Commentaries"],
@@ -64717,7 +64719,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2330.3 .L63"
+    "code": "BS2330 .L63"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -64779,7 +64781,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR4453 .C4"
+    "code": "PR4453.C4 M4"
   },
   "subject": {
     "0": ["Allegories"],
@@ -64871,7 +64873,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR4453 .C4"
+    "code": "PR4453.C4 Z735"
   },
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
@@ -64928,7 +64930,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A443"
+    "code": "BR65.A443 D413"
   },
   "subject": {
     "0": ["Incarnation"],
@@ -64999,7 +65001,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2350.3 .M273"
+    "code": "BX2350 .M273"
   },
   "subject": [["Spiritual life",
   "Catholic Church"],
@@ -65136,7 +65138,7 @@
     "Themes and subjects"]
   },
   "lcc": {
-    "code": "PR508 .R4"
+    "code": "PR508.R4 C67"
   },
   "subject": [["Christian poetry, English",
   "History and criticism"],
@@ -65204,7 +65206,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT375.3 .C76"
+    "code": "BT375 .C76"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -65327,7 +65329,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1525.3 .T47"
+    "code": "BS1525.T47"
   },
   "subject": [["Bible. O.T. Jeremiah",
   "Commentaries"]],
@@ -65449,7 +65451,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT380.2 .S8713"
+    "code": "BT380 .S8713"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -65505,7 +65507,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2555.2 .P47"
+    "code": "BS2555.P47"
   },
   "subject": [["Bible. N.T. Gospels",
   "Criticism, Redaction"],
@@ -65630,7 +65632,7 @@
     "Theological anthropology; Humankind"]
   },
   "lcc": {
-    "code": "BR115 .H6"
+    "code": "BR115.H6 R64"
   },
   "subject": [["Homosexuality",
   "Religious aspects",
@@ -65687,7 +65689,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "BS2575.53 .W35"
+    "code": "BS2575 .W345"
   },
   "source": "amazon.com books",
   "workcode": "19905458",
@@ -65743,7 +65745,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 D4"
   },
   "subject": {
     "0": ["Haiti",
@@ -65813,7 +65815,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 B5"
   },
   "subject": {
     "0": ["Artists",
@@ -65889,7 +65891,7 @@
     "Modern period 1900-"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 A6"
   },
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
@@ -65937,7 +65939,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 U84"
   },
   "series": ["Le cycle de la culture",
   "Kultur-Zyklus",
@@ -66008,7 +66010,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 C6"
   },
   "subject": {
     "0": ["Imaginary wars and battles",
@@ -66085,7 +66087,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 F44"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -66154,7 +66156,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 P54"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -66230,7 +66232,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 B87"
   },
   "subject": {
     "0": ["Antarctica",
@@ -66306,7 +66308,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 Q3"
   },
   "awards": ["Independent Booksellers' Book Prize Shortlist",
   "Galaxy National Book Awards Shortlist"],
@@ -66366,7 +66368,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 E93"
   },
   "subject": {
     "0": ["English fiction",
@@ -66625,7 +66627,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2555.52 .B875"
+    "code": "BS2555 .B875"
   },
   "subject": [["Bible. N.T. Gospels",
   "Criticism, interpretation, etc"],
@@ -66754,7 +66756,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT440 .T75"
+    "code": "BT440.T75"
   },
   "subject": [["Jesus Christ",
   "Trial"]],
@@ -66816,7 +66818,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR129 .K44"
+    "code": "BR129.K44"
   },
   "subject": {
     "0": ["Apocryphal books"],
@@ -66880,7 +66882,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1140.2 .C48"
+    "code": "BS1140 .C48"
   },
   "subject": [["Bible. O.T.",
   "Introductions"]],
@@ -66938,7 +66940,7 @@
     "Language"]
   },
   "lcc": {
-    "code": "PA881 .B29"
+    "code": "PA881.B29"
   },
   "subject": [["Bible. N.T.",
   "Dictionaries",
@@ -67071,7 +67073,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2361.2 .K32"
+    "code": "BS2361 .K32"
   },
   "subject": [["Bible. N.T"]],
   "series": ["Studies in Biblical Theology"],
@@ -67377,7 +67379,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2675 .H35"
+    "code": "BS2675.H35"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -67432,7 +67434,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2575.2 .B613"
+    "code": "BS2575.B613"
   },
   "subject": [["Bible. N.T. Matthew",
   "Theology"]],
@@ -67489,7 +67491,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2575.2 .I57"
+    "code": "BS2575 .I57"
   },
   "subject": [["Bible. N.T. Matthew",
   "Criticism, interpretation, etc"]],
@@ -67989,7 +67991,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT75.2 .R3313"
+    "code": "BT75 .R3313"
   },
   "subject": [["Catholic Church",
   "Doctrines"],
@@ -68049,7 +68051,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT301.3 .A85"
+    "code": "BT301 .A85"
   },
   "awards": ["Andrew Carnegie Medals for Excellence in Nonfiction Longlist",
   "Commonwealth Club of California Book Awards Finalist"],
@@ -68290,7 +68292,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1197 .I85"
+    "code": "BS1197.I85"
   },
   "subject": [["Jews",
   "Historiography"],
@@ -68408,7 +68410,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX1751.2 .O29"
+    "code": "BX1751.2"
   },
   "subject": [["Catholic Church",
   "Doctrines"],
@@ -68600,7 +68602,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT77 .N68"
+    "code": "BT77.N68"
   },
   "subject": {
     "0": ["Theology, Doctrinal",
@@ -68666,7 +68668,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1199 .L3"
+    "code": "BS1199.L3 P37"
   },
   "subject": [["Bible. O.T.",
   "Criticism, interpretation, etc"],
@@ -68895,7 +68897,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT1102 .K8313"
+    "code": "BT1102.K8313"
   },
   "subject": {
     "0": ["Apologetics"],
@@ -69002,7 +69004,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2615.3 .B3"
+    "code": "BS2615 .B3"
   },
   "subject": [["Bible. N.T. John",
   "Commentaries"],
@@ -69065,7 +69067,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT590 .O4"
+    "code": "BT590.O4 C47"
   },
   "series": ["Good News Studies"],
   "genre": ["Religion & Spirituality",
@@ -69122,7 +69124,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR145.2 .J63"
+    "code": "BR145 .J63"
   },
   "subject": [["Church History"],
   ["Church history"]],
@@ -69246,7 +69248,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1180 .P82"
+    "code": "BS1180"
   },
   "subject": {
     "0": ["Bible. O.T.",
@@ -69318,7 +69320,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT303.2 .S4413"
+    "code": "BT303 .S4413"
   },
   "subject": [["Jesus Christ",
   "Historicity"],
@@ -69441,7 +69443,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 W28"
   },
   "subject": {
     "0": ["London (England)",
@@ -69514,7 +69516,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 C58"
   },
   "subject": {
     "0": ["Detective and mystery stories"],
@@ -69581,7 +69583,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .O2893"
+    "code": "PS3568.O2893 N49"
   },
   "awards": ["Hugo Nominee",
   "Locus Award Finalist",
@@ -69691,7 +69693,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2595.3 .J64"
+    "code": "BS2595 .J64"
   },
   "subject": [["Bible. N.T. Luke",
   "Commentaries"]],
@@ -69813,7 +69815,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT203 .H37"
+    "code": "BT203.H37"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -69872,7 +69874,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1140.2 .B63"
+    "code": "BS1140 .B63"
   },
   "subject": [["Bible. O.T.",
   "Introductions"]],
@@ -69934,7 +69936,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2601 .B76"
+    "code": "BS2601.B76"
   },
   "subject": [["Beloved Disciple"],
   ["Bible. N.T. Epistles of John",
@@ -70003,7 +70005,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1235.3 .B78"
+    "code": "BS1235.B78"
   },
   "subject": [["Bible. O.T. Genesis",
   "Commentaries"]],
@@ -70114,7 +70116,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2585.3 .A52"
+    "code": "BS2585 .A52"
   },
   "subject": [["Bible. N.T. Mark",
   "Commentaries"]],
@@ -70241,7 +70243,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6052 .A485"
+    "code": "PR6052.A485 B75"
   },
   "subject": {
     "0": ["Amnesia",
@@ -70633,7 +70635,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR9619.3 .T786"
+    "code": "PR8276.S55 D36"
   },
   "awards": ["The Indie Book Award Longlist",
   "Australian Book Industry Awards Shortlist",
@@ -70691,7 +70693,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .U827"
+    "code": "PS3552.U827 P37"
   },
   "subject": {
     "0": ["African Americans",
@@ -70856,7 +70858,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PZ7 .D684"
+    "code": "PZ7.D684 A"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -71114,7 +71116,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6055 .V25"
+    "code": "PR6055.V25 G57"
   },
   "awards": ["Booker Prize",
   "Gordon Burn Prize Shortlist",
@@ -71244,7 +71246,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2675.3 .H67"
+    "code": "BS2675 .H67"
   },
   "series": ["Abingdon New Testament Commentaries"],
   "genre": ["Religion & Spirituality",
@@ -71480,7 +71482,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .U3615"
+    "code": "PS3568.U3615 L68"
   },
   "awards": ["Locus Award Finalist",
   "Washington State Book Award Finalist",
@@ -71554,7 +71556,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL872.5 .A85"
+    "code": "PL872.A85 C6413"
   },
   "series": ["Before the Coffee Gets Cold"],
   "originaltitle": "\u5728\u5496\u5561\u51b7\u6389\u4e4b\u524d",
@@ -71621,7 +71623,7 @@
     "Technology and Application of Knowledge"]
   },
   "lcc": {
-    "code": "TX725 .M628"
+    "code": "TX725.M628 K35"
   },
   "genre": ["Food & Cooking",
   "Nonfiction"],
@@ -71737,7 +71739,7 @@
     "Social problems and services"]
   },
   "lcc": {
-    "code": "BL65 .V55"
+    "code": "BL65.V55 S24"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -71909,7 +71911,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.2 .N42"
+    "code": "BV4501 .N42"
   },
   "subject": [["Bible. N.T. Ephesians",
   "Criticism, interpretation, etc"],
@@ -72026,7 +72028,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "BV664 .H33"
+    "code": "BV664.H33"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -72082,7 +72084,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT736.4 .W54"
+    "code": "BT736 .W54"
   },
   "subject": [["Peace (Theology)"]],
   "awards": ["Archbishop of Canterbury's Lent book"],
@@ -72205,7 +72207,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7 .R7375"
+    "code": "PZ7.R7375 F"
   },
   "series": ["Carve the Mark"],
   "originaltitle": "The Fates Divide",
@@ -72258,7 +72260,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2341.2 .H37"
+    "code": "BS2341.2 H37"
   },
   "subject": [["Bible. N.T.",
   "Commentaries"],
@@ -72378,7 +72380,7 @@
     "Middle Eastern languages"]
   },
   "lcc": {
-    "code": "PJ3771 .G5"
+    "code": "PJ3771.G5 E5"
   },
   "subject": {
     "0": ["English poetry",
@@ -72453,15 +72455,14 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["813.54"],
-    "wording": ["1945-1999",
-    "20th Century",
+    "code": ["813.6"],
+    "wording": ["21st Century",
     "American and Canadian",
     "American fiction",
     "Literature"]
   },
   "lcc": {
-    "code": "PS3573 .H4768"
+    "code": "PS3573.H4768 N53"
   },
   "awards": ["BookPage Best Books",
   "Buzzfeed",
@@ -72541,7 +72542,7 @@
     "Semitic"]
   },
   "lcc": {
-    "code": "PJ4567.3 .K5"
+    "code": "PJ4567.K5 S"
   },
   "subject": [["Hebrew language",
   "Grammar",
@@ -72661,7 +72662,7 @@
     "Rites, Services, Practice"]
   },
   "lcc": {
-    "code": "BM674.34 .C46"
+    "code": "BM675 D3 M57"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -72778,7 +72779,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3615 .K437"
+    "code": "PS3615.K437 V45"
   },
   "series": ["The Protectorate"],
   "awards": ["Philip K. Dick Award Nominee"],
@@ -73180,7 +73181,7 @@
     "Modern period (1900-)"]
   },
   "lcc": {
-    "code": "PT2621 .A26"
+    "code": "PT2621.A26 A2"
   },
   "originaltitle": "The Burrow: Posthumously Published Short Fiction",
   "genre": ["Fiction and Literature"],
@@ -73241,7 +73242,7 @@
     "Modern period (1900-)"]
   },
   "lcc": {
-    "code": "PT2621 .A26"
+    "code": "PT2621.A26 S33"
   },
   "subject": {
     "0": ["Allegories"],
@@ -73324,7 +73325,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566 .O69"
+    "code": "PZ4.P86 PS3566 .O69"
   },
   "subject": {
     "0": ["Artists",
@@ -73610,7 +73611,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2650.52 .H67"
+    "code": "BS2650 .H67"
   },
   "subject": [["Bible. N.T. Epistles of Paul",
   "Criticism, interpretation, etc"],
@@ -73671,7 +73672,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1415.2 .P44"
+    "code": "BS1415 .P44"
   },
   "series": ["Literary Currents in Biblical Interpretation"],
   "genre": ["Religion & Spirituality",
@@ -73782,7 +73783,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS521.7 .P68"
+    "code": "BS521 .P68"
   },
   "subject": [["Bible",
   "Criticism, Narrative"]],
@@ -73899,7 +73900,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2377.3 .R47"
+    "code": "BS2377 .R47"
   },
   "subject": [["Bible. N.T.",
   "Criticism, Narrative"]],
@@ -74018,7 +74019,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PQ2605 .A3734"
+    "code": "PQ2605.A3734 P413"
   },
   "subject": {
     "0": ["Annotations (Provenance)",
@@ -74119,7 +74120,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569 .T3868"
+    "code": "PS3569.T3868 C79"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -74213,7 +74214,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1192.6 .P46"
+    "code": "BS1192 .P46"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -74269,7 +74270,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV601.3 .M333"
+    "code": "BV601.3"
   },
   "series": ["Ecclesiological Investigations"],
   "genre": ["Religion & Spirituality",
@@ -74321,7 +74322,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2575.55 .W35"
+    "code": "BS2575 .W35"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -74372,7 +74373,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PQ2605 .A3734"
+    "code": "PQ2605.A3734 E813"
   },
   "subject": {
     "0": ["Adventure stories"],
@@ -74483,7 +74484,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566 .O69"
+    "code": "PS3566.O69 P7"
   },
   "subject": {
     "0": ["Brooklyn (New York, N.Y.)",
@@ -74556,7 +74557,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B3313 .Z73"
+    "code": "B3313.Z73 E5"
   },
   "genre": ["General Nonfiction",
   "Nonfiction"],
@@ -74614,7 +74615,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1245.3 .C45"
+    "code": "BS1245.C45"
   },
   "subject": [["Bible. O.T. Exodus",
   "Commentaries"]],
@@ -74675,7 +74676,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "BR115 .L25"
+    "code": "BR115.L25 P53"
   },
   "subject": [["Derrida, Jacques"],
   ["Language and languages",
@@ -74748,7 +74749,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566 .O69"
+    "code": "PS3566.O69 C54"
   },
   "subject": {
     "0": ["Bildungsromans"],
@@ -75165,6 +75166,15 @@
   "originallanguage": ["Russian"],
   "originallanguage_codeA": ["eng",
   "rus"],
+  "ddc": {
+    "code": ["891.733"],
+    "wording": ["1800\u20131917",
+    "Literature",
+    "Literature of east Indo-European and Celtic languages",
+    "Literature of other languages",
+    "Russian and East Slavic languages",
+    "Russian fiction"]
+  },
   "lcc": {
     "code": "PG3366 .V6"
   },
@@ -75648,7 +75658,7 @@
     "Revivals + Spiritual retreats + Parish missions"]
   },
   "lcc": {
-    "code": "BX2179 .L8"
+    "code": "BX2179.L8"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -75703,7 +75713,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7 .L6605"
+    "code": "PZ7.L6605 M"
   },
   "subject": {
     "0": ["Adventure stories"],
@@ -75865,7 +75875,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5197 .B88"
+    "code": "BX5197.B88"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -75930,7 +75940,7 @@
     "Theodicy"]
   },
   "lcc": {
-    "code": "BV4905.2 .L45"
+    "code": "BV4905.L45"
   },
   "subject": {
     "0": ["Good and evil"],
@@ -76313,7 +76323,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1171.2 .T74"
+    "code": "BS1171.T74"
   },
   "subject": {
     "0": ["Bible. O.T.",
@@ -76385,7 +76395,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2320.5 .P19 .W673"
+    "code": "BX2320 .W673"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -76558,7 +76568,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5005 .H268"
+    "code": "BX5005.H268"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -76659,7 +76669,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT111.2 .R313"
+    "code": "BT111.2"
   },
   "subject": [["Trinity"]],
   "series": ["Milestones in Catholic Theology"],
@@ -76719,7 +76729,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6060 .A467"
+    "code": "PR6060.A467 C48"
   },
   "subject": {
     "0": ["End of the world",
@@ -76802,7 +76812,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR195 .M65"
+    "code": "BR195.M65"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -76920,7 +76930,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR162.3 .K74"
+    "code": "BR162 .K74"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -76978,7 +76988,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2650.52 .D63"
+    "code": "BS2650 .D63"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -77036,7 +77046,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1245.53 .D68"
+    "code": "BS1245 .D68"
   },
   "series": ["Eerdmans Critical Commentary"],
   "genre": ["Religion & Spirituality",
@@ -77095,7 +77105,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A655"
+    "code": "BR65 .A655 E5"
   },
   "subject": {
     "0": ["Apologetics",
@@ -77245,7 +77255,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL872.5 .A85"
+    "code": "PL872.A85 C6413"
   },
   "series": ["Before the Coffee Gets Cold"],
   "originaltitle": "\u5728\u5496\u5561\u51b7\u6389\u4e4b\u524d",
@@ -77309,7 +77319,7 @@
     "Literature of other languages"]
   },
   "lcc": {
-    "code": "PL872.5 .A89 N3813"
+    "code": "PL872.A89 N3813"
   },
   "originaltitle": "\u590f\u7269\u8a9e",
   "awards": ["Time Magazine's Best Books of the Year",
@@ -77361,7 +77371,9 @@
     "Literature",
     "Literature of other languages"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PL855.A859"
+  },
   "genre": ["General Fiction",
   "Recent Fiction",
   "Fiction and Literature"],
@@ -77419,7 +77431,7 @@
     "Secularism"]
   },
   "lcc": {
-    "code": "BL2747.8 .G74"
+    "code": "BL2747 .G74"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -77480,7 +77492,7 @@
     "Painting"]
   },
   "lcc": {
-    "code": "N7430.5 .W39"
+    "code": "N7430.W39"
   },
   "subject": {
     "0": ["Art",
@@ -77748,7 +77760,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1275.3 .R3"
+    "code": "BS1275 .R3"
   },
   "subject": [["Bible. O.T. Deuteronomy",
   "Commentaries"]],
@@ -77811,7 +77823,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1265.3 .N613"
+    "code": "BS1265.3"
   },
   "subject": [["Bible. O.T. Numbers",
   "Commentaries"]],
@@ -77853,7 +77865,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1255.3 .N613"
+    "code": "BS1255.N613"
   },
   "subject": [["Bible. O.T. Leviticus",
   "Commentaries"]],
@@ -77911,7 +77923,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1245.3 .N613"
+    "code": "BS1245 .N613"
   },
   "subject": [["Bible. O.T. Exodus",
   "Commentaries"]],
@@ -77969,7 +77981,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1235.3 .R313"
+    "code": "BS1235.3 R313"
   },
   "subject": [["Bible. O.T. Genesis",
   "Commentaries"],
@@ -78080,7 +78092,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1505.2 .R313"
+    "code": "BS1505 .R313"
   },
   "subject": [["Bible. O.T. Prophets",
   "Theology"],
@@ -78196,7 +78208,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2506 .H6"
+    "code": "BS2506.H6"
   },
   "subject": [["Apostles",
   "Biography"]],
@@ -78383,7 +78395,7 @@
     "Pseudo-Callisthenes"]
   },
   "lcc": {
-    "code": "PA4025 .A5"
+    "code": "PA4025.A5 F5"
   },
   "subject": {
     "0": ["Achilles (Greek mythology)",
@@ -78770,7 +78782,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A6"
+    "code": "BR65.A6 E5"
   },
   "subject": {
     "0": ["Apologetics",
@@ -78910,7 +78922,7 @@
     "Theological anthropology; Humankind"]
   },
   "lcc": {
-    "code": "BS2675.6 .B63"
+    "code": "BS2675.B63 M37"
   },
   "subject": [["Bible. N.T. Corinthians, 1st",
   "Criticism, interpretation, etc"],
@@ -78969,7 +78981,7 @@
     "World history"]
   },
   "lcc": {
-    "code": "BR162.3 .H37"
+    "code": "BR162 .H37"
   },
   "genre": ["Biography & Memoir",
   "History",
@@ -79033,7 +79045,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2655 .W5"
+    "code": "BS2655.W5 W57"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -79267,7 +79279,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS491.2 .N484"
+    "code": "BS491.N484"
   },
   "series": ["The New Interpreter's Bible Commentary"],
   "genre": ["Religion & Spirituality",
@@ -79385,7 +79397,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS491.2 .N484"
+    "code": "BS491.3"
   },
   "series": ["The New Interpreter's Bible Commentary"],
   "genre": ["Religion & Spirituality",
@@ -79568,7 +79580,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS491.2 .N484"
+    "code": "BS491.N484"
   },
   "series": ["The New Interpreter's Bible Commentary"],
   "genre": ["Religion & Spirituality",
@@ -79909,7 +79921,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS192.2 .A1"
+    "code": "BS192.A1 .G3"
   },
   "subject": [["Bible. O.T. Job",
   "Commentaries"]],
@@ -79967,7 +79979,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A5"
+    "code": "BR65.A5 E53"
   },
   "subject": [["Trinity",
   "Early works to 1800"]],
@@ -80084,7 +80096,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "BD171 .P49"
+    "code": "BD171.P49"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -80190,7 +80202,7 @@
     "Romans"]
   },
   "lcc": {
-    "code": "BS2665.52 .E45"
+    "code": "BS2665 .E45"
   },
   "series": ["Paul in Critical Contexts"],
   "genre": ["Religion & Spirituality",
@@ -80308,7 +80320,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A84"
+    "code": "BR65 .A84 E5"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -80366,7 +80378,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS192.2 .A1"
+    "code": "BS192.A1 .3"
   },
   "subject": [["Bible. O.T. Song of Solomon",
   "Commentaries"]],
@@ -80477,7 +80489,7 @@
     "Pacific"]
   },
   "lcc": {
-    "code": "DU117.17 .H63"
+    "code": "DU117 .H63"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -80596,7 +80608,7 @@
     "Scandinavian philosophers"]
   },
   "lcc": {
-    "code": "PT8142 .E57"
+    "code": "PT8142.E57 E5"
   },
   "originaltitle": "Enten-Eller",
   "awards": ["The 100 Most Influential Books Ever Written: The History of Thought from Ancient Times to Today",
@@ -80660,7 +80672,7 @@
     "Semitic"]
   },
   "lcc": {
-    "code": "PJ4567.3 .K5"
+    "code": "PJ4567 .K5"
   },
   "subject": [["Hebrew language",
   "Grammar",
@@ -80724,7 +80736,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1181.6 .L64213"
+    "code": "BS1181 .L64213"
   },
   "subject": [["Human ecology",
   "Christianity"],
@@ -80782,7 +80794,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B2778 .E5"
+    "code": "B2778.E5 S6"
   },
   "subject": {
     "0": ["Causation"],
@@ -80929,7 +80941,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.6 .K64"
+    "code": "QA76 .K64"
   },
   "subject": {
     "0": ["COMPUTER PROGRAMMING"],
@@ -80996,7 +81008,7 @@
     "Programming"]
   },
   "lcc": {
-    "code": "QA76.6 .K64"
+    "code": "QA76 .K64"
   },
   "subject": [["COMPUTER PROGRAMMING"],
   ["Computer algorithms"],
@@ -81060,7 +81072,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1140.3 .C65"
+    "code": "BS1140 .C65"
   },
   "subject": [["Bible. O.T.",
   "Introductions"]],
@@ -81184,7 +81196,7 @@
     "Rhetoric of speech"]
   },
   "lcc": {
-    "code": "PN173 .A7"
+    "code": "PN173.A7 K46"
   },
   "subject": {
     "0": ["Aesthetics",
@@ -81250,7 +81262,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B1853 .E5"
+    "code": "B1853.E5 C7313"
   },
   "subject": {
     "0": ["First philosophy"],
@@ -81338,7 +81350,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "JC71 .A41"
+    "code": "JC71.A41 R48"
   },
   "subject": {
     "0": ["Athens (Greece)",
@@ -81418,7 +81430,7 @@
     "Platonic"]
   },
   "lcc": {
-    "code": "B385 .A5"
+    "code": "B385.A5 N44"
   },
   "subject": {
     "0": ["Imaginary conversations",
@@ -81494,7 +81506,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B1649 .R93"
+    "code": "B1649.R93 P65"
   },
   "subject": {
     "0": ["Knowledge, Theory of"],
@@ -81775,7 +81787,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B3279 .H48"
+    "code": "B3279.H48 S43"
   },
   "subject": {
     "0": ["Ontology"],
@@ -81850,7 +81862,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A64"
+    "code": "BR65.A64 E5"
   },
   "subject": {
     "0": ["Apologetics"],
@@ -81995,7 +82007,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 W55"
   },
   "originaltitle": "While Mortals Sleep: Unpublished Short Fiction",
   "genre": ["General Fiction",
@@ -82104,7 +82116,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 L6386"
   },
   "subject": {
     "0": ["Christian ethics in literature"],
@@ -82246,7 +82258,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3503 .R167"
+    "code": "PS3503.R167 D75"
   },
   "subject": [["United States",
   "Fiction.",
@@ -82318,7 +82330,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ3 .B72453 .R167"
+    "code": "PZ3.B72453 PS3503 .R167"
   },
   "subject": {
     "0": ["SF/AN"],
@@ -82651,7 +82663,7 @@
     "Social problems and services"]
   },
   "lcc": {
-    "code": "BL65 .V55"
+    "code": "BL65.V55 C39"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -82869,7 +82881,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3 .C57"
+    "code": "PR9199.C57 A6"
   },
   "awards": ["Audie Award Finalist"],
   "genre": ["Fiction and Literature"],
@@ -82925,7 +82937,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3605 .L46773"
+    "code": "PS3605.L46773 A97"
   },
   "series": ["Noumena"],
   "awards": ["Goodreads Choice Award Nominee",
@@ -82993,7 +83005,7 @@
     "Persian poetry"]
   },
   "lcc": {
-    "code": "PK6480 .E5 .B37"
+    "code": "PK6480 .B37"
   },
   "subject": [["Jal?al al-D?in R?um?i, Maulana, 1207-1273",
   "Translations into English"],
@@ -83105,7 +83117,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3 .A8"
+    "code": "PR9199.A8 A6"
   },
   "awards": ["Goodreads Choice Awards"],
   "genre": ["Fiction and Literature"],
@@ -83161,7 +83173,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551 .N464"
+    "code": "PS3551.N464 A17"
   },
   "genre": ["Fiction and Literature"],
   "genre_id": ["17160326"],
@@ -83301,7 +83313,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "JC71 .A41"
+    "code": "JC71.A41 B3"
   },
   "subject": {
     "0": ["Armorial bookplates (Provenance)"],
@@ -83457,7 +83469,7 @@
     "The Human Condition"]
   },
   "lcc": {
-    "code": "B415 .A5"
+    "code": "B415.A5 L39"
   },
   "subject": {
     "0": ["Philosophy",
@@ -83621,7 +83633,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B434 .A5"
+    "code": "B434.A5 M5"
   },
   "subject": {
     "0": ["Aristotle. Metaphysics"],
@@ -83689,7 +83701,7 @@
     "Theories of Ethics "]
   },
   "lcc": {
-    "code": "B430 .A5"
+    "code": "B430.A5 T4"
   },
   "subject": {
     "0": ["Aristotle",
@@ -83843,7 +83855,7 @@
     "Platonic"]
   },
   "lcc": {
-    "code": "B380 .A5"
+    "code": "B380.A5 N44"
   },
   "genre": ["General Nonfiction",
   "Nonfiction"],
@@ -83949,7 +83961,7 @@
     "Other Countries"]
   },
   "lcc": {
-    "code": "D810 .J4"
+    "code": "D810.J4 F715"
   },
   "subject": {
     "0": ["Amsterdam (Netherlands)",
@@ -84110,7 +84122,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6023 .A93"
+    "code": "PR6023.A93 W63"
   },
   "subject": {
     "0": ["Coal mines and mining",
@@ -84204,7 +84216,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6023 .A93"
+    "code": "PR6023.A93 S6"
   },
   "subject": {
     "0": ["Autobiographical fiction"],
@@ -84318,7 +84330,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT80 .B353"
+    "code": "BT80.B353"
   },
   "subject": [["Theology, Doctrinal"]],
   "series": ["Religious Perspectives"],
@@ -84441,7 +84453,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A6"
+    "code": "BR65.A6 E5"
   },
   "subject": {
     "0": ["Apologetics",
@@ -84744,7 +84756,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PQ2605 .A3734"
+    "code": "PQ2605.A3734 C513"
   },
   "subject": [["French literature",
   "20th century",
@@ -84813,7 +84825,7 @@
     "World War II"]
   },
   "lcc": {
-    "code": "D805 .P7"
+    "code": "D805.P7 L4413"
   },
   "subject": {
     "0": ["Auschwitz (Concentration camp)"],
@@ -85083,7 +85095,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1171.2 .A45"
+    "code": "BS1171.A45"
   },
   "subject": [["Bible. O.T.",
   "Language, Style"],
@@ -85150,7 +85162,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PQ2603 .E378"
+    "code": "PQ2603.E378 A6"
   },
   "subject": [["Beckett, Samuel, 1906-1989",
   "Fictional works"],
@@ -85432,7 +85444,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1225.3 .F67"
+    "code": "BS1225 .F67"
   },
   "subject": [["Bible. O.T. Pentateuch",
   "Commentaries"],
@@ -85498,7 +85510,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 U5"
   },
   "subject": {
     "0": ["Fantasy Fiction, English"],
@@ -85827,7 +85839,7 @@
     "The Arts / Fine and decorative arts"]
   },
   "lcc": {
-    "code": "N8354 .H63"
+    "code": "N8354.H63"
   },
   "genre": ["Art & Design",
   "Nonfiction"],
@@ -85886,7 +85898,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066.R34 W58"
   },
   "subject": {
     "0": ["Discworld (Imaginary place)",
@@ -86001,7 +86013,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6066 .R34 M67"
+    "code": "PR6066.R34 M67"
   },
   "subject": [["Death (Fictitious character : Pratchett)",
   "Fiction"],
@@ -86048,8 +86060,8 @@
   "Skivv\u00e4rlden: D\u00f6den",
   "Kiekkomaailma : Kuolema",
   "Scheibenwelt: Der Tod",
-  "Discworld: Death",
-  "Mundodisco: La Muerte"],
+  "Mundodisco: La Muerte",
+  "Discworld: Death"],
   "originaltitle": "Mort",
   "awards": ["BBC's Big Read",
   "Prix Imaginales"],
@@ -86112,7 +86124,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066.R34 W97"
   },
   "subject": {
     "0": ["Discworld (Imaginary place)",
@@ -86215,7 +86227,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9614.5 .A94 A38"
+    "code": "PR9614.A94 A38"
   },
   "awards": ["Aurealis Award Finalist"],
   "genre": ["Fiction and Literature"],
@@ -86319,7 +86331,7 @@
     "School books; Texts for learning the language"]
   },
   "lcc": {
-    "code": "PB1227 .F32 P"
+    "code": "PB1227.F32 O43 P"
   },
   "subject": [["Irish language Conversation and phrase books"]],
   "series": ["Bunt\u00fas Cainte"],
@@ -86423,7 +86435,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5145 .A4"
+    "code": "BX5145.A4"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -86536,7 +86548,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR115 .C5"
+    "code": "BR115.C5 H554"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -86595,7 +86607,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32"
   },
   "subject": [["Baggins, Frodo (Fictitious character)",
   "Fiction"],
@@ -86690,13 +86702,13 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6051 .A76"
+    "code": "PR6051.A76 W45"
   },
   "series": ["Rivers of London",
   "Peter Grant",
-  "Le dernier apprenti sorcier",
   "Peter Grant",
-  "Fl\u00fcsse von London"],
+  "Fl\u00fcsse von London",
+  "Le dernier apprenti sorcier"],
   "originaltitle": "Whispers Under Ground",
   "genre": ["General Fiction",
   "Mystery",
@@ -86761,13 +86773,13 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6051 .A76"
+    "code": "PR6051.A76 M66"
   },
   "series": ["Rivers of London",
   "Peter Grant",
-  "Le dernier apprenti sorcier",
   "Peter Grant",
-  "Fl\u00fcsse von London"],
+  "Fl\u00fcsse von London",
+  "Le dernier apprenti sorcier"],
   "originaltitle": "Moon over Soho",
   "genre": ["General Fiction",
   "Mystery",
@@ -86834,7 +86846,7 @@
     "\u20131600"]
   },
   "lcc": {
-    "code": "PB2363 .M2"
+    "code": "PB2363.M2 J66"
   },
   "subject": {
     "0": ["Arthurian romances"],
@@ -86920,7 +86932,7 @@
     "Sacred Scriptures"]
   },
   "lcc": {
-    "code": "BL1138.62 .E5"
+    "code": "BL1138 .E5"
   },
   "subject": {
     "0": ["Bhagavadgita. n1"],
@@ -87122,7 +87134,7 @@
     "USSR 1917\u20131991"]
   },
   "lcc": {
-    "code": "PG3476 .Z34"
+    "code": "PG3476.Z34 M913"
   },
   "subject": [["Science Fiction"],
   ["Science fiction"],
@@ -87200,7 +87212,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 H6"
   },
   "subject": {
     "0": ["Prisoners",
@@ -87265,7 +87277,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 G6"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -87338,7 +87350,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 T56"
   },
   "subject": {
     "0": ["Alternative histories"],
@@ -87418,7 +87430,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 S58"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -87611,7 +87623,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1415.3 .J36"
+    "code": "BS1415 .J36"
   },
   "subject": [["Bible. O.T.",
   "Commentaries"],
@@ -87674,7 +87686,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 S57"
   },
   "subject": {
     "0": ["American fiction"],
@@ -87753,7 +87765,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 G3"
   },
   "subject": [["Galapagos Islands",
   "Fiction"],
@@ -87822,7 +87834,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .O5"
+    "code": "PS3572.O5 P57"
   },
   "originaltitle": "Player Piano",
   "awards": ["International Fantasy Awards Nominee",
@@ -88001,7 +88013,7 @@
     "United States"]
   },
   "lcc": {
-    "code": "BX1407 .T4"
+    "code": "BX1407.T4 L44"
   },
   "subject": [["Hermeneutics",
   "Catholic Church"],
@@ -88062,7 +88074,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1525.2 .P76"
+    "code": "BS1525 .P76"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -88111,7 +88123,7 @@
     "Southern Italy: Campania, Samnium, Apulia, etc."]
   },
   "lcc": {
-    "code": "DG70 .P7"
+    "code": "DG70 .P7 W35"
   },
   "subject": {
     "0": ["Classical antiquities",
@@ -88261,7 +88273,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4011 .H583"
+    "code": "BV4011.H583"
   },
   "subject": {
     "0": ["Experience (Religion)"],
@@ -88373,7 +88385,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1199 .W2"
+    "code": "BS1199.W2 R3313"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -88430,7 +88442,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1455 .C67"
+    "code": "BS1455.C67"
   },
   "subject": [["Wisdom literature",
   "Criticism, interpretation, etc"]],
@@ -88574,7 +88586,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR3507 .A1"
+    "code": "PR3507"
   },
   "subject": [["Christian poetry, English",
   "Early modern, 1500-1700"],
@@ -88790,7 +88802,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS491.2 .W67"
+    "code": "BS1415.3 C54"
   },
   "series": ["Word Biblical Commentary"],
   "genre": ["Religion & Spirituality",
@@ -89016,7 +89028,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566 .I4"
+    "code": "PS3566.I4"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -89088,7 +89100,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ2683 .I32"
+    "code": "PQ2683.I32 P7613"
   },
   "subject": [["Gezerot ta\u1e25 ve-tat, 1648-1649",
   "Drama"],
@@ -89166,7 +89178,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX2179 .L7"
+    "code": "BX2179.L7 E5"
   },
   "subject": {
     "0": ["Meditations"],
@@ -89304,7 +89316,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1505 .B762"
+    "code": "BS1505.B762"
   },
   "subject": [["Bible. O.T.",
   "Criticism, interpretation, etc"]],
@@ -89362,7 +89374,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1415.52 .J26"
+    "code": "BS1415 .J26"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -89479,7 +89491,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX4705 .N5"
+    "code": "BX4705.N5 A3"
   },
   "subject": {
     "0": ["Anglican Communion",
@@ -89578,7 +89590,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT732.7 .F69"
+    "code": "BT732 .F69"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -89757,7 +89769,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BM755 .S6"
+    "code": "BM755.S6 W54"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -89992,7 +90004,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5714 .J46"
+    "code": "BX5714.J46"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -90044,7 +90056,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS511.2 .G65"
+    "code": "BS511 .G65"
   },
   "subject": [["Bible. O.T.",
   "Criticism, interpretation, etc"]],
@@ -90104,7 +90116,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BM645 .P7"
+    "code": "BM645 .P7 K87"
   },
   "subject": {
     "0": ["Adaptation, Psychological"],
@@ -90380,7 +90392,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1415.2 .G59"
+    "code": "BS1415 .G59"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -90500,7 +90512,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2615.52 .C37"
+    "code": "BS2615 .C37"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -90626,7 +90638,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2330.2 .B76"
+    "code": "BS2330 .B76"
   },
   "subject": [["Bible. N.T.",
   "Canon"],
@@ -90691,7 +90703,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2615.2 .R382"
+    "code": "BS2615 .R382"
   },
   "awards": ["National Jewish Book Award Finalists"],
   "genre": ["General Nonfiction",
@@ -90969,7 +90981,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1192.5 .R3132"
+    "code": "BS1192.R3132"
   },
   "subject": [["Bible. O.T.",
   "Theology"]],
@@ -91032,7 +91044,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1192.5 .R3132"
+    "code": "BS1192.R3132"
   },
   "subject": [["Bible. O.T.",
   "Theology"]],
@@ -91095,7 +91107,7 @@
     "Secularism"]
   },
   "lcc": {
-    "code": "BL2747.8 .T39"
+    "code": "BL2747 .T39"
   },
   "subject": {
     "0": ["Religion and culture"],
@@ -91268,7 +91280,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6108 .A39"
+    "code": "PR6108.A39 M53"
   },
   "awards": ["Goodreads Choice Awards",
   "Audie Award Finalist",
@@ -91338,7 +91350,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5141 .C8"
+    "code": "BX5141.C8"
   },
   "subject": [["Church of England",
   "Liturgy",
@@ -91432,7 +91444,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1171.3 .G86"
+    "code": "BS1171 .G86"
   },
   "series": ["Fortress Classics in Biblical Studies"],
   "genre": ["Religion & Spirituality",
@@ -91491,7 +91503,7 @@
     "Song of Solomon, or Canticles"]
   },
   "lcc": {
-    "code": "BS1485.53 .G65"
+    "code": "BS1485.53 .G66"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -91547,7 +91559,7 @@
     "Semitic"]
   },
   "lcc": {
-    "code": "BS1430 .T8"
+    "code": "BS1430.T8"
   },
   "series": ["SBL Monograph Series"],
   "genre": ["Nonfiction"],
@@ -91776,7 +91788,7 @@
     "Semitic"]
   },
   "lcc": {
-    "code": "PJ4567 .L35"
+    "code": "PJ4567.L35 .2"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -91828,7 +91840,7 @@
     "Salvation; Soteriology"]
   },
   "lcc": {
-    "code": "BX378 .B3"
+    "code": "BX378 .B3 S35"
   },
   "subject": [["Baptism",
   "Liturgy"],
@@ -92040,7 +92052,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV5082.2 .L6713"
+    "code": "BV5082 .L6713"
   },
   "subject": [["Mysticism",
   "Orthodox Eastern Church"]],
@@ -92093,7 +92105,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "BX2220 .R37"
+  },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
   "source": "amazon.com books",
@@ -92204,7 +92218,7 @@
     "Public Entertainments, TV, Movies"]
   },
   "lcc": {
-    "code": "PN1995.9 .J4"
+    "code": "PN1995.J4 R45"
   },
   "genre": ["Religion & Spirituality",
   "Pop Culture",
@@ -92433,7 +92447,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX9334.2 .L34"
+    "code": "BX9334 .L34"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -92551,7 +92565,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1225.2 .N613"
+    "code": "BS1225 .N613"
   },
   "subject": [["Bible. O.T. Pentateuch",
   "Criticism, interpretation, etc"]],
@@ -92610,7 +92624,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "DA317.8 .C8"
+    "code": "DA317.C8 M34"
   },
   "subject": {
     "0": ["Bishops",
@@ -93189,7 +93203,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2585.2 .R58"
+    "code": "BS2585 .R58"
   },
   "subject": [["Bible. N.T. Mark",
   "Criticism, interpretation, etc"]],
@@ -93424,7 +93438,7 @@
     "Roman Catholic ritual"]
   },
   "lcc": {
-    "code": "BX2000 .A4"
+    "code": "BX2000.A4 J64"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -93482,7 +93496,7 @@
     "Modern period 1900-"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32 B55"
   },
   "subject": {
     "0": ["Baggins, Bilbo (Fictitious character)",
@@ -93519,10 +93533,10 @@
   "El Se\u00f1or de los Anillos",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
+  "The Lord of the Rings",
   "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
-  "Gospodar prstenova",
-  "The Lord of the Rings"],
+  "Gospodar prstenova"],
   "originaltitle": "Bilbo's last song",
   "genre": ["Fantasy",
   "Fiction and Literature",
@@ -93583,7 +93597,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS1245.53 .M49"
+    "code": "BS1245 .M49"
   },
   "subject": [["Bible. O.T. Exodus",
   "Commentaries"]],
@@ -93761,7 +93775,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX5943 .A1"
+    "code": "BX5943.A1"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -93973,7 +93987,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3562 .E42"
+    "code": "PS3562.E42 D57"
   },
   "subject": {
     "0": ["Anarchism",
@@ -94000,8 +94014,8 @@
   "Ciclo di Haynish",
   "Hainish-Zyklus",
   "Hainish Cycle, Chronological",
-  "Hainish-Zyklus, chronologisch",
-  "Cycle de l'Ekumen"],
+  "Cycle de l'Ekumen",
+  "Hainish-Zyklus, chronologisch"],
   "originaltitle": "The Dispossessed: An Ambiguous Utopia",
   "awards": ["Hugo",
   "Nebula",
@@ -94086,7 +94100,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3557 .I2264"
+    "code": "PS3557.I2264 A64"
   },
   "series": ["Stub"],
   "awards": ["Goodreads Choice Award Nominee"],
@@ -94144,7 +94158,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3562 .E42"
+    "code": "PS3562.E42 A6"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -94213,7 +94227,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3562 .E42"
+    "code": "PS3562.E42 B66"
   },
   "series": ["The Earthsea Cycle",
   "Erdsee-Zyklus",
@@ -94413,7 +94427,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX382.52 .P413"
+    "code": "BX382 .P413"
   },
   "subject": [["Asceticism",
   "Orthodox Eastern Church"],
@@ -94555,7 +94569,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX382 .P43"
+    "code": "BX382.P43 P55"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -94652,7 +94666,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "B2430 .W473"
+    "code": "B2430.W473 L413"
   },
   "subject": [["Catholic Church",
   "Controversial literature"],
@@ -94836,7 +94850,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B2430 .W473"
+    "code": "B2430.W473 P413"
   },
   "subject": [["Life"],
   ["Meditations"],
@@ -95026,7 +95040,9 @@
     "Land, recreational and wilderness areas, energy",
     "Social Sciences"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "GE195 .L84"
+  },
   "genre": ["General Nonfiction",
   "Science & Nature",
   "Nonfiction"],
@@ -95083,7 +95099,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.3 .W553"
+    "code": "BV4501 .W553"
   },
   "subject": {
     "0": ["Christian life"],
@@ -95150,7 +95166,7 @@
     "Northamptonshire"]
   },
   "lcc": {
-    "code": "DA690 .B785 .B466"
+    "code": "DA690 .B785 B46"
   },
   "genre": ["History",
   "Nonfiction"],
@@ -95251,7 +95267,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3603 .H347"
+    "code": "PS3603.H347"
   },
   "series": ["Wayfarers",
   "Galactic Commons"],
@@ -95892,7 +95908,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX955.2 .D84"
+    "code": "BX955 .D84"
   },
   "subject": [["Papacy",
   "History"]],
@@ -95960,7 +95976,7 @@
     "United States"]
   },
   "lcc": {
-    "code": "BR563 .N4"
+    "code": "BR563.N4 C648"
   },
   "awards": ["IPPY Gold",
   "Catholic Press Association"],
@@ -96021,7 +96037,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4501.3 .D3947"
+    "code": "BV4501 .D3947"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -96346,7 +96362,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568 .O2893"
+    "code": "PS3568.O2893 M56"
   },
   "awards": ["British Science Fiction Association Award Shortlist"],
   "genre": ["General Fiction",
@@ -96411,7 +96427,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX4668 .D3"
+    "code": "BX4668.D3 A33"
   },
   "subject": {
     "0": ["Catholic converts"],
@@ -96478,7 +96494,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BL65 .H64"
+    "code": "BL65.H64 B66"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -96600,7 +96616,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT111.3 .T667"
+    "code": "BT111 .T667"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -96656,7 +96672,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .I534"
+    "code": "PS3572.I534 F57"
   },
   "subject": {
     "0": ["Life on other planets",
@@ -96734,7 +96750,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6045 .A97"
+    "code": "PR6045.A97 S36"
   },
   "subject": {
     "0": ["Autobiographical fiction"],
@@ -96817,7 +96833,7 @@
     "Psychology"]
   },
   "lcc": {
-    "code": "BF575 .S37"
+    "code": "BF575.S37 B76"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -96876,7 +96892,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PT8951.17 .A17"
+    "code": "PT8951.A17 V58"
   },
   "subject": [["Aemilia, Floria",
   "Fiction"],
@@ -97044,7 +97060,7 @@
     "Psychology"]
   },
   "lcc": {
-    "code": "BF575 .S45 Y68"
+    "code": "BF575.S45 Y68"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -97100,7 +97116,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .U827"
+    "code": "PS3552.U827"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -97108,6 +97124,7 @@
     "4": ["science fiction"]
   },
   "series": ["Patternist series",
+  "Patternisti",
   "Patternist: Chronological order"],
   "genre": ["General Fiction",
   "Science Fiction",
@@ -97167,7 +97184,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .U827"
+    "code": "PS3552.U827 K5"
   },
   "subject": {
     "0": ["African American women",
@@ -97256,7 +97273,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .U827"
+    "code": "PS3552.U827 W5"
   },
   "subject": {
     "0": ["African American women",
@@ -97274,8 +97291,8 @@
     "13": ["science fiction"]
   },
   "series": ["Patternist series",
-  "Patternist: Chronological order",
-  "Patternisti"],
+  "Patternisti",
+  "Patternist: Chronological order"],
   "awards": ["James Tiptree, Jr. Award Shortlist",
   "David Pringle's Best 100 Science Fiction Novels"],
   "genre": ["General Fiction",
@@ -97336,7 +97353,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .U827"
+    "code": "PS3552.U827 P38"
   },
   "subject": {
     "0": ["Mothers and daughters",
@@ -97351,9 +97368,9 @@
     "Fiction"],
     "11": ["science fiction"]
   },
-  "series": ["Earthseed",
+  "series": ["Ciclo delle parabole",
+  "Earthseed",
   "Parable",
-  "Ciclo delle parabole",
   "Parabole"],
   "awards": ["Arthur C. Clarke Award Shortlist",
   "Nebula",
@@ -97416,7 +97433,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552 .U827"
+    "code": "PS3552.U827"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -97424,6 +97441,7 @@
     "4": ["science fiction"]
   },
   "series": ["Patternist series",
+  "Patternisti",
   "Patternist: Chronological order"],
   "genre": ["General Fiction",
   "Science Fiction",
@@ -97481,7 +97499,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2650.52 .W58"
+    "code": "BS2650.52"
   },
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
@@ -97540,7 +97558,7 @@
     "Sacrifice"]
   },
   "lcc": {
-    "code": "BT453 .W55"
+    "code": "BT453.W55"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -97596,7 +97614,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX3004 .Z5 W55"
+    "code": "BV900.R6"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -97813,7 +97831,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A9"
+    "code": "BR65.A9"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
@@ -97875,7 +97893,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT75.2 .W544"
+    "code": "BT75 .W544"
   },
   "subject": [["Theology, Doctrinal"]],
   "series": ["Challenges in Contemporary Theology"],
@@ -97935,7 +97953,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "KJ985 .S48"
+    "code": "KJ985.S48 B78"
   },
   "subject": {
     "0": ["Law, Medieval",
@@ -98367,7 +98385,7 @@
     "Modern Indic languages"]
   },
   "lcc": {
-    "code": "PK2095 .K3"
+    "code": "PK2095.K3 A2"
   },
   "subject": [["Tagore, Rabindranath, 1861-1941"]],
   "genre": ["Fiction and Literature"],
@@ -98761,7 +98779,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PL7101 .N97"
+    "code": "PL7101.N97 R66"
   },
   "genre": ["Reference",
   "Nonfiction"],
@@ -98911,7 +98929,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "KJV130 .D8"
+    "code": "KJV130.D8 D3813"
   },
   "subject": {
     "0": ["Du Tilh, Arnault, d. 1560",
@@ -99189,7 +99207,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2395 .K3132"
+    "code": "BS2395.K3132"
   },
   "subject": [["Bible. N.T"],
   ["Bible. N.T.",
@@ -99414,7 +99432,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT301.2 .B583"
+    "code": "BT301 .B583"
   },
   "subject": [["Jesus Christ"],
   ["Jesus Christ",
@@ -99632,7 +99650,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6023 .A93"
+    "code": "PR6023.A93 P53"
   },
   "subject": [["Mexico",
   "Fiction"],
@@ -99700,7 +99718,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066.R34 L664"
   },
   "series": ["The Long Earth",
   "La Longue Terre",
@@ -99752,7 +99770,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6066 .R34"
+    "code": "PR6066.R34 L68"
   },
   "series": ["The Long Earth",
   "La Longue Terre",
@@ -99879,7 +99897,7 @@
     "Technology and Application of Knowledge"]
   },
   "lcc": {
-    "code": "HF5549.5 .J63"
+    "code": "HF5549.J63 G73"
   },
   "genre": ["General Nonfiction",
   "Nonfiction"],
@@ -99937,7 +99955,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572 .A4284"
+    "code": "PS3572.A4284 D43"
   },
   "series": ["Borne"],
   "originaltitle": "Dead Astronauts",
@@ -100003,7 +100021,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039 .O32"
+    "code": "PR6039.O32"
   },
   "genre": ["Fantasy",
   "Fiction and Literature",
@@ -100124,7 +100142,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR65 .A5 E53"
+    "code": "BR65.A5 E53"
   },
   "genre": ["General Nonfiction",
   "History",
@@ -100178,7 +100196,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "BR65 .A5 E53"
+  },
   "source": "amazon.com books",
   "workcode": "26919102",
   "entrydate": "2021-07-15",
@@ -100342,7 +100362,7 @@
     "Religious mythology, general classes of religion, interreligious relations and attitudes, social theology"]
   },
   "lcc": {
-    "code": "BL240.3 .H365"
+    "code": "BL240 .H365"
   },
   "series": ["Gifford Lectures"],
   "genre": ["General Nonfiction",
@@ -100403,7 +100423,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "D16.9 .L64"
+    "code": "D16.9"
   },
   "subject": [["History",
   "Philosophy"]],
@@ -100530,7 +100550,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR115 .C8"
+    "code": "BR115.C8 N5"
   },
   "subject": {
     "0": ["Christianity"],
@@ -100603,7 +100623,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS680 .H67"
+    "code": "BS680.H67 V56"
   },
   "genre": ["Religion & Spirituality",
   "LGBTQ+",
@@ -100719,7 +100739,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BR115 .H6 K44"
+    "code": "BR115 .H6 .K446"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -100878,7 +100898,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX3006 .A2 B46"
+    "code": "BX3003 .B463"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -101015,7 +101035,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BX1378.3 .B86"
+    "code": "BX1378 .B86"
   },
   "genre": ["Biography & Memoir",
   "Religion & Spirituality",
@@ -101155,11 +101175,15 @@
     "6": ["Spiritual life",
     "Catholic church"]
   },
-  "genre": ["History",
+  "genre": ["Biography & Memoir",
+  "History",
   "Religion & Spirituality",
+  "Biography",
   "Nonfiction"],
-  "genre_id": ["1599",
+  "genre_id": ["1240",
+  "1599",
   "1944",
+  "20216197",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "155878",
@@ -101213,7 +101237,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT83.55 .W55"
+    "code": "BT83 .W55"
   },
   "subject": {
     "0": ["African American women",
@@ -101712,7 +101736,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT21.3 .H46"
+    "code": "BT21 .H46"
   },
   "genre": ["Religion & Spirituality",
   "Nonfiction"],
@@ -101827,7 +101851,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4315.2 .C5"
+    "code": "PQ4315 .E76"
   },
   "subject": {
     "0": ["Dante Alighieri, 1265-1321",
@@ -101845,12 +101869,12 @@
     "10": ["Literature",
     "Collections"]
   },
-  "series": ["Den guddommelige Komedia",
+  "series": ["The Divine Comedy",
+  "Den guddommelige Komedia",
   "Die g\u00f6ttliche Kom\u00f6die",
   "De goddelijke komedie",
   "Divina Commedia",
-  "Den gudomliga komedin",
-  "The Divine Comedy"],
+  "Den gudomliga komedin"],
   "awards": ["1000 Books to Read Before You Die",
   "David Bowie's Top 100",
   "From Zero to Well-Read in 100 Books",
@@ -101910,7 +101934,7 @@
     "Social Sciences"]
   },
   "lcc": {
-    "code": "HQ76.3 .E8"
+    "code": "HQ76 .E8 B67"
   },
   "subject": {
     "0": ["4.200"],
@@ -102096,7 +102120,7 @@
     "Resurrection of Jesus"]
   },
   "lcc": {
-    "code": "BT480 .D813"
+    "code": "BT480.D813"
   },
   "subject": [["Jesus Christ",
   "Resurrection"],
@@ -102688,7 +102712,7 @@
     "Religious experience"]
   },
   "lcc": {
-    "code": "BV5082.3 .E87"
+    "code": "BV5082 .E87"
   },
   "subject": [["Mysticism"]],
   "genre": ["History",
@@ -103021,7 +103045,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT993.3 .B465"
+    "code": "BT993 .B465"
   },
   "subject": [["Faith development"]],
   "genre": ["Religion & Spirituality",
@@ -103077,7 +103101,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BV4515.2 .J6"
+    "code": "BV4515.J6"
   },
   "subject": [["Christian life",
   "Fiction"]],
@@ -103126,7 +103150,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS491 .W4"
+    "code": "BS491.W4"
   },
   "series": ["Westminster Commentaries"],
   "genre": ["Religion & Spirituality",
@@ -103180,7 +103204,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS580 .M6"
+    "code": "BS580 .M6 F62"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -103313,7 +103337,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2940 .T5"
+    "code": "BS2940.T5"
   },
   "genre": ["History",
   "Religion & Spirituality",
@@ -103372,7 +103396,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BT821.2 .R3713"
+    "code": "BT821 .R3713"
   },
   "subject": {
     "0": ["Catholic Church",
@@ -103686,7 +103710,7 @@
     "Salvation; Soteriology"]
   },
   "lcc": {
-    "code": "BX2215.3 .V66"
+    "code": "BX2215 .V66"
   },
   "subject": {
     "0": ["Lord's Supper",
@@ -103712,4 +103736,490 @@
   "length": "6 inches",
   "dimensions": "9 x 6 x 0.51 inches",
   "weight": "0.7 pounds"
+},
+"204988823": {
+  "books_id": "204988823",
+  "title": "The Symbolism of Evil",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Ricoeur, Paul",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ricoeur, Paul",
+    "fl": "Paul Ricoeur",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0807015679",
+  "isbn": {
+    "0": "0807015679",
+    "2": "9780807015674"
+  },
+  "asin": "0807015679",
+  "ean": ["0046442015677"],
+  "upc": ["046442015677"],
+  "publication": "Beacon Press (1986), 368 pages",
+  "date": "1986",
+  "summary": "The Symbolism of Evil by Paul Ricoeur (1986)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["233.2"],
+    "wording": ["Christian doctrinal theology",
+    "Religions",
+    "Sin",
+    "Theological anthropology; Humankind"]
+  },
+  "lcc": {
+    "code": "BT715.R48"
+  },
+  "subject": {
+    "0": ["Good and evil"],
+    "2": ["Sin"],
+    "3": ["Sin",
+    "Christianity"]
+  },
+  "series": ["Ricoeur's The Philosophy of the Will"],
+  "originaltitle": "La symbolique du mal",
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "3943",
+  "entrydate": "2021-08-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.3 inches",
+  "height": "8.3 inches",
+  "thickness": "0.84 inches",
+  "length": "5.42 inches",
+  "dimensions": "8.3 x 5.42 x 0.84 inches",
+  "weight": "0.85 pounds",
+  "pages": "368 "
+},
+"204988836": {
+  "books_id": "204988836",
+  "title": "Cuneiform: Ancient Scripts",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Finkel, Irving",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Finkel, Irving",
+    "fl": "Irving Finkel",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1606064479",
+  "isbn": {
+    "0": "1606064479",
+    "2": "9781606064474"
+  },
+  "asin": "1606064479",
+  "ean": ["1606064479"],
+  "publication": "J. Paul Getty Museum (2015), Edition: 1, 112 pages",
+  "date": "2015",
+  "summary": "Cuneiform: Ancient Scripts by Irving Finkel (2015)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["492.1"],
+    "wording": ["Aramaic",
+    "Language",
+    "Other Languages",
+    "Semitic"]
+  },
+  "lcc": {
+    "code": "PJ3193 .F564"
+  },
+  "genre": ["General Nonfiction",
+  "History",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1599",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "16329277",
+  "entrydate": "2021-08-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.25 inches",
+  "height": "8.25 inches",
+  "thickness": "0.5 inches",
+  "length": "5.75 inches",
+  "dimensions": "8.25 x 5.75 x 0.5 inches",
+  "weight": "0.6 pounds"
+},
+"204988843": {
+  "books_id": "204988843",
+  "title": "In the Beginning\u2026': A Catholic Understanding of the Story of Creation and the Fall (Ressourcement: Retrieval and Renewal in Catholic Thought (RRRCT))",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Ratzinger, Joseph Cardinal",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ratzinger, Joseph Cardinal",
+    "fl": "Joseph Cardinal Ratzinger",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0802841066",
+  "isbn": {
+    "0": "0802841066",
+    "2": "9780802841063"
+  },
+  "asin": "0802841066",
+  "ean": ["0802841066"],
+  "publication": "Eerdmans (1995), Edition: Reprint, 112 pages",
+  "date": "1995",
+  "summary": "In the Beginning\u2026': A Catholic Understanding of the Story of Creation and the Fall (Ressourcement: Retrieval and Renewal in Catholic Thought (RRRCT)) by Joseph Cardinal Ratzinger (1995)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["231.765"],
+    "wording": ["Christian doctrinal theology",
+    "God; Unity; Trinity",
+    "Relation to the world - divine law and miracles",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS651 .R34513"
+  },
+  "subject": {
+    "0": ["Bible. O.T. Genesis I-III",
+    "Sermons"],
+    "1": ["Catholic Church",
+    "Sermons"],
+    "2": ["Creation"],
+    "3": ["Creation",
+    "Sermons"],
+    "5": ["Fall of man",
+    "Sermons"],
+    "7": ["Sermons, English"],
+    "9": ["Sermons, German",
+    "Translations into English"]
+  },
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "33515",
+  "entrydate": "2021-08-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9 inches",
+  "height": "9 inches",
+  "thickness": "0.095 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.095 inches",
+  "weight": "0.35053499658 pounds",
+  "pages": "100 "
+},
+"204988862": {
+  "books_id": "204988862",
+  "title": "Hummingbird Salamander",
+  "sortcharacter": "1",
+  "public": "1",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0008299323",
+  "isbn": {
+    "0": "0008299323",
+    "2": "9780008299323"
+  },
+  "asin": "0008299323",
+  "ean": ["0008299323"],
+  "publication": "Harpercollins Publishers",
+  "summary": "Hummingbird Salamander",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American and Canadian",
+    "American fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3572.A4284 H86"
+  },
+  "genre": ["General Fiction",
+  "Science Fiction",
+  "Recent Fiction",
+  "Fiction and Literature"],
+  "genre_id": ["2",
+  "281",
+  "8278605",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "24839490",
+  "entrydate": "2021-08-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.5 inches",
+  "height": "8.50392 inches",
+  "thickness": "1.10236 inches",
+  "length": "5.31495 inches",
+  "dimensions": "8.50392 x 5.31495 x 1.10236 inches",
+  "weight": "0.5952481074 pounds"
+},
+"204988871": {
+  "books_id": "204988871",
+  "title": "Beyond Good and Evil (Penguin Classics)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Nietzsche, Friedrich",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Nietzsche, Friedrich",
+    "fl": "Friedrich Nietzsche",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "014044923X",
+  "isbn": {
+    "0": "014044923X",
+    "2": "9780140449235"
+  },
+  "asin": "014044923X",
+  "ean": ["014044923X"],
+  "publication": "Penguin Classics (2003), Edition: Reissue, 240 pages",
+  "date": "2003",
+  "summary": "Beyond Good and Evil (Penguin Classics) by Friedrich Nietzsche (2003)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["German"],
+  "originallanguage_codeA": ["eng",
+  "ger"],
+  "ddc": {
+    "code": ["193"],
+    "wording": ["German and Austrian",
+    "Modern western philosophy",
+    "Philosophy and Psychology"]
+  },
+  "lcc": {
+    "code": "B3313.J43 E5"
+  },
+  "subject": {
+    "0": ["Ethics"],
+    "2": ["Motion picture music"],
+    "3": ["Nietzsche, Friedrich Wilhelm, 1844-1900",
+    "Translations into English"],
+    "4": ["Philosophy"],
+    "6": ["Philosophy, German",
+    "19th century"],
+    "7": ["ethics"],
+    "9": ["philosophy"]
+  },
+  "originaltitle": "Jenseits von Gut und B\u00f6se",
+  "awards": ["The Essential Man's Library: 100 Must-Read Books",
+  "Books That Changed the World",
+  "The New Lifetime Reading Plan With Going Further"],
+  "genre": ["General Nonfiction",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "8330",
+  "entrydate": "2021-08-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "7.78 x 0.56 inches",
+  "height": "0.56 inches",
+  "thickness": "5.12 inches",
+  "length": "7.78 inches",
+  "dimensions": "0.56 x 7.78 x 5.12 inches",
+  "weight": "0.39462744898 pounds",
+  "pages": "240 "
+},
+"204988874": {
+  "books_id": "204988874",
+  "title": "Behold the Pierced One",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Xvi, Benedict",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Xvi, Benedict",
+    "fl": "Benedict Xvi",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780898700879",
+  "isbn": ["9780898700879",
+  "0898700876"],
+  "asin": "0898700876",
+  "ean": ["0898700876"],
+  "publication": "Ignatius Press (1986), Edition: 1st, 128 pages",
+  "date": "1986",
+  "summary": "Behold the Pierced One by Benedict Xvi (1986)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["232"],
+    "wording": ["Christ; Christology",
+    "Christian doctrinal theology",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BT202 .R3513"
+  },
+  "subject": [["Jesus Christ",
+  "Person and offices"]],
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "12205",
+  "entrydate": "2021-08-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.03 inches",
+  "height": "8.03 inches",
+  "thickness": "0.47 inches",
+  "length": "5.26 inches",
+  "dimensions": "8.03 x 5.26 x 0.47 inches",
+  "weight": "0.39903669422 pounds",
+  "pages": "128 "
+},
+"204988881": {
+  "books_id": "204988881",
+  "title": "On Love: Selected Writings",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Ratzinger, Joseph",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ratzinger, Joseph",
+    "fl": "Joseph Ratzinger",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1621643468",
+  "isbn": {
+    "0": "1621643468",
+    "2": "9781621643463"
+  },
+  "asin": "1621643468",
+  "ean": ["1621643468"],
+  "publication": "Ignatius Pr (2021), Edition: Reprint, Translation, 163 pages",
+  "date": "2021",
+  "summary": "On Love: Selected Writings by Joseph Ratzinger (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": {
+    "code": "BV4639 .B4613"
+  },
+  "source": "amazon.com books",
+  "workcode": "26119947",
+  "entrydate": "2021-08-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "7.9 inches",
+  "height": "7.9 inches",
+  "thickness": "0.7 inches",
+  "length": "5.2 inches",
+  "dimensions": "7.9 x 5.2 x 0.7 inches",
+  "weight": "0.44 pounds"
+},
+"204988887": {
+  "books_id": "204988887",
+  "title": "Mary: The Mother of God, The Footprints of God, The Story of Salvation From Abraham To Augustine",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Ignatius Press",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ignatius Press",
+    "fl": "Ignatius Press",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "158617018X",
+  "isbn": {
+    "0": "158617018X",
+    "2": "9781586170189"
+  },
+  "asin": "158617018X",
+  "ean": ["158617018X"],
+  "publication": "Ignatius Press (2005), Edition: First, 177 pages",
+  "date": "2005",
+  "summary": "Mary: The Mother of God, The Footprints of God, The Story of Salvation From Abraham To Augustine by Ignatius Press (2005)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["German"],
+  "originallanguage_codeA": ["eng",
+  "ger"],
+  "ddc": {
+    "code": ["232.91"],
+    "wording": ["Christ; Christology",
+    "Christian doctrinal theology",
+    "Family and life of Jesus",
+    "Mariology, Mary (mother of Jesus)",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BT602.M37"
+  },
+  "series": ["Footprints of God"],
+  "source": "amazon.com books",
+  "workcode": "8285208",
+  "entrydate": "2021-08-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8 inches",
+  "height": "8 inches",
+  "thickness": "0.59 inches",
+  "length": "5.25 inches",
+  "dimensions": "8 x 5.25 x 0.59 inches",
+  "weight": "0.54895103238 pounds",
+  "pages": "177 "
 }}
