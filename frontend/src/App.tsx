@@ -1,17 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
-import { Form, Row, Col, Input, Badge } from 'reactstrap';
+import { Table, Form, Row, Col, Input, Badge } from 'reactstrap';
 import Books from './books.json';
-import DataGrid from 'react-data-grid';
-
-const columns = [
-    { key: 'loc', name: '#', filterable: true, width: 100 },
-    { key: 'ddc', name: 'DDC', filterable: true, width: 150 },
-    { key: 'author', name: 'Author', filterable: true },
-    { key: 'title', name: 'Title', filterable: true },
-    { key: 'isbn', name: 'ISBN', filterable: true, width: 150 },
-    { key: 'date', name: 'Date', filterable: true, width: 150 },
-];
 
 function useInput() {
     const [value, setValue] = useState<string>("");
@@ -29,6 +19,39 @@ function filterBook(book: any, re: RegExp) {
     return re.test(book.author) || re.test(book.title);
 };
 
+interface BookProp {
+    books: typeof Books.books
+};
+
+function BookTable(props: React.PropsWithChildren<BookProp>) {
+    const tableRows = () => {
+        return props.books.map((book) => (
+            <tr key={book.books_id}>
+                <td>{book.loc}</td>
+                <td>{book.ddc}</td>
+                <td>{book.author}</td>
+                <td>{book.title}</td>
+                <td>{book.isbn}</td>
+                <td>{book.date}</td>
+            </tr>
+        ));
+    };
+    return <Table dark striped>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>DDC</th>
+                <th>Author</th>
+                <th>Title</th>
+                <th>ISBN</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            {tableRows()}
+        </tbody>
+    </Table>;
+}
 
 function App() {
     const [searchString, searchStringInput] = useInput();
@@ -40,24 +63,21 @@ function App() {
         error = e.toString();
         re = new RegExp('^.*$', 'i');
     }
-    var rows = Books.books.filter(book => filterBook(book, re));
-    return <div className="grid-wrapper">
+    const book_rows = Books.books.filter(book => filterBook(book, re));
+
+    return <div>
         <Form>
             <Row className="bg-dark">
                 <Col xs={{ size: 9, offset: 1 }}>
                     {searchStringInput}
                 </Col>
                 <Col xs={{ size: 1 }}>
-                    <Badge pill>{rows.length}</Badge>
+                    <Badge pill>{book_rows.length}</Badge>
                 </Col>
             </Row>
             {error}
         </Form>
-        <DataGrid
-            style={{ height: "100vh" }}
-            columns={columns}
-            rows={rows}
-        />
+        <BookTable books={book_rows} />
     </div>;
 }
 
