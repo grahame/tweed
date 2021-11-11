@@ -469,8 +469,6 @@ class Library:
                 continue
             # default to the current shelf
             place_book(current_shelf, book)
-
-        placed.sort(key=lambda x: x.location)
         return placed
 
     def arrange(self):
@@ -507,4 +505,5 @@ class Library:
             shelves = zones[zone]["shelves"]
             placed += self.subarrange(subbooks, shelves, overrides)
 
+        placed.sort(key=lambda x: x.location)
         return placed
