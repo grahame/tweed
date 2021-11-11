@@ -3,7 +3,8 @@
         "tech": {
             "ddc": "^[05]",
             "shelves": [
-                { "bookshelf": "T", "shelf": 1, "first_book": { "isbn": "9780914845461" } }
+                { "bookshelf": "T", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
+                { "bookshelf": "T", "shelf": 2, "first_book": { "isbn": "9780321491695" } }
             ],
             "overrides": []
         },
