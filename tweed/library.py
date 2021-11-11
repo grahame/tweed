@@ -416,17 +416,8 @@ class Library:
                 )
         os.rename("library.txt.new", "library.txt")
 
-    def arrange(self):
-        books = list(self.meta)
-        books.sort(
-            key=lambda book: (
-                book.ddc is None,
-                book.ddc,
-                book.author.lower(),
-                book.title.lower(),
-            )
-        )
-
+    @staticmethod
+    def subarrange(books, shelves, overrides):
         def format_loc(shelf, index):
             return "{}{}.{:>02}".format(shelf["bookshelf"], shelf["shelf"], index)
 
@@ -445,16 +436,11 @@ class Library:
                 match &= match_string(query["author"], book.author)
             return match
 
-        # allocate to shelves
-        with open("data/arrangement.json") as fd:
-            arrangement = json.load(fd)
-
-        shelves = arrangement["shelves"]
         indexes = defaultdict(lambda: 1)
         placed = []
 
         def get_override(book):
-            for override in arrangement["overrides"]:
+            for override in overrides:
                 if query_matches(override, book):
                     return override
 
@@ -485,5 +471,40 @@ class Library:
             place_book(current_shelf, book)
 
         placed.sort(key=lambda x: x.location)
+        return placed
+
+    def arrange(self):
+        books = list(self.meta)
+        books.sort(
+            key=lambda book: (
+                book.ddc is None,
+                book.ddc,
+                book.author.lower(),
+                book.title.lower(),
+            )
+        )
+        # allocate to shelves
+        with open("data/arrangement.json") as fd:
+            arrangement = json.load(fd)
+
+        # routing
+        zones = arrangement["zones"]
+        zone_books = {zone: [] for zone in zones}
+        zone_re = [(z, re.compile(zones[z]["ddc"])) for z in zones]
+
+        for book in books:
+            matched = False
+            for zone, zre in zone_re:
+                if zre.match(book.ddc or ""):
+                    matched = True
+                    zone_books[zone].append(book)
+                    break
+            assert matched
+
+        placed = []
+        for zone, subbooks in zone_books.items():
+            overrides = zones["study"]["overrides"]
+            shelves = zones[zone]["shelves"]
+            placed += self.subarrange(subbooks, shelves, overrides)
 
         return placed
