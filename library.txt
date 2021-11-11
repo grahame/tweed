@@ -376,32 +376,33 @@ B4.29 230            9780631214403     Williams, Rowan, 1950-        1999 On Chr
 B4.30 230            9781853118036     Williams, Rowan, 1950-        2007 Tokens of trust : an introduction to Christian belief
 B4.31 230            9780908089611     Wilson, John W. (John Warw    1985 The Old Testament and Christian living
 B4.32 230            9780567033154     Zizioulas, Jean, 1931-        2009 Lectures in Christian dogmatics
-B4.33 230.01         9780824514013     Killen, Patricia O'Connell    1994 The art of theological reflection
-B4.34 230.041082     9781481303804     Tull, Patricia K.             2015 After exegesis : feminist biblical theology : essays in hono
-B4.35 230.0411       9780804201414     Zimmerli, Walther             1978 Old Testament theology in outline
-B4.36 230.044        9780567291318     Barth, Karl, 1886-1968        1986 A Karl Barth reader
-B4.37 230.044092     9780334041276     Moltmann, Jürgen              2007 A broad place : an autobiography
-B4.38 230.046        9780415196994     Milbank, John                 1998 Radical orthodoxy : a new theology
-B4.39 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
-B4.40 230.082        9781626980389     Williams, Delores S.          2013 Sisters in the wilderness : the challenge of womanist God-ta
-B4.41 230.08664      9781498218795     Tonstad, Linn Marie, 1978-    2018 Queer theology : beyond apologetics
-B4.42 230.088042     9781597525008     Fabella, Virginia             2006 With Passion and Compassion: Third World Women Doing Theolog
-B4.43 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
-B4.44 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
-B4.45 230.0902       9780631212034     Evans, G. R. (Gillian Rose    2001 The medieval theologians
-B4.46 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
-B4.47 230.0903       9780802827265     Williams, Rowan, 1950-        2007 Wrestling with angels : conversations in modern theology
-B4.48 230.09031      9780582490314     Reardon, Bernard M. G.        1982 Religious thought in the Reformation
-B4.49 230.091724     9780883445150     Ferm, Deane William, 1927-    1986 Third World liberation theologies : an introductory survey
-B4.50 230.092        9781920691394     Garrett, Graeme, 1941-        2005 Dodging angels on Saturday : or why being a theologian in th
-B4.51 230.14         9780818909252     Augustine, of Hippo, Saint    2002 Augustine for everyone : 101 questions answered imaginativel
-B4.52 230.14         9780199540631     Augustine, St                 2008 On Christian Teaching
-B4.53 230.14092      9781472925275     Williams, Rowan, 1950-        2016 On Augustine
-B4.54 230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
-B4.55 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
-B4.56 230.2          9780883448151     Boff, Leonardo                1993 The path to hope : fragments from a theologian's journey
-B4.57 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
-B4.58 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
+B4.33 230            9780262516204     Žižek, Slavoj, 1949-          2011 The monstrosity of Christ : paradox or dialectic?
+B4.34 230.01         9780824514013     Killen, Patricia O'Connell    1994 The art of theological reflection
+B4.35 230.041082     9781481303804     Tull, Patricia K.             2015 After exegesis : feminist biblical theology : essays in hono
+B4.36 230.0411       9780804201414     Zimmerli, Walther             1978 Old Testament theology in outline
+B4.37 230.044        9780567291318     Barth, Karl, 1886-1968        1986 A Karl Barth reader
+B4.38 230.044092     9780334041276     Moltmann, Jürgen              2007 A broad place : an autobiography
+B4.39 230.046        9780415196994     Milbank, John                 1998 Radical orthodoxy : a new theology
+B4.40 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
+B4.41 230.082        9781626980389     Williams, Delores S.          2013 Sisters in the wilderness : the challenge of womanist God-ta
+B4.42 230.08664      9781498218795     Tonstad, Linn Marie, 1978-    2018 Queer theology : beyond apologetics
+B4.43 230.088042     9781597525008     Fabella, Virginia             2006 With Passion and Compassion: Third World Women Doing Theolog
+B4.44 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
+B4.45 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
+B4.46 230.0902       9780631212034     Evans, G. R. (Gillian Rose    2001 The medieval theologians
+B4.47 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
+B4.48 230.0903       9780802827265     Williams, Rowan, 1950-        2007 Wrestling with angels : conversations in modern theology
+B4.49 230.09031      9780582490314     Reardon, Bernard M. G.        1982 Religious thought in the Reformation
+B4.50 230.091724     9780883445150     Ferm, Deane William, 1927-    1986 Third World liberation theologies : an introductory survey
+B4.51 230.092        9781920691394     Garrett, Graeme, 1941-        2005 Dodging angels on Saturday : or why being a theologian in th
+B4.52 230.14         9780818909252     Augustine, of Hippo, Saint    2002 Augustine for everyone : 101 questions answered imaginativel
+B4.53 230.14         9780199540631     Augustine, St                 2008 On Christian Teaching
+B4.54 230.14092      9781472925275     Williams, Rowan, 1950-        2016 On Augustine
+B4.55 230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
+B4.56 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
+B4.57 230.2          9780883448151     Boff, Leonardo                1993 The path to hope : fragments from a theologian's journey
+B4.58 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
+B4.59 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
 B5.01 230.2          9780232515862     O'Collins, Gerald             1982 Fundamental theology
 B5.02 230.2          9780824505233     Rahner, Karl, 1904-1984       1982 Foundations of Christian faith : an introduction to the idea
 B5.03 230.2          9780824512217     Rahner, Karl, 1904-1984       1993 The content of faith : the best of Karl Rahner's theological
@@ -1340,38 +1341,39 @@ F6.08 813.6          9780441014156     Stross, Charles               2006 Accele
 F6.09 813.6          9780441012961     Stross, Charles               2005 Iron sunrise
 F6.10 813.6          9781841493343     Stross, Charles               2005 Singularity sky
 F6.11 813.6          9781406384765     Thomas, Angie                 None The hate u give
-F6.12 813.6          9780553418026     Weir, Andy                    2014 The Martian : a novel
-F6.13 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
-F6.14 813.6          9781529101478     Zahn, Timothy                 2021 Greater good
-F6.15 813.914        9781857989120     Dick, Philip K.               2000 Three early novels
-F6.16 814.54         9780241339725     Lorde, Audre                  2018 The master's tools will never dismantle the master's house
-F6.17 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
-F6.18 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
-F6.19 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
-F6.20 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
-F6.21 818.54         9780099524083     Vonnegut, Kurt                2009 Armageddon in retrospect : and other new and unpublished wri
-F6.22 820.8009       9780349103235     Banks, Iain, 1954-2013        1993 The crow road : a novel
-F6.23 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
-F6.24 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
-F6.25 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
-F6.26 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
-F6.27 821.1          9780008433932     Tolkien, J. R. R. 1892-197    2021 Sir Gawain and the Green Knight ; with Pearl ; and Sir Orfeo
-F6.28 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
-F6.29 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
-F6.30 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
-F6.31 821.4          9781760801182     Rhook, Nadia,                 None Boots
-F6.32 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
-F6.33 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
+F6.12 813.6          9781529100624     Weir, Andy                    2021 Project Hail Mary : a novel
+F6.13 813.6          9780553418026     Weir, Andy                    2014 The Martian : a novel
+F6.14 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
+F6.15 813.6          9781529101478     Zahn, Timothy                 2021 Greater good
+F6.16 813.914        9781857989120     Dick, Philip K.               2000 Three early novels
+F6.17 814.54         9780241339725     Lorde, Audre                  2018 The master's tools will never dismantle the master's house
+F6.18 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
+F6.19 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
+F6.20 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
+F6.21 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
+F6.22 818.54         9780099524083     Vonnegut, Kurt                2009 Armageddon in retrospect : and other new and unpublished wri
+F6.23 820.8009       9780349103235     Banks, Iain, 1954-2013        1993 The crow road : a novel
+F6.24 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
+F6.25 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
+F6.26 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
+F6.27 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
+F6.28 821.1          9780008433932     Tolkien, J. R. R. 1892-197    2021 Sir Gawain and the Green Knight ; with Pearl ; and Sir Orfeo
+F6.29 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
+F6.30 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
+F6.31 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
+F6.32 821.4          9781760801182     Rhook, Nadia,                 None Boots
+F6.33 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
 F6.34 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
-F6.35 821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
-F6.36 821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
-F6.37 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
-F6.38 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
-F6.39 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
-F6.40 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
-F6.41 821.9208       9781408705872     Banks, Iain, 1954-2013        2016 Poems
-F6.42 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
-F6.43 822.912                          Eliot, T. S.                  2021 Murder in the Cathedral
+F6.35 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
+F6.36 821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
+F6.37 821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
+F6.38 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
+F6.39 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
+F6.40 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
+F6.41 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
+F6.42 821.9208       9781408705872     Banks, Iain, 1954-2013        2016 Poems
+F6.43 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
+F6.44 822.912                          Eliot, T. S.                  2021 Murder in the Cathedral
 G1.01 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
 G1.02 823            9780143028574     Arundhati, Roy                2002 The god of small things
 G1.03 823            9780702230493     Carey, Peter (Peter Philip    1998 Jack Maggs

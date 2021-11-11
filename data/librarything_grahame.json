@@ -67513,7 +67513,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6052.A485 P54"
+    "code": "PR6052.A485"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -73940,15 +73940,14 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["813.54"],
-    "wording": ["1945-1999",
-    "20th Century",
+    "code": ["813.6"],
+    "wording": ["21st Century",
     "American fiction",
     "English (North America)",
     "Literature"]
   },
   "lcc": {
-    "code": "PS3573.H4768 N53"
+    "code": "PS3573.H4768"
   },
   "awards": ["BookPage Best Books",
   "Buzzfeed",
@@ -122716,4 +122715,131 @@
   "dimensions": "8.9 x 6.54 x 0.71 inches",
   "weight": "1.54 pounds",
   "pages": "224 "
+},
+"208336164": {
+  "books_id": "208336164",
+  "title": "The Monstrosity of Christ: Paradox or Dialectic? (Short Circuits)",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Zizek, Slavoj",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Zizek, Slavoj",
+    "fl": "Slavoj Zizek",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0262516209",
+  "isbn": {
+    "0": "0262516209",
+    "2": "9780262516204"
+  },
+  "asin": "0262516209",
+  "ean": ["8601417173312"],
+  "publication": "The MIT Press (2011), Edition: Reprint, 320 pages",
+  "date": "2011",
+  "summary": "The Monstrosity of Christ: Paradox or Dialectic? (Short Circuits) by Slavoj Zizek (2011)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["230"],
+    "wording": ["Christian doctrinal theology",
+    "Christianity, Christian theology",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BT40 .Z59"
+  },
+  "genre": ["Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "8183285",
+  "entrydate": "2021-11-11",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "320 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.72 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.72 inches",
+  "weight": "0.95019234922 pounds",
+  "pages": "320 "
+},
+"208336166": {
+  "books_id": "208336166",
+  "title": "Project Hail Mary: From the bestselling author of The Martian",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Weir, Andy",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Weir, Andy",
+    "fl": "Andy Weir",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1529100623",
+  "isbn": {
+    "0": "1529100623",
+    "2": "9781529100624"
+  },
+  "asin": "1529100623",
+  "ean": ["1529100623"],
+  "publication": "Del Rey (2021), Edition: 01, 496 pages",
+  "date": "2021",
+  "summary": "Project Hail Mary: From the bestselling author of The Martian by Andy Weir (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3623.E4324494 P76"
+  },
+  "awards": ["Indie Next List",
+  "LibraryReads"],
+  "genre": ["General Fiction",
+  "Science Fiction",
+  "Audiobooks",
+  "Recent Fiction",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["2",
+  "281",
+  "1697",
+  "8278605",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "25215827",
+  "entrydate": "2021-11-11",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "496 p.; 9.17 inches",
+  "height": "9.17321 inches",
+  "thickness": "1.41732 inches",
+  "length": "5.98424 inches",
+  "dimensions": "9.17321 x 5.98424 x 1.41732 inches",
+  "weight": "1.3117504589 pounds",
+  "pages": "496 "
 }}
