@@ -500,10 +500,17 @@ class Library:
             assert matched
 
         placed = []
+        overrides = arrangement["overrides"]
         for zone, subbooks in zone_books.items():
-            overrides = zones["study"]["overrides"]
             shelves = zones[zone]["shelves"]
             placed += self.subarrange(subbooks, shelves, overrides)
 
-        placed.sort(key=lambda x: x.location)
+        sort_re = re.compile(r"^([A-Z]+)(\d+)\.(\d+)$")
+
+        def sort_key(book):
+            match = sort_re.match(book.location)
+            assert match
+            return (match.group(1), int(match.group(2)), int(match.group(3)))
+
+        placed.sort(key=sort_key)
         return placed
