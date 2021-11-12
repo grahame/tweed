@@ -15,7 +15,7 @@
             "ddc": "^.*$",
             "shelves": [
                 { "bookshelf": "A", "shelf": 1, "first_book": { "isbn": "9780415693165" } },
-                { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9781316602591" } },
+                { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9780140447477" } },
                 { "bookshelf": "A", "shelf": 3, "first_book": { "isbn": "9781907523502" } },
                 { "bookshelf": "A", "shelf": 4, "first_book": { "isbn": "9780674088054" } },
                 { "bookshelf": "A", "shelf": 5, "first_book": { "isbn": "9780718892289" } },
