@@ -343,6 +343,8 @@ class Library:
             def make_instructions(op, books_ids):
                 r = []
                 for book_id in books_ids:
+                    if book_id not in row_index:
+                        continue
                     book_index = row_index[book_id]
                     book = new[book_index]
                     book_before = book_after = None
