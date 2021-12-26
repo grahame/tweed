@@ -39,39 +39,39 @@ A1.38 188            9781907523502     Marcus Aurelius, Emperor o    2011 The me
 A1.39 189                              Leff, Gordon                  1962 Medieval Thought: St. Augustine to Ockham
 A1.40 189.5          9780970109712     Eckhart, Meister, -1327       2001 Wandering joy : Meister Eckhart's, mystical philosophy
 A1.41 190            9780631206729     Pickstock, Catherine          1997 After writing : on the liturgical consummation of philosophy
-A1.42 190.9          9780415325059     Russell, Bertrand, 1872-19    2004 A history of western philosophy
-A1.43 193            9780415278270     Buber, Martin, 1878-1965      2002 Between man and man
-A2.01 193            9780140447477     Kant, Immanuel (1724-1804)    2008 The critique of pure reason : the critique of practical reas
-A2.02 193            9780140449235     Nietzsche, Friedrich Wilhe    2003 Beyond good and evil : prelude to a philosophy of the future
-A2.03 193            9781593083847     Nietzsche, Friedrich Wilhe    2007 Thus spoke Zarathustra : a book for all and none
-A2.04 193            9780199554966     Nietzsche, Friedrich Wilhe    2009 Twilight of the idols, or, How to philosophize with a hammer
-A2.05 194            9780192806963     Descartes, René, 1596-1650    2008 Meditations on first philosophy : with selections from the O
-A2.06 194            9780140259575     Foucault, Michel              2010 The essential works of Michel Foucault, 1954-1984
-A2.07 194            9780241472903     WEIL, SIMONE                  2020 POWER OF WORDS
-A2.08 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravity and grace
-A2.09 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
-A2.10 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
-A2.11 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
-A2.12 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
-A2.13 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
-A2.14 200                              Otto, Rudolf                  1968 [(The Idea of the Holy)] [ By (author) Rudolf Otto, Translat
-A2.15 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
-A2.16 200.7          9780567085344     King, Ursula                  1996 Turning points in religious studies : essays in honour of Ge
-A2.17 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
-A2.18 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
-A2.19 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
-A2.20 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
-A2.21 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
-A2.22 201            9780226803418     Tillich, Paul, 1886-1965      1964 Biblical religion and the search for ultimate reality
-A2.23 201.65         9780226478982     Harrison, Peter, 1955-        2017 The territories of science and religion
-A2.24 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
-A2.25 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
-A2.26 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
-A2.27 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
-A2.28 209.2          9780859220323     Watson, John                  None Holy persons and holy days : paragraphs to accompany the cal
-A2.29 210.1          9781922235763     Hudson, Wayne                 2016 Australian religious thought
-A2.30 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
-A2.31 211            9780300209358     Hart, David Bentley           2014 The experience of God : being, consciousness, bliss
+A2.01 190.9          9780415325059     Russell, Bertrand, 1872-19    2004 A history of western philosophy
+A2.02 193            9780415278270     Buber, Martin, 1878-1965      2002 Between man and man
+A2.03 193            9780140447477     Kant, Immanuel (1724-1804)    2008 The critique of pure reason : the critique of practical reas
+A2.04 193            9780140449235     Nietzsche, Friedrich Wilhe    2003 Beyond good and evil : prelude to a philosophy of the future
+A2.05 193            9781593083847     Nietzsche, Friedrich Wilhe    2007 Thus spoke Zarathustra : a book for all and none
+A2.06 193            9780199554966     Nietzsche, Friedrich Wilhe    2009 Twilight of the idols, or, How to philosophize with a hammer
+A2.07 194            9780192806963     Descartes, René, 1596-1650    2008 Meditations on first philosophy : with selections from the O
+A2.08 194            9780140259575     Foucault, Michel              2010 The essential works of Michel Foucault, 1954-1984
+A2.09 194            9780241472903     WEIL, SIMONE                  2020 POWER OF WORDS
+A2.10 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravity and grace
+A2.11 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
+A2.12 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
+A2.13 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
+A2.14 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
+A2.15 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
+A2.16 200                              Otto, Rudolf                  1968 [(The Idea of the Holy)] [ By (author) Rudolf Otto, Translat
+A2.17 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
+A2.18 200.7          9780567085344     King, Ursula                  1996 Turning points in religious studies : essays in honour of Ge
+A2.19 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
+A2.20 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
+A2.21 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
+A2.22 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
+A2.23 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
+A2.24 201            9780226803418     Tillich, Paul, 1886-1965      1964 Biblical religion and the search for ultimate reality
+A2.25 201.65         9780226478982     Harrison, Peter, 1955-        2017 The territories of science and religion
+A2.26 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
+A2.27 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
+A2.28 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
+A2.29 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
+A2.30 209.2          9780859220323     Watson, John                  None Holy persons and holy days : paragraphs to accompany the cal
+A2.31 210.1          9781922235763     Hudson, Wayne                 2016 Australian religious thought
+A2.32 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
+A2.33 211            9780300209358     Hart, David Bentley           2014 The experience of God : being, consciousness, bliss
 A3.01 220.7          9780136149347     Brown, Raymond Edward         1989 The new Jerome biblical commentary
 A3.02 220.7          9781426735837     Keck, Leander E.              2015 The New interpreter's bible commentary
 A3.03 220.7          9781426735844     Keck, Leander E.              2015 The New interpreter's bible commentary
@@ -122,106 +122,106 @@ A4.32 221.044        9789653011885     Jerusalem, Koren Publisher    2009 Koren 
 A4.33 221.06                           Westermann, Claus (ed.)       1963 Essays on Old Testament interpretation / edited by Claus Wes
 A4.34 221.15         9780800632878     Brueggemann, Walter           2001 The prophetic imagination
 A4.35 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
-A4.36 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
-A4.37 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
-A5.01 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
-A5.02 221.6          9780334020868     Childs, Brevard S.            1983 Introduction to the Old Testament as Scripture
-A5.03 221.6          9781589833494     Crenshaw, James L.            1984 A whirlpool of torment : Israelite traditions of God as an o
-A5.04 221.6          9780060616939     Damrosch, David               1987 The narrative covenant ; transformations of genre in the gro
-A5.05 221.6          9780664223083     Eichrodt, Walter              1961 Theology of the Old Testament, Vol. 1 (OTL) (The Old Testame
-A5.06 221.6          9780664223090     Eichrodt, Walther             1967 Theology of the Old Testament, Vol. 2 (OTL) (The Old Testame
-A5.07 221.6          9780800634384     Gunkel, Hermann, 1862-1932    2001 Water for a thirsty land : Israelite literature and religion
-A5.08 221.6          9780664256524     McKenzie, Steven L., 1953-    1998 The Hebrew Bible today : an introduction to critical issues
-A5.09 221.6          9780664224073     Rad, Gerhard von, 1901-197    2001 Old Testament theology
-A5.10 221.6          9780664224080     Rad, Gerhard von, 1901-197    2001 Old Testament theology
-A5.11 221.6          9780718892289     Rowley, H. H. (Harold Henr    2011 The re-discovery of the Old Testament
-A5.12 221.6          9780800604646     Trible, Phyllis               1986 God and the rhetoric of sexuality
-A5.13 221.6                            Vriezen, Theodorus Christi    1962 An outline of Old Testament theology
-A5.14 221.609034     9780718822354     Clements, R. E. (Ronald Er    1976 A century of Old Testament study
-A5.15 221.61         9780809126316     Boadt, Lawrence               1984 Reading the Old Testament : an introduction
-A5.16 221.61         9780334020578     Charpentier, Etienne          1982 How to read the Old Testament
-A5.17 221.61         9781451472943     Collins, John J. (John Jos    2014 A short introduction to the Hebrew Bible
-A5.18 221.61         9781506445984     Collins, John J. (John Jos    2018 Introduction to the Hebrew Bible
-A5.19 221.66         9780465022557     Alter, Robert                 2011 The art of Biblical narrative
-A5.20 221.66         9780631149200     Kaiser, Otto, 1924-2017       1975 Introduction to the Old Testament : a presentation of its re
-A5.21 221.67         9780800628895     Overholt, Thomas W., 1935-    1992 Cultural anthropology and the Old Testament
-A5.22 221.67         9780800601775     Tucker, Gene M.               1971 Form criticism of the Old Testament
-A5.23 221.9          9780713605884     Noth, Martin, 1902-1968       1966 The Old Testament world
-A5.24 221.92         9781606087718     Rad, Gerhard von, 1901-197    2011 Moses
-A5.25 221.922        9780800615376     Trible, Phyllis               1984 Texts of terror : literary-feminist readings of Biblical nar
-A5.26 221.922        9780671541347     Wiesel, Elie, 1928-2016       1985 Messengers of God : Biblical portraits and legends
-A5.27 221.93         9780691002002     Pritchard, James B. (James    1973 The ancient Near East : an anthology of texts and pictures
-A5.28 221.95         9780334004035     Ackroyd, Peter R.             1972 Exile and restoration : a study of Hebrew thought of the six
-A5.29 221.95         9780664212919     Hayes, John H. (John Haral    1977 Israelite and Judaean history
-A5.30 222.06         9780905774305     Noth, Martin, 1902-1968       1981 The deuteronomistic history
-A5.31 222.106        9781850757924     Clines, David J. A.           1997 The theme of the Pentateuch
-A5.32 222.106        9780800625931     Lohfink, Norbert              1995 Theology of the Pentateuch : themes of the priestly narrativ
-A5.33 222.106        9780804200851     Mann, Thomas W. (Thomas Wi    1988 The Book of the Torah : the narrative integrity of the Penta
-A5.34 222.1066       9780884140627     Boorer, Suzanne, 1954-        2016 The vision of the priestly narrative : its genre and hermene
-A5.35 222.1066       9780804201124     Brueggemann, Walter           1975 The vitality of Old Testament traditions
-A5.36 222.1066       9780800627010     Campbell, Antony F.           2000 Sources of the Pentateuch : texts, introductions, annotation
-A5.37 222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A history of Pentateuchal traditions
-A5.38 222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
-A5.39 222.1092                         Fleg, Edmond                  2006 Life of Moses, The
-A5.40 222.11                           Driver, S. R.                 1905 The Book of Genesis
-A5.41 222.11                           Vawter, Bruce                 1956 A path through Genesis
-A5.42 222.11048      9781555408855     Wevers, John William          1993 Notes on the Greek text of Genesis
-A5.43 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
-A5.44 222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
-A5.45 222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
-A5.46 222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
-A5.47 222.110922     9780664229825     Trible, Phyllis               2006 Hagar, Sarah, and their children : Jewish, Christian, and Mu
-A5.48 222.1206       9780905774442     Moberly, R. W. L.             1983 At the mountain of God : story and theology in Exodus 32-34
-A5.49 222.12066      9780802805928     Coats, George W.              1998 Exodus 1-18
-A5.50 222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
-B1.01 222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
-B1.02 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
-B1.03 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
-B1.04 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
-B1.05 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
-B1.06 222.14077      9780334015345     Noth, Martin, 1902-1968       1983 Numbers : a commentary
-B1.07 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
-B1.08 222.40924      9780907459125     Rost, Leonhard, 1896-1979     1982 The succession to the throne of David
-B1.09 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
-B1.10 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
-B1.11 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
-B1.12 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
-B1.13 223.1          9780300140750     Pope, Marvin H.               1965 Job
-B1.14 223.1          9781592446599     Terrien, Samuel L., 1911-2    2004 Job: poet of existence
-B1.15 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
-B1.16 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
-B1.17 223.106        9780883445525     Gutiérrez, Gustavo, 1928-     1987 On Job : God-talk and the suffering of the innocent
-B1.18 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
-B1.19 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
-B1.20 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
-B1.21 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
-B1.22 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
-B1.23 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
-B1.24 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
-B1.25 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
-B1.26 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
-B1.27 223.206        9780800618964     Miller, Patrick D.            1986 Interpreting the Psalms
-B1.28 223.206        9780804217927     Westermann, Claus             1981 Praise and lament in the Psalms
-B1.29 223.2061       9780800630430     Gunkel, Hermann, 1862-1932    1967 The Psalms : a form-critical introduction
-B1.30 223.20663      9780802802552     Gerstenberger, Erhard S.      1988 Psalms : with an introduction to cultic poetry : Part 1
-B1.31 223.207        9780551008465     Anderson, A. A. (Arnold Al    1972 The book of Psalms : based on the Revised Standard Version
-B1.32 223.207        9780806621203     Brueggemann, Walter           1985 The message of the Psalms : a theological commentary
-B1.33 223.207        9780802804884     Gerstenberger, Erhard S.      2001 Psalms : Part 2, and Lamentations
-B1.34 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
-B1.35 223.806        9780802842923     Fox, Michael V., 1940-        1999 A time to tear down and a time to build up : a rereading of 
-B1.36 223.9052       9780907459071     Falk, Marcia                  1981 Love lyrics from the Bible : a translation and literary stud
-B1.37 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
-B1.38 223.9077       9780300139495     Pope, Marvin H.               1995 Song of songs : a new translation with introduction and comm
-B1.39 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
-B1.40 224            9780800619251     Brueggemann, Walter           1986 Hopeful imagination : prophetic voices in exile
-B1.41 224            9780800615321     Klein, Ralph W.               1979 Israel in exile, a theological interpretation
-B1.42 224            9780334011644     Rad, Gerhard von, 1901-       1968 The message of the prophets
-B1.43 224.06         9780060936990     Heschel, Abraham Joshua, 1    2001 The Prophets
-B1.44 224.06         9780800617738     Petersen, David L.            1987 Prophecy in Israel : search for an identity
-B1.45 224.066        9780718828424     Westermann, Claus             1991 Basic forms of prophetic speech
-B1.46 224.2          9780385008235     Bright, John, 1908 Septemb    1965 Jeremiah
-B1.47 224.206        9780800699307     O'Connor, Kathleen M., 194    2012 Jeremiah : pain and promise
-B1.48 224.206        9780931464201     Perdue, Leo G. [Editor; Ot    1984 A Prophet to the nations : essays in Jeremiah studies
+A5.01 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
+A5.02 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
+A5.03 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
+A5.04 221.6          9780334020868     Childs, Brevard S.            1983 Introduction to the Old Testament as Scripture
+A5.05 221.6          9781589833494     Crenshaw, James L.            1984 A whirlpool of torment : Israelite traditions of God as an o
+A5.06 221.6          9780060616939     Damrosch, David               1987 The narrative covenant ; transformations of genre in the gro
+A5.07 221.6          9780664223083     Eichrodt, Walter              1961 Theology of the Old Testament, Vol. 1 (OTL) (The Old Testame
+A5.08 221.6          9780664223090     Eichrodt, Walther             1967 Theology of the Old Testament, Vol. 2 (OTL) (The Old Testame
+A5.09 221.6          9780800634384     Gunkel, Hermann, 1862-1932    2001 Water for a thirsty land : Israelite literature and religion
+A5.10 221.6          9780664256524     McKenzie, Steven L., 1953-    1998 The Hebrew Bible today : an introduction to critical issues
+A5.11 221.6          9780664224073     Rad, Gerhard von, 1901-197    2001 Old Testament theology
+A5.12 221.6          9780664224080     Rad, Gerhard von, 1901-197    2001 Old Testament theology
+A5.13 221.6          9780718892289     Rowley, H. H. (Harold Henr    2011 The re-discovery of the Old Testament
+A5.14 221.6          9780800604646     Trible, Phyllis               1986 God and the rhetoric of sexuality
+A5.15 221.6                            Vriezen, Theodorus Christi    1962 An outline of Old Testament theology
+A5.16 221.609034     9780718822354     Clements, R. E. (Ronald Er    1976 A century of Old Testament study
+A5.17 221.61         9780809126316     Boadt, Lawrence               1984 Reading the Old Testament : an introduction
+A5.18 221.61         9780334020578     Charpentier, Etienne          1982 How to read the Old Testament
+A5.19 221.61         9781451472943     Collins, John J. (John Jos    2014 A short introduction to the Hebrew Bible
+A5.20 221.61         9781506445984     Collins, John J. (John Jos    2018 Introduction to the Hebrew Bible
+A5.21 221.66         9780465022557     Alter, Robert                 2011 The art of Biblical narrative
+A5.22 221.66         9780631149200     Kaiser, Otto, 1924-2017       1975 Introduction to the Old Testament : a presentation of its re
+A5.23 221.67         9780800628895     Overholt, Thomas W., 1935-    1992 Cultural anthropology and the Old Testament
+A5.24 221.67         9780800601775     Tucker, Gene M.               1971 Form criticism of the Old Testament
+A5.25 221.9          9780713605884     Noth, Martin, 1902-1968       1966 The Old Testament world
+A5.26 221.92         9781606087718     Rad, Gerhard von, 1901-197    2011 Moses
+A5.27 221.922        9780800615376     Trible, Phyllis               1984 Texts of terror : literary-feminist readings of Biblical nar
+A5.28 221.922        9780671541347     Wiesel, Elie, 1928-2016       1985 Messengers of God : Biblical portraits and legends
+A5.29 221.93         9780691002002     Pritchard, James B. (James    1973 The ancient Near East : an anthology of texts and pictures
+A5.30 221.95         9780334004035     Ackroyd, Peter R.             1972 Exile and restoration : a study of Hebrew thought of the six
+A5.31 221.95         9780664212919     Hayes, John H. (John Haral    1977 Israelite and Judaean history
+A5.32 222.06         9780905774305     Noth, Martin, 1902-1968       1981 The deuteronomistic history
+A5.33 222.106        9781850757924     Clines, David J. A.           1997 The theme of the Pentateuch
+A5.34 222.106        9780800625931     Lohfink, Norbert              1995 Theology of the Pentateuch : themes of the priestly narrativ
+A5.35 222.106        9780804200851     Mann, Thomas W. (Thomas Wi    1988 The Book of the Torah : the narrative integrity of the Penta
+A5.36 222.1066       9780884140627     Boorer, Suzanne, 1954-        2016 The vision of the priestly narrative : its genre and hermene
+A5.37 222.1066       9780804201124     Brueggemann, Walter           1975 The vitality of Old Testament traditions
+A5.38 222.1066       9780800627010     Campbell, Antony F.           2000 Sources of the Pentateuch : texts, introductions, annotation
+A5.39 222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A history of Pentateuchal traditions
+A5.40 222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
+A5.41 222.1092                         Fleg, Edmond                  2006 Life of Moses, The
+A5.42 222.11                           Driver, S. R.                 1905 The Book of Genesis
+A5.43 222.11                           Vawter, Bruce                 1956 A path through Genesis
+A5.44 222.11048      9781555408855     Wevers, John William          1993 Notes on the Greek text of Genesis
+A5.45 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
+A5.46 222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
+A5.47 222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
+A5.48 222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
+A5.49 222.110922     9780664229825     Trible, Phyllis               2006 Hagar, Sarah, and their children : Jewish, Christian, and Mu
+A5.50 222.1206       9780905774442     Moberly, R. W. L.             1983 At the mountain of God : story and theology in Exodus 32-34
+A5.51 222.12066      9780802805928     Coats, George W.              1998 Exodus 1-18
+A5.52 222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
+A5.53 222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
+A5.54 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
+A5.55 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
+A5.56 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
+A5.57 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
+A5.58 222.14077      9780334015345     Noth, Martin, 1902-1968       1983 Numbers : a commentary
+B1.01 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
+B1.02 222.40924      9780907459125     Rost, Leonhard, 1896-1979     1982 The succession to the throne of David
+B1.03 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
+B1.04 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
+B1.05 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
+B1.06 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
+B1.07 223.1          9780300140750     Pope, Marvin H.               1965 Job
+B1.08 223.1          9781592446599     Terrien, Samuel L., 1911-2    2004 Job: poet of existence
+B1.09 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
+B1.10 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
+B1.11 223.106        9780883445525     Gutiérrez, Gustavo, 1928-     1987 On Job : God-talk and the suffering of the innocent
+B1.12 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
+B1.13 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
+B1.14 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
+B1.15 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
+B1.16 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
+B1.17 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
+B1.18 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
+B1.19 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
+B1.20 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
+B1.21 223.206        9780800618964     Miller, Patrick D.            1986 Interpreting the Psalms
+B1.22 223.206        9780804217927     Westermann, Claus             1981 Praise and lament in the Psalms
+B1.23 223.2061       9780800630430     Gunkel, Hermann, 1862-1932    1967 The Psalms : a form-critical introduction
+B1.24 223.20663      9780802802552     Gerstenberger, Erhard S.      1988 Psalms : with an introduction to cultic poetry : Part 1
+B1.25 223.207        9780551008465     Anderson, A. A. (Arnold Al    1972 The book of Psalms : based on the Revised Standard Version
+B1.26 223.207        9780806621203     Brueggemann, Walter           1985 The message of the Psalms : a theological commentary
+B1.27 223.207        9780802804884     Gerstenberger, Erhard S.      2001 Psalms : Part 2, and Lamentations
+B1.28 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
+B1.29 223.806        9780802842923     Fox, Michael V., 1940-        1999 A time to tear down and a time to build up : a rereading of 
+B1.30 223.9052       9780907459071     Falk, Marcia                  1981 Love lyrics from the Bible : a translation and literary stud
+B1.31 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
+B1.32 223.9077       9780300139495     Pope, Marvin H.               1995 Song of songs : a new translation with introduction and comm
+B1.33 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
+B1.34 224            9780800619251     Brueggemann, Walter           1986 Hopeful imagination : prophetic voices in exile
+B1.35 224            9780800615321     Klein, Ralph W.               1979 Israel in exile, a theological interpretation
+B1.36 224            9780334011644     Rad, Gerhard von, 1901-       1968 The message of the prophets
+B1.37 224.06         9780060936990     Heschel, Abraham Joshua, 1    2001 The Prophets
+B1.38 224.06         9780800617738     Petersen, David L.            1987 Prophecy in Israel : search for an identity
+B1.39 224.066        9780718828424     Westermann, Claus             1991 Basic forms of prophetic speech
+B1.40 224.2          9780385008235     Bright, John, 1908 Septemb    1965 Jeremiah
+B1.41 224.206        9780800699307     O'Connor, Kathleen M., 194    2012 Jeremiah : pain and promise
+B1.42 224.206        9780931464201     Perdue, Leo G. [Editor; Ot    1984 A Prophet to the nations : essays in Jeremiah studies
 B2.01 224.2077       9780802823694     Thompson, J. A. (John Arth    1980 The book of Jeremiah
 B2.02 224.506        9781850750024     Davies, Philip R.             1987 Daniel
 B2.03 224.6                            Knight, G. A. F.              1969 Hosea: God's Love

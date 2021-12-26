@@ -15,12 +15,13 @@
             "ddc": "^.*$",
             "shelves": [
                 { "bookshelf": "A", "shelf": 1, "first_book": { "isbn": "9780415693165" } },
-                { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9780140447477" } },
+                { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9780415325059" } },
                 { "bookshelf": "A", "shelf": 3, "first_book": { "isbn": "9781921410192" } },
                 { "bookshelf": "A", "shelf": 4, "first_book": { "isbn": "9780674088054" } },
-                { "bookshelf": "A", "shelf": 5, "first_book": { "isbn": "9783110135053" } },
+                { "bookshelf": "A", "shelf": 5, "first_book": { "isbn": "9780801859441" } },
+                { "bookshelf": "A", "shelf": 5, "first_book": { "isbn": "9780905774305" } },
 
-                { "bookshelf": "B", "shelf": 1, "first_book": { "isbn": "9780664229689" } },
+                { "bookshelf": "B", "shelf": 1, "first_book": { "isbn": "9780664221874" } },
                 { "bookshelf": "B", "shelf": 2, "first_book": { "isbn": "9780802823694" } },
                 { "bookshelf": "B", "shelf": 3, "first_book": { "isbn": "9781570753244" } },
                 { "bookshelf": "B", "shelf": 4, "first_book": { "isbn": "9780525433897" } },
