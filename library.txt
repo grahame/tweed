@@ -901,13 +901,9 @@ E2.29 303.4833       9780415710978     Croeser, Sky                  2014 Global
 E2.30 303.4833       9781599042992     Dyson, Laurel Evelyn, 1952    2006 Information technology and indigenous people
 E2.31 303.4833       9780241957219     Lanier, Jaron                 1700 Who owns the future?
 E2.32 303.4833       9781591409694     Rooksby, Emma                 2006 Information technology and social justice
-E3.01 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
 E3.01 304.25         9781568587295     Parenti, Christian            2012 Tropic of chaos : climate change and the new geography of vi
-E3.02 635.04840994   9780867772456     Bennett, Peter                1988 Organic gardening
 E3.02 305.309        9780674543553     Laqueur, Thomas Walter        1992 Making sex : body and gender from the Greeks to Freud
-E3.03 635.95194      9781864367492     Urquhart, Paul                2002 The new native garden : designing with Australian plants
 E3.03 305.4          9780099499381     Beauvoir, Simone de, 1908-    2010 The second sex
-E3.04 641.252        9781405394741     Smith, Gavin D.               2012 Whisky opus
 E3.04 305.409        9780195051858     Lerner, Gerda, 1920-2013      1986 The creation of patriarchy
 E3.05 305.42         9780195090604     Lerner, Gerda, 1920-2013      1994 The creation of feminist consciousness : from the Middle Age
 E3.06 305.420973     9780896086135     hooks, bell, 1952-            2000 Feminist theory from margin to center
@@ -1793,23 +1789,28 @@ U1.20 598.970994     9780643097056     Olsen, Jerry                  2012 Austra
 U1.21 599.03         9780643091672     Strahan, Ronald               2007 Dictionary of Australian and New Guinean mammals
 U1.22 599.232099412  9780987577108     Wooller, Ron,                 None Sugar and sand : the world of the honey possum
 U1.23 613.2          9781594203084     Pollan, Michael               2011 Food rules : an eater's manual
-U1.24 616.85822      9781558740723     Middelton-Moz, Jane, 1947-    1990 Shame and guilt : the masters of disguise
-U1.25 616.8914       9780075548270     Bugental, James F. T.         1978 Psychotherapy and process : the fundamentals of an existenti
-U1.26 621.3192       9780201401004     Nilsson, James William        1995 Electric circuits
-U1.27 621.39092      9781408703748     Isaacson, Walter              2011 Steve Jobs
-U1.28 623.7464092    9780099481300     Henshaw, Alex                 1986 Sigh for a Merlin : testing the Spitfire
-U1.29 629.4530973    9780743200790     Kranz, Gene                   2000 Failure is not an option : mission control from Mercury to A
-U1.30 635            9780643095977     Horsfall, Mary, 1949-         2010 Fabulous food from every small garden
-U1.31 635            9780752858135     Stoddart, Laura               2000 Up the garden path : a little anthology
-U1.32 635.0484091732 9781740668989     Byrne, Josh                   2011 Small space organics : creating sustainable, edible gardens
-U1.33 635.95194      9781877069406     Wrigley, John W.              2007 Australian native plants : cultivation, use in landscaping a
-U1.34 635.986        9781486300914     Hill, Fionna, 1946-           2015 How to grow edibles in containers : good produce from small 
-U1.35 636.0890924    9780905712581     Herriot, James                1982 If only they could talk ; : It shouldn't happen to a vet ; L
-U1.36 640            9781405317757     Goldsmith, Sheherazade        None A slice of organic life
-U1.37 641.2520973    9780760351727     Minnick, Fred, 1978-          2016 Bourbon : the rise, fall, and rebirth of an American whiskey
-U1.38 641.25209946   9780980450811     Kudelka, Jon,                 2014 Kudelka and First Dog's spiritual journey : in which two int
-U1.39 641.5          9781846147500     Pollan, Michael               None Cooked : a natural history of transformation
-U1.40 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
+U1.24 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
+U1.25 616.85822      9781558740723     Middelton-Moz, Jane, 1947-    1990 Shame and guilt : the masters of disguise
+U1.26 616.8914       9780075548270     Bugental, James F. T.         1978 Psychotherapy and process : the fundamentals of an existenti
+U1.27 621.3192       9780201401004     Nilsson, James William        1995 Electric circuits
+U1.28 621.39092      9781408703748     Isaacson, Walter              2011 Steve Jobs
+U1.29 623.7464092    9780099481300     Henshaw, Alex                 1986 Sigh for a Merlin : testing the Spitfire
+U1.30 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
+U1.31 629.4530973    9780743200790     Kranz, Gene                   2000 Failure is not an option : mission control from Mercury to A
+U1.32 635            9780643095977     Horsfall, Mary, 1949-         2010 Fabulous food from every small garden
+U1.33 635            9780752858135     Stoddart, Laura               2000 Up the garden path : a little anthology
+U1.34 635.0484091732 9781740668989     Byrne, Josh                   2011 Small space organics : creating sustainable, edible gardens
+U1.35 635.04840994   9780867772456     Bennett, Peter                1988 Organic gardening
+U1.36 635.95194      9781864367492     Urquhart, Paul                2002 The new native garden : designing with Australian plants
+U1.37 635.95194      9781877069406     Wrigley, John W.              2007 Australian native plants : cultivation, use in landscaping a
+U1.38 635.986        9781486300914     Hill, Fionna, 1946-           2015 How to grow edibles in containers : good produce from small 
+U1.39 636.0890924    9780905712581     Herriot, James                1982 If only they could talk ; : It shouldn't happen to a vet ; L
+U1.40 640            9781405317757     Goldsmith, Sheherazade        None A slice of organic life
+U1.41 641.252        9781405394741     Smith, Gavin D.               2012 Whisky opus
+U1.42 641.2520973    9780760351727     Minnick, Fred, 1978-          2016 Bourbon : the rise, fall, and rebirth of an American whiskey
+U1.43 641.25209946   9780980450811     Kudelka, Jon,                 2014 Kudelka and First Dog's spiritual journey : in which two int
+U1.44 641.5          9781846147500     Pollan, Michael               None Cooked : a natural history of transformation
+U1.45 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
 Y1.01 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
 Y1.02 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
 Y1.03 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
@@ -1840,7 +1841,6 @@ Y2.20 297.122521     9789960792637     Saheeh International          1997 The Qu
 Y2.21 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
 Y3.01 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
 Y3.01 220                              St. Athanasius Academy of     2008 The Orthodox Study Bible, Hardcover: Ancient Christianity Sp
-Y3.02 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
 Y3.02 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
 Y3.03 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
 Y3.04 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
