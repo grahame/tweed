@@ -18692,64 +18692,6 @@
   "weight": "0.71 pounds",
   "pages": "160 "
 },
-"164327771": {
-  "books_id": "164327771",
-  "title": "The Path to Hope: Fragments from a Theologian's Journey",
-  "sortcharacter": "5",
-  "public": "true",
-  "primaryauthor": "Boff, Leonardo",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Boff, Leonardo",
-    "fl": "Leonardo Boff",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0883448157",
-  "isbn": {
-    "0": "0883448157",
-    "2": "9780883448151"
-  },
-  "asin": "0883448157",
-  "ean": ["0883448157"],
-  "publication": "Orbis Books (1993), 134 pages",
-  "date": "1993",
-  "summary": "The Path to Hope: Fragments from a Theologian's Journey by Leonardo Boff (1993)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["230.2"],
-    "wording": ["Christian doctrinal theology",
-    "Christianity, Christian theology",
-    "Pre-reformation and Roman Catholic",
-    "Religions"]
-  },
-  "lcc": {
-    "code": "BX4705.B545 A3"
-  },
-  "genre": ["Religion & Spirituality",
-  "Nonfiction"],
-  "genre_id": ["1944",
-  "20275895"],
-  "source": "amazon.com books",
-  "workcode": "977260",
-  "entrydate": "2019-01-10",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "134 p.; 5.5 inches",
-  "height": "5.5 inches",
-  "thickness": "8.25 inches",
-  "length": "0.5 inches",
-  "dimensions": "5.5 x 0.5 x 8.25 inches",
-  "pages": "134 "
-},
 "164327774": {
   "books_id": "164327774",
   "title": "Resurrection",
@@ -21938,7 +21880,8 @@
   "length": "0.44 inches",
   "dimensions": "5.43 x 0.44 x 8.5 inches",
   "pages": "192 "
-},"164328816": {
+},
+"164328816": {
   "books_id": "164328816",
   "title": "Temple Theology: An Introduction",
   "sortcharacter": "1",
@@ -21999,8 +21942,7 @@
   "dimensions": "5.43 x 0.26 x 8.49 inches",
   "weight": "0.34 pounds",
   "pages": "128 "
-},
-"164328848": {
+},"164328848": {
   "books_id": "164328848",
   "title": "The Prodigal God: Recovering the heart of the Christian faith",
   "sortcharacter": "5",
@@ -28448,7 +28390,8 @@
   "dimensions": "5.43 x 0.4 x 8.5 inches",
   "weight": "0.47 pounds",
   "pages": "176 "
-},"164331192": {
+},
+"164331192": {
   "books_id": "164331192",
   "title": "Called to minister : vocational discernment in the contemporary church",
   "sortcharacter": "1",
@@ -28493,8 +28436,7 @@
   "height": "23 cm",
   "dimensions": "23 cm",
   "pages": "265 "
-},
-"164331315": {
+},"164331315": {
   "books_id": "164331315",
   "title": "Se\u00f1or Pilich the Monastery Cat and the Sinister Mr Dreggs",
   "sortcharacter": "1",
@@ -34592,7 +34534,8 @@
   "dimensions": "8 x 0.99 x 10 inches",
   "weight": "2.34 pounds",
   "pages": "436 "
-},"164355762": {
+},
+"164355762": {
   "books_id": "164355762",
   "title": "Introductory Statistics with Randomization and Simulation",
   "sortcharacter": "1",
@@ -34646,8 +34589,7 @@
   "dimensions": "8 x 0.8 x 10 inches",
   "weight": "1.85 pounds",
   "pages": "354 "
-},
-"164355802": {
+},"164355802": {
   "books_id": "164355802",
   "title": "Power (v. 3)",
   "sortcharacter": "1",
@@ -36063,9 +36005,9 @@
     "5": ["Political science",
     "Western influences"]
   },
-  "series": ["A History of Western Philosophy (Russell)",
-  "L\u00e4nsimaisen filosofian historia",
-  "Hist\u00f3ria da Filosofia Ocidental"],
+  "series": ["L\u00e4nsimaisen filosofian historia",
+  "Hist\u00f3ria da Filosofia Ocidental",
+  "A History of Western Philosophy (Russell)"],
   "originaltitle": "A History of Western Philosophy, and Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day",
   "awards": ["New York Times bestseller",
   "Torchlight List",
@@ -37919,8 +37861,8 @@
     "26": ["fantasy"],
     "28": ["juvenile literature"]
   },
-  "series": ["Kubu\u015b Puchatek",
-  "Nalle Puh",
+  "series": ["Nalle Puh",
+  "Kubu\u015b Puchatek",
   "Winnie the Pooh (A.A. Milne Original)",
   "Original Pooh Treasury"],
   "awards": ["Waterstones Books of the Century",
@@ -42040,7 +41982,8 @@
   "dimensions": "7.76 x 0.59 x 5.12 inches",
   "weight": "0.44 pounds",
   "pages": "240 "
-},"164361152": {
+},
+"164361152": {
   "books_id": "164361152",
   "title": "Yes Minister : The Diaries of a Cabinet Minister by the Rt Hon. James Hacker MP",
   "sortcharacter": "1",
@@ -42096,8 +42039,7 @@
   "dimensions": "8.82 x 6.06 x 0.47 inches",
   "weight": "0.71 pounds",
   "pages": "176 "
-},
-"164361355": {
+},"164361355": {
   "books_id": "164361355",
   "title": "Fahrenheit 451",
   "sortcharacter": "1",
@@ -49879,7 +49821,8 @@
   "length": "8.31 inches",
   "dimensions": "5.87 x 8.31 x 0.87 inches",
   "pages": "192 "
-},"164367038": {
+},
+"164367038": {
   "books_id": "164367038",
   "title": "AmalgaNations: How Globalisation is Good",
   "sortcharacter": "1",
@@ -49939,8 +49882,7 @@
   "dimensions": "6.06 x 1.06 x 9.09 inches",
   "weight": "0.87 pounds",
   "pages": "256 "
-},
-"164367045": {
+},"164367045": {
   "books_id": "164367045",
   "title": "Designing to Heal [OP]: Planning and Urban Design Response to Disaster and Conflict",
   "sortcharacter": "1",
@@ -51226,10 +51168,10 @@
   "Duin",
   "Dune",
   "Dune Saga",
-  "Cronolog\u00eda completa de Dune",
-  "Dune: complete chronology",
+  "Duna: Kompletn\u00e1 chronol\u00f3gia",
   "Duin: chronologisch",
-  "Duna: Kompletn\u00e1 chronol\u00f3gia"],
+  "Cronolog\u00eda completa de Dune",
+  "Dune: complete chronology"],
   "originaltitle": "Dune Messiah",
   "genre": ["Science Fiction",
   "All Topics",
@@ -51834,6 +51776,11 @@
     "15": ["science fiction"]
   },
   "series": ["Alap\u00edtv\u00e1ny",
+  "Fondation",
+  "Cycle de Fondation",
+  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
+  "Fundaci\u00f3n - Cronol\u00f3gico",
+  "Trilog\u00eda de la Fundaci\u00f3n",
   "De Foundation",
   "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
@@ -51843,13 +51790,8 @@
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
-  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
-  "Fundaci\u00f3n - Cronol\u00f3gico",
-  "Trilog\u00eda de la Fundaci\u00f3n",
-  "Fondation",
-  "Cycle de Fondation",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
@@ -52144,6 +52086,11 @@
     "12": ["science fiction"]
   },
   "series": ["Alap\u00edtv\u00e1ny",
+  "Fondation",
+  "Cycle de Fondation",
+  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
+  "Fundaci\u00f3n - Cronol\u00f3gico",
+  "Trilog\u00eda de la Fundaci\u00f3n",
   "De Foundation",
   "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
@@ -52153,13 +52100,8 @@
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
-  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
-  "Fundaci\u00f3n - Cronol\u00f3gico",
-  "Trilog\u00eda de la Fundaci\u00f3n",
-  "Fondation",
-  "Cycle de Fondation",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
@@ -52415,6 +52357,11 @@
     "10": ["science fiction"]
   },
   "series": ["Alap\u00edtv\u00e1ny",
+  "Fondation",
+  "Cycle de Fondation",
+  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
+  "Fundaci\u00f3n - Cronol\u00f3gico",
+  "Trilog\u00eda de la Fundaci\u00f3n",
   "De Foundation",
   "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
@@ -52424,13 +52371,8 @@
   "Fundacja - publikacja",
   "Fundacja - chronologiczny",
   "Robot/Imperium/Fundacja - Story Order",
-  "Fundaci\u00f3n - Orden de Publicaci\u00f3n",
-  "Fundaci\u00f3n - Cronol\u00f3gico",
-  "Trilog\u00eda de la Fundaci\u00f3n",
-  "Fondation",
-  "Cycle de Fondation",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
@@ -52966,12 +52908,12 @@
   "subject": [["Science Fiction"],
   ["Science fiction"],
   ["science fiction"]],
-  "series": ["The Culture",
-  "Le cycle de la culture",
+  "series": ["Le cycle de la culture",
+  "The Culture",
   "La Cultura",
-  "Kultur-Zyklus",
+  "Kulttuuri",
   "A Kult\u00fara",
-  "Kulttuuri"],
+  "Kultur-Zyklus"],
   "awards": ["Amazon.com Best Books",
   "Reading List Award shortlist",
   "Locus Recommended Reading",
@@ -53125,12 +53067,12 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["The Culture",
-  "Le cycle de la culture",
+  "series": ["Le cycle de la culture",
+  "The Culture",
   "La Cultura",
-  "Kultur-Zyklus",
+  "Kulttuuri",
   "A Kult\u00fara",
-  "Kulttuuri"],
+  "Kultur-Zyklus"],
   "awards": ["Locus Recommended Reading",
   "SF Site Editor's Choice",
   "Le Prix du Cafard cosmique"],
@@ -53786,12 +53728,12 @@
     "code": "PR6052.A485"
   },
   "subject": [["Science fiction, English"]],
-  "series": ["The Culture",
-  "Le cycle de la culture",
+  "series": ["Le cycle de la culture",
+  "The Culture",
   "La Cultura",
-  "Kultur-Zyklus",
+  "Kulttuuri",
   "A Kult\u00fara",
-  "Kulttuuri"],
+  "Kultur-Zyklus"],
   "originaltitle": "The State of the Art",
   "genre": ["Science Fiction",
   "All Topics",
@@ -53856,12 +53798,12 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["The Culture",
-  "Le cycle de la culture",
+  "series": ["Le cycle de la culture",
+  "The Culture",
   "La Cultura",
-  "Kultur-Zyklus",
+  "Kulttuuri",
   "A Kult\u00fara",
-  "Kulttuuri"],
+  "Kultur-Zyklus"],
   "originaltitle": "Inversions",
   "awards": ["British Science Fiction Association Award Shortlist",
   "SF Site Editor's Choice"],
@@ -53992,12 +53934,12 @@
   "lcc": {
     "code": "PR6052.A485 H93"
   },
-  "series": ["The Culture",
-  "Le cycle de la culture",
+  "series": ["Le cycle de la culture",
+  "The Culture",
   "La Cultura",
-  "Kultur-Zyklus",
+  "Kulttuuri",
   "A Kult\u00fara",
-  "Kulttuuri"],
+  "Kultur-Zyklus"],
   "awards": ["John W. Campbell Memorial Award Finalist",
   "Locus Award Finalist",
   "Reading List Award shortlist",
@@ -54067,12 +54009,12 @@
   "lcc": {
     "code": "PR6052.A485 S87"
   },
-  "series": ["The Culture",
-  "Le cycle de la culture",
+  "series": ["Le cycle de la culture",
+  "The Culture",
   "La Cultura",
-  "Kultur-Zyklus",
+  "Kulttuuri",
   "A Kult\u00fara",
-  "Kulttuuri"],
+  "Kultur-Zyklus"],
   "awards": ["SF Site Reader's Choice",
   "Locus Award Finalist",
   "Locus Recommended Reading",
@@ -55288,8 +55230,8 @@
   "lcc": {
     "code": "PS3552.A9496"
   },
-  "series": ["Xeelee Sequence",
-  "Der Xeelee-Zyklus",
+  "series": ["Der Xeelee-Zyklus",
+  "Xeelee Sequence",
   "Cycle des Xeelees"],
   "awards": ["Arthur C. Clarke Award Shortlist"],
   "genre": ["Science Fiction",
@@ -55818,8 +55760,8 @@
   "lcc": {
     "code": "PR6052.A849 F56"
   },
-  "series": ["Flut",
-  "Flood"],
+  "series": ["Flood",
+  "Flut"],
   "awards": ["British Science Fiction Association Award Shortlist",
   "Locus Recommended Reading",
   "Locus Nominee",
@@ -56035,8 +55977,8 @@
   ["science fiction"]],
   "series": ["Kinder des Schicksals",
   "Destiny's Children",
-  "Xeelee Sequence",
   "Der Xeelee-Zyklus",
+  "Xeelee Sequence",
   "Cycle des Xeelees"],
   "awards": ["Locus Recommended Reading"],
   "genre": ["Science Fiction",
@@ -56104,8 +56046,8 @@
   },
   "series": ["Kinder des Schicksals",
   "Destiny's Children",
-  "Xeelee Sequence",
   "Der Xeelee-Zyklus",
+  "Xeelee Sequence",
   "Cycle des Xeelees"],
   "awards": ["Arthur C. Clarke Award Shortlist",
   "Locus Recommended Reading"],
@@ -56170,8 +56112,8 @@
     "code": "PR6052.A849 V33"
   },
   "subject": [["Science fiction, English"]],
-  "series": ["Xeelee Sequence",
-  "Der Xeelee-Zyklus",
+  "series": ["Der Xeelee-Zyklus",
+  "Xeelee Sequence",
   "Cycle des Xeelees"],
   "awards": ["Philip K. Dick Award",
   "1000 Books to Read Before You Die"],
@@ -56612,8 +56554,8 @@
   "Die drei Musketiere",
   "Les Trois Mousquetaires",
   "D'Artagnan Romances",
-  "Tio \u00e5r senare",
-  "Le Vicomte de Bragelonne"],
+  "Le Vicomte de Bragelonne",
+  "Tio \u00e5r senare"],
   "genre": ["Historical fiction",
   "All Topics",
   "Fiction"],
@@ -57134,7 +57076,8 @@
   "dimensions": "6.97 x 0.75 x 4.33 inches",
   "weight": "0.35 pounds",
   "pages": "304 "
-},"164408993": {
+},
+"164408993": {
   "books_id": "164408993",
   "title": "More Than Human",
   "sortcharacter": "1",
@@ -57217,8 +57160,7 @@
   "dimensions": "7.8 x 4.96 x 0.71 inches",
   "weight": "0.71 pounds",
   "pages": "238 "
-},
-"164409005": {
+},"164409005": {
   "books_id": "164409005",
   "title": "The War of the Worlds",
   "sortcharacter": "5",
@@ -57692,10 +57634,10 @@
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
-  "Les robots",
   "Rom\u00e1ny o robotech",
   "Die Roboter-Romane",
-  "Isaac Asimov's Robot Series"],
+  "Isaac Asimov's Robot Series",
+  "Les robots"],
   "awards": ["Locus 1987 Poll, All-Time Best SF Novel",
   "Locus 1975 Poll, All-Time Best Novel",
   "Classics of Science Fiction",
@@ -57775,9 +57717,9 @@
     "7": ["fiction in English"],
     "8": ["science fiction"]
   },
-  "series": ["Lucky Starr",
-  "David Starr",
-  "David Starr, justicier de l'espace"],
+  "series": ["David Starr",
+  "David Starr, justicier de l'espace",
+  "Lucky Starr"],
   "genre": ["Science Fiction",
   "All Topics",
   "Fiction"],
@@ -57858,6 +57800,7 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
+  "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
   "Nadace",
@@ -57871,9 +57814,8 @@
   "Fondation",
   "Cycle de Fondation",
   "Alap\u00edtv\u00e1ny",
-  "Ciclo delle Fondazioni",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "FOUNDATION",
   "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
@@ -57959,10 +57901,10 @@
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
-  "Les robots",
   "Rom\u00e1ny o robotech",
   "Die Roboter-Romane",
-  "Isaac Asimov's Robot Series"],
+  "Isaac Asimov's Robot Series",
+  "Les robots"],
   "genre": ["General Fiction",
   "Science Fiction",
   "All Topics",
@@ -58201,6 +58143,7 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
+  "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
   "Nadace",
@@ -58214,9 +58157,8 @@
   "Fondation",
   "Cycle de Fondation",
   "Alap\u00edtv\u00e1ny",
-  "Ciclo delle Fondazioni",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "FOUNDATION",
   "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
@@ -58304,6 +58246,7 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
+  "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
   "Nadace",
@@ -58317,9 +58260,8 @@
   "Fondation",
   "Cycle de Fondation",
   "Alap\u00edtv\u00e1ny",
-  "Ciclo delle Fondazioni",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "FOUNDATION",
   "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
@@ -58395,9 +58337,9 @@
   "lcc": {
     "code": "PR6052.A849 R3"
   },
-  "series": ["Cycle des Xeelees",
+  "series": ["Xeelee Sequence",
   "Der Xeelee-Zyklus",
-  "Xeelee Sequence"],
+  "Cycle des Xeelees"],
   "genre": ["Science Fiction",
   "All Topics",
   "Fiction"],
@@ -60008,8 +59950,8 @@
   "lcc": {
     "code": "PR6039.O32 B47"
   },
-  "series": ["Tales of Middle Earth",
-  "Racconti della Terra di Mezzo"],
+  "series": ["Racconti della Terra di Mezzo",
+  "Tales of Middle Earth"],
   "originaltitle": "Beren and L\u00fathien",
   "awards": ["Tolkien Society Awards Best Book"],
   "genre": ["General Fiction",
@@ -61498,8 +61440,8 @@
   "lcc": {
     "code": "PR6039.O32 F354"
   },
-  "series": ["Tales of Middle Earth",
-  "Racconti della Terra di Mezzo"],
+  "series": ["Racconti della Terra di Mezzo",
+  "Tales of Middle Earth"],
   "originaltitle": "The Fall of Gondolin",
   "genre": ["General Fiction",
   "Fantasy",
@@ -62954,8 +62896,8 @@
     "Fiction"],
     "6": ["Spy stories"]
   },
-  "series": ["Serie Jack Ryan",
-  "Jack Ryan, Chronological Order",
+  "series": ["Jack Ryan, Chronological Order",
+  "Serie Jack Ryan",
   "Jack Ryan, Publication Order",
   "Jack Ryan"],
   "originaltitle": "The Hunt for Red October",
@@ -63615,7 +63557,8 @@
   "dimensions": "4.16 x 0.96 x 6.85 inches",
   "weight": "0.4 pounds",
   "pages": "368 "
-},"172141512": {
+},
+"172141512": {
   "books_id": "172141512",
   "title": "The Homeless Jesus in the Gospel of Matthew",
   "sortcharacter": "5",
@@ -63673,8 +63616,7 @@
   "dimensions": "6.14 x 0.56 x 9.21 inches",
   "weight": "1.12 pounds",
   "pages": "236 "
-},
-"172141513": {
+},"172141513": {
   "books_id": "172141513",
   "title": "Bdb Hebr-Eng Lexicon",
   "sortcharacter": "1",
@@ -70233,7 +70175,8 @@
   "dimensions": "5.83 x 0.28 x 8.27 inches",
   "weight": "0.36 pounds",
   "pages": "130 "
-},"178256160": {
+},
+"178256160": {
   "books_id": "178256160",
   "title": "On Being A Christian",
   "sortcharacter": "1",
@@ -70303,8 +70246,7 @@
   "dimensions": "7.7 x 5.1 x 1.3 inches",
   "weight": "0.8 pounds",
   "pages": "720 "
-},
-"178256162": {
+},"178256162": {
   "books_id": "178256162",
   "title": "Belief in God",
   "sortcharacter": "1",
@@ -77339,7 +77281,8 @@
   "dimensions": "8.5 x 5.5 x 0.34 inches",
   "weight": "0.43651527876 pounds",
   "pages": "148 "
-},"188554488": {
+},
+"188554488": {
   "books_id": "188554488",
   "title": "A Field Guide to the English Clergy: A Compendium of Diverse Eccentrics, Pirates, Prelates and Adventurers; All Anglican, Some Even Practising",
   "sortcharacter": "3",
@@ -77404,8 +77347,7 @@
   "length": "5.1 inches",
   "dimensions": "7.8 x 5.1 x 0.9 inches",
   "weight": "0.6 pounds"
-},
-"188554489": {
+},"188554489": {
   "books_id": "188554489",
   "title": "Problem of Pain (C. Lewis Signature Classic) (C. S. Lewis Signature Classic)",
   "sortcharacter": "1",
@@ -83971,7 +83913,8 @@
   "dimensions": "6.61 x 4.41 x 0.94 inches",
   "weight": "0.4 pounds",
   "pages": "336 "
-},"192892962": {
+},
+"192892962": {
   "books_id": "192892962",
   "title": "The land of dragons : legends of ancient Deltora, including the newly discovered tales of Dorne",
   "sortcharacter": "5",
@@ -84017,8 +83960,7 @@
   "height": "20 inches",
   "dimensions": "20 inches",
   "pages": "89 "
-},
-"192892971": {
+},"192892971": {
   "books_id": "192892971",
   "title": "The Heart Of Mid-lothian",
   "sortcharacter": "5",
@@ -87191,16 +87133,14 @@
     "Fiction"],
     "5": ["Short stories, English"]
   },
-  "series": ["The Lord of the Rings",
-  "El Se\u00f1or de los Anillos",
+  "series": ["Der Herr der Ringe",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
   "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
+  "El Se\u00f1or de los Anillos",
   "Gospodar prstenova",
-  "Ringenes herre",
-  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -87210,7 +87150,9 @@
   "In de ban van de ring",
   "P\u00e1n Prsten\u016f",
   "P\u00e1n prsten\u016f",
-  "El Senyor dels Anells"],
+  "El Senyor dels Anells",
+  "Ringenes herre",
+  "The Lord of the Rings"],
   "originaltitle": "Unfinished Tales of N\u00famenor and Middle-earth",
   "awards": ["Mythopoeic Fantasy Award",
   "New York Times bestseller"],
@@ -87594,16 +87536,15 @@
     "11": ["fantasy fiction"],
     "12": ["humorous fiction"]
   },
-  "series": ["Scheibenwelt",
-  "Discworld",
+  "series": ["Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
-  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
+  "Diskd\u00fcnya",
+  "Kiekkomaailma",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
@@ -87612,12 +87553,10 @@
   "Disksvijet",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
-  "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Diskd\u00fcnya",
-  "Kiekkomaailma",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Korongvil\u00e1g",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
@@ -87625,8 +87564,11 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
+  "Diskverden",
+  "Scheibenwelt",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -87706,16 +87648,15 @@
   ["Science fiction"],
   ["fantasy fiction"],
   ["science fiction"]],
-  "series": ["Scheibenwelt",
-  "Discworld",
+  "series": ["Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
-  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
+  "Diskd\u00fcnya",
+  "Kiekkomaailma",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
@@ -87724,12 +87665,10 @@
   "Disksvijet",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
-  "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Diskd\u00fcnya",
-  "Kiekkomaailma",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Korongvil\u00e1g",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
@@ -87737,8 +87676,11 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
+  "Diskverden",
+  "Scheibenwelt",
   "Discworld: Death",
   "Mundodisco: La Muerte",
   "Scheibenwelt: Der Tod",
@@ -87825,16 +87767,15 @@
     "10": ["fantasy fiction"],
     "11": ["science fiction"]
   },
-  "series": ["Scheibenwelt",
-  "Discworld",
+  "series": ["Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
   "Schijfwereld",
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
-  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
+  "Diskd\u00fcnya",
+  "Kiekkomaailma",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
@@ -87843,12 +87784,10 @@
   "Disksvijet",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
-  "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Diskd\u00fcnya",
-  "Kiekkomaailma",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Korongvil\u00e1g",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
@@ -87856,8 +87795,11 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
+  "Diskverden",
+  "Scheibenwelt",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -88317,16 +88259,14 @@
   ["Tolkien, J. R. R. (John Ronald Reuel), 1892-1973. Hobbit"],
   ["Tolkien, J. R. R. (John Ronald Reuel), 1892-1973. Lord of the Rings"],
   ["Tolkien, J. R. R. (John Ronald Reuel), 1892-1973. Lord of the rings"]],
-  "series": ["The Lord of the Rings",
-  "El Se\u00f1or de los Anillos",
+  "series": ["Der Herr der Ringe",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
   "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
+  "El Se\u00f1or de los Anillos",
   "Gospodar prstenova",
-  "Ringenes herre",
-  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -88336,7 +88276,9 @@
   "In de ban van de ring",
   "P\u00e1n Prsten\u016f",
   "P\u00e1n prsten\u016f",
-  "El Senyor dels Anells"],
+  "El Senyor dels Anells",
+  "Ringenes herre",
+  "The Lord of the Rings"],
   "awards": ["The SF Book Club's \"The Most Significant SF & Fantasy Books of the Last 50 Years From 1953-2002\""],
   "genre": ["Fantasy",
   "All Topics",
@@ -90888,7 +90830,8 @@
   "dimensions": "7.96 x 5.17 x 0.51 inches",
   "weight": "0.4850169764 pounds",
   "pages": "208 "
-},"197281946": {
+},
+"197281946": {
   "books_id": "197281946",
   "title": "The Spiritual Exercises of Saint Ignatius of Loyola (Eastern Philosophy and Religion)",
   "sortcharacter": "5",
@@ -90954,8 +90897,7 @@
   "thickness": "0.5 inches",
   "length": "5 inches",
   "dimensions": "7.5 x 5 x 0.5 inches"
-},
-"197281948": {
+},"197281948": {
   "books_id": "197281948",
   "title": "The Idea of the Holy",
   "sortcharacter": "5",
@@ -93452,13 +93394,13 @@
     "11": ["Italian poetry",
     "Translations into English"]
   },
-  "series": ["De goddelijke komedie",
+  "series": ["The Divine Comedy",
+  "Den gudomliga komedin",
+  "Divina Commedia",
+  "De goddelijke komedie",
   "Die g\u00f6ttliche Kom\u00f6die",
   "Den guddommelige Komedia",
-  "A Divina Com\u00e9dia",
-  "Divina Commedia",
-  "Den gudomliga komedin",
-  "The Divine Comedy"],
+  "A Divina Com\u00e9dia"],
   "originaltitle": "La Divina Commedia",
   "awards": ["25 Books Every Christian Should Read: A Guide to the Essential Spiritual Classics",
   "Philip Ward's Lifetime Reading Plan",
@@ -95375,26 +95317,26 @@
     "Poetry"],
     "17": ["fantasy"]
   },
-  "series": ["Der Herr der Ringe",
-  "Le seigneur des anneaux",
-  "Ringenes herre",
-  "Sagan om Ringen",
-  "O Senhor dos An\u00e9is",
-  "Taru sormusten herrasta",
-  "Taru Sormusten Herrasta",
-  "In de ban van de ring",
-  "P\u00e1n Prsten\u016f",
-  "P\u00e1n prsten\u016f",
-  "El Senyor dels Anells",
-  "Ringenes herre",
-  "Gospodar prstenova",
-  "El Se\u00f1or de los Anillos",
+  "series": ["Gospodar prstenova",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
+  "El Se\u00f1or de los Anillos",
+  "Gospodar prstenova",
+  "Ringenes herre",
+  "El Senyor dels Anells",
   "The Lord of the Rings",
   "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
-  "Gospodar prstenova"],
+  "P\u00e1n Prsten\u016f",
+  "P\u00e1n prsten\u016f",
+  "In de ban van de ring",
+  "Der Herr der Ringe",
+  "Le seigneur des anneaux",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
+  "O Senhor dos An\u00e9is",
+  "Sagan om Ringen",
+  "Ringenes herre"],
   "originaltitle": "Bilbo's last song",
   "genre": ["Fantasy",
   "All Topics",
@@ -95880,8 +95822,8 @@
   "Ciclo di Haynish",
   "Hainish-Zyklus",
   "Hainish Cycle, Chronological",
-  "Hainish-Zyklus, chronologisch",
-  "Cycle de l'Ekumen"],
+  "Cycle de l'Ekumen",
+  "Hainish-Zyklus, chronologisch"],
   "originaltitle": "The Dispossessed: An Ambiguous Utopia",
   "awards": ["Hugo",
   "Nebula",
@@ -96101,16 +96043,16 @@
   "lcc": {
     "code": "PS3562.E42 B66"
   },
-  "series": ["The Earthsea Cycle",
+  "series": ["Ziemiomorze",
+  "Els llibres de Terramar",
+  "Los libros de Terramar",
+  "The Earthsea Cycle",
+  "Erdsee-Zyklus",
+  "Erdsee",
   "Maameren tarinat",
   "La saga di Terramare",
   "\u00d6v\u00e4rlden",
   "Terremer",
-  "Els llibres de Terramar",
-  "Los libros de Terramar",
-  "Ziemiomorze",
-  "Erdsee-Zyklus",
-  "Erdsee",
   "Zemljomorje"],
   "awards": ["Locus",
   "Hugo"],
@@ -97337,7 +97279,8 @@
     "text": "Paperback"
   }],
   "copies": "1"
-},"200859149": {
+},
+"200859149": {
   "books_id": "200859149",
   "title": "The Anthropocene Reviewed (Signed Edition): Essays on a Human-Centered Planet",
   "sortcharacter": "5",
@@ -97404,8 +97347,7 @@
   "length": "5.8 inches",
   "dimensions": "8.55 x 5.8 x 1.09 inches",
   "weight": "1.1 pounds"
-},
-"201086099": {
+},"201086099": {
   "books_id": "201086099",
   "title": "The Universal Christ: How a Forgotten Reality Can Change Everything We See, Hope For and Believe",
   "sortcharacter": "5",
@@ -103533,7 +103475,8 @@
   "length": "7.8 inches",
   "dimensions": "1.1 x 7.8 x 5.1 inches",
   "weight": "1.00089866948 pounds"
-},"203557573": {
+},
+"203557573": {
   "books_id": "203557573",
   "title": "The Face of the Deep: A Theology of Becoming",
   "sortcharacter": "5",
@@ -103594,8 +103537,7 @@
   "dimensions": "11 x 8.5 x 0.74 inches",
   "weight": "1.04940036712 pounds",
   "pages": "336 "
-},
-"203557578": {
+},"203557578": {
   "books_id": "203557578",
   "title": "The Experience of God: Being, Consciousness, Bliss",
   "sortcharacter": "5",
@@ -108941,8 +108883,8 @@
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
   "Gy\u0171r\u0171k Ura",
-  "Gospodar prstenova",
   "Il Signore degli Anelli",
+  "Gospodar prstenova",
   "Der Herr der Ringe",
   "The Lord of the Rings"],
   "originaltitle": "Tales from the Perilous Realm: Roverandom and Other Classic Faery Stories",
@@ -110077,7 +110019,8 @@
   "length": "5.5 inches",
   "dimensions": "8.5 x 5.5 x 0.64 inches",
   "pages": "304 "
-},"206595013": {
+},
+"206595013": {
   "books_id": "206595013",
   "title": "Daniel (Old Testament Guides)",
   "sortcharacter": "1",
@@ -110134,8 +110077,7 @@
   "dimensions": "8.35 x 5.43 x 0.39 inches",
   "weight": "0.4 pounds",
   "pages": "134 "
-},
-"206595022": {
+},"206595022": {
   "books_id": "206595022",
   "title": "Hopeful Imagination: Prophetic Voices in Exile",
   "sortcharacter": "1",
@@ -116120,7 +116062,8 @@
   "dimensions": "8.4 x 5.7 x 0.4 inches",
   "weight": "0.55 pounds",
   "pages": "192 "
-},"207478360": {
+},
+"207478360": {
   "books_id": "207478360",
   "title": "Aquinas 101: A Basic Introduction to the Thought of Saint Thomas Aquinas",
   "sortcharacter": "1",
@@ -116177,8 +116120,7 @@
   "dimensions": "8.50392 x 5.5118 x 0.5149596 inches",
   "weight": "0.6 pounds",
   "pages": "224 "
-},
-"207478397": {
+},"207478397": {
   "books_id": "207478397",
   "title": "The Essential Tillich",
   "sortcharacter": "5",
@@ -122338,7 +122280,8 @@
   "dimensions": "8.66 x 5.44 x 0.65 inches",
   "weight": "0.88 pounds",
   "pages": "286 "
-},"208203985": {
+},
+"208203985": {
   "books_id": "208203985",
   "title": "The founder of Christianity",
   "sortcharacter": "5",
@@ -122397,8 +122340,7 @@
   "physical_description": "181 p.",
   "weight": "0.3 pounds",
   "pages": "181 "
-},
-"208204018": {
+},"208204018": {
   "books_id": "208204018",
   "title": "Readings from the Perspective of Earth (Earth Bible (Sheffield))",
   "sortcharacter": "1",
