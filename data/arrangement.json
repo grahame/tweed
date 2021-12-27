@@ -33,7 +33,7 @@
                 { "bookshelf": "C", "shelf": 3, "first_book": { "isbn": "9781905048847" } },
                 { "bookshelf": "C", "shelf": 4, "first_book": { "isbn": "9781921963179" } },
                 { "bookshelf": "C", "shelf": 5, "first_book": { "isbn": "9780857217295" } },
-                { "bookshelf": "C", "shelf": 6, "first_book": { "title": "Christendom", "author": "Molland, Einar" } },
+                { "bookshelf": "C", "shelf": 6, "first_book": { "isbn": "9780904717464" } },
 
                 { "bookshelf": "D", "shelf": 1, "first_book": { "isbn": "9780809128273" } },
                 { "bookshelf": "D", "shelf": 2, "first_book": { "isbn": "9781863959810" } },
