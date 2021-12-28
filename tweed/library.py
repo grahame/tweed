@@ -422,7 +422,7 @@ class Library:
         os.rename("library.txt.new", "library.txt")
 
     @staticmethod
-    def subarrange(books, shelves, overrides):
+    def subarrange(indexes, books, shelves, overrides):
         def format_loc(shelf, index):
             return "{}{}.{:>02}".format(shelf["bookshelf"], shelf["shelf"], index)
 
@@ -441,7 +441,6 @@ class Library:
                 match &= match_string(query["author"], book.author)
             return match
 
-        indexes = defaultdict(lambda: 1)
         placed = []
 
         def get_override(book):
@@ -504,11 +503,12 @@ class Library:
                     break
             assert matched
 
+        indexes = defaultdict(lambda: 1)
         placed = []
         overrides = arrangement["overrides"]
         for zone, subbooks in zone_books.items():
             shelves = zones[zone]["shelves"]
-            placed += self.subarrange(subbooks, shelves, overrides)
+            placed += self.subarrange(indexes, subbooks, shelves, overrides)
 
         sort_re = re.compile(r"^([A-Z]+)(\d+)\.(\d+)$")
 
