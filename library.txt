@@ -308,24 +308,25 @@ B4.18 227.06         9780800623791     Elliott, Neil, 1956-          2006 Libera
 B4.19 227.06         9780567656254     Horrell, David G.             2015 An introduction to the study of Paul
 B4.20 227.06         9780281073382     Williams, Rowan, 1950-        2015 Meeting God in Paul : reflections for the season of Lent
 B4.21 227.095        9780800663759     Elliot, Neil                  2010 Documents and images for the study of Paul
-B4.22 227.1                            Barrett, C. K.                1956 By C. K. Barrett The Epistle to the Romans: Harper's New Tes
-B4.23 227.1          9780195002942     Barth, Karl, 1886-1968        1968 The Epistle to the Romans
-B4.24 227.1          9781795301213     St Ignatius of Antioch        2019 The Letters of St. Ignatius
-B4.25 227.106        9780800697686     Elliott, Neil, 1956-          2010 The arrogance of nations : reading Romans in the shadow of e
-B4.26 227.106        9780800662028     Elliott, Neil, 1956-          2000 The rhetoric of Romans : argumentative constraint and strate
-B4.27 227.1067       9780281059317     Oakes, Peter (Peter S.)       2009 Reading Romans in Pompeii : Paul's letter at ground level
-B4.28 227.1077       9780814633243     Byrne, Brendan (Brendan J.    2010 Galatians and Romans
-B4.29 227.2067       9781592443642     Wire, Antoinette Clark        2003 The Corinthian women prophets : a reconstruction through Pau
-B4.30 227.207        9780687058389     Horsley, Richard A.           1998 1 Corinthians
-B4.31 227.307        9780334002666     Hanson, R. P. C. (Richard     1967 The Second Epistle to the Corinthians : Christ and controver
-B4.32 227.87         9780232528664     O'Collins, Gerald, Sj         2011 Hebrews : also includes the books of James, 1 and 2, Peter, 
-B4.33 228.06         9780521356916     Bauckham, Richard             1993 The theology of the book of Revelation
-B4.34 229.8          9781594770463     Leloup, Jean-Yves             2005 The Gospel of Thomas : the gnostic wisdom of Jesus
-B4.35 229.8          9780525433897     Sabar, Ariel                  2021 Veritas : a Harvard professor, a con man and the Gospel of J
-B4.36 229.91052      9780521285544     Jonge, M. de (Marinus), 19    1986 Outside the Old Testament
-B4.37 229.9205209    9780195182507     Ehrman, Bart D.               2005 Lost scriptures : books that did not make it into the New Te
-B4.38 230            9783945233078     Anglican Catholic Church A    2017 The Anglican rosary : Anglican prayer beads - a form of cont
-B4.39 230            9781565484467     Augustine, Saint              2012 The Trinity (Works of Saint Augustine: A Translation for the
+B4.22 227.1                            ) Anders; Rasmussen Nygren    1949 Commentary on Romans
+B4.23 227.1                            Barrett, C. K.                1956 By C. K. Barrett The Epistle to the Romans: Harper's New Tes
+B4.24 227.1          9780195002942     Barth, Karl, 1886-1968        1968 The Epistle to the Romans
+B4.25 227.1          9781795301213     St Ignatius of Antioch        2019 The Letters of St. Ignatius
+B4.26 227.106        9780800697686     Elliott, Neil, 1956-          2010 The arrogance of nations : reading Romans in the shadow of e
+B4.27 227.106        9780800662028     Elliott, Neil, 1956-          2000 The rhetoric of Romans : argumentative constraint and strate
+B4.28 227.1067       9780281059317     Oakes, Peter (Peter S.)       2009 Reading Romans in Pompeii : Paul's letter at ground level
+B4.29 227.1077       9780814633243     Byrne, Brendan (Brendan J.    2010 Galatians and Romans
+B4.30 227.2067       9781592443642     Wire, Antoinette Clark        2003 The Corinthian women prophets : a reconstruction through Pau
+B4.31 227.207        9780687058389     Horsley, Richard A.           1998 1 Corinthians
+B4.32 227.307        9780334002666     Hanson, R. P. C. (Richard     1967 The Second Epistle to the Corinthians : Christ and controver
+B4.33 227.87         9780232528664     O'Collins, Gerald, Sj         2011 Hebrews : also includes the books of James, 1 and 2, Peter, 
+B4.34 228.06         9780521356916     Bauckham, Richard             1993 The theology of the book of Revelation
+B4.35 229.8          9781594770463     Leloup, Jean-Yves             2005 The Gospel of Thomas : the gnostic wisdom of Jesus
+B4.36 229.8          9780525433897     Sabar, Ariel                  2021 Veritas : a Harvard professor, a con man and the Gospel of J
+B4.37 229.91052      9780521285544     Jonge, M. de (Marinus), 19    1986 Outside the Old Testament
+B4.38 229.9205209    9780195182507     Ehrman, Bart D.               2005 Lost scriptures : books that did not make it into the New Te
+B4.39 230            9783945233078     Anglican Catholic Church A    2017 The Anglican rosary : Anglican prayer beads - a form of cont
+B4.40 230            9781565484467     Augustine, Saint              2012 The Trinity (Works of Saint Augustine: A Translation for the
 B5.01 230            9780802818195     Barth, Karl, 1886-1968        1992 Evangelical theology : an introduction
 B5.02 230            9780060730680     Borg, Marcus J.               2015 The heart of Christianity : rediscovering a life of faith
 B5.03 230            9780809121748     Brown, Raymond E. (Raymond    1978 The community of the Beloved Disciple
@@ -447,27 +448,26 @@ C2.13 232.09         9780802828613     Hurtado, Larry W., 1943-      2005 How on
 C2.14 232.09015      9780809135165     Brown, Raymond Edward         1994 An introduction to New Testament christology
 C2.15 232.1          9781629116792     Athanasious Of Alexandria     2016 On the incarnation
 C2.16 232.3          9780802832153     Heim, S. Mark                 2006 Saved from sacrifice : a theology of the cross
-C2.17 232.3          9780802832153     Heim, S. Mark                 2006 Saved from sacrifice : a theology of the cross
-C2.18 232.3          9780824517960     Schwager, Raymund             1999 Jesus in the drama of salvation : toward a biblical doctrine
-C2.19 232.4          9780664262648     Williams, Rowan, 1950-        2017 The sign and the sacrifice : the meaning of the cross and Re
-C2.20 232.5          9780281058112     Crossan, John Dominic         2006 The Resurrection of Jesus : John Dominic Crossan and N.T. Wr
-C2.21 232.5          9781570750427     Lorenzen, Thorwald            1995 Resurrection and discipleship : interpretive models, biblica
-C2.22 232.5          9780141030050     Vermès, Géza, 1924-2013       2008 The Resurrection
-C2.23 232.9          9780281041084     Chilton, Bruce                1984 A Galilean rabbi and his Bible : Jesus' own interpretation o
-C2.24 232.9          9781406838411     Renan, Ernest                 2007 The Life of Jesus
-C2.25 232.9          9780060778415     Spong, John Shelby            2008 Jesus for the non-religious : recovering the divine at the h
-C2.26 232.901        9781743319390     Aslan, Reza                   2013 ZEALOT : the Life and Times of Jesus of Nazareth
-C2.27 232.901        9780061800351     Crossan, John Dominic         2009 Jesus : a revolutionary biography
-C2.28 232.901        9780060616298     Crossan, John Dominic         1993 The historical Jesus : the life of a Mediterranean Jewish pe
-C2.29 232.901        9780857201454     Haskew, Denise                2010 Jesus on Thyface : social networking for the modern Messiah
-C2.30 232.901        9780141046228     Vermès, Géza, 1924-2013       2010 Jesus : nativity, passion, resurrection
-C2.31 232.906        9780773520462     Neusner, Jacob, 1932-2016     2000 A Rabbi talks with Jesus : an intermillennial, interfaith ex
-C2.32 232.908        9780060609177     Borg, Marcus J.               1995 Meeting Jesus again for the first time : the historical Jesu
-C2.33 232.908        9780883442203     Segundo, Juan Luis            1985 The historical Jesus of the synoptics
-C2.34 232.908        9780334015123     Theissen, Gerd                1987 The shadow of the Galilean : the quest of the historical Jes
-C2.35 232.91         9781586170189     Benedict XVI, Pope, 1927-     2005 Mary, the Church at the source
-C2.36 232.91         9780826418272     Johnson, Elizabeth A., 194    2006 Truly our sister : a theology of Mary in the communion of sa
-C2.37 232.92         9780061430718     Borg, Marcus J.               2009 The first Christmas : what the Gospels really teach about Je
+C2.17 232.3          9780824517960     Schwager, Raymund             1999 Jesus in the drama of salvation : toward a biblical doctrine
+C2.18 232.4          9780664262648     Williams, Rowan, 1950-        2017 The sign and the sacrifice : the meaning of the cross and Re
+C2.19 232.5          9780281058112     Crossan, John Dominic         2006 The Resurrection of Jesus : John Dominic Crossan and N.T. Wr
+C2.20 232.5          9781570750427     Lorenzen, Thorwald            1995 Resurrection and discipleship : interpretive models, biblica
+C2.21 232.5          9780141030050     Vermès, Géza, 1924-2013       2008 The Resurrection
+C2.22 232.9          9780281041084     Chilton, Bruce                1984 A Galilean rabbi and his Bible : Jesus' own interpretation o
+C2.23 232.9          9781406838411     Renan, Ernest                 2007 The Life of Jesus
+C2.24 232.9          9780060778415     Spong, John Shelby            2008 Jesus for the non-religious : recovering the divine at the h
+C2.25 232.901        9781743319390     Aslan, Reza                   2013 ZEALOT : the Life and Times of Jesus of Nazareth
+C2.26 232.901        9780061800351     Crossan, John Dominic         2009 Jesus : a revolutionary biography
+C2.27 232.901        9780060616298     Crossan, John Dominic         1993 The historical Jesus : the life of a Mediterranean Jewish pe
+C2.28 232.901        9780857201454     Haskew, Denise                2010 Jesus on Thyface : social networking for the modern Messiah
+C2.29 232.901        9780141046228     Vermès, Géza, 1924-2013       2010 Jesus : nativity, passion, resurrection
+C2.30 232.906        9780773520462     Neusner, Jacob, 1932-2016     2000 A Rabbi talks with Jesus : an intermillennial, interfaith ex
+C2.31 232.908        9780060609177     Borg, Marcus J.               1995 Meeting Jesus again for the first time : the historical Jesu
+C2.32 232.908        9780883442203     Segundo, Juan Luis            1985 The historical Jesus of the synoptics
+C2.33 232.908        9780334015123     Theissen, Gerd                1987 The shadow of the Galilean : the quest of the historical Jes
+C2.34 232.91         9781586170189     Benedict XVI, Pope, 1927-     2005 Mary, the Church at the source
+C2.35 232.91         9780826418272     Johnson, Elizabeth A., 194    2006 Truly our sister : a theology of Mary in the communion of sa
+C2.36 232.92         9780061430718     Borg, Marcus J.               2009 The first Christmas : what the Gospels really teach about Je
 C3.01 232.921        9781905048847     Schaberg, Jane                2006 The illegitimacy of Jesus : a feminist theological interpret
 C3.02 232.921        9780060675295     Spong, John Shelby            1992 Born of a woman : a bishop rethinks the birth of Jesus
 C3.03 232.954        9780141003603     Vermes, Geza, 1924-           2005 The authentic gospel of Jesus
@@ -774,11 +774,10 @@ D4.23 270.1          9780340006511     Frend, W. H. C.               1965 The ea
 D4.24 270.1          9780800634674     Horsley, Richard A.           2002 The message and the kingdom : how Jesus and Paul ignited a r
 D4.25 270.1          9780745953670     Jenkins, Philip, 1952-        2009 The lost history of Christianity : the thousand-year golden 
 D4.26 270.1          9780801048494     Kreider, Alan, 1941-          2016 The patient ferment of the early church : the improbable ris
-D4.27 270.1          9780140444759     Louth, Andrew                 1968 Early Christian writings : the Apostolic Fathers
-D4.28 270.1          9780140444759     Louth, Andrew                 1987 Early Christian writings : the Apostolic Fathers
-D4.29 270.1          9780281059539     O'Loughlin, Thomas            2010 The Didache : a window on the earliest Christians
-D4.30 270.1          9780140214635     Simon, Edith, 1917-2003       1972 The saints
-D4.31 270.1          9780281042685     Stevenson, James, 1901-198    1987 A new Eusebius : documents illustrative of the history of th
+D4.27 270.1          9780140444759     Louth, Andrew                 1987 Early Christian writings : the Apostolic Fathers
+D4.28 270.1          9780281059539     O'Loughlin, Thomas            2010 The Didache : a window on the earliest Christians
+D4.29 270.1          9780140214635     Simon, Edith, 1917-2003       1972 The saints
+D4.30 270.1          9780281042685     Stevenson, James, 1901-198    1987 A new Eusebius : documents illustrative of the history of th
 D5.01 270.1          9781846141508     Vermès, Géza, 1924-2013       2012 Christian beginnings : from Nazareth to Nicaea
 D5.02 270.2          9781565482890     Augustine, of Hippo, Saint    2008 The works of Saint Augustine : a translation for the 21st ce
 D5.03 270.2          9781565483187     Augustine, of Hippo, Saint    2009 The works of Saint Augustine : a translation for the 21st ce
@@ -1301,20 +1300,19 @@ H2.15 821.4          9780099529460     Milton, John                  2009 Paradi
 H2.16 821.4          9781760801182     Rhook, Nadia,                 None Boots
 H2.17 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
 H2.18 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
-H2.19 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
-H2.20 821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
-H2.21 821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
-H2.22 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
-H2.23 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
-H2.24 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
-H2.25 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
-H2.26 821.92         9781800171091     WILLIAMS, ROWAN               None COLLECTED POEMS
-H2.27 821.9208       9781408705872     Banks, Iain, 1954-2013        2016 Poems
-H2.28 821.9208       9781788542845     Copus, Julia, 1969-           2020 Life support : 100 poems to reach for on dark nights
-H2.29 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
-H2.30 822.912                          Eliot, T. S.                  2021 Murder in the Cathedral
-H2.31 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
-H2.32 823            9780143028574     Arundhati, Roy                2002 The god of small things
+H2.19 821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
+H2.20 821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
+H2.21 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
+H2.22 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
+H2.23 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
+H2.24 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
+H2.25 821.92         9781800171091     WILLIAMS, ROWAN               None COLLECTED POEMS
+H2.26 821.9208       9781408705872     Banks, Iain, 1954-2013        2016 Poems
+H2.27 821.9208       9781788542845     Copus, Julia, 1969-           2020 Life support : 100 poems to reach for on dark nights
+H2.28 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
+H2.29 822.912                          Eliot, T. S.                  2021 Murder in the Cathedral
+H2.30 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
+H2.31 823            9780143028574     Arundhati, Roy                2002 The god of small things
 H3.01 823            9780702230493     Carey, Peter (Peter Philip    1998 Jack Maggs
 H3.02 823            9780571153046     Carey, Peter, 1943-           1989 Oscar & Lucinda
 H3.03 823            9780958685658     Dedman, Stephen               1999 The Lady of Situations
@@ -1659,21 +1657,20 @@ J3.14 994.12004      9781921401428     Host, John T. (John Thomas    2009 'It's 
 J3.15                                                                1813 A Matter of Hope by Lash Nicholas (1982-05-01) Hardcover
 J3.16                                                                1833 Essays on Old Testament History and Religion by ALT (1966-02
 J3.17                                                                1836 Story of Israel Between Settlement and Exile: A Redactional 
-J3.18                                  ) Anders; Rasmussen Nygren    1949 Commentary on Romans
-J3.19                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
-J3.20                                  Bishop Of Chichester          1954 The Kingship of Christ:the Bishop of Chichester
-J3.21                                  Dearmer, Percy                2012 The Parson's Handbook, Containing Practical Directions Both 
-J3.22                                  Hertzberg, H. W.              1965 H W Hertzberg / First and Second Samuel A Commentary 1965
-J3.23                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
-J3.24                                  Hume, David (Introduction     1964 Hume on Religion
-J3.25                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
-J3.26                                  Phillips, F. B.               1950 Letters to Young Churches
-J3.27                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
-J3.28                9781505117844     St. Ildephonsus of Toledo     2021 Crown of the Virgin: An Ancient Meditation on Mary's Beauty,
-J3.29                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
-J3.30                9780648228202     Watts, Rachel                 2018 Survival
-J3.31                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
-J3.32                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+J3.18                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
+J3.19                                  Bishop Of Chichester          1954 The Kingship of Christ:the Bishop of Chichester
+J3.20                                  Dearmer, Percy                2012 The Parson's Handbook, Containing Practical Directions Both 
+J3.21                                  Hertzberg, H. W.              1965 H W Hertzberg / First and Second Samuel A Commentary 1965
+J3.22                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
+J3.23                                  Hume, David (Introduction     1964 Hume on Religion
+J3.24                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
+J3.25                                  Phillips, F. B.               1950 Letters to Young Churches
+J3.26                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
+J3.27                9781505117844     St. Ildephonsus of Toledo     2021 Crown of the Virgin: An Ancient Meditation on Mary's Beauty,
+J3.28                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
+J3.29                9780648228202     Watts, Rachel                 2018 Survival
+J3.30                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+J3.31                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 T1.01 001.642        9780914845461     Norton, Peter                 1985 The Peter Norton Programmer's guide to the IBM PC
 T1.01 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
 T1.02 001.9          9780099185727     White, Michael, 1959-2018     1996 The science of the X-files
