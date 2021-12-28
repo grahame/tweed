@@ -181,40 +181,41 @@ A5.56 222.13077                                                      1800 Leviti
 A5.57 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
 A5.58 222.14077      9780334015345     Noth, Martin, 1902-1968       1983 Numbers : a commentary
 B1.01 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
-B1.02 222.40924      9780907459125     Rost, Leonhard, 1896-1979     1982 The succession to the throne of David
-B1.03 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
-B1.04 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
-B1.05 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
-B1.06 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
-B1.07 223.1          9780300140750     Pope, Marvin H.               1965 Job
-B1.08 223.1          9781592446599     Terrien, Samuel L., 1911-2    2004 Job: poet of existence
-B1.09 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
-B1.10 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
-B1.11 223.106        9780883445525     Gutiérrez, Gustavo, 1928-     1987 On Job : God-talk and the suffering of the innocent
-B1.12 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
-B1.13 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
-B1.14 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
-B1.15 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
-B1.16 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
-B1.17 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
-B1.18 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
-B1.19 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
-B1.20 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
-B1.21 223.206        9780800618964     Miller, Patrick D.            1986 Interpreting the Psalms
-B1.22 223.206        9780804217927     Westermann, Claus             1981 Praise and lament in the Psalms
-B1.23 223.2061       9780800630430     Gunkel, Hermann, 1862-1932    1967 The Psalms : a form-critical introduction
-B1.24 223.20663      9780802802552     Gerstenberger, Erhard S.      1988 Psalms : with an introduction to cultic poetry : Part 1
-B1.25 223.207        9780551008465     Anderson, A. A. (Arnold Al    1972 The book of Psalms : based on the Revised Standard Version
-B1.26 223.207        9780806621203     Brueggemann, Walter           1985 The message of the Psalms : a theological commentary
-B1.27 223.207        9780802804884     Gerstenberger, Erhard S.      2001 Psalms : Part 2, and Lamentations
-B1.28 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
-B1.29 223.806        9780802842923     Fox, Michael V., 1940-        1999 A time to tear down and a time to build up : a rereading of 
-B1.30 223.9052       9780907459071     Falk, Marcia                  1981 Love lyrics from the Bible : a translation and literary stud
-B1.31 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
-B1.32 223.9077       9780300139495     Pope, Marvin H.               1995 Song of songs : a new translation with introduction and comm
-B1.33 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
-B1.34 224            9780800619251     Brueggemann, Walter           1986 Hopeful imagination : prophetic voices in exile
-B1.35 224            9780800615321     Klein, Ralph W.               1979 Israel in exile, a theological interpretation
+B1.02 222.407                          Hertzberg, H. W.              1965 H W Hertzberg / First and Second Samuel A Commentary 1965
+B1.03 222.40924      9780907459125     Rost, Leonhard, 1896-1979     1982 The succession to the throne of David
+B1.04 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
+B1.05 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
+B1.06 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
+B1.07 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
+B1.08 223.1          9780300140750     Pope, Marvin H.               1965 Job
+B1.09 223.1          9781592446599     Terrien, Samuel L., 1911-2    2004 Job: poet of existence
+B1.10 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
+B1.11 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
+B1.12 223.106        9780883445525     Gutiérrez, Gustavo, 1928-     1987 On Job : God-talk and the suffering of the innocent
+B1.13 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
+B1.14 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
+B1.15 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
+B1.16 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
+B1.17 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
+B1.18 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
+B1.19 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
+B1.20 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
+B1.21 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
+B1.22 223.206        9780800618964     Miller, Patrick D.            1986 Interpreting the Psalms
+B1.23 223.206        9780804217927     Westermann, Claus             1981 Praise and lament in the Psalms
+B1.24 223.2061       9780800630430     Gunkel, Hermann, 1862-1932    1967 The Psalms : a form-critical introduction
+B1.25 223.20663      9780802802552     Gerstenberger, Erhard S.      1988 Psalms : with an introduction to cultic poetry : Part 1
+B1.26 223.207        9780551008465     Anderson, A. A. (Arnold Al    1972 The book of Psalms : based on the Revised Standard Version
+B1.27 223.207        9780806621203     Brueggemann, Walter           1985 The message of the Psalms : a theological commentary
+B1.28 223.207        9780802804884     Gerstenberger, Erhard S.      2001 Psalms : Part 2, and Lamentations
+B1.29 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
+B1.30 223.806        9780802842923     Fox, Michael V., 1940-        1999 A time to tear down and a time to build up : a rereading of 
+B1.31 223.9052       9780907459071     Falk, Marcia                  1981 Love lyrics from the Bible : a translation and literary stud
+B1.32 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
+B1.33 223.9077       9780300139495     Pope, Marvin H.               1995 Song of songs : a new translation with introduction and comm
+B1.34 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
+B1.35 224            9780800619251     Brueggemann, Walter           1986 Hopeful imagination : prophetic voices in exile
+B1.36 224            9780800615321     Klein, Ralph W.               1979 Israel in exile, a theological interpretation
 B2.01 224            9780334011644     Rad, Gerhard von, 1901-       1968 The message of the prophets
 B2.02 224.06         9780060936990     Heschel, Abraham Joshua, 1    2001 The Prophets
 B2.03 224.06         9780800617738     Petersen, David L.            1987 Prophecy in Israel : search for an identity
@@ -1660,17 +1661,16 @@ J3.17                                                                1836 Story 
 J3.18                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
 J3.19                                  Bishop Of Chichester          1954 The Kingship of Christ:the Bishop of Chichester
 J3.20                                  Dearmer, Percy                2012 The Parson's Handbook, Containing Practical Directions Both 
-J3.21                                  Hertzberg, H. W.              1965 H W Hertzberg / First and Second Samuel A Commentary 1965
-J3.22                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
-J3.23                                  Hume, David (Introduction     1964 Hume on Religion
-J3.24                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
-J3.25                                  Phillips, F. B.               1950 Letters to Young Churches
-J3.26                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
-J3.27                9781505117844     St. Ildephonsus of Toledo     2021 Crown of the Virgin: An Ancient Meditation on Mary's Beauty,
-J3.28                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
-J3.29                9780648228202     Watts, Rachel                 2018 Survival
-J3.30                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
-J3.31                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+J3.21                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
+J3.22                                  Hume, David (Introduction     1964 Hume on Religion
+J3.23                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
+J3.24                                  Phillips, F. B.               1950 Letters to Young Churches
+J3.25                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
+J3.26                9781505117844     St. Ildephonsus of Toledo     2021 Crown of the Virgin: An Ancient Meditation on Mary's Beauty,
+J3.27                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
+J3.28                9780648228202     Watts, Rachel                 2018 Survival
+J3.29                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+J3.30                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 T1.01 001.642        9780914845461     Norton, Peter                 1985 The Peter Norton Programmer's guide to the IBM PC
 T1.01 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
 T1.02 001.9          9780099185727     White, Michael, 1959-2018     1996 The science of the X-files

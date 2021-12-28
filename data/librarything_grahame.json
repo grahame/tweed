@@ -109594,6 +109594,13 @@
   "publication": "Generic (1965)",
   "date": "1965",
   "summary": "H W Hertzberg / First and Second Samuel A Commentary 1965 by H. W. Hertzberg (1965)",
+  "ddc": {
+    "code": ["222.407"],
+    "wording": ["Bible",
+    "Historical Books ",
+    "Religions",
+    "Samuel"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "27128310",
