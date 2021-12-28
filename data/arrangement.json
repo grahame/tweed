@@ -4,7 +4,7 @@
             "ddc": "^[056]",
             "shelves": [
                 { "bookshelf": "T", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
-                { "bookshelf": "T", "shelf": 2, "first_book": { "isbn": "9780321491695" } },
+                { "bookshelf": "T", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
                 { "bookshelf": "T", "shelf": 3, "first_book": { "isbn": "9780415872911" } },
 
                 { "bookshelf": "U", "shelf": 1, "first_book": { "isbn": "9781741312928" } },

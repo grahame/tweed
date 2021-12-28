@@ -1703,36 +1703,36 @@ T1.21 005.133        9780321563842     Stroustrup, Bjarne            2013 The C+
 T1.22 005.3          9780201702453     McKusick, Marshall Kirk       2004 The design and implementation of the FreeBSD operating syste
 T1.23 005.43         9780201549799     Leffler, Samuel J.            1996 The design and implementation of the 4.3BSD UNIX operating s
 T1.24 005.43         9780380815937     Stephenson, Neal              1999 In the beginning ... was the command line
-T1.25 005.43         9780136386773     Tanenbaum, Andrew S., 1944    1997 Operating systems : design and implementation
-T1.26 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
-T2.01 005.453        9780321491695     Aho, Alfred V.                2007 Compilers, principles, techniques, and tools
-T2.02 005.7565       9781449373191     Obe, Regina O.                2014 PostgreSQL : up and running
-T2.03 005.8          9780434022083     Olson, Parmy                  2012 We are Anonymous : inside the hacker world of Lulzsec, Anony
-T2.04 005.8          9781593273880     Zalewski, Michal              2011 The tangled Web : a guide to securing modern Web application
-T2.05 005.82         9780471223573     Ferguson, Niels               2003 Practical cryptography
-T2.06 006.3          9781449358655     Schutt, Rachel, 1976-         2013 Doing data science
-T2.07 070            9780195574104     Bainbridge, Jason             2011 Media and journalism : new approaches to theory and practice
-T2.08 070.195        9780691123677     Hamilton, James, 1961-        2006 All the news that's fit to sell : how the market transforms 
-T2.09 070.4          9780761970262     Burns, Lynette Sheridan       2002 Understanding journalism
-T2.10 070.4          9780195567229     Lamble, Stephen               2011 News as it happens : an introduction to journalism
-T2.11 070.40285      9781449330064     Gray, Jonathan (Jonathan A    2012 The data journalism handbook : [how journalists can use data
-T2.12 070.92         9780732224189     Bowden, Tim, 1937-            1989 One crowded hour : Neil Davis, combat cameraman
-T2.13 070.92         9780007161232     Thompson, Hunter S.           2003 Fear and loathing in Las Vegas : a savage journey to the hea
-T2.14 070.924        9781862078246     Cameron, James, 1911-1985     2007 Point of departure: experiment in biography
-T2.15 081            9780944344033     Robbins, Vernon K. 1939- [    1990 Ancient quotes & anecdotes : from crib to crypt
-T2.16 500            9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
-T2.17 500.09415      9780094172036                                   1984 Wild Ireland
-T2.18 500.2          9780316071369     Ferris, Timothy               1991 The World treasury of physics, astronomy, and mathematics
-T2.19 501            9780141026183     Dawkins, Richard, 1941-       2006 Unweaving the rainbow : science, delusion, and the appetite 
-T2.20 509            9780486281155     Hall, Marie Boas, 1919-200    2011 The scientific Renaissance, 1450-1630
-T2.21 510            9780201558029     Graham, Ronald L., 1935-20    1994 Concrete mathematics : a foundation for computer science
-T2.22 510.1          9780465026562     Hofstadter, Douglas R., 19    1999 Gödel, Escher, Bach : an eternal golden braid
-T2.23 510.1          9780090566426     Körner, Stephan, 1913-2000    1979 The philosophy of mathematics, : an introductory essay
-T2.24 512.5          9780961408855     Strang, Gilbert               1993 Introduction to linear algebra
-T2.25 515            9780534217983     Stewart, James, 1941-         1994 Calculus
-T2.26 519.20246213   9780201500370     Leon-Garcia, Alberto          1993 Probability and random processes for electrical engineering
-T2.27 519.5          9781500576691     Diez, David M                 2014 Introductory Statistics with Randomization and Simulation
-T2.28 519.5          9781943450039     Diez, David M.                2015 OpenIntro statistics
+T1.25 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
+T2.01 005.43         9780136386773     Tanenbaum, Andrew S., 1944    1997 Operating systems : design and implementation
+T2.02 005.453        9780321491695     Aho, Alfred V.                2007 Compilers, principles, techniques, and tools
+T2.03 005.7565       9781449373191     Obe, Regina O.                2014 PostgreSQL : up and running
+T2.04 005.8          9780434022083     Olson, Parmy                  2012 We are Anonymous : inside the hacker world of Lulzsec, Anony
+T2.05 005.8          9781593273880     Zalewski, Michal              2011 The tangled Web : a guide to securing modern Web application
+T2.06 005.82         9780471223573     Ferguson, Niels               2003 Practical cryptography
+T2.07 006.3          9781449358655     Schutt, Rachel, 1976-         2013 Doing data science
+T2.08 070            9780195574104     Bainbridge, Jason             2011 Media and journalism : new approaches to theory and practice
+T2.09 070.195        9780691123677     Hamilton, James, 1961-        2006 All the news that's fit to sell : how the market transforms 
+T2.10 070.4          9780761970262     Burns, Lynette Sheridan       2002 Understanding journalism
+T2.11 070.4          9780195567229     Lamble, Stephen               2011 News as it happens : an introduction to journalism
+T2.12 070.40285      9781449330064     Gray, Jonathan (Jonathan A    2012 The data journalism handbook : [how journalists can use data
+T2.13 070.92         9780732224189     Bowden, Tim, 1937-            1989 One crowded hour : Neil Davis, combat cameraman
+T2.14 070.92         9780007161232     Thompson, Hunter S.           2003 Fear and loathing in Las Vegas : a savage journey to the hea
+T2.15 070.924        9781862078246     Cameron, James, 1911-1985     2007 Point of departure: experiment in biography
+T2.16 081            9780944344033     Robbins, Vernon K. 1939- [    1990 Ancient quotes & anecdotes : from crib to crypt
+T2.17 500            9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
+T2.18 500.09415      9780094172036                                   1984 Wild Ireland
+T2.19 500.2          9780316071369     Ferris, Timothy               1991 The World treasury of physics, astronomy, and mathematics
+T2.20 501            9780141026183     Dawkins, Richard, 1941-       2006 Unweaving the rainbow : science, delusion, and the appetite 
+T2.21 509            9780486281155     Hall, Marie Boas, 1919-200    2011 The scientific Renaissance, 1450-1630
+T2.22 510            9780201558029     Graham, Ronald L., 1935-20    1994 Concrete mathematics : a foundation for computer science
+T2.23 510.1          9780465026562     Hofstadter, Douglas R., 19    1999 Gödel, Escher, Bach : an eternal golden braid
+T2.24 510.1          9780090566426     Körner, Stephan, 1913-2000    1979 The philosophy of mathematics, : an introductory essay
+T2.25 512.5          9780961408855     Strang, Gilbert               1993 Introduction to linear algebra
+T2.26 515            9780534217983     Stewart, James, 1941-         1994 Calculus
+T2.27 519.20246213   9780201500370     Leon-Garcia, Alberto          1993 Probability and random processes for electrical engineering
+T2.28 519.5          9781500576691     Diez, David M                 2014 Introductory Statistics with Randomization and Simulation
+T2.29 519.5          9781943450039     Diez, David M.                2015 OpenIntro statistics
 T3.01 519.5          9780415872911     Urdan, Timothy C.             2010 Statistics in plain English
 T3.02 519.5          9780393347777     Wheelan, Charles J.           2014 Naked statistics : stripping the dread from the data
 T3.03 520            9780345331359     Sagan, Carl, 1934-1996        1985 Cosmos
