@@ -128211,4 +128211,31 @@
   "dimensions": "8 x 5.31 x 0.79 inches",
   "weight": "0.55 pounds",
   "pages": "352 "
+},
+"210123695": {
+  "books_id": "210123695",
+  "title": "Yelakitj Koondarm Nyungar Language Project",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Dewar, Jill",
+  "authors": [{
+    "lf": "Dewar, Jill",
+    "fl": "Jill Dewar"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "publication": "Catholic Education Office of Western Australia",
+  "summary": "Yelakitj Koondarm Nyungar Language Project by Jill Dewar",
+  "ddc": {
+    "code": ["499.1503"],
+    "wording": ["Austronesian languages and Languages, Artificial and minor languages",
+    "Language",
+    "Other Languages"]
+  },
+  "lcc": [],
+  "source": "manual entry",
+  "workcode": "27491192",
+  "entrydate": "2021-12-28",
+  "copies": "1",
+  "volumes": "1"
 }}

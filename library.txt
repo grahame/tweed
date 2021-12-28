@@ -1029,39 +1029,40 @@ F3.31 491.628                          Ó Domhnalláin, Tomás          1967 Bun
 F4.01 492.1          9781606064474     Finkel, Irving L.             2015 Cuneiform
 F4.02 492.482421     9780232513691     Lambdin, Thomas O. (Thomas    1973 Introduction to Biblical Hebrew
 F4.03 495.683421     9780007165995                                   2004 Collins Japanese phrasebook & dictionary
-F4.04 499.1503       9781741312331     Rooney, Bernard, 1934-        None Nyoongar dictionary
-F4.05 704.9482       9781852301866     Temple, Richard (Richard C    1991 Icons and the mystical origins of Christianity
-F4.06 709            9780714849690     Dr Andrew Fitzpatrick         2009 10,000 years of art
-F4.07 709            9780714847030     Gombrich, E. H. (Ernst Han    2006 The story of art
-F4.08 709.2          978-0-9751947-5-  Bromfield, David              2011 Now the hard part : the work of Martin Heine 1965-2011
-F4.09 709.252        9781786276551     Hodge, Susie, 1960-           2020 The short story of women artists : a pocket guide to movemen
-F4.10 709.470749411  9780975016893     Dodge, A.R                    2005 St Petersburg 1900
-F4.11 720.103        9780643106468     Donovan, Jenny (Urban desi    2013 Designing to heal
-F4.12 725.94         9781760800260     Atkinson-Phillips, Alison     2019 Survivor memorials : remembering trauma and loss in contempo
-F4.13 741.509        9781569804001     Weinstein, Simcha             2014 Up, up, and oy vey! : how Jewish history, culture, and value
-F4.14 741.5973       9781594746031     Riggs, Ransom                 2013 Miss Peregrine's Home for Peculiar Children
-F4.15 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
-F4.16 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
-F4.17 755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
-F4.18 759.94         9780141035796     Berger, John                  2008 Ways of seeing
-F4.19 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature & outdoor photography
-F4.20 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
-F4.21 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
-F4.22 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
-F4.23 784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
-F4.24 790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
-F4.25 791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
-F4.26 791.450232092  9780671522995     Fern, Yvonne, 1947-           1996 Gene Roddenberry : the last conversation
-F4.27 791.4572       9780006550426     Krauss, Lawrence M., 1954-    1997 The physics of Star trek
-F4.28 791.4572       9780563201960     Lynn, Jonathan                1983 Yes, Minister : the diaries of a cabinet minister
-F4.29 792.028092     9780099493761     Alda, Alan, 1936-             2007 Never have your dog stuffed : and other things I've learned
-F4.30 792.7028       9781743319345     Shah, Sami                    2015 I, migrant : a comedian's journey from Karachi to the outbac
-F4.31 795.415        9780716006800     Fox, George Clive Henry       1982 Begin bridge
-F4.32 799.10994      9780701815608     Vaughan, Harold               1982 The Australian fisherman's companion
-F4.33 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
-F4.34 808.02         9781786898555     Lamott, Anne                  None Bird by bird : some instructions on writing and life
-F4.35 808.2          9780140446364     Aristotle                     1997 Poetics
-F4.36 808.80358      9781922101402     Dolichva, Tsana [Editor]      2016 Defying doomsday
+F4.04 499.1503                         Dewar, Jill                   None Yelakitj Koondarm Nyungar Language Project
+F4.05 499.1503       9781741312331     Rooney, Bernard, 1934-        None Nyoongar dictionary
+F4.06 704.9482       9781852301866     Temple, Richard (Richard C    1991 Icons and the mystical origins of Christianity
+F4.07 709            9780714849690     Dr Andrew Fitzpatrick         2009 10,000 years of art
+F4.08 709            9780714847030     Gombrich, E. H. (Ernst Han    2006 The story of art
+F4.09 709.2          978-0-9751947-5-  Bromfield, David              2011 Now the hard part : the work of Martin Heine 1965-2011
+F4.10 709.252        9781786276551     Hodge, Susie, 1960-           2020 The short story of women artists : a pocket guide to movemen
+F4.11 709.470749411  9780975016893     Dodge, A.R                    2005 St Petersburg 1900
+F4.12 720.103        9780643106468     Donovan, Jenny (Urban desi    2013 Designing to heal
+F4.13 725.94         9781760800260     Atkinson-Phillips, Alison     2019 Survivor memorials : remembering trauma and loss in contempo
+F4.14 741.509        9781569804001     Weinstein, Simcha             2014 Up, up, and oy vey! : how Jewish history, culture, and value
+F4.15 741.5973       9781594746031     Riggs, Ransom                 2013 Miss Peregrine's Home for Peculiar Children
+F4.16 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
+F4.17 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
+F4.18 755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
+F4.19 759.94         9780141035796     Berger, John                  2008 Ways of seeing
+F4.20 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature & outdoor photography
+F4.21 779            9780643108264     South Australian Museum       2013 Australasian nature photography : ANZANG eighth collection
+F4.22 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
+F4.23 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
+F4.24 784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
+F4.25 790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
+F4.26 791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
+F4.27 791.450232092  9780671522995     Fern, Yvonne, 1947-           1996 Gene Roddenberry : the last conversation
+F4.28 791.4572       9780006550426     Krauss, Lawrence M., 1954-    1997 The physics of Star trek
+F4.29 791.4572       9780563201960     Lynn, Jonathan                1983 Yes, Minister : the diaries of a cabinet minister
+F4.30 792.028092     9780099493761     Alda, Alan, 1936-             2007 Never have your dog stuffed : and other things I've learned
+F4.31 792.7028       9781743319345     Shah, Sami                    2015 I, migrant : a comedian's journey from Karachi to the outbac
+F4.32 795.415        9780716006800     Fox, George Clive Henry       1982 Begin bridge
+F4.33 799.10994      9780701815608     Vaughan, Harold               1982 The Australian fisherman's companion
+F4.34 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
+F4.35 808.02         9781786898555     Lamott, Anne                  None Bird by bird : some instructions on writing and life
+F4.36 808.2          9780140446364     Aristotle                     1997 Poetics
+F4.37 808.80358      9781922101402     Dolichva, Tsana [Editor]      2016 Defying doomsday
 F5.01 808.8193538    9780932112972     Shomer, Enid [Editor]         2018 All we know of pleasure : poetic erotica by women
 F5.02 808.838762     9780061562358     Dozois, Gardner R.            2009 The new space opera : 2
 F5.03 808.838762     9781849352093     Imarisha, Walidah             2015 Octavia's brood : science fiction stories from social justic
