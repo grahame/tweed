@@ -1764,43 +1764,43 @@ T3.31 582.13099412   9781921361784     Breeden, Stanley, 1937 or     2010 Wildfl
 T3.32 590            9781446301432     Chaline, Eric                 2011 Fifty animals that changed the course of history
 T3.33 590            9781579656232     Stewart, Tracey (Organizat    2015 Do unto animals : a friendly guide to how animals live, and 
 T3.34 591.5          9780199291151     Dawkins, Richard, 1941-       2006 The selfish gene
-U1.01 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachcomber's guide to South-West beaches
-U1.02 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
-U1.03 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
-U1.04 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
-U1.05 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles & frogs of the Perth region
-U1.06 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
-U1.07 598            9781486302925     Elphick, Jonathan             2014 The world of birds
-U1.08 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
-U1.09 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
-U1.10 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain & Europe
-U1.11 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
-U1.12 598.0994       9781876334789     Flegg, Jim                    2004 Birds of Australia
-U1.13 598.0994       9780643104693     Fraser, Ian                   2013 Australian bird names : a complete guide
-U1.14 598.0994       9780670072316     Simpson, Ken, 1936-           2010 Field guide to the birds of Australia
-U1.15 598.09946      9781876334604     Watts, Dave, 1943-            2003 Field guide to Tasmanian birds
-U1.16 598.2          9780643094932     Olsen, Penny                  2011 Stray feathers : reflections on the structure, behaviour and
-U1.17 598.294        9780261674028     Nicolai, Jürgen               1993 Birds of Britain & Europe
-U1.18 598.2973       9781572153172     Audubon, John James, 1785-    2004 Audubon's masterpieces : 150 prints from the Birds of Americ
-U1.19 598.2994       9780207155567     Cayley, Neville William, 1    1984 What bird is that?
-U1.20 598.2994       9780207199356     Pizzey, Graham, 1930-2001     2008 A field guide to the birds of Australia
-U1.21 598.2994       9780207198212     Pizzey, Graham, 1930-2001     2005 A field guide to the birds of Australia
-U1.22 598.330916456  9780643096592     Kam, Jan van de               2010 Invisible connections : why migrating shorebirds need the Ye
-U1.23 598.42         9780643095557     De Roy, Tui                   2008 Albatross : their world, their ways
-U1.24 598.6099481    9780643108707     Frith, Clifford B.            2013 The woodhen : a flightless island bird defying extinction
-U1.25 598.71         9780643100572     Forshaw, Joseph Michael       2010 Parrots of the world
-U1.26 598.91         9780811800044     Hendrickson, John, 1949-      1992 Raptors, birds of prey
-U1.27 598.970994     9780643097056     Olsen, Jerry                  2012 Australian high country owls
-U1.28 599.03         9780643091672     Strahan, Ronald               2007 Dictionary of Australian and New Guinean mammals
-U1.29 599.232099412  9780987577108     Wooller, Ron,                 None Sugar and sand : the world of the honey possum
-U1.30 613.2          9781594203084     Pollan, Michael               2011 Food rules : an eater's manual
-U1.31 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
-U1.32 616.85822      9781558740723     Middelton-Moz, Jane, 1947-    1990 Shame and guilt : the masters of disguise
-U1.33 616.8914       9780075548270     Bugental, James F. T.         1978 Psychotherapy and process : the fundamentals of an existenti
-U1.34 621.3192       9780201401004     Nilsson, James William        1995 Electric circuits
-U1.35 621.39092      9781408703748     Isaacson, Walter              2011 Steve Jobs
-U1.36 623.7464092    9780099481300     Henshaw, Alex                 1986 Sigh for a Merlin : testing the Spitfire
-U1.37 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
+U1.01 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
+U1.02 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachcomber's guide to South-West beaches
+U1.03 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
+U1.04 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
+U1.05 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
+U1.06 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles & frogs of the Perth region
+U1.07 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
+U1.08 598            9781486302925     Elphick, Jonathan             2014 The world of birds
+U1.09 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
+U1.10 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
+U1.11 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain & Europe
+U1.12 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
+U1.13 598.0994       9781876334789     Flegg, Jim                    2004 Birds of Australia
+U1.14 598.0994       9780643104693     Fraser, Ian                   2013 Australian bird names : a complete guide
+U1.15 598.0994       9780670072316     Simpson, Ken, 1936-           2010 Field guide to the birds of Australia
+U1.16 598.09946      9781876334604     Watts, Dave, 1943-            2003 Field guide to Tasmanian birds
+U1.17 598.2          9780643094932     Olsen, Penny                  2011 Stray feathers : reflections on the structure, behaviour and
+U1.18 598.294        9780261674028     Nicolai, Jürgen               1993 Birds of Britain & Europe
+U1.19 598.2973       9781572153172     Audubon, John James, 1785-    2004 Audubon's masterpieces : 150 prints from the Birds of Americ
+U1.20 598.2994       9780207155567     Cayley, Neville William, 1    1984 What bird is that?
+U1.21 598.2994       9780207199356     Pizzey, Graham, 1930-2001     2008 A field guide to the birds of Australia
+U1.22 598.2994       9780207198212     Pizzey, Graham, 1930-2001     2005 A field guide to the birds of Australia
+U1.23 598.330916456  9780643096592     Kam, Jan van de               2010 Invisible connections : why migrating shorebirds need the Ye
+U1.24 598.42         9780643095557     De Roy, Tui                   2008 Albatross : their world, their ways
+U1.25 598.6099481    9780643108707     Frith, Clifford B.            2013 The woodhen : a flightless island bird defying extinction
+U1.26 598.71         9780643100572     Forshaw, Joseph Michael       2010 Parrots of the world
+U1.27 598.91         9780811800044     Hendrickson, John, 1949-      1992 Raptors, birds of prey
+U1.28 598.970994     9780643097056     Olsen, Jerry                  2012 Australian high country owls
+U1.29 599.03         9780643091672     Strahan, Ronald               2007 Dictionary of Australian and New Guinean mammals
+U1.30 599.232099412  9780987577108     Wooller, Ron,                 None Sugar and sand : the world of the honey possum
+U1.31 613.2          9781594203084     Pollan, Michael               2011 Food rules : an eater's manual
+U1.32 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
+U1.33 616.85822      9781558740723     Middelton-Moz, Jane, 1947-    1990 Shame and guilt : the masters of disguise
+U1.34 616.8914       9780075548270     Bugental, James F. T.         1978 Psychotherapy and process : the fundamentals of an existenti
+U1.35 621.3192       9780201401004     Nilsson, James William        1995 Electric circuits
+U1.36 621.39092      9781408703748     Isaacson, Walter              2011 Steve Jobs
+U1.37 623.7464092    9780099481300     Henshaw, Alex                 1986 Sigh for a Merlin : testing the Spitfire
 U1.38 629.4530973    9780743200790     Kranz, Gene                   2000 Failure is not an option : mission control from Mercury to A
 U1.39 635            9780643095977     Horsfall, Mary, 1949-         2010 Fabulous food from every small garden
 U1.40 635            9780752858135     Stoddart, Laura               2000 Up the garden path : a little anthology
