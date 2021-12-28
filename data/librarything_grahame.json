@@ -118234,57 +118234,6 @@
   "dimensions": "5 x 7 x 1 inches",
   "weight": "0.6 pounds"
 },
-"208202859": {
-  "books_id": "208202859",
-  "title": "Scholastic Miscellany Anslem To Ockham",
-  "sortcharacter": "1",
-  "public": "true",
-  "primaryauthor": "Fairweather, Eugene",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Fairweather, Eugene",
-    "fl": "Eugene Fairweather",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "1135665141",
-  "isbn": {
-    "0": "1135665141",
-    "2": "9781135665142"
-  },
-  "asin": "B000Q9M814",
-  "ean": ["1135665141"],
-  "publication": "SCM PRESS LTD (ENGLAND) (1956), Edition: First, 457 pages",
-  "date": "1956",
-  "summary": "Scholastic Miscellany Anslem To Ockham by Eugene Fairweather (1956)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["651.867"],
-    "wording": ["Computer Applications",
-    "Management and auxiliary services",
-    "Office Equipment and Methods",
-    "Technology and Application of Knowledge"]
-  },
-  "lcc": {
-    "code": "HF5686 .W35"
-  },
-  "genre": ["Nonfiction"],
-  "genre_id": ["20275895"],
-  "source": "amazon.com books",
-  "workcode": "21156516",
-  "entrydate": "2021-11-08",
-  "format": [{
-    "code": "1.1.2",
-    "text": "Hardcover"
-  }],
-  "copies": "1",
-  "physical_description": "457 p.",
-  "weight": "1.1684499886 pounds",
-  "pages": "457 "
-},
 "208202884": {
   "books_id": "208202884",
   "title": "Peace among Christians",
@@ -122360,7 +122309,8 @@
   "dimensions": "9 x 6 x 0.72 inches",
   "weight": "0.95019234922 pounds",
   "pages": "320 "
-},"208336166": {
+},
+"208336166": {
   "books_id": "208336166",
   "title": "Project Hail Mary: From the bestselling author of The Martian",
   "sortcharacter": "1",
@@ -122427,8 +122377,7 @@
   "dimensions": "9.17321 x 5.98424 x 1.41732 inches",
   "weight": "1.3117504589 pounds",
   "pages": "496 "
-},
-"208386012": {
+},"208386012": {
   "books_id": "208386012",
   "title": "Judaism In The First Centuries Of The Christian Area - The Age Of The Tannaim - Volume I",
   "sortcharacter": "1",
@@ -126943,13 +126892,13 @@
   "lcc": {
     "code": "PS3618.O8685 W57"
   },
-  "series": ["De Kronieken van Kvothe",
-  "Cr\u00f3nica del asesino de Reyes",
+  "series": ["The Kingkiller Chronicle",
   "Cr\u00f2nica de l'Assass\u00ed de Reis",
+  "Cr\u00f3nica del asesino de Reyes",
+  "De Kronieken van Kvothe",
   "Le cronache dell'assassino del re",
-  "Chronique du tueur de roi",
   "Die K\u00f6nigsm\u00f6rder-Chronik",
-  "The Kingkiller Chronicle"],
+  "Chronique du tueur de roi"],
   "originaltitle": "The Wise Man's Fear",
   "awards": ["New York Times bestseller",
   "Amazon.com Best Books",
@@ -127774,4 +127723,492 @@
   "height": "25 cm",
   "dimensions": "25 cm",
   "pages": "429 "
+},
+"210119170": {
+  "books_id": "210119170",
+  "title": "The Ministry Of Women: A Report By A Committee Appointed By His Grace, The Lord Archbishop Of Canterbury (1919)",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Knowledg, Society For Promoting Christian",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Knowledg, Society For Promoting Christian",
+    "fl": "Society For Promoting Christian Knowledg",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1436589630",
+  "isbn": {
+    "0": "1436589630",
+    "2": "9781436589635"
+  },
+  "asin": "1436589630",
+  "ean": ["1436589630"],
+  "publication": "Kessinger Publishing, LLC (2008), 368 pages",
+  "date": "2008",
+  "summary": "The Ministry Of Women: A Report By A Committee Appointed By His Grace, The Lord Archbishop Of Canterbury (1919) by Society For Promoting Christian Knowledg (2008)",
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "7621174",
+  "entrydate": "2021-12-28",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"210119212": {
+  "books_id": "210119212",
+  "title": "Contemporary Feminist Theologies: Power, Authority, Love (Gender, Theology and Spirituality)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Handasyde, Kerrie",
+  "primaryauthorrole": "Editor",
+  "authors": [{
+    "lf": "Handasyde, Kerrie",
+    "fl": "Kerrie Handasyde",
+    "role": "Editor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0367490803",
+  "isbn": {
+    "0": "0367490803",
+    "2": "9780367490805"
+  },
+  "asin": "0367490803",
+  "ean": ["0367490803"],
+  "publication": "Routledge (2021), Edition: 1, 184 pages",
+  "date": "2021",
+  "summary": "Contemporary Feminist Theologies: Power, Authority, Love (Gender, Theology and Spirituality) by Kerrie Handasyde (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["230.082"],
+    "wording": ["Christian doctrinal theology",
+    "Christianity, Christian theology",
+    "Doctrinal Dogmatics - Theology",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BT83.55 .C666"
+  },
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "26971037",
+  "entrydate": "2021-12-28",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"210119283": {
+  "books_id": "210119283",
+  "title": "The October Country: Stories",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Bradbury, Ray",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Bradbury, Ray",
+    "fl": "Ray Bradbury",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "034532448X",
+  "isbn": {
+    "0": "034532448X",
+    "2": "9780345324481"
+  },
+  "asin": "034532448X",
+  "ean": ["034532448X"],
+  "publication": "Del Rey (1985), Edition: 1, 320 pages",
+  "date": "1985",
+  "summary": "The October Country: Stories by Ray Bradbury (1985)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3503.R167"
+  },
+  "subject": {
+    "0": ["Fantasy fiction, American"],
+    "2": ["Horror tales, American"],
+    "4": ["Science Fiction, American"],
+    "5": ["Science fiction, American"],
+    "6": ["Short stories, English"]
+  },
+  "awards": ["Horror: The 100 Best Books",
+  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
+  "NPR 100 Best Horror Novels and Stories",
+  "besthorrornovels.com's Best Classic Horror Books"],
+  "genre": ["Horror",
+  "Science Fiction",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["188",
+  "281",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "2042669",
+  "entrydate": "2021-12-28",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "320 p.; 6.9 inches",
+  "height": "6.9 inches",
+  "thickness": "0.8 inches",
+  "length": "4.2 inches",
+  "dimensions": "6.9 x 4.2 x 0.8 inches",
+  "weight": "0.36155810968 pounds",
+  "pages": "320 "
+},
+"210119299": {
+  "books_id": "210119299",
+  "title": "A Dictionary of Liturgy and Worship",
+  "sortcharacter": "3",
+  "public": "true",
+  "primaryauthor": "Davies, J. G.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Davies, J. G.",
+    "fl": "J. G. Davies",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "033402207X",
+  "isbn": {
+    "0": "033402207X",
+    "2": "9780334022077"
+  },
+  "asin": "033402207X",
+  "ean": ["033402207X"],
+  "publication": "SCM Press (1986), Edition: First Edition, 544 pages",
+  "date": "1986",
+  "summary": "A Dictionary of Liturgy and Worship by J. G. Davies (1986)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["264.003"],
+    "wording": ["Christian church and church work",
+    "Public Worship; Ritual",
+    "Public Worship; Ritual",
+    "Public worship; ritual",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BV173 .D28"
+  },
+  "subject": {
+    "0": ["Liturgics",
+    "Dictionaries"],
+    "2": ["Public worship",
+    "Directories"]
+  },
+  "genre": ["Reference",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["4877",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "1020678",
+  "entrydate": "2021-12-28",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "pages": "544 "
+},
+"210119370": {
+  "books_id": "210119370",
+  "title": "Foucault's Pendulum",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Eco, Umberto",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Eco, Umberto",
+    "fl": "Umberto Eco",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780156032971",
+  "isbn": ["9780156032971",
+  "015603297X"],
+  "asin": "015603297X",
+  "ean": ["015603297X"],
+  "publication": "Mariner Books (2007), Edition: First, 640 pages",
+  "date": "2007",
+  "summary": "Foucault's Pendulum by Umberto Eco (2007)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["853.914"],
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
+    "Italian",
+    "Italian fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PQ4865.C6"
+  },
+  "subject": {
+    "0": ["Alchemists",
+    "Fiction"],
+    "2": ["Foucault's pendulum",
+    "Fiction"],
+    "4": ["Idolatry",
+    "Fiction"],
+    "6": ["Occult fiction"],
+    "8": ["Occultism",
+    "Fiction"],
+    "9": ["Psychological fiction"],
+    "11": ["Religions",
+    "Fiction"],
+    "13": ["Thought and thinking",
+    "Fiction"],
+    "15": ["Voodooism",
+    "Fiction"],
+    "17": ["occult fiction"]
+  },
+  "originaltitle": "Il pendolo di Foucault",
+  "awards": ["PEN/Book-of-the-Month Club Translation Prize",
+  "1001 Books You Must Read Before You Die",
+  "Guardian 1000",
+  "Bancarella",
+  "The Essential Man's Library: 100 Must-Read Books",
+  "Les meilleurs romans \u00e9crits ou traduits en fran\u00e7ais, selon les lecteurs de Livresse"],
+  "genre": ["General Fiction",
+  "Mystery",
+  "Historical fiction",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["2",
+  "46",
+  "41890",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "2108",
+  "entrydate": "2021-12-28",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "640 p.; 8 inches",
+  "height": "8 inches",
+  "thickness": "1.137 inches",
+  "length": "5.3125 inches",
+  "dimensions": "8 x 5.3125 x 1.137 inches",
+  "weight": "1.05 pounds",
+  "pages": "640 "
+},
+"210119442": {
+  "books_id": "210119442",
+  "title": "A Scholastic Miscellany: Anselm to Ockham",
+  "sortcharacter": "3",
+  "public": "true",
+  "primaryauthor": "Fairweather, Eugene R.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Fairweather, Eugene R.",
+    "fl": "Eugene R. Fairweather",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "asin": "B08BLRNKQ2",
+  "publication": "(2020), 908 pages",
+  "date": "2020",
+  "summary": "A Scholastic Miscellany: Anselm to Ockham by Eugene R. Fairweather (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["230.20902"],
+    "wording": ["Biography",
+    "Christian doctrinal theology",
+    "Christianity, Christian theology",
+    "Pre-reformation and Roman Catholic",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "B734.F3"
+  },
+  "subject": {
+    "0": ["Catholic Church"],
+    "1": ["Catholic church"],
+    "2": ["Scholasticism"],
+    "4": ["Theology",
+    "Early works to 1800"]
+  },
+  "genre": ["History",
+  "Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1599",
+  "1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "186594",
+  "entrydate": "2021-12-28",
+  "format": [{
+    "code": "1.3",
+    "text": "Ebook"
+  }],
+  "copies": "1"
+},
+"210119541": {
+  "books_id": "210119541",
+  "title": "Jonah: A Handbook on the Hebrew Text (Baylor Handbook on the Hebrew Bible)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Jr., W. Dennis Tucker",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Jr., W. Dennis Tucker",
+    "fl": "W. Dennis Tucker Jr.",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1481308467",
+  "isbn": {
+    "0": "1481308467",
+    "2": "9781481308465"
+  },
+  "asin": "1481308467",
+  "ean": ["1481308467"],
+  "publication": "Baylor University Press (2018), Edition: revised and expanded edition, 132 pages",
+  "date": "2018",
+  "summary": "Jonah: A Handbook on the Hebrew Text (Baylor Handbook on the Hebrew Bible) by W. Dennis Tucker Jr. (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["224.92044"],
+    "wording": ["Bible",
+    "Jonah",
+    "Other minor prophets",
+    "Prophetic Books ",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS1605 .T83"
+  },
+  "series": ["Baylor Handbook on the Hebrew Bible"],
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "3259955",
+  "entrydate": "2021-12-28",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "132 p.; 7.9 inches",
+  "height": "7.9 inches",
+  "thickness": "0.4 inches",
+  "length": "5.2 inches",
+  "dimensions": "7.9 x 5.2 x 0.4 inches",
+  "weight": "0.34392112872 pounds",
+  "pages": "132 "
+},
+"210119588": {
+  "books_id": "210119588",
+  "title": "Good Book: The Bizarre, Hilarious, Disturbing, Marvelous, and Inspiring Things I Learned When I Read Every Single Word of the Bible",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Plotz, David",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Plotz, David",
+    "fl": "David Plotz",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780061374258",
+  "isbn": ["9780061374258",
+  "0061374253"],
+  "asin": "0061374253",
+  "ean": ["0061374253"],
+  "publication": "Harper Perennial (2010), Edition: Reprint, 352 pages",
+  "date": "2010",
+  "summary": "Good Book: The Bizarre, Hilarious, Disturbing, Marvelous, and Inspiring Things I Learned When I Read Every Single Word of the Bible by David Plotz (2010)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["221.6"],
+    "wording": ["Bible",
+    "Bible. O.T.--exegesis",
+    "Old Testament",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS533 .P56"
+  },
+  "originaltitle": "Good Book: The Bizarre, Hilarious, Disturbing, Marvelous, and Inspiring Things I Learned When I Read Every Single Word of the Bible",
+  "genre": ["General Nonfiction",
+  "Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "7542251",
+  "entrydate": "2021-12-28",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "352 p.; 8 inches",
+  "height": "8 inches",
+  "thickness": "0.79 inches",
+  "length": "5.31 inches",
+  "dimensions": "8 x 5.31 x 0.79 inches",
+  "weight": "0.55 pounds",
+  "pages": "352 "
 }}
