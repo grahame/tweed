@@ -1472,104 +1472,104 @@ I2.22 823.914        9780563207733     Lynn, Jonathan                1989 The Co
 I2.23 823.914        9781841493442     MacLeod, Ken, 1954-           2006 Learning the world : a scientific romance
 I2.24 823.914        9781841492247     MacLeod, Ken, 1954-           2005 Newton's wake : a space opera
 I2.25 823.914        9781841493497     MacLeod, Ken, 1954-           2008 The Execution Channel
-I2.26 823.914        9780721412634     McEwan, Ian                   2007 Atonement
-I2.27 823.914        9780140111057     Mortimer, John, 1923-2009     1988 Rumpole and the age of miracles
-I2.28 823.914        9780140063318     Mortimer, John, 1923-2009     1984 Rumpole and the golden thread
-I2.29 823.914        9780141037530     Mortimer, John, 1923-2009     None Rumpole and the Penge Bungalow murders
-I2.30 823.914        9780140132618     Mortimer, John, 1923-2009     1991 Rumpole à la carte
-I2.31 823.914        9780061975134     Nix, Garth                    2009 Sabriel
-I2.32 823.914        9780552166669     Pratchett, Terry              2012 Guards! guards!
-I2.33 823.914        9780552166621     Pratchett, Terry              2012 Mort : a novel of Discworld
-I2.34 823.914        9780575064836     Pratchett, Terry              1997 Reaper man
-I2.35 823.914        9780575067981     Pratchett, Terry              1999 The city watch trilogy
-I2.36 823.914        9780552124751     Pratchett, Terry              1985 The colour of magic
-I2.37 823.914        9780857520104     Pratchett, Terry              2012 The long earth
-I2.38 823.914        9780857521750     Pratchett, Terry              2014 The Long Mars
-I2.39 823.914        9780857520128     Pratchett, Terry              None The Long War
-I2.40 823.914        9780552525954     Pratchett, Terry              1990 Truckers
-I2.41 823.914        9780552167505     Pratchett, Terry              2013 Witches abroad
-I2.42 823.914        9780552166645     Pratchett, Terry              2012 Wyrd sisters : a novel of Discworld
-I2.43 823.914        9780747591054     Rowling, J. K.                2007 Harry Potter and the deathly hallows
-I2.44 823.914        9780008453343     Tolkien, J. R. R. (John Ro    2021 Tales from the perilous realm
-I2.45 823.914        9780008131388     Tolkien, J. R. R. (John Ro    2018 The story of Kullervo
-I2.46 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damascus
-I2.47 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
-I2.48 823.914        9780732265694     Williams, Sean, 1967-         1964 The prodigal sun
-I2.49 823.92         9780575097582     Aaronovitch, Ben, 1964-       2011 Rivers of London
-I2.50 823.92         9780007362622     Adichie, Chimamanda Ngozi,    2013 Americanah
-I2.51 823.92         9780246137067     Baxter, Stephen               1991 Raft
-I2.52 823.92         9781894063302     Bedford, K. A. (K. Adrian)    2005 Eclipse
-I2.53 823.92         9781894063203     Bedford, K. A. (K. Adrian)    2007 Hydrogen steel
-I2.54 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
-I2.55 823.92         9788129113726     Bhagat, Chetan                2008 The 3 mistakes of my life : a story about business, cricket,
-I2.56 823.92         9780141042138     Colfer, Eoin                  2010 And another thing-- : Douglas Adams's Hitchhiker's guide to 
-I2.57 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
-I2.58 823.92         9781786892720     Haig, Matt                    2020 The midnight library
-I2.59 823.92         9780732281229     Harding, Traci                2009 Being of the field
-I2.60 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
-I2.61 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
-I2.62 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
-I2.63 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
-I2.64 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
-I2.65 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
-I2.66 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
-I2.67 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
-I2.68 823.92         9780575079076     Robson, Justina               2006 Keeping it real
-I2.69 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
-I2.70 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
-I2.71 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
-I2.72 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
-I2.73 823.92         9780356511108     Stross, Charles               None The labyrinth index
-I2.74 823.92         9780356511368     Thompson, Tade                2018 Rosewater
-I2.75 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
-I2.76 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
-I2.77 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
-I2.78 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
-I2.79 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
-I2.80 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
-I2.81 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
-I2.82 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
-I2.83 833.912        9780099283621     Hesse, Hermann, 1877-1962     2000 The glass bead game (Magister Ludi)
-I2.84 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
-I2.85 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
-I2.86 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
-I2.87 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
-I2.88 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
-I2.89 839.82374      9780374253844     Gaarder, Jostein, 1952-       1998 That same flower : Floria Aemilia's letter to Saint Augustin
-I2.90 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
-I2.91 842.91         9780571244591     Beckett, Samuel, 1906-1989    2010 Waiting for Godot : tragicomedy in 2 acts
-I2.92 843.7          9780804901505     Dumas, Alexandre, 1802-187    1978 The man in the iron mask
-I2.93 843.8          9780141045153     Flaubert, Gustave, 1821-18    2009 Madame Bovary
-I3.01 843.8          9780460871662     Verne, Jules                  1992 Twenty thousand leagues under the sea
-I3.02 843.914        9780802144478     Beckett, Samuel, 1906-1989    2009 Three novels
-I3.03 843.914        9780141185132     Camus, Albert                 2002 The plague
-I3.04 843.914        9780241458884     Camus, Albert, 1913-1960      2020 The fall
-I3.05 843.914        9780679720201     Camus, Albert, 1913-1960      1989 The stranger
-I3.06 843.914        9780860682295     Ward Jouve, Nicole            1981 Shades of grey
-I3.07 851.1          9780199535644     Dante Alighieri, 1265-1321    2008 The divine comedy
-I3.08 851.1          9780679433132     Dante Alighieri, 1265-1321    1995 The divine comedy : the Inferno, Purgatorio, and Paradiso
-I3.09 863            9780140145588     Allende, Isabel               1992 The stories of Eva Luna
-I3.10 863.3          9780099469698     Cervantes Saavedra, Miguel    2005 Don Quixote
-I3.11 871            9781725273030     Urban VIII, Pope, 1568-164    2020 Pope Urban VIII and Pope Alexander VII : selected poety : ly
-I3.12 882.01         9780140441529     Aristophanes,                 1964 The wasps
-I3.13 883.01         9780140275360     Homer                         1998 The Iliad
-I3.14 883.01         9780140268867     Homer                         1999 The Odyssey
-I3.15 891.4312       9780486433585     Kabir, active 15th century    2004 Songs of Kabir
-I3.16 891.5511       9780062509598     Jalāl al-Dīn Rūmī, Maulana    1997 The essential Rumi
-I3.17 891.6631       9780140443226     Gantz, Jeffrey                1976 The Mabinogion
-I3.18 891.73         9780140150353     Chekhov, Anton Pavlovich,     1979 The portable Chekhov
-I3.19 891.730876     9780020226505     Jacobson, H. S.               1981 New Soviet science fiction
-I3.20 891.733        9780140449242     Dostoyevsky, Fyodor, 1821-    2003 The brothers Karamazov
-I3.21 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
-I3.22 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
-I3.23 891.7342       9781838850586     Zami︠a︡tin, Evgeniĭ Ivanov    2020 We
-I3.24 891.7344       9780575093133     Strugat︠s︡kiĭ, Arkadiĭ, 19    2001 Roadside picnic
-I3.25 891.7344       9781612194325     Strugat︠s︡kiĭ, Arkadiĭ, 19    2015 The Dead Mountaineer's Inn : (one more last rite for the det
-I3.26 892.1          9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
-I3.27 892.736        9780857423498     Zaqṭān, Ghassān               2016 Describing the past
-I3.28 895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
-I3.29 895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
-I3.30 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
+I3.01 823.914        9780721412634     McEwan, Ian                   2007 Atonement
+I3.02 823.914        9780140111057     Mortimer, John, 1923-2009     1988 Rumpole and the age of miracles
+I3.03 823.914        9780140063318     Mortimer, John, 1923-2009     1984 Rumpole and the golden thread
+I3.04 823.914        9780141037530     Mortimer, John, 1923-2009     None Rumpole and the Penge Bungalow murders
+I3.05 823.914        9780140132618     Mortimer, John, 1923-2009     1991 Rumpole à la carte
+I3.06 823.914        9780061975134     Nix, Garth                    2009 Sabriel
+I3.07 823.914        9780552166669     Pratchett, Terry              2012 Guards! guards!
+I3.08 823.914        9780552166621     Pratchett, Terry              2012 Mort : a novel of Discworld
+I3.09 823.914        9780575064836     Pratchett, Terry              1997 Reaper man
+I3.10 823.914        9780575067981     Pratchett, Terry              1999 The city watch trilogy
+I3.11 823.914        9780552124751     Pratchett, Terry              1985 The colour of magic
+I3.12 823.914        9780857520104     Pratchett, Terry              2012 The long earth
+I3.13 823.914        9780857521750     Pratchett, Terry              2014 The Long Mars
+I3.14 823.914        9780857520128     Pratchett, Terry              None The Long War
+I3.15 823.914        9780552525954     Pratchett, Terry              1990 Truckers
+I3.16 823.914        9780552167505     Pratchett, Terry              2013 Witches abroad
+I3.17 823.914        9780552166645     Pratchett, Terry              2012 Wyrd sisters : a novel of Discworld
+I3.18 823.914        9780747591054     Rowling, J. K.                2007 Harry Potter and the deathly hallows
+I3.19 823.914        9780008453343     Tolkien, J. R. R. (John Ro    2021 Tales from the perilous realm
+I3.20 823.914        9780008131388     Tolkien, J. R. R. (John Ro    2018 The story of Kullervo
+I3.21 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damascus
+I3.22 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
+I3.23 823.914        9780732265694     Williams, Sean, 1967-         1964 The prodigal sun
+I3.24 823.92         9780575097582     Aaronovitch, Ben, 1964-       2011 Rivers of London
+I3.25 823.92         9780007362622     Adichie, Chimamanda Ngozi,    2013 Americanah
+I3.26 823.92         9780246137067     Baxter, Stephen               1991 Raft
+I4.01 823.92         9781894063302     Bedford, K. A. (K. Adrian)    2005 Eclipse
+I4.02 823.92         9781894063203     Bedford, K. A. (K. Adrian)    2007 Hydrogen steel
+I4.03 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
+I4.04 823.92         9788129113726     Bhagat, Chetan                2008 The 3 mistakes of my life : a story about business, cricket,
+I4.05 823.92         9780141042138     Colfer, Eoin                  2010 And another thing-- : Douglas Adams's Hitchhiker's guide to 
+I4.06 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
+I4.07 823.92         9781786892720     Haig, Matt                    2020 The midnight library
+I4.08 823.92         9780732281229     Harding, Traci                2009 Being of the field
+I4.09 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
+I4.10 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
+I4.11 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
+I4.12 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
+I4.13 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
+I4.14 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
+I4.15 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
+I4.16 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
+I4.17 823.92         9780575079076     Robson, Justina               2006 Keeping it real
+I4.18 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
+I4.19 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
+I4.20 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
+I4.21 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
+I4.22 823.92         9780356511108     Stross, Charles               None The labyrinth index
+I4.23 823.92         9780356511368     Thompson, Tade                2018 Rosewater
+I4.24 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
+I4.25 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
+I4.26 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
+I5.01 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
+I5.02 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
+I5.03 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
+I5.04 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
+I5.05 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
+I5.06 833.912        9780099283621     Hesse, Hermann, 1877-1962     2000 The glass bead game (Magister Ludi)
+I5.07 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
+I5.08 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
+I5.09 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
+I5.10 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
+I5.11 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
+I5.12 839.82374      9780374253844     Gaarder, Jostein, 1952-       1998 That same flower : Floria Aemilia's letter to Saint Augustin
+I5.13 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
+I5.14 842.91         9780571244591     Beckett, Samuel, 1906-1989    2010 Waiting for Godot : tragicomedy in 2 acts
+I5.15 843.7          9780804901505     Dumas, Alexandre, 1802-187    1978 The man in the iron mask
+I5.16 843.8          9780141045153     Flaubert, Gustave, 1821-18    2009 Madame Bovary
+I5.17 843.8          9780460871662     Verne, Jules                  1992 Twenty thousand leagues under the sea
+I5.18 843.914        9780802144478     Beckett, Samuel, 1906-1989    2009 Three novels
+I5.19 843.914        9780141185132     Camus, Albert                 2002 The plague
+I5.20 843.914        9780241458884     Camus, Albert, 1913-1960      2020 The fall
+I5.21 843.914        9780679720201     Camus, Albert, 1913-1960      1989 The stranger
+I5.22 843.914        9780860682295     Ward Jouve, Nicole            1981 Shades of grey
+I5.23 851.1          9780199535644     Dante Alighieri, 1265-1321    2008 The divine comedy
+I5.24 851.1          9780679433132     Dante Alighieri, 1265-1321    1995 The divine comedy : the Inferno, Purgatorio, and Paradiso
+I5.25 863            9780140145588     Allende, Isabel               1992 The stories of Eva Luna
+I5.26 863.3          9780099469698     Cervantes Saavedra, Miguel    2005 Don Quixote
+I5.27 871            9781725273030     Urban VIII, Pope, 1568-164    2020 Pope Urban VIII and Pope Alexander VII : selected poety : ly
+I5.28 882.01         9780140441529     Aristophanes,                 1964 The wasps
+I5.29 883.01         9780140275360     Homer                         1998 The Iliad
+I5.30 883.01         9780140268867     Homer                         1999 The Odyssey
+I6.01 891.4312       9780486433585     Kabir, active 15th century    2004 Songs of Kabir
+I6.02 891.5511       9780062509598     Jalāl al-Dīn Rūmī, Maulana    1997 The essential Rumi
+I6.03 891.6631       9780140443226     Gantz, Jeffrey                1976 The Mabinogion
+I6.04 891.73         9780140150353     Chekhov, Anton Pavlovich,     1979 The portable Chekhov
+I6.05 891.730876     9780020226505     Jacobson, H. S.               1981 New Soviet science fiction
+I6.06 891.733        9780140449242     Dostoyevsky, Fyodor, 1821-    2003 The brothers Karamazov
+I6.07 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
+I6.08 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
+I6.09 891.7342       9781838850586     Zami︠a︡tin, Evgeniĭ Ivanov    2020 We
+I6.10 891.7344       9780575093133     Strugat︠s︡kiĭ, Arkadiĭ, 19    2001 Roadside picnic
+I6.11 891.7344       9781612194325     Strugat︠s︡kiĭ, Arkadiĭ, 19    2015 The Dead Mountaineer's Inn : (one more last rite for the det
+I6.12 892.1          9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
+I6.13 892.736        9780857423498     Zaqṭān, Ghassān               2016 Describing the past
+I6.14 895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
+I6.15 895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
+I6.16 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
 J1.01 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
 J1.02 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
 J1.03 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
