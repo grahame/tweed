@@ -1730,94 +1730,94 @@ T2.23 510.1          9780465026562     Hofstadter, Douglas R., 19    1999 Gödel
 T2.24 510.1          9780090566426     Körner, Stephan, 1913-2000    1979 The philosophy of mathematics, : an introductory essay
 T2.25 512.5          9780961408855     Strang, Gilbert               1993 Introduction to linear algebra
 T2.26 515            9780534217983     Stewart, James, 1941-         1994 Calculus
-T2.27 519.20246213   9780201500370     Leon-Garcia, Alberto          1993 Probability and random processes for electrical engineering
-T2.28 519.5          9781500576691     Diez, David M                 2014 Introductory Statistics with Randomization and Simulation
-T2.29 519.5          9781943450039     Diez, David M.                2015 OpenIntro statistics
-T3.01 519.5          9780415872911     Urdan, Timothy C.             2010 Statistics in plain English
-T3.02 519.5          9780393347777     Wheelan, Charles J.           2014 Naked statistics : stripping the dread from the data
-T3.03 520            9780345331359     Sagan, Carl, 1934-1996        1985 Cosmos
-T3.04 523.1          9780553401653     Hawking, Stephen W.           1989 A Brief History of Time
-T3.05 523.1          9780099505945     Penrose, Roger                2011 Cycles of time : an extraordinary new view of the universe
-T3.06 526.6209       9781857025712     Sobel, Dava                   1998 Longitude : the true story of a lone genius who solved the g
-T3.07 526.8          9780226767475     Snyder, John Parr, 1926-      1993 Flattening the earth : two thousand years of map projections
-T3.08 530            9780140175059     Feynman, Richard P. (Richa    2006 The character of physical law
-T3.09 530            9780471105596     Halliday, David, 1916-2010    1996 Fundamentals of physics
-T3.10 530.0724       9780471335795     Kirkup, Les                   1996 Experimental methods : an introduction to the analysis and p
-T3.11 530.0924       9780099173311     Feynman, Richard P. (Richa    1992 "Surely you're joking, Mr. Feynman!" : adventures of a curio
-T3.12 551.70109      9780140135725     Gould, Stephen Jay            1991 Time's arrow, time's cycle : myth and metaphor in the discov
-T3.13 559.41         9780646439952     Lane, Peter, 1940-            2004 Geology of Western Australia's national parks : geology for 
-T3.14 567.9          9781291177121     Conway, John, 1981-           2012 All yesterdays : unique and speculative views of dinosaurs a
-T3.15 567.90994      9780643100459     Kear, Benjamin P.             2011 Dinosaurs in Australia : Mesozoic life from the southern con
-T3.16 567.918        9781742233666     Pickrell, John                2014 Flying dinosaurs : how fearsome reptiles became birds
-T3.17 575.0162       9780141026176     Dawkins, Richard, 1941-       2006 Climbing mount improbable
-T3.18 576.8          9780593061749     Dawkins, Richard, 1941-       2009 The greatest show on Earth : the evidence for evolution
-T3.19 576.82         9780141399430     Darwin, Charles, 1809-1882    2010 On natural selection
-T3.20 576.82         9780141026169     Dawkins, Richard, 1941-       2006 The blind watchmaker
-T3.21 577.52         9780684827124     Quammen, David, 1948-         1997 The song of the dodo : island biogeography in an age of exti
-T3.22 577.7          9780643103221     Swanson, K. M.                2012 Bugs of the ocean
-T3.23 581.63         9781742372181     Laws, Bill                    2011 Fifty plants that changed the course of history
-T3.24 581.6320994    9781741170283     Hiddins, Les, 1946-           2002 Bush tucker field guide
-T3.25 581.632099412  9781760800420     Hansen, Vivienne              2019 Noongar bush tucker : bush food plants and fungi of the sout
-T3.26 581.634        9781742589060     Hansen, Vivienne              2016 Noongar bush medicine : medicinal plants of the south-west o
-T3.27 581.99412      9780643100473     Dixon, K. W. (Kingsley W.)    2011 Coastal plants : a guide to the identification and restorati
-T3.28 582.13099412   9781921361784     Breeden, Stanley, 1937 or     2010 Wildflower country : discovering biodiversity in Australia's
-T3.29 590            9781446301432     Chaline, Eric                 2011 Fifty animals that changed the course of history
-T3.30 590            9781579656232     Stewart, Tracey (Organizat    2015 Do unto animals : a friendly guide to how animals live, and 
-T3.31 591.5          9780199291151     Dawkins, Richard, 1941-       2006 The selfish gene
-T3.32 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachcomber's guide to South-West beaches
-T3.33 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
-T3.34 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
-T3.35 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
-T3.36 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles & frogs of the Perth region
-T3.37 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
-T3.38 598            9781486302925     Elphick, Jonathan             2014 The world of birds
-U1.01 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
-U1.02 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
-U1.03 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain & Europe
-U1.04 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
-U1.05 598.0994       9781876334789     Flegg, Jim                    2004 Birds of Australia
-U1.06 598.0994       9780643104693     Fraser, Ian                   2013 Australian bird names : a complete guide
-U1.07 598.0994       9780670072316     Simpson, Ken, 1936-           2010 Field guide to the birds of Australia
-U1.08 598.09946      9781876334604     Watts, Dave, 1943-            2003 Field guide to Tasmanian birds
-U1.09 598.2          9780643094932     Olsen, Penny                  2011 Stray feathers : reflections on the structure, behaviour and
-U1.10 598.294        9780261674028     Nicolai, Jürgen               1993 Birds of Britain & Europe
-U1.11 598.2973       9781572153172     Audubon, John James, 1785-    2004 Audubon's masterpieces : 150 prints from the Birds of Americ
-U1.12 598.2994       9780207155567     Cayley, Neville William, 1    1984 What bird is that?
-U1.13 598.2994       9780207199356     Pizzey, Graham, 1930-2001     2008 A field guide to the birds of Australia
-U1.14 598.2994       9780207198212     Pizzey, Graham, 1930-2001     2005 A field guide to the birds of Australia
-U1.15 598.330916456  9780643096592     Kam, Jan van de               2010 Invisible connections : why migrating shorebirds need the Ye
-U1.16 598.42         9780643095557     De Roy, Tui                   2008 Albatross : their world, their ways
-U1.17 598.6099481    9780643108707     Frith, Clifford B.            2013 The woodhen : a flightless island bird defying extinction
-U1.18 598.71         9780643100572     Forshaw, Joseph Michael       2010 Parrots of the world
-U1.19 598.91         9780811800044     Hendrickson, John, 1949-      1992 Raptors, birds of prey
-U1.20 598.970994     9780643097056     Olsen, Jerry                  2012 Australian high country owls
-U1.21 599.03         9780643091672     Strahan, Ronald               2007 Dictionary of Australian and New Guinean mammals
-U1.22 599.232099412  9780987577108     Wooller, Ron,                 None Sugar and sand : the world of the honey possum
-U1.23 613.2          9781594203084     Pollan, Michael               2011 Food rules : an eater's manual
-U1.24 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
-U1.25 616.85822      9781558740723     Middelton-Moz, Jane, 1947-    1990 Shame and guilt : the masters of disguise
-U1.26 616.8914       9780075548270     Bugental, James F. T.         1978 Psychotherapy and process : the fundamentals of an existenti
-U1.27 621.3192       9780201401004     Nilsson, James William        1995 Electric circuits
-U1.28 621.39092      9781408703748     Isaacson, Walter              2011 Steve Jobs
-U1.29 623.7464092    9780099481300     Henshaw, Alex                 1986 Sigh for a Merlin : testing the Spitfire
-U1.30 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
-U1.31 629.4530973    9780743200790     Kranz, Gene                   2000 Failure is not an option : mission control from Mercury to A
-U1.32 635            9780643095977     Horsfall, Mary, 1949-         2010 Fabulous food from every small garden
-U1.33 635            9780752858135     Stoddart, Laura               2000 Up the garden path : a little anthology
-U1.34 635.0484091732 9781740668989     Byrne, Josh                   2011 Small space organics : creating sustainable, edible gardens
-U1.35 635.04840994   9780867772456     Bennett, Peter                1988 Organic gardening
-U1.36 635.95194      9781864367492     Urquhart, Paul                2002 The new native garden : designing with Australian plants
-U1.37 635.95194      9781877069406     Wrigley, John W.              2007 Australian native plants : cultivation, use in landscaping a
-U1.38 635.986        9781486300914     Hill, Fionna, 1946-           2015 How to grow edibles in containers : good produce from small 
-U1.39 636.0890924    9780905712581     Herriot, James                1982 If only they could talk ; : It shouldn't happen to a vet ; L
-U1.40 640            9781405317757     Goldsmith, Sheherazade        None A slice of organic life
-U1.41 641.252        9781405394741     Smith, Gavin D.               2012 Whisky opus
-U1.42 641.2520973    9780760351727     Minnick, Fred, 1978-          2016 Bourbon : the rise, fall, and rebirth of an American whiskey
-U1.43 641.25209946   9780980450811     Kudelka, Jon,                 2014 Kudelka and First Dog's spiritual journey : in which two int
-U1.44 641.5          9781846147500     Pollan, Michael               None Cooked : a natural history of transformation
-U1.45 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
-U1.46 658.3          9781107664852     Teicher, Julian               2013 Australian workplace relations
-U1.47 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
+T3.01 519.20246213   9780201500370     Leon-Garcia, Alberto          1993 Probability and random processes for electrical engineering
+T3.02 519.5          9781500576691     Diez, David M                 2014 Introductory Statistics with Randomization and Simulation
+T3.03 519.5          9781943450039     Diez, David M.                2015 OpenIntro statistics
+T3.04 519.5          9780415872911     Urdan, Timothy C.             2010 Statistics in plain English
+T3.05 519.5          9780393347777     Wheelan, Charles J.           2014 Naked statistics : stripping the dread from the data
+T3.06 520            9780345331359     Sagan, Carl, 1934-1996        1985 Cosmos
+T3.07 523.1          9780553401653     Hawking, Stephen W.           1989 A Brief History of Time
+T3.08 523.1          9780099505945     Penrose, Roger                2011 Cycles of time : an extraordinary new view of the universe
+T3.09 526.6209       9781857025712     Sobel, Dava                   1998 Longitude : the true story of a lone genius who solved the g
+T3.10 526.8          9780226767475     Snyder, John Parr, 1926-      1993 Flattening the earth : two thousand years of map projections
+T3.11 530            9780140175059     Feynman, Richard P. (Richa    2006 The character of physical law
+T3.12 530            9780471105596     Halliday, David, 1916-2010    1996 Fundamentals of physics
+T3.13 530.0724       9780471335795     Kirkup, Les                   1996 Experimental methods : an introduction to the analysis and p
+T3.14 530.0924       9780099173311     Feynman, Richard P. (Richa    1992 "Surely you're joking, Mr. Feynman!" : adventures of a curio
+T3.15 551.70109      9780140135725     Gould, Stephen Jay            1991 Time's arrow, time's cycle : myth and metaphor in the discov
+T3.16 559.41         9780646439952     Lane, Peter, 1940-            2004 Geology of Western Australia's national parks : geology for 
+T3.17 567.9          9781291177121     Conway, John, 1981-           2012 All yesterdays : unique and speculative views of dinosaurs a
+T3.18 567.90994      9780643100459     Kear, Benjamin P.             2011 Dinosaurs in Australia : Mesozoic life from the southern con
+T3.19 567.918        9781742233666     Pickrell, John                2014 Flying dinosaurs : how fearsome reptiles became birds
+T3.20 575.0162       9780141026176     Dawkins, Richard, 1941-       2006 Climbing mount improbable
+T3.21 576.8          9780593061749     Dawkins, Richard, 1941-       2009 The greatest show on Earth : the evidence for evolution
+T3.22 576.82         9780141399430     Darwin, Charles, 1809-1882    2010 On natural selection
+T3.23 576.82         9780141026169     Dawkins, Richard, 1941-       2006 The blind watchmaker
+T3.24 577.52         9780684827124     Quammen, David, 1948-         1997 The song of the dodo : island biogeography in an age of exti
+T3.25 577.7          9780643103221     Swanson, K. M.                2012 Bugs of the ocean
+T3.26 581.63         9781742372181     Laws, Bill                    2011 Fifty plants that changed the course of history
+T3.27 581.6320994    9781741170283     Hiddins, Les, 1946-           2002 Bush tucker field guide
+T3.28 581.632099412  9781760800420     Hansen, Vivienne              2019 Noongar bush tucker : bush food plants and fungi of the sout
+T3.29 581.634        9781742589060     Hansen, Vivienne              2016 Noongar bush medicine : medicinal plants of the south-west o
+T3.30 581.99412      9780643100473     Dixon, K. W. (Kingsley W.)    2011 Coastal plants : a guide to the identification and restorati
+T3.31 582.13099412   9781921361784     Breeden, Stanley, 1937 or     2010 Wildflower country : discovering biodiversity in Australia's
+T3.32 590            9781446301432     Chaline, Eric                 2011 Fifty animals that changed the course of history
+T3.33 590            9781579656232     Stewart, Tracey (Organizat    2015 Do unto animals : a friendly guide to how animals live, and 
+T3.34 591.5          9780199291151     Dawkins, Richard, 1941-       2006 The selfish gene
+U1.01 591.77099412   9780730968634     Thomson-Dans, Carolyn         1997 Beachcomber's guide to South-West beaches
+U1.02 595.7          9780643103894     Swanson, K. M.                2012 Bugs of the land
+U1.03 597.8917554099 9780730757825     Aplin, K. P. (Kenneth Pete    None Building frog friendly gardens : a practical guide to encour
+U1.04 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Living with snakes and other reptiles
+U1.05 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles & frogs of the Perth region
+U1.06 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
+U1.07 598            9781486302925     Elphick, Jonathan             2014 The world of birds
+U1.08 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
+U1.09 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
+U1.10 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain & Europe
+U1.11 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
+U1.12 598.0994       9781876334789     Flegg, Jim                    2004 Birds of Australia
+U1.13 598.0994       9780643104693     Fraser, Ian                   2013 Australian bird names : a complete guide
+U1.14 598.0994       9780670072316     Simpson, Ken, 1936-           2010 Field guide to the birds of Australia
+U1.15 598.09946      9781876334604     Watts, Dave, 1943-            2003 Field guide to Tasmanian birds
+U1.16 598.2          9780643094932     Olsen, Penny                  2011 Stray feathers : reflections on the structure, behaviour and
+U1.17 598.294        9780261674028     Nicolai, Jürgen               1993 Birds of Britain & Europe
+U1.18 598.2973       9781572153172     Audubon, John James, 1785-    2004 Audubon's masterpieces : 150 prints from the Birds of Americ
+U1.19 598.2994       9780207155567     Cayley, Neville William, 1    1984 What bird is that?
+U1.20 598.2994       9780207199356     Pizzey, Graham, 1930-2001     2008 A field guide to the birds of Australia
+U1.21 598.2994       9780207198212     Pizzey, Graham, 1930-2001     2005 A field guide to the birds of Australia
+U1.22 598.330916456  9780643096592     Kam, Jan van de               2010 Invisible connections : why migrating shorebirds need the Ye
+U1.23 598.42         9780643095557     De Roy, Tui                   2008 Albatross : their world, their ways
+U1.24 598.6099481    9780643108707     Frith, Clifford B.            2013 The woodhen : a flightless island bird defying extinction
+U1.25 598.71         9780643100572     Forshaw, Joseph Michael       2010 Parrots of the world
+U1.26 598.91         9780811800044     Hendrickson, John, 1949-      1992 Raptors, birds of prey
+U1.27 598.970994     9780643097056     Olsen, Jerry                  2012 Australian high country owls
+U1.28 599.03         9780643091672     Strahan, Ronald               2007 Dictionary of Australian and New Guinean mammals
+U1.29 599.232099412  9780987577108     Wooller, Ron,                 None Sugar and sand : the world of the honey possum
+U1.30 613.2          9781594203084     Pollan, Michael               2011 Food rules : an eater's manual
+U1.31 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
+U1.32 616.85822      9781558740723     Middelton-Moz, Jane, 1947-    1990 Shame and guilt : the masters of disguise
+U1.33 616.8914       9780075548270     Bugental, James F. T.         1978 Psychotherapy and process : the fundamentals of an existenti
+U1.34 621.3192       9780201401004     Nilsson, James William        1995 Electric circuits
+U1.35 621.39092      9781408703748     Isaacson, Walter              2011 Steve Jobs
+U1.36 623.7464092    9780099481300     Henshaw, Alex                 1986 Sigh for a Merlin : testing the Spitfire
+U1.37 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
+U1.38 629.4530973    9780743200790     Kranz, Gene                   2000 Failure is not an option : mission control from Mercury to A
+U1.39 635            9780643095977     Horsfall, Mary, 1949-         2010 Fabulous food from every small garden
+U1.40 635            9780752858135     Stoddart, Laura               2000 Up the garden path : a little anthology
+U1.41 635.0484091732 9781740668989     Byrne, Josh                   2011 Small space organics : creating sustainable, edible gardens
+U1.42 635.04840994   9780867772456     Bennett, Peter                1988 Organic gardening
+U1.43 635.95194      9781864367492     Urquhart, Paul                2002 The new native garden : designing with Australian plants
+U1.44 635.95194      9781877069406     Wrigley, John W.              2007 Australian native plants : cultivation, use in landscaping a
+U1.45 635.986        9781486300914     Hill, Fionna, 1946-           2015 How to grow edibles in containers : good produce from small 
+U1.46 636.0890924    9780905712581     Herriot, James                1982 If only they could talk ; : It shouldn't happen to a vet ; L
+U1.47 640            9781405317757     Goldsmith, Sheherazade        None A slice of organic life
+U1.48 641.252        9781405394741     Smith, Gavin D.               2012 Whisky opus
+U1.49 641.2520973    9780760351727     Minnick, Fred, 1978-          2016 Bourbon : the rise, fall, and rebirth of an American whiskey
+U1.50 641.25209946   9780980450811     Kudelka, Jon,                 2014 Kudelka and First Dog's spiritual journey : in which two int
+U1.51 641.5          9781846147500     Pollan, Michael               None Cooked : a natural history of transformation
+U1.52 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
+U1.53 658.3          9781107664852     Teicher, Julian               2013 Australian workplace relations
+U1.54 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
 Y1.01 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
 Y1.02 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
 Y1.03 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
