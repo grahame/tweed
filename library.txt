@@ -1570,42 +1570,42 @@ I6.13 892.736        9780857423498     Zaqṭān, Ghassān               2016 De
 I6.14 895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
 I6.15 895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
 I6.16 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
-J1.01 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
-J1.02 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
-J1.03 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
-J1.04 895.635        9780099458326     Murakami, Haruki              2005 Kafka on the shore
-J1.05 895.635        9781846558337     Murakami, Haruki, (1949- )    2014 Colorless Tsukuru Tazaki and his years of pilgrimage : a nov
-J1.06 895.635        9780099578079     Murakami, Haruki, 1949-       2012 1Q84
-J1.07 895.635        9781784870157     Murakami, Haruki, 1949-       2015 A wild sheep chase
-J1.08 895.635        9780099448785     Murakami, Haruki, 1949-       2010 Hard-boiled wonderland and the end of the world : a novel
-J1.09 895.635        9781784707330     Murakami, Haruki, 1949-       2019 Killing Commendatore
-J1.10 895.635        9780099448822     Murakami, Haruki, 1949-       2003 Norwegian wood
-J1.11 895.635        9780099540953     Murakami, Haruki, 1949-       2010 The wind-up bird chronicle
-J1.12 895.635        9780099526155     Murakami, Haruki, 1949-       2009 What I talk about when I talk about running : a memoir
-J1.13 895.636        9781529029581     Kawaguchi, Toshikazu, 1971    2019 Before the coffee gets cold : a novel
-J1.14 895.636        9781529050868     Kawaguchi, Toshikazu, 1971    2020 Before the coffee gets cold : tales from the cafe
-J1.15 895.636        9781846275104     Kawakami, Hiromi, 1958-       2014 Strange weather in Tokyo : a novel
-J1.16 895.636        9781529054224     Kawakami, Mieko, 1976-        2020 Breasts and eggs
-J1.17 895.636        9781782275909     Matayoshi, Naoki, 1980-       2020 Spark
-J1.18 899.15         9781742582962     Scott, Kim, 1957-             2011 Mamang
-J1.19 899.15         9781742582955     Scott, Kim, 1957-             2011 Noongar Mambara Bakitj
-J1.20 899.15         9781742589664     Scott, Kim, 1957-             2017 Noorn = : Snake
-J1.21 899.1534       9781742585123     Scott, Kim, 1957-             2013 Yira boornak nyininy
-J1.22 901            9780226495552     Löwith, Karl, 1897-1973       1957 Meaning in history
-J1.23 901.9          9780415267373     Foucault, Michel, 1926-198    2001 The order of things : an archaeology of the human sciences
-J1.24 907.2094       9780522851281     Macintyre, Stuart, 1947-      2004 The history wars
-J1.25 909.07         9780823285563     Albin, Andrew [Editor; Oth    2019 Whose Middle Ages? : teachable moments for an ill-used past
-J1.26 909.07         9780300101287     Riley-Smith, Jonathan, 193    2005 The Crusades : a short history
-J1.27 909.08         9780391005419     Mandrou, Robert               1979 From humanism to science, 1480-1700
-J1.28 909.097671                       Brockelmann, Carl             1960 History of the Islamic peoples (Capricorn books)
-J1.29 909.09821      9780300164299     Hart, David Bentley           2010 Atheist delusions : the Christian revolution and its fashion
-J1.30 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
-J1.31 910.41         9781742707266     Hendrie, Doug                 2014 Amalga-nations : how globalisation is good
-J1.32 910.410922     9780316729697     McGregor, Ewan, 1971-         2004 Long way round : chasing shadows across the world
-J1.33 910.94                           Parry, J. H.                  1982 The Age of Reconnaissance : Discovery, Exploration, and Sett
-J1.34 914.031        9780140210019     Wolff, Philippe               1969 The cultural awakening
-J1.35 914.1150486    9780099460275     Banks, Iain, 1954-2013        2004 Raw spirit : in search of the perfect dram
-J1.36 919.89         9781869405830     Meduna, Veronika              2012 Science on ice : discovering the secrets of Antarctica
+I6.17 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
+I6.18 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
+I6.19 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
+I6.20 895.635        9780099458326     Murakami, Haruki              2005 Kafka on the shore
+I6.21 895.635        9781846558337     Murakami, Haruki, (1949- )    2014 Colorless Tsukuru Tazaki and his years of pilgrimage : a nov
+I6.22 895.635        9780099578079     Murakami, Haruki, 1949-       2012 1Q84
+I6.23 895.635        9781784870157     Murakami, Haruki, 1949-       2015 A wild sheep chase
+I6.24 895.635        9780099448785     Murakami, Haruki, 1949-       2010 Hard-boiled wonderland and the end of the world : a novel
+I6.25 895.635        9781784707330     Murakami, Haruki, 1949-       2019 Killing Commendatore
+J1.01 895.635        9780099448822     Murakami, Haruki, 1949-       2003 Norwegian wood
+J1.02 895.635        9780099540953     Murakami, Haruki, 1949-       2010 The wind-up bird chronicle
+J1.03 895.635        9780099526155     Murakami, Haruki, 1949-       2009 What I talk about when I talk about running : a memoir
+J1.04 895.636        9781529029581     Kawaguchi, Toshikazu, 1971    2019 Before the coffee gets cold : a novel
+J1.05 895.636        9781529050868     Kawaguchi, Toshikazu, 1971    2020 Before the coffee gets cold : tales from the cafe
+J1.06 895.636        9781846275104     Kawakami, Hiromi, 1958-       2014 Strange weather in Tokyo : a novel
+J1.07 895.636        9781529054224     Kawakami, Mieko, 1976-        2020 Breasts and eggs
+J1.08 895.636        9781782275909     Matayoshi, Naoki, 1980-       2020 Spark
+J1.09 899.15         9781742582962     Scott, Kim, 1957-             2011 Mamang
+J1.10 899.15         9781742582955     Scott, Kim, 1957-             2011 Noongar Mambara Bakitj
+J1.11 899.15         9781742589664     Scott, Kim, 1957-             2017 Noorn = : Snake
+J1.12 899.1534       9781742585123     Scott, Kim, 1957-             2013 Yira boornak nyininy
+J1.13 901            9780226495552     Löwith, Karl, 1897-1973       1957 Meaning in history
+J1.14 901.9          9780415267373     Foucault, Michel, 1926-198    2001 The order of things : an archaeology of the human sciences
+J1.15 907.2094       9780522851281     Macintyre, Stuart, 1947-      2004 The history wars
+J1.16 909.07         9780823285563     Albin, Andrew [Editor; Oth    2019 Whose Middle Ages? : teachable moments for an ill-used past
+J1.17 909.07         9780300101287     Riley-Smith, Jonathan, 193    2005 The Crusades : a short history
+J1.18 909.08         9780391005419     Mandrou, Robert               1979 From humanism to science, 1480-1700
+J1.19 909.097671                       Brockelmann, Carl             1960 History of the Islamic peoples (Capricorn books)
+J1.20 909.09821      9780300164299     Hart, David Bentley           2010 Atheist delusions : the Christian revolution and its fashion
+J1.21 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
+J1.22 910.41         9781742707266     Hendrie, Doug                 2014 Amalga-nations : how globalisation is good
+J1.23 910.410922     9780316729697     McGregor, Ewan, 1971-         2004 Long way round : chasing shadows across the world
+J1.24 910.94                           Parry, J. H.                  1982 The Age of Reconnaissance : Discovery, Exploration, and Sett
+J1.25 914.031        9780140210019     Wolff, Philippe               1969 The cultural awakening
+J1.26 914.1150486    9780099460275     Banks, Iain, 1954-2013        2004 Raw spirit : in search of the perfect dram
+J1.27 919.89         9781869405830     Meduna, Veronika              2012 Science on ice : discovering the secrets of Antarctica
 J2.01 920.71         9780143003540     Facey, A. B. (Albert Barne    2005 A fortunate life
 J2.02 933            9780890515495     Josephus, Flavius             2008 The complete works of Flavius Josephus, the Jewish historian
 J2.03 933                              Noth, Martin                  1960 The History of Israel
