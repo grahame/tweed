@@ -1396,91 +1396,91 @@ H5.15 823.912        9780261103566     Tolkien, J. R. R. (John Ro    2011 The Ho
 H5.16 823.912        9780008302757     Tolkien, J. R. R., 1892-19    2018 The fall of Gondolin
 H5.17 823.912        9780007252268     Tolkien, John Ronald Reuel    2008 Narn i chîn Húrin : the tale of the children of Húrin
 H5.18 823.912        9780008387952     Tolkien, John Ronald Reuel    2020 Unfinished tales of Númenor and Middle-earth
-H5.19 823.912        9780141037233     Waugh, Evelyn, 1903-1966      2008 A handful of dust
-H5.20 823.912        9780141045627     Waugh, Evelyn, 1903-1966      2012 Brideshead revisited : the sacred and profane memories of Ca
-H5.21 823.912        9780141184029     Waugh, Evelyn, 1903-1966      2000 Scoop
-H5.22 823.912        9780307216267     Wells, H. G. (Herbert Geor    1978 The war of the worlds
-H5.23 823.912        9780664226107     Wood, Ralph C.                2003 The gospel according to Tolkien : visions of the kingdom in 
-H5.24 823.912        9781853260919     Woolf, Virginia               1999 To the lighthouse
-H5.25 823.912        9780586044438     Woolf, Virginia, 1882-1941    1978 Between the acts
-H5.26 823.912        9780143566533     Wyndham, John, 1903-1969      2011 The day of the triffids
-H5.27 823.914        9780575097629     Aaronovitch, Ben, 1964-       2011 Moon over Soho
-H5.28 823.914        9780575097667     Aaronovitch, Ben, 1964-       2012 Whispers under ground
-H5.29 823.914        9780330418430     Adams, Douglas                2003 The salmon of doubt : hitchhiking the galaxy one last time
-H5.30 823.914        9780330301626     Adams, Douglas, 1952-2001     1988 Dirk Gently's Holistic Detective Agency
-H5.31 823.914        9780330309554     Adams, Douglas, 1952-2001,    1989 The long dark tea-time of the soul
-H5.32 823.914        9780140306019     Adams, Richard (1920- )       2000 Watership Down
-H5.33 823.914        9780586049969     Aldiss, Brian W. (Brian Wi    1985 Enemies of the system : a tale of homo uniformis
-H5.34 823.914        9780007287024     Ballard, J. G                 2008 Crash
-H5.35 823.914        9780586089965     Ballard, J. G., 1930-2009     2008 The drought
-H5.36 823.914        9780007287048     Ballard, J. G., 1930-2009,    2008 Concrete island
-H5.37 823.914        9780007287031     Ballard, James Graham (193    2008 Hello America
-H5.38 823.914        9780008329754     Ballard, James Graham, 193    2019 Empire of the Sun : a novel
-H5.39 823.914        9780349110110     Banks, Iain, 1954-2013        1998 A song of stone : a novel
-H5.40 823.914        9781857231793     Banks, Iain, 1954-2013        1996 Against a dark background
-H5.41 823.914        9780349101712     Banks, Iain, 1954-2013        1990 Canal dreams
-H5.42 823.914        9780349139135     Banks, Iain, 1954-2013        2013 Complicity
-H5.43 823.914        9781857231380     Banks, Iain, 1954-2013        2003 Consider Phlebas
-H5.44 823.914        9780349116648     Banks, Iain, 1954-2013        2003 Dead air
-H5.45 823.914        9780349102146     Banks, Iain, 1954-2013        1990 Espedair Street
-H5.46 823.914        9781857234572     Banks, Iain, 1954-2013        1997 Excession
-H5.47 823.914        9781857232738     Banks, Iain, 1954-2013        1994 Feersum endjinn
-H5.48 823.914        9781857237634     Banks, Iain, 1954-2013        1999 Inversions
-H5.49 823.914        9781841490595     Banks, Iain, 1954-2013        2001 Look to windward
-H5.50 823.914        9781841494197     Banks, Iain, 1954-2013        2009 Matter
-H5.51 823.914        9781408702512     Banks, Iain, 1954-2013        2012 Stonemouth
-H5.52 823.914        9781841498942     Banks, Iain, 1954-2013        2010 Surface detail
-H5.53 823.914        9781841492292     Banks, Iain, 1954-2013        2005 The algebraist
-H5.54 823.914        9780708883037     Banks, Iain, 1954-2013        1989 The bridge
-H5.55 823.914        9780349139227     Banks, Iain, 1954-2013        2013 The business : a novel
-H5.56 823.914        9780356501512     Banks, Iain, 1954-2013        2012 The hydrogen sonata
-H5.57 823.914        9781857231465     Banks, Iain, 1954-2013        1992 The player of games
-H5.58 823.914        9780349138596     Banks, Iain, 1954-2013        2001 The quarry
-H5.59 823.914        9781857230307     Banks, Iain, 1954-2013        1993 The state of the art
-H5.60 823.914        9780349119281     Banks, Iain, 1954-2013        2012 The steep approach to Garbadale
-H5.61 823.914        9780349101774     Banks, Iain, 1954-2013        1992 The wasp factory : a novel
-H5.62 823.914        9780349119274     Banks, Iain, 1954-2013        2010 Transition
-H5.63 823.914        9781857231359     Banks, Iain, 1954-2013        1992 Use of weapons
-H5.64 823.914        9780349139203     Banks, Iain, 1954-2013        2013 Walking on glass
-H5.65 823.914        9780349107684     Banks, Iain, 1954-2013        1996 Whit, or Isis amongst the unsaved
-H5.66 823.914        9780575075535     Baxter, Stephen               2004 Coalescent
-H5.67 823.914        9780575076556     Baxter, Stephen               2005 Exultant
-H5.68 823.914        9780575084827     Baxter, Stephen               2008 Flood
-H5.69 823.914        9780006511830     Baxter, Stephen               2001 Space
-H5.70 823.914        9781473205109     Baxter, Stephen               None The massacre of mankind : sequel to The war of the worlds
-H5.71 823.914        9780006511823     Baxter, Stephen               2000 Time
-H5.72 823.914        9780002246934     Baxter, Stephen               1998 Traces
-H5.73 823.914        9780006498124     Baxter, Stephen               1998 Vacuum diagrams : stories of the xeelee sequence
-H5.74 823.914        9780006480372     Baxter, Stephen               1997 Voyage
-H5.75 823.914        9780330023122     Clarke, Arthur C              1969 A fall of moondust
-H5.76 823.914        9780151879809     Clarke, Arthur C              1962 Tales of ten worlds
-H5.77 823.914        9780586056998     Clarke, Arthur C. (Arthur     1985 2010 : odyssey two
-H5.78 823.914        9780330240246     Clarke, Arthur C. (Arthur     1974 Rendezvous with Rama
-H6.01 823.914        9780140156829     Dahl, Roald                   1992 Boy : tales of childhood
-H6.02 823.914        9780141037578     Dahl, Roald, 1916-1990        2008 Roald Dahl's tales of the unexpected
-H6.03 823.914        9780671855673     Elton, Ben                    1997 Popcorn
-H6.04 823.914        9780241984994     Evaristo, Bernardine, 1959    2020 Girl, woman, other
-H6.05 823.914        9781473227835     Gaiman, Neil                  2019 Good omens : the nice and accurate prophecies of Agnes Nutte
-H6.06 823.914        9788172236137     Ghosh, Amitav                 2008 The hungry tide
-H6.07 823.914        9781405088817     Hamilton, Peter F.            2007 The dreaming void
-H6.08 823.914        9780450588853     Herbert, James, 1943-2013     1993 Portent
-H6.09 823.914        9780141037356     Hornby, Nick                  2008 High fidelity
-H6.10 823.914        9780571342211     James, P. D.                  2018 The children of men
-H6.11 823.914        9780571209293     Kureishi, Hanif, 1954-        2002 Gabriel's gift : a novel
-H6.12 823.914        9781857988901     Levy, Roger, 1955-            2001 Reckless sleep
-H6.13 823.914        9780563207733     Lynn, Jonathan                1989 The Complete Yes Prime Minister : the diaries of the right H
-H6.14 823.914        9781841493442     MacLeod, Ken, 1954-           2006 Learning the world : a scientific romance
-H6.15 823.914        9781841492247     MacLeod, Ken, 1954-           2005 Newton's wake : a space opera
-H6.16 823.914        9781841493497     MacLeod, Ken, 1954-           2008 The Execution Channel
-H6.17 823.914        9780721412634     McEwan, Ian                   2007 Atonement
-H6.18 823.914        9780140111057     Mortimer, John, 1923-2009     1988 Rumpole and the age of miracles
-H6.19 823.914        9780140063318     Mortimer, John, 1923-2009     1984 Rumpole and the golden thread
-H6.20 823.914        9780141037530     Mortimer, John, 1923-2009     None Rumpole and the Penge Bungalow murders
-H6.21 823.914        9780140132618     Mortimer, John, 1923-2009     1991 Rumpole à la carte
-H6.22 823.914        9780061975134     Nix, Garth                    2009 Sabriel
-H6.23 823.914        9780552166669     Pratchett, Terry              2012 Guards! guards!
-H6.24 823.914        9780552166621     Pratchett, Terry              2012 Mort : a novel of Discworld
-H6.25 823.914        9780575064836     Pratchett, Terry              1997 Reaper man
+H6.01 823.912        9780141037233     Waugh, Evelyn, 1903-1966      2008 A handful of dust
+H6.02 823.912        9780141045627     Waugh, Evelyn, 1903-1966      2012 Brideshead revisited : the sacred and profane memories of Ca
+H6.03 823.912        9780141184029     Waugh, Evelyn, 1903-1966      2000 Scoop
+H6.04 823.912        9780307216267     Wells, H. G. (Herbert Geor    1978 The war of the worlds
+H6.05 823.912        9780664226107     Wood, Ralph C.                2003 The gospel according to Tolkien : visions of the kingdom in 
+H6.06 823.912        9781853260919     Woolf, Virginia               1999 To the lighthouse
+H6.07 823.912        9780586044438     Woolf, Virginia, 1882-1941    1978 Between the acts
+H6.08 823.912        9780143566533     Wyndham, John, 1903-1969      2011 The day of the triffids
+H6.09 823.914        9780575097629     Aaronovitch, Ben, 1964-       2011 Moon over Soho
+H6.10 823.914        9780575097667     Aaronovitch, Ben, 1964-       2012 Whispers under ground
+H6.11 823.914        9780330418430     Adams, Douglas                2003 The salmon of doubt : hitchhiking the galaxy one last time
+H6.12 823.914        9780330301626     Adams, Douglas, 1952-2001     1988 Dirk Gently's Holistic Detective Agency
+H6.13 823.914        9780330309554     Adams, Douglas, 1952-2001,    1989 The long dark tea-time of the soul
+H6.14 823.914        9780140306019     Adams, Richard (1920- )       2000 Watership Down
+H6.15 823.914        9780586049969     Aldiss, Brian W. (Brian Wi    1985 Enemies of the system : a tale of homo uniformis
+H6.16 823.914        9780007287024     Ballard, J. G                 2008 Crash
+H6.17 823.914        9780586089965     Ballard, J. G., 1930-2009     2008 The drought
+H6.18 823.914        9780007287048     Ballard, J. G., 1930-2009,    2008 Concrete island
+H6.19 823.914        9780007287031     Ballard, James Graham (193    2008 Hello America
+H6.20 823.914        9780008329754     Ballard, James Graham, 193    2019 Empire of the Sun : a novel
+H6.21 823.914        9780349110110     Banks, Iain, 1954-2013        1998 A song of stone : a novel
+H6.22 823.914        9781857231793     Banks, Iain, 1954-2013        1996 Against a dark background
+H6.23 823.914        9780349101712     Banks, Iain, 1954-2013        1990 Canal dreams
+H6.24 823.914        9780349139135     Banks, Iain, 1954-2013        2013 Complicity
+H6.25 823.914        9781857231380     Banks, Iain, 1954-2013        2003 Consider Phlebas
+H6.26 823.914        9780349116648     Banks, Iain, 1954-2013        2003 Dead air
+H6.27 823.914        9780349102146     Banks, Iain, 1954-2013        1990 Espedair Street
+H6.28 823.914        9781857234572     Banks, Iain, 1954-2013        1997 Excession
+H6.29 823.914        9781857232738     Banks, Iain, 1954-2013        1994 Feersum endjinn
+H6.30 823.914        9781857237634     Banks, Iain, 1954-2013        1999 Inversions
+H6.31 823.914        9781841490595     Banks, Iain, 1954-2013        2001 Look to windward
+H6.32 823.914        9781841494197     Banks, Iain, 1954-2013        2009 Matter
+H6.33 823.914        9781408702512     Banks, Iain, 1954-2013        2012 Stonemouth
+H6.34 823.914        9781841498942     Banks, Iain, 1954-2013        2010 Surface detail
+H6.35 823.914        9781841492292     Banks, Iain, 1954-2013        2005 The algebraist
+H6.36 823.914        9780708883037     Banks, Iain, 1954-2013        1989 The bridge
+H6.37 823.914        9780349139227     Banks, Iain, 1954-2013        2013 The business : a novel
+H6.38 823.914        9780356501512     Banks, Iain, 1954-2013        2012 The hydrogen sonata
+H6.39 823.914        9781857231465     Banks, Iain, 1954-2013        1992 The player of games
+H6.40 823.914        9780349138596     Banks, Iain, 1954-2013        2001 The quarry
+H6.41 823.914        9781857230307     Banks, Iain, 1954-2013        1993 The state of the art
+H6.42 823.914        9780349119281     Banks, Iain, 1954-2013        2012 The steep approach to Garbadale
+H6.43 823.914        9780349101774     Banks, Iain, 1954-2013        1992 The wasp factory : a novel
+H6.44 823.914        9780349119274     Banks, Iain, 1954-2013        2010 Transition
+H6.45 823.914        9781857231359     Banks, Iain, 1954-2013        1992 Use of weapons
+H6.46 823.914        9780349139203     Banks, Iain, 1954-2013        2013 Walking on glass
+H6.47 823.914        9780349107684     Banks, Iain, 1954-2013        1996 Whit, or Isis amongst the unsaved
+H6.48 823.914        9780575075535     Baxter, Stephen               2004 Coalescent
+H6.49 823.914        9780575076556     Baxter, Stephen               2005 Exultant
+H6.50 823.914        9780575084827     Baxter, Stephen               2008 Flood
+H6.51 823.914        9780006511830     Baxter, Stephen               2001 Space
+H6.52 823.914        9781473205109     Baxter, Stephen               None The massacre of mankind : sequel to The war of the worlds
+H6.53 823.914        9780006511823     Baxter, Stephen               2000 Time
+H6.54 823.914        9780002246934     Baxter, Stephen               1998 Traces
+H6.55 823.914        9780006498124     Baxter, Stephen               1998 Vacuum diagrams : stories of the xeelee sequence
+H6.56 823.914        9780006480372     Baxter, Stephen               1997 Voyage
+H6.57 823.914        9780330023122     Clarke, Arthur C              1969 A fall of moondust
+H6.58 823.914        9780151879809     Clarke, Arthur C              1962 Tales of ten worlds
+H6.59 823.914        9780586056998     Clarke, Arthur C. (Arthur     1985 2010 : odyssey two
+H6.60 823.914        9780330240246     Clarke, Arthur C. (Arthur     1974 Rendezvous with Rama
+H6.61 823.914        9780140156829     Dahl, Roald                   1992 Boy : tales of childhood
+H6.62 823.914        9780141037578     Dahl, Roald, 1916-1990        2008 Roald Dahl's tales of the unexpected
+H6.63 823.914        9780671855673     Elton, Ben                    1997 Popcorn
+H6.64 823.914        9780241984994     Evaristo, Bernardine, 1959    2020 Girl, woman, other
+H6.65 823.914        9781473227835     Gaiman, Neil                  2019 Good omens : the nice and accurate prophecies of Agnes Nutte
+H6.66 823.914        9788172236137     Ghosh, Amitav                 2008 The hungry tide
+H6.67 823.914        9781405088817     Hamilton, Peter F.            2007 The dreaming void
+H6.68 823.914        9780450588853     Herbert, James, 1943-2013     1993 Portent
+H6.69 823.914        9780141037356     Hornby, Nick                  2008 High fidelity
+H6.70 823.914        9780571342211     James, P. D.                  2018 The children of men
+H6.71 823.914        9780571209293     Kureishi, Hanif, 1954-        2002 Gabriel's gift : a novel
+H6.72 823.914        9781857988901     Levy, Roger, 1955-            2001 Reckless sleep
+H6.73 823.914        9780563207733     Lynn, Jonathan                1989 The Complete Yes Prime Minister : the diaries of the right H
+H6.74 823.914        9781841493442     MacLeod, Ken, 1954-           2006 Learning the world : a scientific romance
+H6.75 823.914        9781841492247     MacLeod, Ken, 1954-           2005 Newton's wake : a space opera
+H6.76 823.914        9781841493497     MacLeod, Ken, 1954-           2008 The Execution Channel
+H6.77 823.914        9780721412634     McEwan, Ian                   2007 Atonement
+H6.78 823.914        9780140111057     Mortimer, John, 1923-2009     1988 Rumpole and the age of miracles
+H6.79 823.914        9780140063318     Mortimer, John, 1923-2009     1984 Rumpole and the golden thread
+H6.80 823.914        9780141037530     Mortimer, John, 1923-2009     None Rumpole and the Penge Bungalow murders
+H6.81 823.914        9780140132618     Mortimer, John, 1923-2009     1991 Rumpole à la carte
+H6.82 823.914        9780061975134     Nix, Garth                    2009 Sabriel
+H6.83 823.914        9780552166669     Pratchett, Terry              2012 Guards! guards!
+H6.84 823.914        9780552166621     Pratchett, Terry              2012 Mort : a novel of Discworld
+H6.85 823.914        9780575064836     Pratchett, Terry              1997 Reaper man
 I1.01 823.914        9780575067981     Pratchett, Terry              1999 The city watch trilogy
 I1.02 823.914        9780552124751     Pratchett, Terry              1985 The colour of magic
 I1.03 823.914        9780857520104     Pratchett, Terry              2012 The long earth
