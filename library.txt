@@ -1599,13 +1599,12 @@ J1.17 909.07         9780300101287     Riley-Smith, Jonathan, 193    2005 The Cr
 J1.18 909.08         9780391005419     Mandrou, Robert               1979 From humanism to science, 1480-1700
 J1.19 909.097671                       Brockelmann, Carl             1960 History of the Islamic peoples (Capricorn books)
 J1.20 909.09821      9780300164299     Hart, David Bentley           2010 Atheist delusions : the Christian revolution and its fashion
-J1.21 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
-J1.22 910.41         9781742707266     Hendrie, Doug                 2014 Amalga-nations : how globalisation is good
-J1.23 910.410922     9780316729697     McGregor, Ewan, 1971-         2004 Long way round : chasing shadows across the world
-J1.24 910.94                           Parry, J. H.                  1982 The Age of Reconnaissance : Discovery, Exploration, and Sett
-J1.25 914.031        9780140210019     Wolff, Philippe               1969 The cultural awakening
-J1.26 914.1150486    9780099460275     Banks, Iain, 1954-2013        2004 Raw spirit : in search of the perfect dram
-J1.27 919.89         9781869405830     Meduna, Veronika              2012 Science on ice : discovering the secrets of Antarctica
+J1.21 910.41         9781742707266     Hendrie, Doug                 2014 Amalga-nations : how globalisation is good
+J1.22 910.410922     9780316729697     McGregor, Ewan, 1971-         2004 Long way round : chasing shadows across the world
+J1.23 910.94                           Parry, J. H.                  1982 The Age of Reconnaissance : Discovery, Exploration, and Sett
+J1.24 914.031        9780140210019     Wolff, Philippe               1969 The cultural awakening
+J1.25 914.1150486    9780099460275     Banks, Iain, 1954-2013        2004 Raw spirit : in search of the perfect dram
+J1.26 919.89         9781869405830     Meduna, Veronika              2012 Science on ice : discovering the secrets of Antarctica
 J2.01 920.71         9780143003540     Facey, A. B. (Albert Barne    2005 A fortunate life
 J2.02 933            9780890515495     Josephus, Flavius             2008 The complete works of Flavius Josephus, the Jewish historian
 J2.03 933                              Noth, Martin                  1960 The History of Israel
@@ -1676,6 +1675,7 @@ J3.30                9780648228202     Watts, Rachel                 2018 Surviv
 J3.31                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
 J3.32                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 T1.01 001.642        9780914845461     Norton, Peter                 1985 The Peter Norton Programmer's guide to the IBM PC
+T1.01 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
 T1.02 001.9          9780099185727     White, Michael, 1959-2018     1996 The science of the X-files
 T1.03 004.62         9780321336316     Stevens, W. Richard           2011 TCP/IP illustrated
 T1.04 004.67         9780670859139     Gates, Bill, 1955-            1995 The road ahead
