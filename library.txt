@@ -1230,19 +1230,21 @@ G5.16 813.54         9780099267546     Vonnegut, Kurt                1998 Timequ
 G5.17 813.54         9788129115546     Vonnegut, Kurt                2011 While Mortals Sleep
 G5.18 813.54         9780812566628     Wilson, Robert Charles, 19    1999 Darwinia
 G5.19 813.54         9780575132306     Womack, Jack                  2013 Random acts of senseless violence
-G5.20 813.6          9781789091618     Anders, Charlie Jane          2019 The city in the middle of the night
-G5.21 813.6          9781471137716     Anderson, Gillian, 1968-      2014 A vision of fire : a novel
-G5.22 813.6          9781455557967     Baxter, Greg                  2016 Munich Airport : a novel
-G5.23 813.6          9780451460929     Bear, Elizabeth               2006 Blood and iron
-G5.24 813.6          9781612182360     Bear, Erik                    2012 The Mongoliad : Book one
-G5.25 813.6          9780575096714     Black, Holly                  None White cat
-G5.26 813.6          9780307346612     Brooks, Max                   2007 World War Z : an oral history of the zombie war
-G5.27 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
-G5.28 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
-G5.29 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
-G5.30 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
-G5.31 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
-G5.32 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
+G5.20 813.6          9781785650550     Anders, Charlie Jane          2016 All the birds in the sky
+G5.21 813.6          9781789091618     Anders, Charlie Jane          2019 The city in the middle of the night
+G5.22 813.6          9781789094725     Anders, Charlie Jane          2021 Victories greater than death
+G5.23 813.6          9781471137716     Anderson, Gillian, 1968-      2014 A vision of fire : a novel
+G5.24 813.6          9781455557967     Baxter, Greg                  2016 Munich Airport : a novel
+G5.25 813.6          9780451460929     Bear, Elizabeth               2006 Blood and iron
+G5.26 813.6          9781612182360     Bear, Erik                    2012 The Mongoliad : Book one
+G5.27 813.6          9780575096714     Black, Holly                  None White cat
+G5.28 813.6          9780307346612     Brooks, Max                   2007 World War Z : an oral history of the zombie war
+G5.29 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
+G5.30 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
+G5.31 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
+G5.32 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
+G5.33 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
+G5.34 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
 G6.01 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
 G6.02 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
 G6.03 813.6          9781841499932     Corey, James S. A.            2014 Abaddon's Gate
@@ -1503,33 +1505,35 @@ I3.22 823.914        9781451688382     Tóibín, Colm                  2012 The 
 I3.23 823.914        9780732265694     Williams, Sean, 1967-         1964 The prodigal sun
 I3.24 823.92         9780575097582     Aaronovitch, Ben, 1964-       2011 Rivers of London
 I3.25 823.92         9780007362622     Adichie, Chimamanda Ngozi,    2013 Americanah
-I3.26 823.92         9780246137067     Baxter, Stephen               1991 Raft
+I3.26 823.92         9781473228863     Baxter, Stephen               None Galaxias
+I3.27 823.92         9780246137067     Baxter, Stephen               1991 Raft
 I4.01 823.92         9781894063302     Bedford, K. A. (K. Adrian)    2005 Eclipse
 I4.02 823.92         9781894063203     Bedford, K. A. (K. Adrian)    2007 Hydrogen steel
 I4.03 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
 I4.04 823.92         9788129113726     Bhagat, Chetan                2008 The 3 mistakes of my life : a story about business, cricket,
 I4.05 823.92         9780141042138     Colfer, Eoin                  2010 And another thing-- : Douglas Adams's Hitchhiker's guide to 
-I4.06 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
-I4.07 823.92         9781786892720     Haig, Matt                    2020 The midnight library
-I4.08 823.92         9780732281229     Harding, Traci                2009 Being of the field
-I4.09 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
-I4.10 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
-I4.11 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
-I4.12 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
-I4.13 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
-I4.14 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
-I4.15 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
-I4.16 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
-I4.17 823.92         9780575079076     Robson, Justina               2006 Keeping it real
-I4.18 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
-I4.19 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
-I4.20 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
-I4.21 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
-I4.22 823.92         9780356511108     Stross, Charles               None The labyrinth index
-I4.23 823.92         9780356511368     Thompson, Tade                2018 Rosewater
-I4.24 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
-I4.25 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
-I4.26 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
+I4.06 823.92         9781473232297     Egan, Greg, 1961-             2021 The best of Greg Egan
+I4.07 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
+I4.08 823.92         9781786892720     Haig, Matt                    2020 The midnight library
+I4.09 823.92         9780732281229     Harding, Traci                2009 Being of the field
+I4.10 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
+I4.11 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
+I4.12 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
+I4.13 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
+I4.14 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
+I4.15 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
+I4.16 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
+I4.17 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
+I4.18 823.92         9780575079076     Robson, Justina               2006 Keeping it real
+I4.19 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
+I4.20 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
+I4.21 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
+I4.22 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
+I4.23 823.92         9780356511108     Stross, Charles               None The labyrinth index
+I4.24 823.92         9780356511368     Thompson, Tade                2018 Rosewater
+I4.25 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
+I4.26 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
+I4.27 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
 I5.01 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
 I5.02 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
 I5.03 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
