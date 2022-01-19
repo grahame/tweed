@@ -15,12 +15,12 @@ function useInput() {
     return [value, input];
 }
 
-function filterBook(book: any, re: RegExp) {
-    return re.test(book.author) || re.test(book.title);
-};
-
 interface BookProp {
     books: typeof Books.books
+};
+
+function filterBook(book: typeof Books.books[0], re: RegExp) {
+    return re.test(book.author) || re.test(book.title) || re.test(book.loc);
 };
 
 function BookTable(props: React.PropsWithChildren<BookProp>) {

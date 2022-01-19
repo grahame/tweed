@@ -47,31 +47,32 @@ A2.05 193            9781593083847     Nietzsche, Friedrich Wilhe    2007 Thus s
 A2.06 193            9780199554966     Nietzsche, Friedrich Wilhe    2009 Twilight of the idols, or, How to philosophize with a hammer
 A2.07 194            9780192806963     Descartes, René, 1596-1650    2008 Meditations on first philosophy : with selections from the O
 A2.08 194            9780140259575     Foucault, Michel              2010 The essential works of Michel Foucault, 1954-1984
-A2.09 194            9780241472903     WEIL, SIMONE                  2020 POWER OF WORDS
-A2.10 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravity and grace
-A2.11 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
-A2.12 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
-A2.13 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
-A2.14 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
-A2.15 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
-A2.16 200                              Otto, Rudolf                  1968 [(The Idea of the Holy)] [ By (author) Rudolf Otto, Translat
-A2.17 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
-A2.18 200.7          9780567085344     King, Ursula                  1996 Turning points in religious studies : essays in honour of Ge
-A2.19 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
-A2.20 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
-A2.21 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
-A2.22 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
-A2.23 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
-A2.24 201            9780226803418     Tillich, Paul, 1886-1965      1964 Biblical religion and the search for ultimate reality
-A2.25 201.65         9780226478982     Harrison, Peter, 1955-        2017 The territories of science and religion
-A2.26 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
-A2.27 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
-A2.28 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
-A2.29 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
-A2.30 209.2          9780859220323     Watson, John                  None Holy persons and holy days : paragraphs to accompany the cal
-A2.31 210.1          9781922235763     Hudson, Wayne                 2016 Australian religious thought
-A2.32 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
-A2.33 211            9780300209358     Hart, David Bentley           2014 The experience of God : being, consciousness, bliss
+A2.09 194            9781626984493     Haught, John F.               2021 The cosmic vision of Teilhard de Chardin
+A2.10 194            9780241472903     WEIL, SIMONE                  2020 POWER OF WORDS
+A2.11 194            9780415290012     Weil, Simone, 1909-1943       2002 Gravity and grace
+A2.12 198.9          9780141984438     Carlisle, Clare, 1977-        2020 Philosopher of the heart : the restless life of Søren Kierke
+A2.13 198.9          9780140445770     Kierkegaard, Søren, 1813-1    1992 Either/or
+A2.14 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
+A2.15 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
+A2.16 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
+A2.17 200                              Otto, Rudolf                  1968 [(The Idea of the Holy)] [ By (author) Rudolf Otto, Translat
+A2.18 200.1          9780521359665     Smart, Ninian, 1927-2001 [    1988 Nineteenth century religious thought in the west
+A2.19 200.7          9780567085344     King, Ursula                  1996 Turning points in religious studies : essays in honour of Ge
+A2.20 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her voice, her faith : women speak on world religions
+A2.21 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
+A2.22 200.94034      9780393047455     Wilson, A. N., 1950-          1999 God's funeral
+A2.23 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
+A2.24 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
+A2.25 201            9780226803418     Tillich, Paul, 1886-1965      1964 Biblical religion and the search for ultimate reality
+A2.26 201.65         9780226478982     Harrison, Peter, 1955-        2017 The territories of science and religion
+A2.27 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
+A2.28 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
+A2.29 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
+A2.30 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
+A2.31 209.2          9780859220323     Watson, John                  None Holy persons and holy days : paragraphs to accompany the cal
+A2.32 210.1          9781922235763     Hudson, Wayne                 2016 Australian religious thought
+A2.33 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
+A2.34 211            9780300209358     Hart, David Bentley           2014 The experience of God : being, consciousness, bliss
 A3.01 220.7          9780136149347     Brown, Raymond Edward         1989 The new Jerome biblical commentary
 A3.02 220.7          9781426735837     Keck, Leander E.              2015 The New interpreter's bible commentary
 A3.03 220.7          9781426735844     Keck, Leander E.              2015 The New interpreter's bible commentary
@@ -497,23 +498,24 @@ C3.21 233.5          9780334058373     O'Donnell, Karen (Research    2019 Broken
 C3.22 233.5          9780631210702     Rogers, Eugene F., Jr. (Eu    1999 Sexuality and the Christian body : their way into the triune
 C3.23 233.5          9780281079759     Williams, Rowan, 1950-        2018 Being human : bodies, minds, persons
 C3.24 234            9780722085189     Aumann, Jordan                1980 Spiritual theology
-C3.25 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
-C3.26 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
-C3.27 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
-C3.28 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
-C3.29 234.163        9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
-C3.30 234.163        9780232512984     Voillaume, René               1976 Source of life : the Eucharist and Christian living
-C3.31 234.163        9780567326607     Zizioulas, Jean, 1931-        2011 The eucharistic communion and the world
-C3.32 234.1630902    9780814660539     Macy, Gary                    1999 Treasures from the storeroom : medieval religion and the Euc
-C3.33 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
-C3.34 234.2          9780060937133     Tillich, Paul, 1886-1965      2009 Dynamics of faith
-C3.35 234.23         9780232529531     Ashby, Roland                 2012 A faith to live by : what an intelligent, compassionate and 
-C3.36 234.5          9780819217349     Countryman, Louis William,    1998 Forgiven and forgiving
-C3.37 236            9780813215167     Benedict XVI, Pope, 1927-     2007 Eschatology, death and eternal life
-C3.38 236            9781608994724     Cullmann, Oscar               2000 Immortality of the soul ; or, Resurrection of the dead? : th
-C3.39 236            9780800628246     Moltmann, Jürgen              1993 Theology of hope : on the ground and the implications of a C
-C3.40 238.11         9781597528009     Barth, Karl                   2006 The Faith of the Church: A Commentary on the Apostles' Creed
-C3.41 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
+C3.25 234            9780521426169     Ford, David F., 1948-         1999 Self and salvation : being transformed
+C3.26 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
+C3.27 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
+C3.28 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
+C3.29 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
+C3.30 234.163        9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
+C3.31 234.163        9780232512984     Voillaume, René               1976 Source of life : the Eucharist and Christian living
+C3.32 234.163        9780567326607     Zizioulas, Jean, 1931-        2011 The eucharistic communion and the world
+C3.33 234.1630902    9780814660539     Macy, Gary                    1999 Treasures from the storeroom : medieval religion and the Euc
+C3.34 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
+C3.35 234.2          9780060937133     Tillich, Paul, 1886-1965      2009 Dynamics of faith
+C3.36 234.23         9780232529531     Ashby, Roland                 2012 A faith to live by : what an intelligent, compassionate and 
+C3.37 234.5          9780819217349     Countryman, Louis William,    1998 Forgiven and forgiving
+C3.38 236            9780813215167     Benedict XVI, Pope, 1927-     2007 Eschatology, death and eternal life
+C3.39 236            9781608994724     Cullmann, Oscar               2000 Immortality of the soul ; or, Resurrection of the dead? : th
+C3.40 236            9780800628246     Moltmann, Jürgen              1993 Theology of hope : on the ground and the implications of a C
+C3.41 238.11         9781597528009     Barth, Karl                   2006 The Faith of the Church: A Commentary on the Apostles' Creed
+C3.42 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
 C4.01 238.11         9781921963179     Benedict XVI, Pope, 1927-     2012 I believe in one God : the creed explained
 C4.02 238.2          9780854397983                                   None Faith matters : fundamentals of faith
 C4.03 238.2                            Gore, Bishop                  1939 Belief in God
@@ -1538,33 +1540,34 @@ I5.01 828.3          9781857152043     Herbert, George (1593-1633    1995 The co
 I5.02 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
 I5.03 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
 I5.04 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
-I5.05 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
-I5.06 833.912        9780099283621     Hesse, Hermann, 1877-1962     2000 The glass bead game (Magister Ludi)
-I5.07 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
-I5.08 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
-I5.09 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
-I5.10 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
-I5.11 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
-I5.12 839.82374      9780374253844     Gaarder, Jostein, 1952-       1998 That same flower : Floria Aemilia's letter to Saint Augustin
-I5.13 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
-I5.14 842.91         9780571244591     Beckett, Samuel, 1906-1989    2010 Waiting for Godot : tragicomedy in 2 acts
-I5.15 843.7          9780804901505     Dumas, Alexandre, 1802-187    1978 The man in the iron mask
-I5.16 843.8          9780141045153     Flaubert, Gustave, 1821-18    2009 Madame Bovary
-I5.17 843.8          9780460871662     Verne, Jules                  1992 Twenty thousand leagues under the sea
-I5.18 843.914        9780802144478     Beckett, Samuel, 1906-1989    2009 Three novels
-I5.19 843.914        9780141185132     Camus, Albert                 2002 The plague
-I5.20 843.914        9780241458884     Camus, Albert, 1913-1960      2020 The fall
-I5.21 843.914        9780679720201     Camus, Albert, 1913-1960      1989 The stranger
-I5.22 843.914        9780860682295     Ward Jouve, Nicole            1981 Shades of grey
-I5.23 851.1          9780199535644     Dante Alighieri, 1265-1321    2008 The divine comedy
-I5.24 851.1          9780679433132     Dante Alighieri, 1265-1321    1995 The divine comedy : the Inferno, Purgatorio, and Paradiso
-I5.25 853.914        9780156032971     Eco, Umberto                  2007 Foucault's pendulum
-I5.26 863            9780140145588     Allende, Isabel               1992 The stories of Eva Luna
-I5.27 863.3          9780099469698     Cervantes Saavedra, Miguel    2005 Don Quixote
-I5.28 871            9781725273030     Urban VIII, Pope, 1568-164    2020 Pope Urban VIII and Pope Alexander VII : selected poety : ly
-I5.29 882.01         9780140441529     Aristophanes,                 1964 The wasps
-I5.30 883.01         9780140275360     Homer                         1998 The Iliad
-I5.31 883.01         9780140268867     Homer                         1999 The Odyssey
+I5.05 829.3          9780007590094     Tolkien, J. R. R. (John Ro    2016 Beowulf : a translation and commentary : together with Selli
+I5.06 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
+I5.07 833.912        9780099283621     Hesse, Hermann, 1877-1962     2000 The glass bead game (Magister Ludi)
+I5.08 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
+I5.09 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
+I5.10 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
+I5.11 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
+I5.12 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
+I5.13 839.82374      9780374253844     Gaarder, Jostein, 1952-       1998 That same flower : Floria Aemilia's letter to Saint Augustin
+I5.14 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
+I5.15 842.91         9780571244591     Beckett, Samuel, 1906-1989    2010 Waiting for Godot : tragicomedy in 2 acts
+I5.16 843.7          9780804901505     Dumas, Alexandre, 1802-187    1978 The man in the iron mask
+I5.17 843.8          9780141045153     Flaubert, Gustave, 1821-18    2009 Madame Bovary
+I5.18 843.8          9780460871662     Verne, Jules                  1992 Twenty thousand leagues under the sea
+I5.19 843.914        9780802144478     Beckett, Samuel, 1906-1989    2009 Three novels
+I5.20 843.914        9780141185132     Camus, Albert                 2002 The plague
+I5.21 843.914        9780241458884     Camus, Albert, 1913-1960      2020 The fall
+I5.22 843.914        9780679720201     Camus, Albert, 1913-1960      1989 The stranger
+I5.23 843.914        9780860682295     Ward Jouve, Nicole            1981 Shades of grey
+I5.24 851.1          9780199535644     Dante Alighieri, 1265-1321    2008 The divine comedy
+I5.25 851.1          9780679433132     Dante Alighieri, 1265-1321    1995 The divine comedy : the Inferno, Purgatorio, and Paradiso
+I5.26 853.914        9780156032971     Eco, Umberto                  2007 Foucault's pendulum
+I5.27 863            9780140145588     Allende, Isabel               1992 The stories of Eva Luna
+I5.28 863.3          9780099469698     Cervantes Saavedra, Miguel    2005 Don Quixote
+I5.29 871            9781725273030     Urban VIII, Pope, 1568-164    2020 Pope Urban VIII and Pope Alexander VII : selected poety : ly
+I5.30 882.01         9780140441529     Aristophanes,                 1964 The wasps
+I5.31 883.01         9780140275360     Homer                         1998 The Iliad
+I5.32 883.01         9780140268867     Homer                         1999 The Odyssey
 I6.01 891.4312       9780486433585     Kabir, active 15th century    2004 Songs of Kabir
 I6.02 891.5511       9780062509598     Jalāl al-Dīn Rūmī, Maulana    1997 The essential Rumi
 I6.03 891.6631       9780140443226     Gantz, Jeffrey                1976 The Mabinogion
