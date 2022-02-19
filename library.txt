@@ -763,35 +763,34 @@ D3.39 265.3          9780804237482     Cullmann, Oscar               1958 Essays
 D3.40 265.3          9780567661579     Dix, Gregory                  2015 The shape of the liturgy
 D4.01 265.3          9780615900353     Vonier, Anscar, 1875-1938     2013 A key to the doctrine of the Eucharist
 D4.02 265.85         9781853115141     Sheppy, Paul P. J.            2004 In sure and certain hope : liturgies, prayers, and readings 
-D4.03 265.85         9781853115141     Sheppy, Paul P. J.            2004 In sure and certain hope : liturgies, prayers, and readings 
-D4.04 266            9780802808295     Newbigin, Lesslie             1995 The open secret : an introduction to the theology of mission
-D4.05 266.001        9780883447192     Bosch, David J., 1929-1992    1991 Transforming mission : paradigm shifts in theology of missio
-D4.06 266.001        9780883443446     Galilea, Segundo              1984 The Beatitudes : to evangelize as Jesus did
-D4.07 266.009        9780140137637     Neill, Stephen, 1900-1984     1991 A history of Christian missions
-D4.08 266.0220941    9780715140130     Mission and Public Affairs    2004 Mission-shaped church : church planting and fresh expression
-D4.09 266.2          9780225488135     McDonagh, Enda                1969 The church is mission
-D4.10 266.394                          Kyrne, Brian and Carroll,     None Grit & Grace: The Story of the Anglican Board of Mission Aus
-D4.11 267.185241423  9780006272366     Ferguson, Ron, 1939-          1988 Chasing the wild goose
-D4.12 268.434        9780898692235     Episcopal Church Center       1990 The catechumenal process : adult initiation & formation for 
-D4.13 269.6          9780809149940     Byrne, Brendan (Brendan J.    2016 Freedom in the spirit : an Ignatian retreat with Saint Paul
-D4.14 270            9780199568987     Bettenson, Henry, 1908-197    2011 Documents of the Christian Church
-D4.15 270            9780349141206     Holland, Tom                  None Dominion : the making of the western mind
-D4.16 270                              Lietzmann, Hans               1961 A History of the Early Church [2 Volumes in 1]: Vol. I: The 
-D4.17 270            9781118337806     McGrath, Alister E., 1953-    2013 Christian history : an introduction
-D4.18 270            9780837158778     Neill, Stephen, 1900-1984     1972 The Christian society
-D4.19 270            9780140137552     Southern, R. W. (Richard W    1990 Western society and the Church in the Middle Ages
-D4.20 270.1          9781577331520     Bargeman, Lisa Ann, 1974-     2005 The Egyptian origin of Christianity
-D4.21 270.1          9780140231991     Chadwick, Henry, 1920-2008    1993 The early church
-D4.22 270.1          9780060616601     Crossan, John Dominic         1999 The birth of Christianity : discovering what happened in the
-D4.23 270.1          9780300125818     Freeman, Charles, 1947-       2009 A new history of early Christianity
-D4.24 270.1          9780340006511     Frend, W. H. C.               1965 The early church
-D4.25 270.1          9780800634674     Horsley, Richard A.           2002 The message and the kingdom : how Jesus and Paul ignited a r
-D4.26 270.1          9780745953670     Jenkins, Philip, 1952-        2009 The lost history of Christianity : the thousand-year golden 
-D4.27 270.1          9780801048494     Kreider, Alan, 1941-          2016 The patient ferment of the early church : the improbable ris
-D4.28 270.1          9780140444759     Louth, Andrew                 1987 Early Christian writings : the Apostolic Fathers
-D4.29 270.1          9780281059539     O'Loughlin, Thomas            2010 The Didache : a window on the earliest Christians
-D4.30 270.1          9780140214635     Simon, Edith, 1917-2003       1972 The saints
-D4.31 270.1          9780281042685     Stevenson, James, 1901-198    1987 A new Eusebius : documents illustrative of the history of th
+D4.03 266            9780802808295     Newbigin, Lesslie             1995 The open secret : an introduction to the theology of mission
+D4.04 266.001        9780883447192     Bosch, David J., 1929-1992    1991 Transforming mission : paradigm shifts in theology of missio
+D4.05 266.001        9780883443446     Galilea, Segundo              1984 The Beatitudes : to evangelize as Jesus did
+D4.06 266.009        9780140137637     Neill, Stephen, 1900-1984     1991 A history of Christian missions
+D4.07 266.0220941    9780715140130     Mission and Public Affairs    2004 Mission-shaped church : church planting and fresh expression
+D4.08 266.2          9780225488135     McDonagh, Enda                1969 The church is mission
+D4.09 266.394                          Kyrne, Brian and Carroll,     None Grit & Grace: The Story of the Anglican Board of Mission Aus
+D4.10 267.185241423  9780006272366     Ferguson, Ron, 1939-          1988 Chasing the wild goose
+D4.11 268.434        9780898692235     Episcopal Church Center       1990 The catechumenal process : adult initiation & formation for 
+D4.12 269.6          9780809149940     Byrne, Brendan (Brendan J.    2016 Freedom in the spirit : an Ignatian retreat with Saint Paul
+D4.13 270            9780199568987     Bettenson, Henry, 1908-197    2011 Documents of the Christian Church
+D4.14 270            9780349141206     Holland, Tom                  None Dominion : the making of the western mind
+D4.15 270                              Lietzmann, Hans               1961 A History of the Early Church [2 Volumes in 1]: Vol. I: The 
+D4.16 270            9781118337806     McGrath, Alister E., 1953-    2013 Christian history : an introduction
+D4.17 270            9780837158778     Neill, Stephen, 1900-1984     1972 The Christian society
+D4.18 270            9780140137552     Southern, R. W. (Richard W    1990 Western society and the Church in the Middle Ages
+D4.19 270.1          9781577331520     Bargeman, Lisa Ann, 1974-     2005 The Egyptian origin of Christianity
+D4.20 270.1          9780140231991     Chadwick, Henry, 1920-2008    1993 The early church
+D4.21 270.1          9780060616601     Crossan, John Dominic         1999 The birth of Christianity : discovering what happened in the
+D4.22 270.1          9780300125818     Freeman, Charles, 1947-       2009 A new history of early Christianity
+D4.23 270.1          9780340006511     Frend, W. H. C.               1965 The early church
+D4.24 270.1          9780800634674     Horsley, Richard A.           2002 The message and the kingdom : how Jesus and Paul ignited a r
+D4.25 270.1          9780745953670     Jenkins, Philip, 1952-        2009 The lost history of Christianity : the thousand-year golden 
+D4.26 270.1          9780801048494     Kreider, Alan, 1941-          2016 The patient ferment of the early church : the improbable ris
+D4.27 270.1          9780140444759     Louth, Andrew                 1987 Early Christian writings : the Apostolic Fathers
+D4.28 270.1          9780281059539     O'Loughlin, Thomas            2010 The Didache : a window on the earliest Christians
+D4.29 270.1          9780140214635     Simon, Edith, 1917-2003       1972 The saints
+D4.30 270.1          9780281042685     Stevenson, James, 1901-198    1987 A new Eusebius : documents illustrative of the history of th
 D5.01 270.1          9781846141508     Vermès, Géza, 1924-2013       2012 Christian beginnings : from Nazareth to Nicaea
 D5.02 270.1082       9781540963086     Lee, Dorothy A.               2021 The ministry of women in the New Testament : reclaiming the 
 D5.03 270.2          9781565482890     Augustine, of Hippo, Saint    2008 The works of Saint Augustine : a translation for the 21st ce
