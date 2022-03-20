@@ -158,34 +158,34 @@ A5.29 221.922        9780671541347     Wiesel, Elie, 1928-2016       1985 Messen
 A5.30 221.93         9780691002002     Pritchard, James B. (James    1973 The ancient Near East : an anthology of texts and pictures
 A5.31 221.95         9780334004035     Ackroyd, Peter R.             1972 Exile and restoration : a study of Hebrew thought of the six
 A5.32 221.95         9780664212919     Hayes, John H. (John Haral    1977 Israelite and Judaean history
-A5.33 222.06         9780905774305     Noth, Martin, 1902-1968       1981 The deuteronomistic history
-A5.34 222.106        9781850757924     Clines, David J. A.           1997 The theme of the Pentateuch
-A5.35 222.106        9780800625931     Lohfink, Norbert              1995 Theology of the Pentateuch : themes of the priestly narrativ
-A5.36 222.106        9780804200851     Mann, Thomas W. (Thomas Wi    1988 The Book of the Torah : the narrative integrity of the Penta
-A5.37 222.1066       9780884140627     Boorer, Suzanne, 1954-        2016 The vision of the priestly narrative : its genre and hermene
-A5.38 222.1066       9780804201124     Brueggemann, Walter           1975 The vitality of Old Testament traditions
-A5.39 222.1066       9780800627010     Campbell, Antony F.           2000 Sources of the Pentateuch : texts, introductions, annotation
-A5.40 222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A history of Pentateuchal traditions
-A5.41 222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
-A5.42 222.1092                         Fleg, Edmond                  2006 Life of Moses, The
-A5.43 222.1092       9780809121120     Gregory, of Nyssa, Saint,     1978 The life of Moses
-A5.44 222.11                           Driver, S. R.                 1905 The Book of Genesis
-A5.45 222.11                           Vawter, Bruce                 1956 A path through Genesis
-A5.46 222.11048      9781555408855     Wevers, John William          1993 Notes on the Greek text of Genesis
-A5.47 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
-A5.48 222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
-A5.49 222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
-A5.50 222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
-A5.51 222.110922     9780664229825     Trible, Phyllis               2006 Hagar, Sarah, and their children : Jewish, Christian, and Mu
-A5.52 222.1206       9780905774442     Moberly, R. W. L.             1983 At the mountain of God : story and theology in Exodus 32-34
-A5.53 222.12066      9780802805928     Coats, George W.              1998 Exodus 1-18
-A5.54 222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
-A5.55 222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
-A5.56 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
-A5.57 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
-A5.58 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
-A5.59 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
-A5.60 222.14077      9780334015345     Noth, Martin, 1902-1968       1983 Numbers : a commentary
+A6.01 222.06         9780905774305     Noth, Martin, 1902-1968       1981 The deuteronomistic history
+A6.02 222.106        9781850757924     Clines, David J. A.           1997 The theme of the Pentateuch
+A6.03 222.106        9780800625931     Lohfink, Norbert              1995 Theology of the Pentateuch : themes of the priestly narrativ
+A6.04 222.106        9780804200851     Mann, Thomas W. (Thomas Wi    1988 The Book of the Torah : the narrative integrity of the Penta
+A6.05 222.1066       9780884140627     Boorer, Suzanne, 1954-        2016 The vision of the priestly narrative : its genre and hermene
+A6.06 222.1066       9780804201124     Brueggemann, Walter           1975 The vitality of Old Testament traditions
+A6.07 222.1066       9780800627010     Campbell, Antony F.           2000 Sources of the Pentateuch : texts, introductions, annotation
+A6.08 222.1066       9780891304463     Noth, Martin, 1902-1968       2000 A history of Pentateuchal traditions
+A6.09 222.107        9780060630379     Frankel, Ellen                1997 The Five books of Miriam : a woman's commentary on the Torah
+A6.10 222.1092                         Fleg, Edmond                  2006 Life of Moses, The
+A6.11 222.1092       9780809121120     Gregory, of Nyssa, Saint,     1978 The life of Moses
+A6.12 222.11                           Driver, S. R.                 1905 The Book of Genesis
+A6.13 222.11                           Vawter, Bruce                 1956 A path through Genesis
+A6.14 222.11048      9781555408855     Wevers, John William          1993 Notes on the Greek text of Genesis
+A6.15 222.1107       9780664234379     Brueggemann, Walter           2010 Genesis
+A6.16 222.11077      9780804774970     Good, Edwin M. (Edwin Mars    2011 Genesis I-II : tales of the earliest world
+A6.17 222.11077      9780664209575     Rad, Gerhard von, 1901-197    1973 Genesis: : a commentary
+A6.18 222.11077      9781578191079     Scherman, Nosson              1998 The Chumash : the Torah, Haftaros and Five Megillos = [Ḥamis
+A6.19 222.110922     9780664229825     Trible, Phyllis               2006 Hagar, Sarah, and their children : Jewish, Christian, and Mu
+A6.20 222.1206       9780905774442     Moberly, R. W. L.             1983 At the mountain of God : story and theology in Exodus 32-34
+A6.21 222.12066      9780802805928     Coats, George W.              1998 Exodus 1-18
+A6.22 222.1207       9780802826176     Dozeman, Thomas B.            2009 Commentary on Exodus
+A6.23 222.12077      9780664229689     Childs, Brevard S.            2004 The book of Exodus : a critical, theological commentary
+A6.24 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
+A6.25 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
+A6.26 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
+A6.27 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
+A6.28 222.14077      9780334015345     Noth, Martin, 1902-1968       1983 Numbers : a commentary
 B1.01 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
 B1.02 222.407                          Hertzberg, H. W.              1965 H W Hertzberg / First and Second Samuel A Commentary 1965
 B1.03 222.40924      9780907459125     Rost, Leonhard, 1896-1979     1982 The succession to the throne of David
