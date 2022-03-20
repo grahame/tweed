@@ -1425,26 +1425,26 @@ H4.29 823.912        9780679734932     Lawrence, D. H. (David Her    1992 The pl
 H4.30 823.912        9780099512080     Lawrence, D. H. (David Her    2008 Women in love
 H4.31 823.912        9781405281317     Milne, A. A. (Alan Alexand    2016 Winnie-the-Pooh
 H4.32 823.912        9780416239102     Milne, A. A. (Alan Alexand    1966 Winnie-the-Pooh
-H5.01 823.912        9781933184500     Nichols, Aidan                2009 G.K. Chesterton, theologian
-H5.02 823.912        9780141187914     O'Connor, Frank, 1903-1966    2005 An only child ; : and, My father's son : an autobiography
-H5.03 823.912        9780141036144     Orwell, George, 1903-1950     2008 1984 : a novel
-H5.04 823.912        9780141036137     Orwell, George, 1903-1950     2008 Animal farm
-H5.05 823.912        9780715637326     Powys, John Cowper, 1872-1    2011 Porius : a romance of the Dark Ages
-H5.06 823.912        9780099530268     Shute, Nevil, 1899-1960       2009 A town like Alice
-H5.07 823.912        9780099530251     Shute, Nevil, 1899-1960       2009 On the beach
-H5.08 823.912        9780008214227     Tolkien, J. R. R              2018 Beren and Lúthien
-H5.09 823.912        9780008205539     Tolkien, J. R. R. (John Ro    2016 Leaf by niggle
-H5.10 823.912        9780048231888     Tolkien, J. R. R. (John Ro    1987 The hobbit, or, There and back again
-H5.11 823.912        9780261102354     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
-H5.12 823.912        9780261102361     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
-H5.13 823.912        9780261102378     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
-H5.14 823.912        9780008471286     Tolkien, J. R. R. (John Ro    None The lord of the rings
-H5.15 823.912        9780261102736     Tolkien, J. R. R. (John Ro    2013 The Silmarillion
-H5.16 823.912        9780261103566     Tolkien, J. R. R. (John Ro    2011 The Hobbit : the Lord of the Rings
-H5.17 823.912        9780008387921     Tolkien, J. R. R. (John Ro    2021 The nature of Middle-earth : late writings on the lands, inh
-H5.18 823.912        9780008302757     Tolkien, J. R. R., 1892-19    2018 The fall of Gondolin
-H5.19 823.912        9780007252268     Tolkien, John Ronald Reuel    2008 Narn i chîn Húrin : the tale of the children of Húrin
-H5.20 823.912        9780008387952     Tolkien, John Ronald Reuel    2020 Unfinished tales of Númenor and Middle-earth
+H4.33 823.912        9781933184500     Nichols, Aidan                2009 G.K. Chesterton, theologian
+H4.34 823.912        9780141187914     O'Connor, Frank, 1903-1966    2005 An only child ; : and, My father's son : an autobiography
+H5.01 823.912        9780141036144     Orwell, George, 1903-1950     2008 1984 : a novel
+H5.02 823.912        9780141036137     Orwell, George, 1903-1950     2008 Animal farm
+H5.03 823.912        9780715637326     Powys, John Cowper, 1872-1    2011 Porius : a romance of the Dark Ages
+H5.04 823.912        9780099530268     Shute, Nevil, 1899-1960       2009 A town like Alice
+H5.05 823.912        9780099530251     Shute, Nevil, 1899-1960       2009 On the beach
+H5.06 823.912        9780008214227     Tolkien, J. R. R              2018 Beren and Lúthien
+H5.07 823.912        9780008205539     Tolkien, J. R. R. (John Ro    2016 Leaf by niggle
+H5.08 823.912        9780048231888     Tolkien, J. R. R. (John Ro    1987 The hobbit, or, There and back again
+H5.09 823.912        9780261102354     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
+H5.10 823.912        9780261102361     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
+H5.11 823.912        9780261102378     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
+H5.12 823.912        9780008471286     Tolkien, J. R. R. (John Ro    None The lord of the rings
+H5.13 823.912        9780261102736     Tolkien, J. R. R. (John Ro    2013 The Silmarillion
+H5.14 823.912        9780261103566     Tolkien, J. R. R. (John Ro    2011 The Hobbit : the Lord of the Rings
+H5.15 823.912        9780008387921     Tolkien, J. R. R. (John Ro    2021 The nature of Middle-earth : late writings on the lands, inh
+H5.16 823.912        9780008302757     Tolkien, J. R. R., 1892-19    2018 The fall of Gondolin
+H5.17 823.912        9780007252268     Tolkien, John Ronald Reuel    2008 Narn i chîn Húrin : the tale of the children of Húrin
+H5.18 823.912        9780008387952     Tolkien, John Ronald Reuel    2020 Unfinished tales of Númenor and Middle-earth
 H6.01 823.912        9780141037233     Waugh, Evelyn, 1903-1966      2008 A handful of dust
 H6.02 823.912        9780141045627     Waugh, Evelyn, 1903-1966      2012 Brideshead revisited : the sacred and profane memories of Ca
 H6.03 823.912        9780141184029     Waugh, Evelyn, 1903-1966      2000 Scoop
