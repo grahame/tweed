@@ -1083,20 +1083,19 @@ F4.25 779            9780643108264     South Australian Museum       2013 Austra
 F4.26 779.092        9781472150721     Addario, Lynsey               2015 It's what I do : a photographer's life of love and war
 F4.27 780.943613     9780829415117     Hughes, Gerard W.             2001 Seven weeks for the soul : a reflective journey for Lent or 
 F4.28 781.2                            Given, No Author              1958 Rudiments and Theory of Music Based on the Syllabus of the T
-F4.29 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
-F4.30 784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
-F4.31 790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
-F4.32 791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
-F4.33 791.450232092  9780671522995     Fern, Yvonne, 1947-           1996 Gene Roddenberry : the last conversation
-F4.34 791.4572       9780006550426     Krauss, Lawrence M., 1954-    1997 The physics of Star trek
-F4.35 791.4572       9780563201960     Lynn, Jonathan                1983 Yes, Minister : the diaries of a cabinet minister
-F4.36 792.028092     9780099493761     Alda, Alan, 1936-             2007 Never have your dog stuffed : and other things I've learned
-F4.37 792.7028       9781743319345     Shah, Sami                    2015 I, migrant : a comedian's journey from Karachi to the outbac
-F4.38 795.415        9780716006800     Fox, George Clive Henry       1982 Begin bridge
-F4.39 799.10994      9780701815608     Vaughan, Harold               1982 The Australian fisherman's companion
-F4.40 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
-F4.41 808.02         9781786898555     Lamott, Anne                  None Bird by bird : some instructions on writing and life
-F4.42 808.2          9780140446364     Aristotle                     1997 Poetics
+F4.29 784.2092       9781846559181     Ozawa, Seiji, 1935-           2016 Absolutely on music : conversations
+F4.30 790.01         9780262019170     DeKoven, Bernie, 1941-2018    2013 The well-played game : a player's philosophy
+F4.31 791.43651      9780195383386     Reinhartz, Adele, 1953-       2009 Jesus of Hollywood
+F4.32 791.450232092  9780671522995     Fern, Yvonne, 1947-           1996 Gene Roddenberry : the last conversation
+F4.33 791.4572       9780006550426     Krauss, Lawrence M., 1954-    1997 The physics of Star trek
+F4.34 791.4572       9780563201960     Lynn, Jonathan                1983 Yes, Minister : the diaries of a cabinet minister
+F4.35 792.028092     9780099493761     Alda, Alan, 1936-             2007 Never have your dog stuffed : and other things I've learned
+F4.36 792.7028       9781743319345     Shah, Sami                    2015 I, migrant : a comedian's journey from Karachi to the outbac
+F4.37 795.415        9780716006800     Fox, George Clive Henry       1982 Begin bridge
+F4.38 799.10994      9780701815608     Vaughan, Harold               1982 The Australian fisherman's companion
+F4.39 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
+F4.40 808.02         9781786898555     Lamott, Anne                  None Bird by bird : some instructions on writing and life
+F4.41 808.2          9780140446364     Aristotle                     1997 Poetics
 F5.01 808.80358      9781922101402     Dolichva, Tsana [Editor]      2016 Defying doomsday
 F5.02 808.8193538    9780932112972     Shomer, Enid [Editor]         2018 All we know of pleasure : poetic erotica by women
 F5.03 808.838762     9780061562358     Dozois, Gardner R.            2009 The new space opera : 2
@@ -1876,6 +1875,7 @@ Y1.04 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblic
 Y1.05 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
 Y1.06 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
 Y1.07 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
+Y1.08 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
 Y2.01 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
 Y2.02 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
 Y2.03 220            9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
