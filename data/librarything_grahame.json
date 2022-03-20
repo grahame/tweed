@@ -130317,7 +130317,11 @@
   "title": "Son of Sin",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Sakr, Omar",
+  "authors": [{
+    "lf": "Sakr, Omar",
+    "fl": "Omar Sakr"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1922711039",
@@ -130327,13 +130331,20 @@
   },
   "asin": "1922711039",
   "ean": ["1922711039"],
-  "summary": "Son of Sin",
+  "date": "2021",
+  "summary": "Son of Sin by Omar Sakr (2021)",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823"],
+    "wording": ["English (not North America)",
+    "English fiction",
+    "Literature"]
+  },
   "lcc": [],
   "source": "amazon.com books",
-  "workcode": "27861618",
+  "workcode": "27834469",
   "entrydate": "2022-03-10",
   "format": [{
     "code": "1.1.1",
