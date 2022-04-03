@@ -120,8 +120,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -234,10 +234,10 @@
     "4": ["Science fiction, American"],
     "5": ["science fiction"]
   },
-  "series": ["Hainish Cycle",
-  "Hain-sviten",
+  "series": ["Hainish-Zyklus",
   "Ciclo di Haynish",
-  "Hainish-Zyklus",
+  "Hain-sviten",
+  "Hainish Cycle",
   "Hainish Cycle, Chronological",
   "Cycle de l'Ekumen",
   "Hainish-Zyklus, chronologisch"],
@@ -324,8 +324,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -560,8 +560,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -781,8 +781,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -925,8 +925,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -1332,8 +1332,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -1573,8 +1573,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -1670,8 +1670,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -1685,8 +1685,8 @@
     "4": ["fantasy fiction"]
   },
   "series": ["Middle-earth",
-  "Racconti della Terra di Mezzo",
-  "Tales of Middle Earth"],
+  "Tales of Middle Earth",
+  "Racconti della Terra di Mezzo"],
   "originaltitle": "The Children of H\u00farin",
   "awards": ["New York Times bestseller",
   "IBBY Honour Book",
@@ -1751,8 +1751,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -1781,12 +1781,14 @@
     "20": ["fantasy fiction"],
     "21": ["fiction in English"]
   },
-  "series": ["Der Herr der Ringe",
+  "series": ["The Lord of the Rings",
+  "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
-  "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
+  "El Se\u00f1or de los Anillos",
+  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -1799,8 +1801,6 @@
   "El Senyor dels Anells",
   "Ringenes herre",
   "Gospodar prstenova",
-  "El Se\u00f1or de los Anillos",
-  "The Lord of the Rings",
   "Middle-earth"],
   "originaltitle": "The Fellowship of the Ring",
   "awards": ["1001 Children's Books You Must Read Before You Grow Up",
@@ -1867,8 +1867,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -1908,12 +1908,14 @@
     "34": ["fantasy fiction"],
     "35": ["fiction in English"]
   },
-  "series": ["Der Herr der Ringe",
+  "series": ["The Lord of the Rings",
+  "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
-  "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
+  "El Se\u00f1or de los Anillos",
+  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -1926,8 +1928,6 @@
   "El Senyor dels Anells",
   "Ringenes herre",
   "Gospodar prstenova",
-  "El Se\u00f1or de los Anillos",
-  "The Lord of the Rings",
   "Middle-earth"],
   "originaltitle": "The Two Towers",
   "genre": ["Fantasy",
@@ -1987,8 +1987,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -2021,12 +2021,14 @@
     "22": ["fantasy fiction"],
     "23": ["fiction in English"]
   },
-  "series": ["Der Herr der Ringe",
+  "series": ["The Lord of the Rings",
+  "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
-  "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
+  "El Se\u00f1or de los Anillos",
+  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -2039,8 +2041,6 @@
   "El Senyor dels Anells",
   "Ringenes herre",
   "Gospodar prstenova",
-  "El Se\u00f1or de los Anillos",
-  "The Lord of the Rings",
   "Middle-earth"],
   "originaltitle": "The Return of the King",
   "awards": ["Academy Award for Writing Adapted Screenplay",
@@ -2102,8 +2102,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["590"],
-    "wording": ["Animals",
-    "Natural sciences and mathematics",
+    "wording": ["Natural sciences and mathematics",
+    "Zoology",
     "Zoology"]
   },
   "lcc": {
@@ -2606,8 +2606,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -2858,7 +2858,12 @@
     "30": ["science fiction"]
   },
   "series": ["Captain Nemo Trilogy",
-  "Capitano Nemo"],
+  "Capitano Nemo",
+  "I viaggi straordinari",
+  "The Extraordinary Voyages",
+  "Les voyages extraordinaires",
+  "Jules Verne - Die aussergew\u00f6hnlichen Reisen",
+  "Merkilliset matkat"],
   "originaltitle": "Vingt mille lieues sous les mers",
   "awards": ["The Telegraph's 110 Best Books: The Perfect Library",
   "1001 Children's Books You Must Read Before You Grow Up",
@@ -2994,8 +2999,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -3197,8 +3202,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -3265,8 +3270,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -4154,10 +4159,10 @@
   "lcc": {
     "code": "HV9713 .S6413"
   },
-  "series": ["Der Archipel GULAG",
+  "series": ["The Gulag Archipelago",
+  "Der Archipel GULAG",
   "Archipelag Gu\u0142ag",
-  "De Goelag Archipel, 1918-1956",
-  "The Gulag Archipelago"],
+  "De Goelag Archipel, 1918-1956"],
   "originaltitle": "\u0410\u0440\u0445\u0438\u043f\u0435\u043b\u0430\u0433 \u0413\u0423\u041b\u0410\u0413",
   "awards": ["New York Times Best Books of the Year",
   "National Review's 100 Best Nonfiction Books of the Century",
@@ -4219,8 +4224,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -4361,8 +4366,8 @@
   "lcc": {
     "code": "PS3572.I534"
   },
-  "series": ["Las Burbujas",
-  "Across Realtime"],
+  "series": ["Across Realtime",
+  "Las Burbujas"],
   "genre": ["Science Fiction",
   "All Topics",
   "Fiction"],
@@ -4828,16 +4833,16 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
   "lcc": {
     "code": "PR6051.D3352 S25"
   },
-  "series": ["Dirk Gentle, d\u00e9tective holistique",
-  "Dirk Gently",
+  "series": ["Dirk Gently",
+  "Dirk Gentle, d\u00e9tective holistique",
   "The Hitchhiker's Guide to the Galaxy",
   "Autostopem przez Galaktyk\u0119",
   "H2G2",
@@ -4967,8 +4972,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.4"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Post-Elizabethan 1625-1702"]
   },
@@ -5027,8 +5032,8 @@
   "ddc": {
     "code": ["823.3"],
     "wording": ["Elizabethan 1558-1625",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -5377,8 +5382,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -5581,8 +5586,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -5668,30 +5673,8 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["070.92"],
-    "wording": ["Biographies",
-    "Biography And History",
-    "Information",
-    "Journalism And Publishing",
-    "Journalism And Publishing"]
-  },
   "lcc": {
     "code": "PN4874.T444 A3"
-  },
-  "subject": {
-    "0": ["Adaptation"],
-    "1": ["Adaptation",
-    "Feature"],
-    "2": ["Comedy"],
-    "3": ["Comedy",
-    "Feature"],
-    "4": ["Journalists",
-    "United States",
-    "Biography"],
-    "6": ["Thompson, Hunter S"],
-    "7": ["adaptation"],
-    "8": ["comedy"]
   },
   "originaltitle": "Fear and Loathing in Las Vegas",
   "awards": ["Waterstones Books of the Century",
@@ -5700,7 +5683,7 @@
   "1000 Books to Read Before You Die",
   "Reading the world in 196 books"],
   "source": "amazon.com books",
-  "workcode": "3366",
+  "workcode": "27566790",
   "entrydate": "2019-01-09",
   "format": [{
     "code": "1.1.1",
@@ -5804,8 +5787,8 @@
   "ddc": {
     "code": ["823.91"],
     "wording": ["1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -5905,8 +5888,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -6030,10 +6013,10 @@
     "World War II"]
   },
   "lcc": [],
-  "series": ["Churchill's The Second World War",
+  "series": ["M\u00e9moires de guerre, Churchill",
   "La Seconda guerra mondiale",
   "La seconda guerra mondiale",
-  "M\u00e9moires de guerre, Churchill"],
+  "Churchill's The Second World War"],
   "genre": ["Biography & Memoir",
   "General Nonfiction",
   "History",
@@ -6460,8 +6443,8 @@
   "series": ["Horatio Hornblower",
   "Horatio Hornblower",
   "Capitaine Hornblower",
-  "Horatio Hornblower: kronologisk ordning",
-  "Horatio Hornblower: Chronologisch"],
+  "Horatio Hornblower: Chronologisch",
+  "Horatio Hornblower: kronologisk ordning"],
   "awards": ["Daniel S. Burt's recommended historical novels",
   "\u0421\u043f\u0438\u0441\u043e\u043a \u043b\u044e\u0431\u0438\u043c\u044b\u0445 \u043a\u043d\u0438\u0433 \u0411\u043e\u0440\u0438\u0441\u0430 \u0410\u043a\u0443\u043d\u0438\u043d\u0430"],
   "genre": ["General Fiction",
@@ -6530,8 +6513,8 @@
   "series": ["Horatio Hornblower",
   "Horatio Hornblower",
   "Capitaine Hornblower",
-  "Horatio Hornblower: kronologisk ordning",
-  "Horatio Hornblower: Chronologisch"],
+  "Horatio Hornblower: Chronologisch",
+  "Horatio Hornblower: kronologisk ordning"],
   "genre": ["General Fiction",
   "Historical fiction",
   "All Topics",
@@ -6746,8 +6729,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -7140,8 +7123,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -7641,8 +7624,8 @@
     "code": ["821.00809415"],
     "wording": ["By form",
     "Collections",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "For and by kinds of persons",
     "Literature"]
   },
@@ -7696,8 +7679,8 @@
     "code": ["823.087608"],
     "wording": ["Adventure fiction",
     "By Type",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Genre fiction",
     "Literature",
     "Speculative fiction"]
@@ -7773,8 +7756,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -7819,10 +7802,10 @@
     "26": ["fantasy"],
     "28": ["juvenile literature"]
   },
-  "series": ["Kubu\u015b Puchatek",
-  "Nalle Puh",
-  "Winnie the Pooh (A.A. Milne Original)",
-  "Original Pooh Treasury"],
+  "series": ["Winnie the Pooh (A.A. Milne Original)",
+  "Original Pooh Treasury",
+  "Kubu\u015b Puchatek",
+  "Nalle Puh"],
   "awards": ["Waterstones Books of the Century",
   "IBBY Honour Book",
   "IBBY Honour Book",
@@ -8645,8 +8628,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["826.408"],
-    "wording": ["English (not North America)",
-    "English letters",
+    "wording": ["English letters",
+    "English {except North American}",
     "Literature",
     "Post-Elizabethan 1625\u20131702"]
   },
@@ -9421,7 +9404,8 @@
     "code": ["994.12004"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific",
+    "Oceania and elsewhere",
+    "Southwestern Western Australia",
     "Western Australia"]
   },
   "lcc": {
@@ -10181,8 +10165,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -10256,8 +10240,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -11375,8 +11359,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -11457,8 +11441,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -11670,8 +11654,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -11817,8 +11801,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -11888,8 +11872,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -11954,8 +11938,9 @@
   "ddc": {
     "code": ["599.232099412"],
     "wording": ["Mammals",
-    "Marsupialia: Kangaroos, opossums",
+    "Marsupialia, Monotremata",
     "Natural sciences and mathematics",
+    "Possums",
     "Zoology"]
   },
   "lcc": [],
@@ -12139,7 +12124,7 @@
     "code": ["994.065092"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific"]
+    "Oceania and elsewhere"]
   },
   "lcc": {
     "code": "DU117.K4 O37"
@@ -12201,7 +12186,8 @@
     "code": ["994.11"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific",
+    "Oceania and elsewhere",
+    "Perth",
     "Western Australia"]
   },
   "lcc": [],
@@ -12243,7 +12229,7 @@
     "code": ["994.1"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific",
+    "Oceania and elsewhere",
     "Western Australia"]
   },
   "lcc": {
@@ -12655,8 +12641,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -13083,8 +13069,8 @@
     "code": ["823.087608"],
     "wording": ["Adventure fiction",
     "By Type",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Genre fiction",
     "Literature",
     "Speculative fiction"]
@@ -13896,8 +13882,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -14274,8 +14260,8 @@
     "code": ["821.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -14683,8 +14669,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -14862,8 +14848,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -14947,8 +14933,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -15211,8 +15197,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -15633,8 +15619,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -15703,8 +15689,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -17065,8 +17051,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -27865,8 +27851,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -27922,7 +27908,7 @@
     "41": ["fantasy"],
     "43": ["fantasy fiction"]
   },
-  "series": ["Il Signore degli Anelli",
+  "series": ["The Lord of the Rings",
   "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
@@ -27940,8 +27926,8 @@
   "Ringenes herre",
   "Le seigneur des anneaux",
   "Der Herr der Ringe",
+  "Il Signore degli Anelli",
   "Gospodar prstenova",
-  "The Lord of the Rings",
   "Middle-earth"],
   "originaltitle": "The hobbit",
   "awards": ["New York Herald Tribune's Children's Spring Book Festival Award",
@@ -28436,8 +28422,8 @@
   "summary": "Se\u00f1or Pilich the Monastery Cat and the Sinister Mr Dreggs by Anscar McPhee (?)",
   "ddc": {
     "code": ["823.4"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Post-Elizabethan 1625-1702"]
   },
@@ -28471,8 +28457,8 @@
   "summary": "Se\u00f1or Pilich the Monastery Cat in Wartime Kalumburu by Anscar McPhee (?)",
   "ddc": {
     "code": ["823.4"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Post-Elizabethan 1625-1702"]
   },
@@ -29679,7 +29665,8 @@
     "code": ["994.11"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific",
+    "Oceania and elsewhere",
+    "Perth",
     "Western Australia"]
   },
   "lcc": [],
@@ -30121,8 +30108,8 @@
     "code": ["821.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -30297,6 +30284,7 @@
     "wording": ["Birds",
     "Grallatores, waders",
     "Natural sciences and mathematics",
+    "Shore birds",
     "Zoology"]
   },
   "lcc": {
@@ -30469,7 +30457,7 @@
   "ddc": {
     "code": ["951.93"],
     "wording": ["Asia",
-    "China and adjacent areas",
+    "China and region",
     "History and Geography",
     "Korean Peninsula",
     "North Korea (Democratic People's Republic of Korea)"]
@@ -31323,6 +31311,7 @@
     "code": ["598.97"],
     "wording": ["Birds",
     "Natural sciences and mathematics",
+    "Owls",
     "Raptors, birds of prey",
     "Zoology"]
   },
@@ -32657,8 +32646,8 @@
     "code": ["827.91409"],
     "wording": ["1945-1999",
     "20th Century",
-    "English (not North America)",
     "English wit and humor",
+    "English {except North American}",
     "History, description, critical appraisal",
     "Literature",
     "Modern Period"]
@@ -32977,6 +32966,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "awards": ["1001 Comics You Must Read Before You Die",
   "Longbox of the Damned",
@@ -33052,6 +33042,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "awards": ["Eisner Award",
   "Squiddy Award",
@@ -33123,6 +33114,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "awards": ["ALA Popular Paperbacks for Young Adults",
   "Harvey Award",
@@ -33199,6 +33191,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "awards": ["Harvey Award",
   "Squiddy Award",
@@ -33275,6 +33268,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "originaltitle": "The Sandman: A Game of You",
   "genre": ["Comics",
@@ -33348,6 +33342,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "originaltitle": "The Sandman: Fables & Reflections",
   "awards": ["1001 Comics You Must Read Before You Die"],
@@ -33423,6 +33418,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "awards": ["1001 Comics You Must Read Before You Die"],
   "genre": ["Comics",
@@ -33496,6 +33492,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "awards": ["British Fantasy Award Nominee",
   "ALA Popular Paperbacks for Young Adults",
@@ -33572,6 +33569,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "awards": ["1001 Comics You Must Read Before You Die"],
   "genre": ["Comics",
@@ -33653,6 +33651,7 @@
   "series": ["The Sandman",
   "The Sandman TPBs",
   "The Absolute Sandman",
+  "Sandman",
   "Sandman"],
   "awards": ["British Fantasy Award Nominee"],
   "genre": ["Comics",
@@ -34896,8 +34895,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.5"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Queen Anne 1702-45"]
   },
@@ -35433,8 +35432,8 @@
   "ddc": {
     "code": ["823.91"],
     "wording": ["1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -36675,8 +36674,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["590"],
-    "wording": ["Animals",
-    "Natural sciences and mathematics",
+    "wording": ["Natural sciences and mathematics",
+    "Zoology",
     "Zoology"]
   },
   "lcc": {
@@ -37211,7 +37210,7 @@
     "code": ["994.063092"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific"]
+    "Oceania and elsewhere"]
   },
   "lcc": {
     "code": "DU117.H38 A3"
@@ -37798,8 +37797,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -38279,9 +38278,9 @@
   "lcc": {
     "code": "PL856.U673 H5713"
   },
-  "series": ["Patk\u00e1ny-tril\u00f3gia",
-  "The Rat",
-  "Trilogie der Ratte"],
+  "series": ["Trilogie der Ratte",
+  "Patk\u00e1ny-tril\u00f3gia",
+  "The Rat"],
   "originaltitle": "Hitsuji o meguru b\u014dken",
   "awards": ["Noma Literary Newcomer's Prize",
   "Harvard Bookstore Top 100"],
@@ -38681,7 +38680,7 @@
     "code": ["994.065092"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific"]
+    "Oceania and elsewhere"]
   },
   "lcc": {
     "code": "DU117.K42 W37"
@@ -39702,11 +39701,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["828.91409"],
-    "wording": ["English (not North America)",
-    "English miscellaneous writings",
+    "wording": ["English miscellaneous writings",
     "English miscellaneous writings 1900-",
     "English miscellaneous writings 1900-1999",
     "English miscellaneous writings 1945-1999",
+    "English {except North American}",
     "Individual authors",
     "Literature"]
   },
@@ -39779,8 +39778,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -39807,12 +39806,12 @@
     "16": ["fantasy"],
     "18": ["fantasy fiction"]
   },
-  "series": ["Old Kingdom",
-  "Abhorsen",
-  "Abhorsen",
+  "series": ["Abhorsen",
   "Das alte K\u00f6nigreich",
   "Het Oude Koninkrijk",
-  "La Saga di Abhorsen"],
+  "La Saga di Abhorsen",
+  "Old Kingdom",
+  "Abhorsen"],
   "originaltitle": "Sabriel",
   "awards": ["Aurealis Award",
   "ALA Best Books for Young Adults",
@@ -39878,27 +39877,27 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
   "lcc": {
     "code": "PR6103.O4427 A84"
   },
-  "series": ["Het transgalactisch liftershandboek",
-  "Liftartrilogin",
+  "series": ["Liftartrilogin",
   "Gu\u00eda del autoestopista gal\u00e1ctico",
   "La Gu\u00eda del Autoestopista Gal\u00e1ctico",
+  "Galaxis utikalauz",
+  "O Guia do Mochileiro das Gal\u00e1xias",
   "The Hitchhiker's Guide to the Galaxy",
   "Autostopem przez Galaktyk\u0119",
   "H2G2",
   "Per Anhalter durch die Galaxis",
-  "Galaxis utikalauz",
-  "O Guia do Mochileiro das Gal\u00e1xias",
-  "Guida galattica per gli autostoppisti",
+  "Het transgalactisch liftershandboek",
+  "Stopa\u0159\u016fv pr\u016fvodce po Galaxii",
   "Galakse-blafferen",
-  "Stopa\u0159\u016fv pr\u016fvodce po Galaxii"],
+  "Guida galattica per gli autostoppisti"],
   "originaltitle": "And Another Thing...",
   "genre": ["General Fiction",
   "Science Fiction",
@@ -40194,8 +40193,8 @@
   "ddc": {
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -40295,8 +40294,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -40377,8 +40376,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -40447,8 +40446,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -40861,8 +40860,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -41000,8 +40999,8 @@
     "code": ["823.74"],
     "wording": ["Austen, Jane 1775\u20131817",
     "Early 19th century 1800-37",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -41234,8 +41233,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -41300,8 +41299,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -41377,8 +41376,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -41781,8 +41780,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -41860,8 +41859,8 @@
     "4": ["Science fiction"],
     "6": ["science fiction"]
   },
-  "series": ["Die zweite Uplift-Trilogie",
-  "Second Uplift Trilogy",
+  "series": ["Second Uplift Trilogy",
+  "Die zweite Uplift-Trilogie",
   "Uplift Saga",
   "Uplift-Reihe",
   "La Elevaci\u00f3n de los Pupilos",
@@ -41994,8 +41993,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -42270,8 +42269,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -42347,8 +42346,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -42576,8 +42575,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -42978,8 +42977,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -43107,8 +43106,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -43763,7 +43762,8 @@
     "17": ["science fiction"]
   },
   "series": ["Ender's Game",
-  "Ender's saga"],
+  "Ender's saga",
+  "Enderverse"],
   "originaltitle": "Ender's Game",
   "awards": ["Hugo",
   "Nebula",
@@ -43845,8 +43845,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -44719,8 +44719,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -44806,8 +44806,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -44898,8 +44898,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -44980,8 +44980,8 @@
   "ddc": {
     "code": ["823.91"],
     "wording": ["1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -45043,8 +45043,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -45629,8 +45629,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -45741,8 +45741,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -45924,8 +45924,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -46812,8 +46812,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -46909,8 +46909,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.9"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -46971,8 +46971,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -47414,8 +47414,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -47672,8 +47672,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -47747,8 +47747,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -48497,7 +48497,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["598.42"],
-    "wording": ["Birds",
+    "wording": ["Albatrosses, Petrels, Shearwaters, etc.",
+    "Birds",
     "Natural sciences and mathematics",
     "Waterbirds",
     "Zoology"]
@@ -48675,7 +48676,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["599.03"],
-    "wording": ["Mammals",
+    "wording": ["Dictionaries and encyclopedias",
+    "Mammals",
     "Natural sciences and mathematics",
     "Zoology"]
   },
@@ -49006,6 +49008,7 @@
     "code": ["598.71"],
     "wording": ["Birds",
     "Natural sciences and mathematics",
+    "Parrots",
     "Scansores, climbers",
     "Zoology"]
   },
@@ -49654,7 +49657,7 @@
     "wording": ["Antarctica",
     "Geography and Travel",
     "History and Geography",
-    "Pacific and Polar Regions",
+    "Oceania and elsewhere",
     "Polar regions"]
   },
   "lcc": {
@@ -50149,8 +50152,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["821.8"],
-    "wording": ["English (not North America)",
-    "English poetry",
+    "wording": ["English poetry",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -50781,8 +50784,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -51285,8 +51288,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -51427,8 +51430,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -51512,8 +51515,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -51842,8 +51845,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -51903,8 +51906,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -52574,8 +52577,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -52799,8 +52802,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -52885,8 +52888,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -53044,8 +53047,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -53126,8 +53129,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -53195,21 +53198,19 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
   "lcc": {
     "code": "PR6058.E62 P67"
   },
-  "genre": ["General Fiction",
-  "Horror",
+  "genre": ["Horror",
   "Science Fiction",
   "All Topics",
   "Fiction"],
-  "genre_id": ["2",
-  "188",
+  "genre_id": ["188",
   "281",
   "8292535",
   "17160326"],
@@ -53853,8 +53854,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -53916,8 +53917,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -53991,8 +53992,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -54215,8 +54216,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -54302,8 +54303,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -54443,8 +54444,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -54521,8 +54522,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -54727,8 +54728,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -54844,8 +54845,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -55033,8 +55034,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -55452,8 +55453,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -55613,8 +55614,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -55740,8 +55741,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -55811,8 +55812,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -55950,8 +55951,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -56024,8 +56025,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -56238,7 +56239,7 @@
     "code": ["994.06"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific"]
+    "Oceania and elsewhere"]
   },
   "lcc": {
     "code": "DU117"
@@ -56437,8 +56438,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -56593,8 +56594,8 @@
     "code": ["823.0876"],
     "wording": ["Adventure fiction",
     "By Type",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Genre fiction",
     "Literature",
     "Speculative fiction"]
@@ -56783,8 +56784,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -56879,8 +56880,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.9"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -57179,8 +57180,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -57284,8 +57285,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -57801,8 +57802,8 @@
   "Fondation",
   "Cycle de Fondation",
   "Alap\u00edtv\u00e1ny",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "FOUNDATION",
   "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
@@ -58144,8 +58145,8 @@
   "Fondation",
   "Cycle de Fondation",
   "Alap\u00edtv\u00e1ny",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "FOUNDATION",
   "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
@@ -58247,8 +58248,8 @@
   "Fondation",
   "Cycle de Fondation",
   "Alap\u00edtv\u00e1ny",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
   "FOUNDATION",
   "Der Foundation-Zyklus",
   "Foundation Expanded Universe",
@@ -58668,8 +58669,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -58913,8 +58914,8 @@
   "summary": "Something to say by Frankie Magazine (2016)",
   "ddc": {
     "code": ["827.0080994"],
-    "wording": ["English (not North America)",
-    "English wit and humor",
+    "wording": ["English wit and humor",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -58949,8 +58950,8 @@
     "code": ["823.0876"],
     "wording": ["Adventure fiction",
     "By Type",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Genre fiction",
     "Literature",
     "Speculative fiction"]
@@ -58991,8 +58992,8 @@
   "summary": "Light Bodies Falling by Sean Williams (2007)",
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -59930,8 +59931,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -60941,8 +60942,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -61021,8 +61022,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -61245,8 +61246,8 @@
     "code": ["821.912"],
     "wording": ["1900-1944",
     "20th Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -61425,8 +61426,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -61496,8 +61497,8 @@
     "code": ["821.912"],
     "wording": ["1900-1944",
     "20th Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -63333,8 +63334,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -63396,8 +63397,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -64394,8 +64395,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -64458,8 +64459,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -64503,8 +64504,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -64617,8 +64618,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -64866,8 +64867,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -65982,8 +65983,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -66076,8 +66077,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -66344,8 +66345,8 @@
   "ddc": {
     "code": ["821.009382"],
     "wording": ["By form",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "History and criticism of English poetry",
     "Literature",
     "Philosophy and ideas",
@@ -67127,8 +67128,8 @@
   "ddc": {
     "code": ["821.920809411"],
     "wording": ["21st Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -67184,8 +67185,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -67257,8 +67258,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -67336,8 +67337,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -67407,8 +67408,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -67563,8 +67564,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -71917,8 +71918,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -72144,8 +72145,8 @@
   "fre"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -72414,8 +72415,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -74163,8 +74164,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -74321,8 +74322,8 @@
   "ddc": {
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -74810,8 +74811,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -74886,8 +74887,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -77092,8 +77093,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -77841,7 +77842,7 @@
     "code": ["994"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific"]
+    "Oceania and elsewhere"]
   },
   "lcc": {
     "code": "DU112 .C54"
@@ -78120,8 +78121,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -79936,8 +79937,8 @@
   "ddc": {
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -80163,7 +80164,7 @@
   "ddc": {
     "code": ["829.3"],
     "wording": ["Beowulf",
-    "English (not North America)",
+    "English {except North American}",
     "Literature",
     "Old English literature, ca. 450-1100"]
   },
@@ -81946,7 +81947,7 @@
     "code": ["994.062"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific"]
+    "Oceania and elsewhere"]
   },
   "lcc": {
     "code": "DU117 .H63"
@@ -82615,7 +82616,7 @@
     "0": ["Existentialism"],
     "2": ["existentialism"]
   },
-  "awards": ["Great Books Library addition, 1963"],
+  "awards": ["Great Books Library addition"],
   "genre": ["General Nonfiction",
   "All Topics",
   "Nonfiction"],
@@ -83609,8 +83610,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -83890,8 +83891,8 @@
   "ddc": {
     "code": ["823.3"],
     "wording": ["Elizabethan 1558-1625",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -83944,8 +83945,8 @@
   "ddc": {
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -83985,7 +83986,8 @@
     "Fiction"],
     "27": ["historical fiction"]
   },
-  "series": ["Waverley Novels",
+  "series": ["Tales of My Landlord",
+  "Waverley Novels",
   "Waverley Novels, publication"],
   "awards": ["Newark Public Library's 1904 List of a Thousand of the Best Novels"],
   "genre": ["Historical fiction",
@@ -84331,8 +84333,8 @@
   "ddc": {
     "code": ["821.9208"],
     "wording": ["21st Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -85448,8 +85450,8 @@
   "ddc": {
     "code": ["821.3"],
     "wording": ["Elizabethan 1558-1625",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -85498,7 +85500,7 @@
     "Europe",
     "History and Geography",
     "Netherlands",
-    "Other Countries"]
+    "Other parts"]
   },
   "lcc": {
     "code": "D810.J4 F715"
@@ -85658,8 +85660,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -85754,8 +85756,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -86790,8 +86792,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["821.4"],
-    "wording": ["English (not North America)",
-    "English poetry",
+    "wording": ["English poetry",
+    "English {except North American}",
     "Literature",
     "Post-Elizabethan 1625-1702"]
   },
@@ -87069,8 +87071,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -87202,7 +87204,8 @@
     "code": ["994.12"],
     "wording": ["Australia",
     "History and Geography",
-    "Pacific",
+    "Oceania and elsewhere",
+    "Southwestern Western Australia",
     "Western Australia"]
   },
   "lcc": [],
@@ -87446,8 +87449,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -87469,7 +87472,6 @@
     "12": ["humorous fiction"]
   },
   "series": ["Scheibenwelt",
-  "Skivv\u00e4rlden",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
@@ -87484,13 +87486,11 @@
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
+  "Skivv\u00e4rlden",
   "Kettamaailm",
   "Disksvijet",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
@@ -87499,6 +87499,9 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Discworld: Witches",
@@ -87581,7 +87584,6 @@
   ["fantasy fiction"],
   ["science fiction"]],
   "series": ["Scheibenwelt",
-  "Skivv\u00e4rlden",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
@@ -87596,13 +87598,11 @@
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
+  "Skivv\u00e4rlden",
   "Kettamaailm",
   "Disksvijet",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
@@ -87611,13 +87611,16 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
-  "Skivv\u00e4rlden: D\u00f6den",
   "Discworld: Death",
   "Mundodisco: La Muerte",
   "Scheibenwelt: Der Tod",
-  "Kiekkomaailma : Kuolema"],
+  "Kiekkomaailma : Kuolema",
+  "Skivv\u00e4rlden: D\u00f6den"],
   "originaltitle": "Mort",
   "awards": ["BBC's Big Read",
   "Prix Imaginales"],
@@ -87676,8 +87679,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -87700,7 +87703,6 @@
     "11": ["science fiction"]
   },
   "series": ["Scheibenwelt",
-  "Skivv\u00e4rlden",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
@@ -87715,13 +87717,11 @@
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
+  "Skivv\u00e4rlden",
   "Kettamaailm",
   "Disksvijet",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
@@ -87730,6 +87730,9 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Discworld: Witches",
@@ -87782,8 +87785,8 @@
   "ddc": {
     "code": ["820.8"],
     "wording": ["Collections of literary texts in more than one form",
-    "English (not North America)",
     "English literature",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -88200,7 +88203,6 @@
   "Gospodar prstenova",
   "Gospodar prstenova",
   "Ringenes herre",
-  "El Senyor dels Anells",
   "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
@@ -88210,7 +88212,8 @@
   "Taru Sormusten Herrasta",
   "In de ban van de ring",
   "P\u00e1n Prsten\u016f",
-  "P\u00e1n prsten\u016f"],
+  "P\u00e1n prsten\u016f",
+  "El Senyor dels Anells"],
   "awards": ["The SF Book Club's \"The Most Significant SF & Fantasy Books of the Last 50 Years From 1953-2002\""],
   "genre": ["Fantasy",
   "All Topics",
@@ -88266,8 +88269,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -88339,8 +88342,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -88577,7 +88580,7 @@
   "ddc": {
     "code": ["829.3"],
     "wording": ["Beowulf",
-    "English (not North America)",
+    "English {except North American}",
     "Literature",
     "Old English literature, ca. 450-1100"]
   },
@@ -90192,8 +90195,8 @@
   "ddc": {
     "code": ["821.3"],
     "wording": ["Elizabethan 1558-1625",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -90251,9 +90254,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["828.3"],
-    "wording": ["English (not North America)",
-    "English miscellaneous writings",
+    "wording": ["English miscellaneous writings",
     "English miscellaneous writings 1558-1625",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -92965,8 +92968,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -93326,10 +93329,10 @@
     "11": ["Italian poetry",
     "Translations into English"]
   },
-  "series": ["Die g\u00f6ttliche Kom\u00f6die",
+  "series": ["De goddelijke komedie",
+  "Die g\u00f6ttliche Kom\u00f6die",
   "Den guddommelige Komedia",
   "A Divina Com\u00e9dia",
-  "De goddelijke komedie",
   "Divina Commedia",
   "Den gudomliga komedin",
   "The Divine Comedy"],
@@ -95222,8 +95225,8 @@
     "code": ["821.912"],
     "wording": ["1900-1944",
     "20th Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -95254,6 +95257,8 @@
   "Ringenes herre",
   "Sagan om Ringen",
   "O Senhor dos An\u00e9is",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
   "In de ban van de ring",
   "P\u00e1n Prsten\u016f",
   "P\u00e1n prsten\u016f",
@@ -95266,9 +95271,7 @@
   "The Lord of the Rings",
   "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
-  "Gospodar prstenova",
-  "Taru sormusten herrasta",
-  "Taru Sormusten Herrasta"],
+  "Gospodar prstenova"],
   "originaltitle": "Bilbo's last song",
   "genre": ["Fantasy",
   "All Topics",
@@ -96362,8 +96365,8 @@
   "summary": "Dropbear",
   "ddc": {
     "code": ["821.4"],
-    "wording": ["English (not North America)",
-    "English poetry",
+    "wording": ["English poetry",
+    "English {except North American}",
     "Literature",
     "Post-Elizabethan 1625-1702"]
   },
@@ -98123,8 +98126,8 @@
   "ddc": {
     "code": ["821.1"],
     "wording": ["Early English 1066-1400",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -98570,8 +98573,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -99133,7 +99136,8 @@
   },
   "series": ["Patternist series",
   "Patternisti",
-  "Patternist: Chronological order"],
+  "Patternist: Chronological order",
+  "Patternisti"],
   "awards": ["James Tiptree, Jr. Award Shortlist",
   "David Pringle's Best 100 Science Fiction Novels"],
   "genre": ["General Fiction",
@@ -99211,10 +99215,10 @@
     "Fiction"],
     "11": ["science fiction"]
   },
-  "series": ["Parabole",
-  "Ciclo delle parabole",
+  "series": ["Ciclo delle parabole",
   "Earthseed",
-  "Parable"],
+  "Parable",
+  "Parabole"],
   "awards": ["Arthur C. Clarke Award Shortlist",
   "Nebula",
   "James Tiptree, Jr. Award Shortlist",
@@ -101462,8 +101466,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -101544,8 +101548,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -101614,8 +101618,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -101668,8 +101672,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -101935,8 +101939,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -103560,7 +103564,7 @@
     "wording": ["Europe",
     "Greece and the Byzantine Empire ",
     "History and Geography",
-    "Other Countries"]
+    "Other parts"]
   },
   "lcc": {
     "code": "DF531 .B48"
@@ -108390,8 +108394,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -108780,8 +108784,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -108942,8 +108946,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -109173,8 +109177,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["2000-",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -109304,8 +109308,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["821.8"],
-    "wording": ["English (not North America)",
-    "English poetry",
+    "wording": ["English poetry",
+    "English {except North American}",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -116408,8 +116412,8 @@
     "code": ["823.0108994"],
     "wording": ["By Type",
     "Collections",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Short stories"]
   },
@@ -116580,8 +116584,8 @@
   "ddc": {
     "code": ["821.92"],
     "wording": ["21st Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -118093,8 +118097,8 @@
     "code": ["822.912"],
     "wording": ["1900-",
     "20th Century",
-    "English (not North America)",
     "English drama",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": {
@@ -118745,7 +118749,7 @@
     "wording": ["Europe",
     "Greece and the Byzantine Empire ",
     "History and Geography",
-    "Other Countries"]
+    "Other parts"]
   },
   "lcc": {
     "code": "DF552 .V3"
@@ -120094,7 +120098,7 @@
     "History and Geography"]
   },
   "lcc": {
-    "code": "DA135 .H855"
+    "code": "DA135"
   },
   "series": ["The Norton Library History of England"],
   "genre": ["General Nonfiction",
@@ -121117,8 +121121,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823.6"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Later 18th century 1745-1800",
     "Literature"]
   },
@@ -122354,7 +122358,8 @@
     "code": "PS3623.E4324494"
   },
   "awards": ["Indie Next List",
-  "LibraryReads"],
+  "LibraryReads",
+  "Audie Winner"],
   "genre": ["General Fiction",
   "Science Fiction",
   "Audiobooks",
@@ -126799,12 +126804,10 @@
   "lcc": {
     "code": "BJ1476 .T88"
   },
-  "genre": ["General Nonfiction",
-  "Religion & Spirituality",
+  "genre": ["Religion & Spirituality",
   "All Topics",
   "Nonfiction"],
-  "genre_id": ["1247",
-  "1944",
+  "genre_id": ["1944",
   "8292535",
   "20275895"],
   "source": "amazon.com books",
@@ -127213,9 +127216,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["828.993544"],
-    "wording": ["English (not North America)",
-    "English miscellaneous writings",
+    "wording": ["English miscellaneous writings",
     "English miscellaneous writings 1900-",
+    "English {except North American}",
     "Essays",
     "India",
     "Literature",
@@ -127480,8 +127483,8 @@
   "ddc": {
     "code": ["821.9208"],
     "wording": ["21st Century",
-    "English (not North America)",
     "English poetry",
+    "English {except North American}",
     "Literature",
     "Modern period 1900-"]
   },
@@ -128430,8 +128433,8 @@
     "code": ["823.914"],
     "wording": ["1901-1999",
     "1945-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -128480,8 +128483,8 @@
   "ddc": {
     "code": ["823.00"],
     "wording": ["By Type",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
@@ -128638,7 +128641,7 @@
   "ddc": {
     "code": ["829.3"],
     "wording": ["Beowulf",
-    "English (not North America)",
+    "English {except North American}",
     "Literature",
     "Old English literature, ca. 450-1100"]
   },
@@ -128794,8 +128797,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -130170,8 +130173,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "1901-1999",
-    "English (not North America)",
     "English fiction",
+    "English {except North American}",
     "Literature",
     "Modern Period"]
   },
@@ -130208,26 +130211,26 @@
     "21": ["fantasy"],
     "22": ["fiction in English"]
   },
-  "series": ["P\u00e1n Prsten\u016f",
-  "P\u00e1n prsten\u016f",
+  "series": ["The Lord of the Rings",
+  "Gospodar prstenova",
+  "Il Signore degli Anelli",
+  "Gy\u0171r\u0171k Ura",
+  "Der Herr der Ringe",
+  "Le seigneur des anneaux",
+  "Ringenes herre",
+  "Sagan om Ringen",
   "O Senhor dos An\u00e9is",
   "Taru sormusten herrasta",
   "Taru Sormusten Herrasta",
   "In de ban van de ring",
-  "Ringenes herre",
+  "P\u00e1n Prsten\u016f",
+  "P\u00e1n prsten\u016f",
   "El Senyor dels Anells",
   "Ringenes herre",
   "Gospodar prstenova",
   "El Se\u00f1or de los Anillos",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "Le seigneur des anneaux",
-  "Der Herr der Ringe",
-  "Gy\u0171r\u0171k Ura",
-  "The Lord of the Rings",
-  "Il Signore degli Anelli",
-  "Gospodar prstenova",
-  "Sagan om Ringen",
   "Middle-earth"],
   "originaltitle": "The Lord of the Rings",
   "awards": ["International Fantasy Award",
@@ -130338,11 +130341,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English (not North America)",
-    "English fiction",
+    "wording": ["English fiction",
+    "English {except North American}",
     "Literature"]
   },
   "lcc": [],
+  "genre": ["Fiction"],
+  "genre_id": ["17160326"],
   "source": "amazon.com books",
   "workcode": "27834469",
   "entrydate": "2022-03-10",
@@ -131388,4 +131393,1593 @@
   }],
   "copies": "1",
   "weight": "0.3086471668 pounds"
+},
+"214934334": {
+  "books_id": "214934334",
+  "title": "Pedagogy of the Oppressed",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Paulo, Freire",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Paulo, Freire",
+    "fl": "Freire Paulo",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0241301114",
+  "isbn": {
+    "0": "0241301114",
+    "2": "9780241301111"
+  },
+  "asin": "0241301114",
+  "ean": ["0241301114"],
+  "publication": "PENGUIN (2017)",
+  "date": "2017",
+  "summary": "Pedagogy of the Oppressed by Freire Paulo (2017)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["Portuguese"],
+  "originallanguage_codeA": ["eng",
+  "por"],
+  "ddc": {
+    "code": ["370.115"],
+    "wording": ["Education",
+    "Education",
+    "Objectives of Education",
+    "Social Responsibility",
+    "Social Sciences",
+    "Theory of education; Meaning; Aim"]
+  },
+  "lcc": {
+    "code": "LB880.F73"
+  },
+  "subject": {
+    "0": ["Critical pedagogy"],
+    "2": ["Education",
+    "Philosophy"],
+    "4": ["Freire, Paulo, 1921-"],
+    "5": ["Freire, Paulo, 1921-1997"],
+    "6": ["Liberty"],
+    "8": ["Popular education",
+    "Philosophy"],
+    "10": ["liberty"]
+  },
+  "genre": ["General Nonfiction",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "9447",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "7.76 inches",
+  "height": "7.75589 inches",
+  "thickness": "0.3937 inches",
+  "length": "5.1181 inches",
+  "dimensions": "7.75589 x 5.1181 x 0.3937 inches",
+  "weight": "0.27116858226 pounds"
+},
+"214934388": {
+  "books_id": "214934388",
+  "title": "Reminiscences of the Cuban Revolutionary War (Penguin Modern Classics)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Guevara, Ernesto Che",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Guevara, Ernesto Che",
+    "fl": "Ernesto Che Guevara",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0241465095",
+  "isbn": {
+    "0": "0241465095",
+    "2": "9780241465097"
+  },
+  "asin": "0241465095",
+  "ean": ["0241465095"],
+  "publication": "Penguin Classics (2021), 272 pages",
+  "date": "2021",
+  "summary": "Reminiscences of the Cuban Revolutionary War (Penguin Modern Classics) by Ernesto Che Guevara (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["Spanish"],
+  "originallanguage_codeA": ["eng",
+  "spa"],
+  "ddc": {
+    "code": ["972"],
+    "wording": ["History and Geography",
+    "Mexico, Central America, West Indies, Bermuda",
+    "North America"]
+  },
+  "lcc": {
+    "code": "F1787 .G8253"
+  },
+  "subject": {
+    "0": ["Cuba",
+    "History",
+    "1933-1959"],
+    "2": ["Cuba",
+    "History",
+    "Revolution, 1959",
+    "Campaigns"],
+    "3": ["Cuba",
+    "History",
+    "Revolution, 1959",
+    "Personal narratives"],
+    "4": ["Cuba",
+    "History, Military"],
+    "6": ["Guerrillas",
+    "Biography"],
+    "7": ["Guerrillas",
+    "Cuba",
+    "History",
+    "20th century"],
+    "8": ["Guevara, Ernesto, 1928-1967"]
+  },
+  "genre": ["Biography & Memoir",
+  "General Nonfiction",
+  "History",
+  "All Topics",
+  "Biography",
+  "Nonfiction"],
+  "genre_id": ["1240",
+  "1247",
+  "1599",
+  "8292535",
+  "20216197",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "490291",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "272 p.; 7.8 inches",
+  "height": "7.79526 inches",
+  "thickness": "1.37795 inches",
+  "length": "5.07873 inches",
+  "dimensions": "7.79526 x 5.07873 x 1.37795 inches",
+  "weight": "1.10231131 pounds",
+  "pages": "272 "
+},
+"214934401": {
+  "books_id": "214934401",
+  "title": "WEE FREE MEN, THE",
+  "sortcharacter": "1",
+  "public": "true",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0552549053",
+  "isbn": {
+    "0": "0552549053",
+    "2": "9780552549059"
+  },
+  "asin": "B00BG75GCI",
+  "ean": ["0552549053"],
+  "summary": "WEE FREE MEN, THE",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.914"],
+    "wording": ["1901-1999",
+    "1945-1999",
+    "English fiction",
+    "English {except North American}",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PZ7.P8865 W"
+  },
+  "subject": {
+    "0": ["Children's stories"],
+    "1": ["Discworld (Imaginary place)",
+    "Fiction"],
+    "2": ["Discworld (Imaginary place)",
+    "Juvenile fiction"],
+    "3": ["Fairies",
+    "Fiction"],
+    "5": ["Fantasy fiction"],
+    "6": ["Humorous stories"],
+    "7": ["Witches",
+    "Fiction"],
+    "9": ["Witches",
+    "fiction"],
+    "10": ["Young adult fiction"],
+    "11": ["fairies",
+    "Fiction"],
+    "13": ["fantasy fiction"]
+  },
+  "series": ["Discworld",
+  "Mondo Disco",
+  "Skivv\u00e4rlden",
+  "Disque-monde",
+  "Les Annales du Disque-Monde",
+  "Mundodisco",
+  "Diskd\u00fcnya",
+  "Kiekkomaailma",
+  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
+  "Skiveverdenen",
+  "\u015awiat Dysku",
+  "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
+  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
+  "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
+  "Disgfyd",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
+  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
+  "Plochozem",
+  "Kettamaailm",
+  "Scheibenwelt",
+  "Disksvijet",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
+  "Lumea Disc",
+  "Biblioteca Terry Pratchett",
+  "Mundodisco : Los Magos",
+  "Schijfwereld",
+  "Diskverden",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
+  "Korongvil\u00e1g",
+  "Tiffany Aching",
+  "Ein M\u00e4rchen von der Scheibenwelt",
+  "Discworld: Tiffany Aching",
+  "Discworld: Young Adult",
+  "Mundodisco: Juvenil"],
+  "originaltitle": "The Wee Free Men",
+  "awards": ["ALA Notable Children's Book",
+  "Locus",
+  "Mythopoeic Fantasy Award Nominee",
+  "W.H. Smith People's Choice",
+  "ALA Best Books for Young Adults",
+  "A Horn Book Fanfare Best Book",
+  "BCCB Blue Ribbon Book",
+  "Geffen Award",
+  "School Library Journal Best Book of the Year",
+  "Amelia Bloomer List",
+  "Capitol Choices Noteworthy Book for Children and Teens",
+  "BCCB Blue Ribbon Book",
+  "VDL Green Mountain Book Award Nominee",
+  "Utah Beehive Book Award Nominee",
+  "Margaret A. Edwards Award"],
+  "genre": ["Young Adult",
+  "Fantasy",
+  "All Topics",
+  "Fiction",
+  "Fantasy"],
+  "genre_id": ["1879",
+  "5280",
+  "8292535",
+  "17160326",
+  "20216151"],
+  "source": "amazon.com books",
+  "workcode": "1043958",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "7.64 inches",
+  "thickness": "0.87 inches",
+  "length": "5.04 inches",
+  "dimensions": "7.64 x 5.04 x 0.87 inches",
+  "weight": "0.49 pounds",
+  "pages": "320 "
+},
+"214934408": {
+  "books_id": "214934408",
+  "title": "White Feminism",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Beck, Koa",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Beck, Koa",
+    "fl": "Koa Beck",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1398501972",
+  "isbn": {
+    "0": "1398501972",
+    "2": "9781398501973"
+  },
+  "asin": "1398501972",
+  "ean": ["1398501972"],
+  "publication": "new brand",
+  "summary": "White Feminism by Koa Beck",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["305.42"],
+    "wording": ["Role in society, status",
+    "Social Sciences",
+    "Social Sciences",
+    "Social groups ; Inequality",
+    "Women"]
+  },
+  "lcc": {
+    "code": "HQ1233 .B423"
+  },
+  "genre": ["General Nonfiction",
+  "Sociology",
+  "Recent Nonfiction",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "5686",
+  "8278606",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "25526680",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9.21 inches",
+  "height": "9.21258 inches",
+  "thickness": "0.74803 inches",
+  "length": "6.02361 inches",
+  "dimensions": "9.21258 x 6.02361 x 0.74803 inches",
+  "weight": "0.771617917 pounds"
+},
+"214934418": {
+  "books_id": "214934418",
+  "title": "Persephone Station",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Leicht, Stina",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Leicht, Stina",
+    "fl": "Stina Leicht",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1534414592",
+  "isbn": {
+    "0": "1534414592",
+    "2": "9781534414594"
+  },
+  "asin": "1534414592",
+  "ean": ["1534414592"],
+  "publication": "Gallery / Saga Press (2021), 512 pages",
+  "date": "2021",
+  "summary": "Persephone Station by Stina Leicht (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3612.E35554 P47"
+  },
+  "genre": ["Science Fiction",
+  "Audiobooks",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["281",
+  "1697",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "25042615",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "512 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "1.3 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 1.3 inches",
+  "weight": "1.00089866948 pounds",
+  "pages": "512 "
+},
+"214934426": {
+  "books_id": "214934426",
+  "title": "Priory of The Orange Tree, The",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Samantha, Shannon",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Samantha, Shannon",
+    "fl": "Shannon Samantha",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "140888335X",
+  "isbn": {
+    "0": "140888335X",
+    "2": "9781408883358"
+  },
+  "asin": "140888335X",
+  "ean": ["140888335X"],
+  "publication": "BLOOMSBURY (2020), 848 pages",
+  "date": "2020",
+  "summary": "Priory of The Orange Tree, The by Shannon Samantha (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English fiction",
+    "English {except North American}",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6119.H365"
+  },
+  "originaltitle": "The Priory of the Orange Tree",
+  "awards": ["Chicago Public Library Best of the Best Book List",
+  "Lambda Literary Award Finalist"],
+  "genre": ["Fantasy",
+  "LGBTQ+",
+  "All Topics",
+  "Fiction",
+  "Fantasy"],
+  "genre_id": ["5280",
+  "364398",
+  "8292535",
+  "17160326",
+  "20216151"],
+  "source": "amazon.com books",
+  "workcode": "19440174",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "848 p.; 7.83 x 5.2 inches",
+  "height": "5.19684 inches",
+  "thickness": "2.28346 inches",
+  "length": "7.83463 inches",
+  "dimensions": "5.19684 x 7.83463 x 2.28346 inches",
+  "weight": "1.48371102326 pounds",
+  "pages": "848 "
+},
+"214934474": {
+  "books_id": "214934474",
+  "title": "Chaplains in the Royal Australian Navy: 1912 to the Vietnam War",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Strong, Rowan",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Strong, Rowan",
+    "fl": "Rowan Strong",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1742233147",
+  "isbn": {
+    "0": "1742233147",
+    "2": "9781742233147"
+  },
+  "asin": "1742233147",
+  "ean": ["1742233147"],
+  "publication": "University of New South Wales Press (2012), 352 pages",
+  "date": "2012",
+  "summary": "Chaplains in the Royal Australian Navy: 1912 to the Vietnam War by Rowan Strong (2012)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["355.347"],
+    "wording": ["Military Chaplaincy",
+    "Military Science",
+    "Organization of military forces",
+    "Public Administration, Military Science",
+    "Social Sciences",
+    "Special service"]
+  },
+  "lcc": {
+    "code": "VG25.A8 S77"
+  },
+  "genre": ["History",
+  "Nonfiction"],
+  "genre_id": ["1599",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "15667422",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"214934491": {
+  "books_id": "214934491",
+  "title": "The Protestant Ethic and the Spirit of Capitalism (Routledge Classics)",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Weber, Max",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Weber, Max",
+    "fl": "Max Weber",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780415254069",
+  "isbn": ["9780415254069",
+  "041525406X"],
+  "asin": "041525406X",
+  "ean": ["041525406X"],
+  "publication": "Routledge (2001), Edition: 1, 320 pages",
+  "date": "2001",
+  "summary": "The Protestant Ethic and the Spirit of Capitalism (Routledge Classics) by Max Weber (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["306.6"],
+    "wording": ["Culture and Institutions",
+    "Religious institutions",
+    "Social Sciences",
+    "Social Sciences"]
+  },
+  "lcc": {
+    "code": "BR115.C3 W413"
+  },
+  "subject": {
+    "0": ["Capitalism"],
+    "1": ["Capitalism",
+    "Christianity"],
+    "2": ["Capitalism",
+    "Protestant churches"],
+    "3": ["Capitalism",
+    "Religious aspects"],
+    "4": ["Capitalism",
+    "Religious aspects",
+    "Protestant churches"],
+    "5": ["Christian Ethics"],
+    "6": ["Christian ethics"],
+    "8": ["Christian sociology"],
+    "9": ["Economics",
+    "Religious aspects",
+    "Christianity"],
+    "10": ["Protestant work ethic"],
+    "12": ["Protestantism"],
+    "13": ["Religion and sociology"],
+    "14": ["capitalism"]
+  },
+  "originaltitle": "Die protestantische Ethik und der Geist des Kapitalismus",
+  "awards": ["New York Public Library's Books of the Century",
+  "Christianity Today's Books of the Century",
+  "Prix Halp\u00e9rine-Kaminsky D\u00e9couverte de la SGDL",
+  "International Sociological Association: 1000 most influential books in Sociology"],
+  "genre": ["General Nonfiction",
+  "History",
+  "Religion & Spirituality",
+  "Sociology",
+  "Economics",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1599",
+  "1944",
+  "5686",
+  "7973",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "3601",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "320 p.; 7.79 inches",
+  "height": "7.79 inches",
+  "thickness": "0.73 inches",
+  "length": "5.08 inches",
+  "dimensions": "7.79 x 5.08 x 0.73 inches",
+  "weight": "0.7495716908 pounds",
+  "pages": "320 "
+},
+"214934492": {
+  "books_id": "214934492",
+  "title": "The Jewish War (Oxford World's Classics)",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Josephus",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Josephus",
+    "fl": "Josephus",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0199646023",
+  "isbn": {
+    "0": "0199646023",
+    "2": "9780199646029"
+  },
+  "asin": "0199646023",
+  "ean": ["0199646023"],
+  "publication": "Oxford University Press (2017), Edition: 1, 528 pages",
+  "date": "2017",
+  "summary": "The Jewish War (Oxford World's Classics) by Josephus (2017)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["933.05"],
+    "wording": ["Ancient Palestine to 70",
+    "Ancient World",
+    "History and Geography"]
+  },
+  "lcc": {
+    "code": "DS122 .J733"
+  },
+  "subject": {
+    "0": ["Jews",
+    "History"],
+    "2": ["Jews",
+    "History",
+    "168 B.C.-135 A.D"],
+    "3": ["Jews",
+    "History",
+    "586 B.C.-70 A.D"],
+    "4": ["Jews",
+    "History",
+    "Rebellion, 66-73"],
+    "5": ["Jews",
+    "history"],
+    "7": ["Josephus, Flavius. De bello Judaico"]
+  },
+  "originaltitle": "\u03a6\u03bb\u03b1\u03c5\u03af\u03bf\u03c5 \u1f38\u03c9\u03c3\u03ae\u03c0\u03bf\u03c5 \u1f31\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u1f38\u03bf\u03c5\u03b4\u03b1\u03ca\u03ba\u03bf\u1fe6 \u03c0\u03bf\u03bb\u03ad\u03bc\u03bf\u03c5 \u03c0\u03c1\u1f78\u03c2 \u1fec\u03c9\u03bc\u03b1\u03af\u03bf\u03c5\u03c2 \u03b2\u03b9\u03b2\u03bb\u03af\u03b1",
+  "genre": ["General Nonfiction",
+  "History",
+  "Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1599",
+  "1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "21217",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "528 p.; 7.7 x 1.1 inches",
+  "height": "1.1 inches",
+  "thickness": "5 inches",
+  "length": "7.7 inches",
+  "dimensions": "1.1 x 7.7 x 5 inches",
+  "weight": "0.91712300992 pounds",
+  "pages": "528 "
+},
+"214934494": {
+  "books_id": "214934494",
+  "title": "Capon, R: Kingdom, Grace, Judgment: Paradox, Outrage, and Vindication in the Parables of Jesus",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Capon, Robert Farrar",
+  "primaryauthorrole": "Autor",
+  "authors": [{
+    "lf": "Capon, Robert Farrar",
+    "fl": "Robert Farrar Capon",
+    "role": "Autor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0802839495",
+  "isbn": {
+    "0": "0802839495",
+    "2": "9780802839497"
+  },
+  "asin": "0802839495",
+  "ean": ["0802839495"],
+  "publication": "William B Eerdmans Publishing Co (2002), Edition: Illustrated, 531 pages",
+  "date": "2002",
+  "summary": "Capon, R: Kingdom, Grace, Judgment: Paradox, Outrage, and Vindication in the Parables of Jesus by Robert Farrar Capon (2002)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["226.806"],
+    "wording": ["Bible",
+    "Gospels and Acts",
+    "Parables",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BT375 .C36"
+  },
+  "subject": [["Jesus Christ",
+  "Parables"]],
+  "genre": ["Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "317049",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "531 p.; 8.9 inches",
+  "height": "8.9 inches",
+  "thickness": "1.2 inches",
+  "length": "6 inches",
+  "dimensions": "8.9 x 6 x 1.2 inches",
+  "weight": "1.4991433816 pounds",
+  "pages": "531 "
+},
+"214934496": {
+  "books_id": "214934496",
+  "title": "Concluding Unscientific Postscript to Philosophical Fragments, Volume 1 (Kierkegaard's Writings, Vol 12.1)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Kierkegaard, S\u00f8ren",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Kierkegaard, S\u00f8ren",
+    "fl": "S\u00f8ren Kierkegaard",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0691020817",
+  "isbn": {
+    "0": "0691020817",
+    "2": "9780691020815"
+  },
+  "asin": "0691020817",
+  "ean": ["0691020817"],
+  "publication": "Princeton University Press (1992), Edition: Revised ed., 650 pages",
+  "date": "1992",
+  "summary": "Concluding Unscientific Postscript to Philosophical Fragments, Volume 1 (Kierkegaard's Writings, Vol 12.1) by S\u00f8ren Kierkegaard (1992)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["201"],
+    "wording": ["Religion",
+    "Religions",
+    "Religious mythology, general classes of religion, interreligious relations and attitudes, social theology"]
+  },
+  "lcc": {
+    "code": "B4373.A472 E5"
+  },
+  "subject": {
+    "0": ["Apologetics"],
+    "2": ["Apologetics",
+    "History",
+    "19th century"],
+    "3": ["Christianity",
+    "Philosophy"]
+  },
+  "originaltitle": "Afsluttende uvidenskabelig Efterskrift",
+  "genre": ["Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "9270",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "650 p.; 8.61 inches",
+  "height": "8.61 inches",
+  "thickness": "1.36 inches",
+  "length": "5.37 inches",
+  "dimensions": "8.61 x 5.37 x 1.36 inches",
+  "weight": "1.56307743758 pounds",
+  "pages": "650 "
+},
+"214934497": {
+  "books_id": "214934497",
+  "title": "Practice in Christianity : Kierkegaard's Writings, Vol 20 (Kierkegaard's Writings, 87)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Kierkegaard, Soren",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Kierkegaard, Soren",
+    "fl": "Soren Kierkegaard",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0691020639",
+  "isbn": {
+    "0": "0691020639",
+    "2": "9780691020631"
+  },
+  "asin": "0691020639",
+  "ean": ["0691020639"],
+  "publication": "Princeton University Press (1991), Edition: Revised, 452 pages",
+  "date": "1991",
+  "summary": "Practice in Christianity : Kierkegaard's Writings, Vol 20 (Kierkegaard's Writings, 87) by Soren Kierkegaard (1991)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248"],
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "B4373.I532 E5"
+  },
+  "subject": [["Christianity",
+  "Philosophy"]],
+  "originaltitle": "Ind\u00f8velse i Christendom",
+  "genre": ["Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "90496",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "452 p.; 8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "0.97 inches",
+  "length": "5.5 inches",
+  "dimensions": "8.5 x 5.5 x 0.97 inches",
+  "weight": "1.18829159218 pounds",
+  "pages": "452 "
+},
+"214934570": {
+  "books_id": "214934570",
+  "title": "The Resurrection of Jesus: Apologetics, Polemics, History",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Allison, Dale C.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Allison, Dale C.",
+    "fl": "Dale C. Allison",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0567697568",
+  "isbn": {
+    "0": "0567697568",
+    "2": "9780567697561"
+  },
+  "asin": "0567697568",
+  "ean": ["0567697568"],
+  "publication": "T&T Clark (2021), 464 pages",
+  "date": "2021",
+  "summary": "The Resurrection of Jesus: Apologetics, Polemics, History by Dale C. Allison (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["232.5"],
+    "wording": ["Christ; Christology",
+    "Christian doctrinal theology",
+    "Religions",
+    "Resurrection"]
+  },
+  "lcc": {
+    "code": "BT482 .A454"
+  },
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "26434251",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "464 p.; 9.71 inches",
+  "height": "9.71 inches",
+  "thickness": "0.91 inches",
+  "length": "6.59 inches",
+  "dimensions": "9.71 x 6.59 x 0.91 inches",
+  "weight": "1.59614677688 pounds",
+  "pages": "464 "
+},
+"214934596": {
+  "books_id": "214934596",
+  "title": "Islam in Australia",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Professor Abdullah Saeed",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Professor Abdullah Saeed",
+    "fl": "Professor Abdullah Saeed",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1865088641",
+  "isbn": {
+    "0": "1865088641",
+    "2": "9781865088648"
+  },
+  "asin": "1865088641",
+  "ean": ["1865088641"],
+  "publication": "Allen & Unwin (2003), 240 pages",
+  "date": "2003",
+  "summary": "Islam in Australia by Professor Abdullah Saeed (2003)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["297.0994"],
+    "wording": ["Biography And History",
+    "Islam, Babism, Bahai Faith",
+    "Other Religions",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BP66 .S24"
+  },
+  "genre": ["Religion & Spirituality",
+  "Sociology",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "5686",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "2352902",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "240 p.; 7.5 inches",
+  "height": "7.5 inches",
+  "thickness": "0.61 inches",
+  "length": "5 inches",
+  "dimensions": "7.5 x 5 x 0.61 inches",
+  "weight": "0.6393405598 pounds",
+  "pages": "240 "
+},
+"214934604": {
+  "books_id": "214934604",
+  "title": "Concluding Unscientific Postscript to Philosophical Fragments, Volume II : (Kierkegaard's Writings, 12) (Kierkegaard's Writings, 84)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Kierkegaard, S\u00f8ren",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Kierkegaard, S\u00f8ren",
+    "fl": "S\u00f8ren Kierkegaard",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0691020825",
+  "isbn": {
+    "0": "0691020825",
+    "2": "9780691020822"
+  },
+  "asin": "0691020825",
+  "ean": ["0691020825"],
+  "publication": "Princeton University Press (1992), Edition: First Paperback, 368 pages",
+  "date": "1992",
+  "summary": "Concluding Unscientific Postscript to Philosophical Fragments, Volume II : (Kierkegaard's Writings, 12) (Kierkegaard's Writings, 84) by S\u00f8ren Kierkegaard (1992)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["201"],
+    "wording": ["Religion",
+    "Religions",
+    "Religious mythology, general classes of religion, interreligious relations and attitudes, social theology"]
+  },
+  "lcc": {
+    "code": "B4373.A472 E5"
+  },
+  "originaltitle": "Afsluttende uvidenskabelig efterskrift",
+  "genre": ["General Nonfiction",
+  "Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "13200342",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "368 p.; 8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "0.82 inches",
+  "length": "5.5 inches",
+  "dimensions": "8.5 x 5.5 x 0.82 inches",
+  "weight": "0.9369646135 pounds",
+  "pages": "368 "
+},
+"214934611": {
+  "books_id": "214934611",
+  "title": "Abraham Isaac Kook: The Lights of Penitence, the Moral Principles, Lights of Holiness, Essays, Letters, and Poems (Classics of Western Spirituality)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Bokser, Ben Zion",
+  "primaryauthorrole": "Translator",
+  "authors": [{
+    "lf": "Bokser, Ben Zion",
+    "fl": "Ben Zion Bokser",
+    "role": "Translator"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780809121595",
+  "isbn": ["9780809121595",
+  "080912159X"],
+  "asin": "080912159X",
+  "ean": ["080912159X"],
+  "publication": "Paulist Press (1978), Edition: Revised ed., 448 pages",
+  "date": "1978",
+  "summary": "Abraham Isaac Kook: The Lights of Penitence, the Moral Principles, Lights of Holiness, Essays, Letters, and Poems (Classics of Western Spirituality) by Ben Zion Bokser (1978)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["296.3"],
+    "wording": ["Jewish philosophy",
+    "Judaism",
+    "Other Religions",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BM45 .K65413"
+  },
+  "subject": {
+    "0": ["Jewish ethics"],
+    "2": ["Judaism"],
+    "4": ["Mysticism",
+    "Judaism"],
+    "6": ["Repentance",
+    "Judaism"],
+    "8": ["judaism"]
+  },
+  "genre": ["Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "1161739",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "448 p.; 9.01 inches",
+  "height": "9.01 inches",
+  "thickness": "1.18 inches",
+  "length": "5.96 inches",
+  "dimensions": "9.01 x 5.96 x 1.18 inches",
+  "weight": "1.58953290902 pounds",
+  "pages": "448 "
+},
+"214934627": {
+  "books_id": "214934627",
+  "title": "The Color Purple: The classic, Pulitzer Prize-winning novel",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Walker, Alice",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Walker, Alice",
+    "fl": "Alice Walker",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "147460725X",
+  "isbn": {
+    "0": "147460725X",
+    "2": "9781474607254"
+  },
+  "asin": "147460725X",
+  "ean": ["147460725X"],
+  "publication": "Weidenfeld & Nicholson (2017), Edition: 01, 288 pages",
+  "date": "2017",
+  "summary": "The Color Purple: The classic, Pulitzer Prize-winning novel by Alice Walker (2017)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": {
+    "code": "PS3573.A425"
+  },
+  "subject": {
+    "0": ["Abused wives",
+    "Fiction"],
+    "2": ["Abused women",
+    "Drama"],
+    "3": ["Adult child sexual abuse victims",
+    "Fiction"],
+    "5": ["African American women",
+    "Fiction"],
+    "7": ["Black films and programs"],
+    "8": ["Blacks",
+    "Fiction"],
+    "9": ["Domestic Fiction"],
+    "10": ["Domestic fiction"],
+    "12": ["Domestic relations",
+    "Drama"],
+    "13": ["Drama"],
+    "14": ["Epistolary fiction"],
+    "16": ["Family",
+    "Drama"],
+    "17": ["Features"],
+    "18": ["Large Type Books"],
+    "19": ["Large type books"],
+    "20": ["SIsters",
+    "Fiction"],
+    "22": ["Sisters",
+    "Drama"],
+    "23": ["Sisters",
+    "Fiction"],
+    "25": ["Sisters",
+    "United States",
+    "Fiction"],
+    "27": ["Southern States",
+    "Fiction"],
+    "29": ["Southern states",
+    "Fiction"],
+    "31": ["Videodiscs"],
+    "32": ["drama"]
+  },
+  "originaltitle": "The Color Purple",
+  "awards": ["Pulitzer Prize",
+  "National Book Award",
+  "Waterstones Books of the Century",
+  "BBC's Big Read",
+  "Radcliffe Publishing Course Top 100 Novels of the 20th Century",
+  "National Book Critics Circle Award finalist",
+  "New York Times bestseller",
+  "1001 Books You Must Read Before You Die",
+  "Guardian 1000",
+  "ALA 100 Most Frequently Challenged Books of 1990-2000",
+  "Newsweek's Top 100 Books: The Meta-List",
+  "ALA 100 Most Frequently Challenged Books of 1990-1999",
+  "New York Public Library's Books of the Century",
+  "Academy Award for Writing Adapted Screenplay Nominee",
+  "The Modern Library: the 200 best novels in English since 1950",
+  "Publishing Triangle 100 Best Lesbian and Gay Novels",
+  "125 Great Southern Books",
+  "Oxford American Best Southern Books of All Time",
+  "The Top Ten: Writers Pick Their Favorite Books",
+  "Townsend Prize",
+  "Harenberg Buch der 1000 B\u00fccher",
+  "Georgia Top 25 Reading List",
+  "The 100 Favorite Novels of Librarians",
+  "BookDepository's 100 Best Books Ever",
+  "ALA 100 Most Frequently Challenged Books of 2000-2009",
+  "San Francisco Chronicle list of The 20th Century's 100 Best Fiction of the American West",
+  "The Great American Read",
+  "1000 Books to Read Before You Die",
+  "Uncovered Classics",
+  "Erica Jong's Top 100 20th Century Novels by Women",
+  "Audie Award Finalist",
+  "Greatest Books algorithm",
+  "Audie Award Finalist"],
+  "genre": ["General Fiction",
+  "Historical fiction",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["2",
+  "41890",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "283",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "288 p.; 7.8 inches",
+  "height": "7.79526 inches",
+  "thickness": "1.1811 inches",
+  "length": "4.96062 inches",
+  "dimensions": "7.79526 x 4.96062 x 1.1811 inches",
+  "weight": "0.4629707502 pounds",
+  "pages": "288 "
+},
+"214934641": {
+  "books_id": "214934641",
+  "title": "The Name of the Rose",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Eco, Umberto",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Eco, Umberto",
+    "fl": "Umberto Eco",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0099466031",
+  "isbn": {
+    "0": "0099466031",
+    "2": "9780099466031"
+  },
+  "asin": "0099466031",
+  "ean": ["8601300073712"],
+  "publication": "Vintage Uk (2004), 493 pages",
+  "date": "2004",
+  "summary": "The Name of the Rose by Umberto Eco (2004)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["853.914"],
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
+    "Italian",
+    "Italian fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PQ4865.C6"
+  },
+  "subject": {
+    "0": ["Detective and mystery stories"],
+    "2": ["Didactic fiction"],
+    "4": ["Historical Fiction"],
+    "6": ["Historical fiction"],
+    "8": ["Italy",
+    "Church history",
+    "476-1400",
+    "Fiction"],
+    "10": ["Italy",
+    "Fiction.",
+    "476-1400"],
+    "11": ["Large Type Books"],
+    "12": ["Large type books"],
+    "14": ["Monastic and religious life",
+    "Italy",
+    "Fiction"],
+    "15": ["Monastic and religious life",
+    "Italy",
+    "History",
+    "Fiction"],
+    "16": ["Monastic and religious life",
+    "Italy",
+    "History",
+    "Middle Ages, 600-1500",
+    "Fiction"],
+    "17": ["Monastic libraries",
+    "Italy",
+    "Fiction"],
+    "19": ["Monks",
+    "Fiction"],
+    "21": ["Murder",
+    "Fiction"],
+    "23": ["Murder",
+    "fiction"],
+    "24": ["Semiotics",
+    "Fiction"],
+    "26": ["historical fiction"]
+  },
+  "originaltitle": "Il nome della rosa",
+  "awards": ["Waterstones top 25 books of the last 25 years",
+  "Waterstones Books of the Century",
+  "Strega",
+  "BBC's Big Read",
+  "New York Times Best Books of the Year",
+  "Prix M\u00e9dicis",
+  "Edgar Award Nominee",
+  "New York Times bestseller",
+  "PEN/Book-of-the-Month Club Translation Prize",
+  "Guardian 1000",
+  "1001 Books You Must Read Before You Die",
+  "\u00c5rhundrets bibliotek",
+  "Top 100 Crime Novels of All Time - UK Crime Writers' Association",
+  "The Top 100 Mystery Novels of All Time Mystery Writers of America",
+  "ZDF Das gro\u00dfe Lesen - Die Lieblingsb\u00fccher der Deutschen",
+  "The Telegraph's 100 novels everyone should read",
+  "501 Must-Read Books",
+  "Le Monde's 100 Books of the Century",
+  "Orange Prize for Fiction's \"50 Essential Reads by Contemporary Authors\"",
+  "ZEIT Literaturkanon",
+  "The 100 Favorite Novels of Librarians",
+  "\u0413\u0435\u043d\u043e\u043c \u0440\u0443\u0441\u0441\u043a\u043e\u0439 \u0434\u0443\u0448\u0438",
+  "AbeBooks: 50 Essential Historical Fiction Books",
+  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438",
+  "Prix Lire dans le noir",
+  "1000 \u043b\u0443\u0447\u0448\u0438\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0445\u0443\u0434. \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430\u0445, \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u0438\u044f \u0448\u043a\u043e\u043b\u044c\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438",
+  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
+  "Los Angeles Times Book Prize finalist",
+  "1000 Books to Read Before You Die",
+  "\u0421\u043f\u0438\u0441\u043e\u043a \u043b\u044e\u0431\u0438\u043c\u044b\u0445 \u043a\u043d\u0438\u0433 \u0411\u043e\u0440\u0438\u0441\u0430 \u0410\u043a\u0443\u043d\u0438\u043d\u0430",
+  "Conference on Christianity and Literature Book-of-the-Year Award",
+  "66 B\u00fccher, von denen alle sagen, dass du sie gelesen haben musst",
+  "CWA Shortlist",
+  "Harenberg Buch der 1000 B\u00fccher"],
+  "genre": ["General Fiction",
+  "Mystery",
+  "Historical fiction",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["2",
+  "46",
+  "41890",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "1525",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "493 p.; 7.8 inches",
+  "height": "7.79526 inches",
+  "thickness": "1.37795 inches",
+  "length": "5.07873 inches",
+  "dimensions": "7.79526 x 5.07873 x 1.37795 inches",
+  "weight": "0.8928721611 pounds",
+  "pages": "493 "
+},
+"214934644": {
+  "books_id": "214934644",
+  "title": "The Mountain of Silence: A Search for Orthodox Spirituality",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Markides, Kyriacos C.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Markides, Kyriacos C.",
+    "fl": "Kyriacos C. Markides",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0385500920",
+  "isbn": {
+    "0": "0385500920",
+    "2": "9780385500920"
+  },
+  "asin": "0385500920",
+  "ean": ["2015385500920"],
+  "publication": "Image (2002), Edition: Reprint, 272 pages",
+  "date": "2002",
+  "summary": "The Mountain of Silence: A Search for Orthodox Spirituality by Kyriacos C. Markides (2002)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["291"],
+    "wording": ["Comparative Religion; Mythology (No Longer Used)",
+    "Other Religions",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BX382 .M375"
+  },
+  "subject": [["Spirituality",
+  "Orthodox Eastern Church"]],
+  "genre": ["Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "55698",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "272 p.; 8.22 inches",
+  "height": "8.22 inches",
+  "thickness": "0.7 inches",
+  "length": "5.5 inches",
+  "dimensions": "8.22 x 5.5 x 0.7 inches",
+  "weight": "0.56 pounds",
+  "pages": "272 "
+},
+"214934650": {
+  "books_id": "214934650",
+  "title": "Let My People Go",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Lipski, Sam",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lipski, Sam",
+    "fl": "Sam Lipski",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1925000850",
+  "isbn": {
+    "0": "1925000850",
+    "2": "9781925000856"
+  },
+  "asin": "1925000850",
+  "ean": ["1925000850"],
+  "publication": "Hybrid Publishers (2015), 296 pages",
+  "date": "2015",
+  "summary": "Let My People Go by Sam Lipski (2015)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["305.8924094"],
+    "wording": ["Ethnic and national groups ; racism, multiculturalism",
+    "Jews",
+    "Other Groups",
+    "Social Sciences",
+    "Social Sciences",
+    "Social groups ; Inequality"]
+  },
+  "lcc": {
+    "code": "DS135.A88 L57"
+  },
+  "awards": ["Australian Prime Minister's Literary Award"],
+  "genre": ["History",
+  "Anthropology",
+  "Nonfiction"],
+  "genre_id": ["1599",
+  "5022",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "15914313",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"214934723": {
+  "books_id": "214934723",
+  "title": "The Jews in Australia",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Rutland, Suzanne D.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Rutland, Suzanne D.",
+    "fl": "Suzanne D. Rutland",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0521612853",
+  "isbn": {
+    "0": "0521612853",
+    "2": "9780521612852"
+  },
+  "asin": "0521612853",
+  "ean": ["0521612853"],
+  "publication": "Cambridge University Press (2006), 214 pages",
+  "date": "2006",
+  "summary": "The Jews in Australia by Suzanne D. Rutland (2006)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["994.004924"],
+    "wording": ["Australia",
+    "History and Geography",
+    "Oceania and elsewhere"]
+  },
+  "lcc": {
+    "code": "DS135.A88 R885"
+  },
+  "genre": ["History",
+  "Nonfiction"],
+  "genre_id": ["1599",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "6290188",
+  "entrydate": "2022-04-03",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "214 p.; 8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "0.54 inches",
+  "length": "5.5 inches",
+  "dimensions": "8.5 x 5.5 x 0.54 inches",
+  "weight": "0.60186197526 pounds",
+  "pages": "214 "
 }}
