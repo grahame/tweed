@@ -236,8 +236,8 @@
   },
   "series": ["Hainish-Zyklus",
   "Ciclo di Haynish",
-  "Hain-sviten",
   "Hainish Cycle",
+  "Hain-sviten",
   "Hainish Cycle, Chronological",
   "Cycle de l'Ekumen",
   "Hainish-Zyklus, chronologisch"],
@@ -388,7 +388,7 @@
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "DU117 .K45"
@@ -708,7 +708,7 @@
     "Economics of land & energy",
     "Energy",
     "Land, recreational and wilderness areas, energy",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HD9502.U54 E57927"
@@ -1601,7 +1601,27 @@
     "20": ["fantasy fiction"],
     "21": ["fiction in English"]
   },
-  "series": ["Middle-earth"],
+  "series": ["Der Herr der Ringe",
+  "Il Signore degli Anelli",
+  "Gospodar prstenova",
+  "Gy\u0171r\u0171k Ura",
+  "\u015ar\u00f3dziemie",
+  "W\u0142adca Pier\u015bcieni",
+  "Le seigneur des anneaux",
+  "Ringenes herre",
+  "Sagan om Ringen",
+  "O Senhor dos An\u00e9is",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
+  "In de ban van de ring",
+  "P\u00e1n Prsten\u016f",
+  "P\u00e1n prsten\u016f",
+  "El Senyor dels Anells",
+  "Ringenes herre",
+  "Gospodar prstenova",
+  "El Se\u00f1or de los Anillos",
+  "The Lord of the Rings",
+  "Middle-earth"],
   "originaltitle": "The Silmarillion",
   "awards": ["Ditmar Award",
   "Gandalf Award",
@@ -1781,14 +1801,12 @@
     "20": ["fantasy fiction"],
     "21": ["fiction in English"]
   },
-  "series": ["The Lord of the Rings",
-  "Gy\u0171r\u0171k Ura",
+  "series": ["Der Herr der Ringe",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
+  "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "El Se\u00f1or de los Anillos",
-  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -1801,6 +1819,8 @@
   "El Senyor dels Anells",
   "Ringenes herre",
   "Gospodar prstenova",
+  "El Se\u00f1or de los Anillos",
+  "The Lord of the Rings",
   "Middle-earth"],
   "originaltitle": "The Fellowship of the Ring",
   "awards": ["1001 Children's Books You Must Read Before You Grow Up",
@@ -1908,14 +1928,12 @@
     "34": ["fantasy fiction"],
     "35": ["fiction in English"]
   },
-  "series": ["The Lord of the Rings",
-  "Gy\u0171r\u0171k Ura",
+  "series": ["Der Herr der Ringe",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
+  "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "El Se\u00f1or de los Anillos",
-  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -1928,6 +1946,8 @@
   "El Senyor dels Anells",
   "Ringenes herre",
   "Gospodar prstenova",
+  "El Se\u00f1or de los Anillos",
+  "The Lord of the Rings",
   "Middle-earth"],
   "originaltitle": "The Two Towers",
   "genre": ["Fantasy",
@@ -2021,14 +2041,12 @@
     "22": ["fantasy fiction"],
     "23": ["fiction in English"]
   },
-  "series": ["The Lord of the Rings",
-  "Gy\u0171r\u0171k Ura",
+  "series": ["Der Herr der Ringe",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
+  "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "El Se\u00f1or de los Anillos",
-  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -2041,6 +2059,8 @@
   "El Senyor dels Anells",
   "Ringenes herre",
   "Gospodar prstenova",
+  "El Se\u00f1or de los Anillos",
+  "The Lord of the Rings",
   "Middle-earth"],
   "originaltitle": "The Return of the King",
   "awards": ["Academy Award for Writing Adapted Screenplay",
@@ -4082,7 +4102,7 @@
     "wording": ["Family; Patriarchal age",
     "Political Science ",
     "Political Systems",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "GN490 .S44"
@@ -4152,8 +4172,8 @@
     "code": ["365.450947"],
     "wording": ["Political prisoners",
     "Prisons; Discipline",
-    "Social Sciences",
     "Social problems and services; associations",
+    "Social sciences",
     "Types of Prisons and Prisoners"]
   },
   "lcc": {
@@ -4287,7 +4307,7 @@
     "Economics",
     "Economics",
     "North America",
-    "Social Sciences",
+    "Social sciences",
     "United States"]
   },
   "lcc": {
@@ -4486,7 +4506,7 @@
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences",
+    "Social sciences",
     "Socioeconomic Regions"]
   },
   "lcc": {
@@ -4554,7 +4574,7 @@
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JN94.A91 M35"
@@ -4619,7 +4639,7 @@
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "DU117 .M37"
@@ -5159,7 +5179,7 @@
     "Eating and drinking",
     "Eating, drinking, using drugs",
     "General Customs",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "GT2850 .P65"
@@ -5249,7 +5269,7 @@
     "wording": ["Culture and Institutions",
     "Science",
     "Social Sciences",
-    "Social Sciences",
+    "Social sciences",
     "Specific aspects of culture"]
   },
   "lcc": {
@@ -5462,12 +5482,10 @@
   "100 best novels written in English",
   "Audie Award Finalist",
   "66 B\u00fccher, von denen alle sagen, dass du sie gelesen haben musst"],
-  "genre": ["Fantasy",
-  "All Topics",
+  "genre": ["All Topics",
   "Fiction",
   "Fantasy"],
-  "genre_id": ["5280",
-  "8292535",
+  "genre_id": ["8292535",
   "17160326",
   "20216151"],
   "source": "amazon.com books",
@@ -6443,8 +6461,8 @@
   "series": ["Horatio Hornblower",
   "Horatio Hornblower",
   "Capitaine Hornblower",
-  "Horatio Hornblower: Chronologisch",
-  "Horatio Hornblower: kronologisk ordning"],
+  "Horatio Hornblower: kronologisk ordning",
+  "Horatio Hornblower: Chronologisch"],
   "awards": ["Daniel S. Burt's recommended historical novels",
   "\u0421\u043f\u0438\u0441\u043e\u043a \u043b\u044e\u0431\u0438\u043c\u044b\u0445 \u043a\u043d\u0438\u0433 \u0411\u043e\u0440\u0438\u0441\u0430 \u0410\u043a\u0443\u043d\u0438\u043d\u0430"],
   "genre": ["General Fiction",
@@ -6513,8 +6531,8 @@
   "series": ["Horatio Hornblower",
   "Horatio Hornblower",
   "Capitaine Hornblower",
-  "Horatio Hornblower: Chronologisch",
-  "Horatio Hornblower: kronologisk ordning"],
+  "Horatio Hornblower: kronologisk ordning",
+  "Horatio Hornblower: Chronologisch"],
   "genre": ["General Fiction",
   "Historical fiction",
   "All Topics",
@@ -6632,7 +6650,7 @@
     "Monopolies; Trusts",
     "Multinationals",
     "Production",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HD2755.5"
@@ -6922,7 +6940,7 @@
     "International Relations",
     "Pacific",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "DU117 .A978"
@@ -6976,8 +6994,8 @@
     "code": ["365.45"],
     "wording": ["Political prisoners",
     "Prisons; Discipline",
-    "Social Sciences",
     "Social problems and services; associations",
+    "Social sciences",
     "Types of Prisons and Prisoners"]
   },
   "lcc": {
@@ -7066,7 +7084,7 @@
     "Media (Means of communication)",
     "Social Interaction",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JA85.A8 J47"
@@ -7339,7 +7357,7 @@
     "code": ["355"],
     "wording": ["Military Science",
     "Public Administration, Military Science",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "U101 S95"
@@ -7403,8 +7421,8 @@
     "wording": ["Crimes and Offenses",
     "Crimes of property",
     "Criminology",
-    "Social Sciences",
-    "Social problems and services; associations"]
+    "Social problems and services; associations",
+    "Social sciences"]
   },
   "lcc": {
     "code": "UB271.R92"
@@ -8498,7 +8516,7 @@
     "Finance",
     "Miscellany And Personal Finance",
     "Personal Finance",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HG179 .D484"
@@ -8559,7 +8577,7 @@
     "code": ["330"],
     "wording": ["Economics",
     "Economics",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HB71 .K34"
@@ -8742,7 +8760,7 @@
     "code": ["330"],
     "wording": ["Economics",
     "Economics",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HB74.P8 L479"
@@ -8826,7 +8844,7 @@
     "Pacific",
     "Political Science ",
     "Political parties",
-    "Social Sciences",
+    "Social sciences",
     "The political process"]
   },
   "lcc": {
@@ -8886,9 +8904,9 @@
     "code": ["362.883"],
     "wording": ["People affected by criminal acts",
     "Problems of and services to other groups",
-    "Social Sciences",
     "Social problems and services; associations",
-    "Social problems of & services to groups of people"]
+    "Social problems of & services to groups of people",
+    "Social sciences"]
   },
   "lcc": [],
   "awards": ["Stella Prize Shortlist",
@@ -9549,7 +9567,10 @@
     "9": ["science fiction"],
     "11": ["short stories"]
   },
-  "series": ["The New Space Opera"],
+  "series": ["The New Space Opera",
+  "Cycle des Xeelees",
+  "Der Xeelee-Zyklus",
+  "Xeelee Sequence"],
   "awards": ["Locus",
   "Ditmar Award",
   "Locus Award Finalist"],
@@ -9997,8 +10018,8 @@
     "Fiction"],
     "22": ["historical fiction"]
   },
-  "series": ["Barock-Zyklus",
-  "The Baroque Cycle"],
+  "series": ["The Baroque Cycle",
+  "Barock-Zyklus"],
   "originaltitle": "The Confusion",
   "awards": ["New York Times bestseller",
   "Locus",
@@ -10099,8 +10120,8 @@
     "20": ["Suspense fiction"],
     "21": ["historical fiction"]
   },
-  "series": ["Barock-Zyklus",
-  "The Baroque Cycle"],
+  "series": ["The Baroque Cycle",
+  "Barock-Zyklus"],
   "originaltitle": "The System of the World",
   "awards": ["SF Site Editor's Choice",
   "Prometheus Award",
@@ -10248,8 +10269,8 @@
   "lcc": {
     "code": "PR6119.T79 A66"
   },
-  "series": ["La laverie",
-  "The Laundry"],
+  "series": ["The Laundry",
+  "La laverie"],
   "originaltitle": "The Apocalypse Codex",
   "awards": ["Locus",
   "Locus Award Finalist"],
@@ -10840,8 +10861,8 @@
     "Fiction"],
     "8": ["science fiction"]
   },
-  "series": ["Revelation Space",
-  "Ilmestysten avaruus",
+  "series": ["Ilmestysten avaruus",
+  "Revelation Space",
   "Cycle des Inhibiteurs"],
   "originaltitle": "Chasm City",
   "awards": ["British Science Fiction Association Award",
@@ -11381,8 +11402,8 @@
     "12": ["Suspense fiction"],
     "13": ["horror tales"]
   },
-  "series": ["La laverie",
-  "The Laundry"],
+  "series": ["The Laundry",
+  "La laverie"],
   "originaltitle": "The Jennifer Morgue",
   "awards": ["Locus Award Finalist"],
   "genre": ["Horror",
@@ -11449,8 +11470,8 @@
   "lcc": {
     "code": "PR6119.T79 F85"
   },
-  "series": ["La laverie",
-  "The Laundry"],
+  "series": ["The Laundry",
+  "La laverie"],
   "originaltitle": "The Fuller Memorandum",
   "awards": ["Locus Award Finalist",
   "Locus Recommended Reading"],
@@ -11944,9 +11965,11 @@
     "Zoology"]
   },
   "lcc": [],
-  "genre": ["Science & Nature",
+  "genre": ["General Nonfiction",
+  "Science & Nature",
   "Nonfiction"],
-  "genre_id": ["1457",
+  "genre_id": ["1247",
+  "1457",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "22722741",
@@ -12468,9 +12491,11 @@
   "lcc": [],
   "genre": ["General Nonfiction",
   "Science & Nature",
+  "Comics",
   "Nonfiction"],
   "genre_id": ["1247",
   "1457",
+  "4778",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "20743442",
@@ -12978,7 +13003,7 @@
     "Military Justice",
     "Military, defense, public property, public finance, tax, commerce {trade}, industrial law",
     "North America",
-    "Social Sciences",
+    "Social sciences",
     "United States"]
   },
   "lcc": {
@@ -13199,7 +13224,7 @@
     "wording": ["Factors affecting social behavior",
     "Human ecology",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "QC903 .P37"
@@ -13261,7 +13286,7 @@
     "code": ["306.01"],
     "wording": ["Culture and Institutions",
     "Social Sciences",
-    "Social Sciences",
+    "Social sciences",
     "Theory And Instruction"]
   },
   "lcc": {
@@ -13454,12 +13479,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["331.881137110994"],
-    "wording": ["Capital; Labor; Wages",
-    "Economics",
+    "wording": ["Economics",
     "Labor Union Histories",
+    "Labor economics",
     "Labor unions and other organizations",
-    "Laboring classes",
-    "Social Sciences"]
+    "Labour Unions, labour-management bargaining and disputes",
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Economics",
@@ -13513,8 +13538,8 @@
     "wording": ["Crimes and Offenses",
     "Crimes of property",
     "Criminology",
-    "Social Sciences",
-    "Social problems and services; associations"]
+    "Social problems and services; associations",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HV6772.M58"
@@ -13588,8 +13613,8 @@
   "lcc": {
     "code": "PS3612.E3353"
   },
-  "series": ["Les chroniques du Radch",
-  "Imperial Radch"],
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
   "awards": ["Kitschies: Golden Tentacle Award",
   "Philip K. Dick Award Nominee",
   "James Tiptree, Jr. Award Honor List",
@@ -13662,8 +13687,8 @@
   "lcc": {
     "code": "PS3612.E3353 A834"
   },
-  "series": ["Les chroniques du Radch",
-  "Imperial Radch"],
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
   "awards": ["Kirkus Reviews Best Book of the Year",
   "Amazon.com Best Books",
   "Buzzfeed",
@@ -13736,8 +13761,8 @@
   "lcc": {
     "code": "PS3612.E3353 A84"
   },
-  "series": ["Les chroniques du Radch",
-  "Imperial Radch"],
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
   "awards": ["Nebula Nominee",
   "Hugo Nominee",
   "British Science Fiction Association Award",
@@ -13890,9 +13915,9 @@
   "lcc": {
     "code": "PR6051.A76 R58"
   },
-  "series": ["Le dernier apprenti sorcier",
-  "Peter Grant",
+  "series": ["Peter Grant",
   "Fl\u00fcsse von London",
+  "Le dernier apprenti sorcier",
   "Rivers of London",
   "Peter Grant"],
   "originaltitle": "Rivers of London",
@@ -13966,8 +13991,8 @@
   "lcc": {
     "code": "PS3612.E3353 P76"
   },
-  "series": ["Les chroniques du Radch",
-  "Imperial Radch"],
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
   "awards": ["British Science Fiction Association Award Shortlist",
   "James Tiptree, Jr. Award Long List",
   "Hugo Nominee",
@@ -14376,12 +14401,12 @@
   "lcc": {
     "code": "PL2947.C59"
   },
-  "series": ["A h\u00e1romtest-probl\u00e9ma",
+  "series": ["El problema de los tres cuerpos",
   "Drei Sonnen",
   "Remembrance of Earth's Past",
   "The Three-Body Problem",
   "Le Probl\u00e8me \u00e0 trois corps",
-  "El problema de los tres cuerpos"],
+  "A h\u00e1romtest-probl\u00e9ma"],
   "originaltitle": "\u4e09\u4f53",
   "awards": ["Nebula Nominee",
   "Hugo",
@@ -14558,7 +14583,7 @@
     "wording": ["Culture and Institutions",
     "Economic institutions",
     "Social Sciences",
-    "Social Sciences",
+    "Social sciences",
     "Systems of labor, industrial sociology"]
   },
   "lcc": [],
@@ -14694,9 +14719,9 @@
     "17": ["science fiction"]
   },
   "series": ["Nomen-Trilogie",
-  "A man\u00e1k tril\u00f3gi\u00e1ja",
   "Le Grand Livre des gnomes",
-  "The Bromeliad"],
+  "The Bromeliad",
+  "A man\u00e1k tril\u00f3gi\u00e1ja"],
   "originaltitle": "Truckers",
   "awards": ["1001 Children's Books You Must Read Before You Grow Up"],
   "genre": ["Fantasy",
@@ -15063,7 +15088,7 @@
     "Customs, Etiquette, Folklore",
     "Folk literature",
     "Folklore",
-    "Social Sciences",
+    "Social sciences",
     "Tales and lore of plants and animals"]
   },
   "lcc": {
@@ -15493,9 +15518,9 @@
   "Disgfyd",
   "Discworld",
   "Discworld: City Watch",
+  "Scheibenwelt: Stadtwache",
   "Skivv\u00e4rlden: Stadsvakten",
-  "Mundodisco: Guardia de la Ciudad",
-  "Scheibenwelt: Stadtwache"],
+  "Mundodisco: Guardia de la Ciudad"],
   "genre": ["General Fiction",
   "Fantasy",
   "All Topics",
@@ -17439,7 +17464,7 @@
     "code": ["323"],
     "wording": ["Civil and political rights",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Religion & Spirituality",
@@ -23780,6 +23805,7 @@
     "code": "BS185"
   },
   "awards": ["The List 100 Best Scottish Books",
+  "1,000 Books to Read Before You Die Page-A-Day Calendar 2021",
   "Whitcoulls top 100, 2008",
   "The Globe & Mail 50 Greatest Books",
   "Harold Bloom's Western Canon",
@@ -28840,8 +28866,10 @@
   "lcc": {
     "code": "NC1761.P3 B8"
   },
-  "genre": ["Children's Books"],
-  "genre_id": ["11"],
+  "genre": ["Children's Books",
+  "Comics"],
+  "genre_id": ["11",
+  "4778"],
   "source": "amazon.com books",
   "workcode": "1333989",
   "entrydate": "2019-01-10",
@@ -29901,7 +29929,7 @@
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Nonfiction"],
@@ -30016,9 +30044,11 @@
     "Drawing and decorative arts"]
   },
   "lcc": [],
-  "genre": ["Pop Culture",
+  "genre": ["Comics",
+  "Pop Culture",
   "Nonfiction"],
-  "genre_id": ["82601",
+  "genre_id": ["4778",
+  "82601",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "15567301",
@@ -30179,7 +30209,7 @@
     "Biography And History",
     "Pacific",
     "Political Science ",
-    "Social Sciences",
+    "Social sciences",
     "The political process"]
   },
   "lcc": [],
@@ -30229,7 +30259,7 @@
     "Community Development",
     "Planning & Development",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HT390"
@@ -30333,8 +30363,10 @@
     "Drawing and decorative arts"]
   },
   "lcc": [],
-  "genre": ["Nonfiction"],
-  "genre_id": ["20275895"],
+  "genre": ["Comics",
+  "Nonfiction"],
+  "genre_id": ["4778",
+  "20275895"],
   "source": "manual entry",
   "workcode": "22728066",
   "entrydate": "2019-01-11",
@@ -30363,8 +30395,10 @@
     "Drawing and decorative arts"]
   },
   "lcc": [],
-  "genre": ["Nonfiction"],
-  "genre_id": ["20275895"],
+  "genre": ["Comics",
+  "Nonfiction"],
+  "genre_id": ["4778",
+  "20275895"],
   "source": "manual entry",
   "workcode": "22728068",
   "entrydate": "2019-01-11",
@@ -30393,8 +30427,10 @@
     "Drawing and decorative arts"]
   },
   "lcc": [],
-  "genre": ["Nonfiction"],
-  "genre_id": ["20275895"],
+  "genre": ["Comics",
+  "Nonfiction"],
+  "genre_id": ["4778",
+  "20275895"],
   "source": "manual entry",
   "workcode": "22728069",
   "entrydate": "2019-01-11",
@@ -30729,11 +30765,11 @@
   "ddc": {
     "code": ["331.0994"],
     "wording": ["Australia",
-    "Biography And History",
-    "Capital; Labor; Wages",
     "Economics",
+    "History, geographic treatment, biography",
+    "Labor economics",
     "Pacific",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HD8846 .A87"
@@ -30844,7 +30880,7 @@
   "ddc": {
     "code": ["A823.3",
     "3"],
-    "wording": ["Social Sciences"]
+    "wording": ["Social sciences"]
   },
   "lcc": [],
   "series": ["Triad of Being"],
@@ -31091,7 +31127,7 @@
     "Culture and Institutions",
     "Middle East",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HQ663 .S53"
@@ -31656,7 +31692,7 @@
     "Planning",
     "Planning & Development",
     "Social Sciences",
-    "Social Sciences",
+    "Social sciences",
     "Specific kinds of communites",
     "Urban communities"]
   },
@@ -31848,7 +31884,7 @@
     "Community Development",
     "Planning & Development",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HT384.A87 A8"
@@ -32035,7 +32071,7 @@
     "Greening",
     "Particular Policy Tendencies",
     "Production",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HC79.E5 G54"
@@ -32154,8 +32190,8 @@
     "wording": ["Class",
     "Lower Classes",
     "Social Sciences",
-    "Social Sciences",
-    "Social groups ; Inequality"]
+    "Social groups ; Inequality",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HT166 .A78"
@@ -34745,8 +34781,8 @@
     "code": ["365.643"],
     "wording": ["Inmate Life",
     "Prisons; Discipline",
-    "Social Sciences",
-    "Social problems and services; associations"]
+    "Social problems and services; associations",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HV8666 .F6813"
@@ -34826,7 +34862,7 @@
     "wording": ["Culture and Institutions",
     "Relations between the sexes, sexualities, love",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HQ12 .F6813"
@@ -34977,7 +35013,7 @@
   "ddc": {
     "code": ["335.02"],
     "wording": ["Economics",
-    "Social Sciences",
+    "Social sciences",
     "Socialism and related systems",
     "Utopian systems and schools"]
   },
@@ -35072,7 +35108,7 @@
     "code": ["320.1"],
     "wording": ["Political Science ",
     "Political Science ",
-    "Social Sciences",
+    "Social sciences",
     "The State"]
   },
   "lcc": {
@@ -35493,8 +35529,8 @@
     "wording": ["Causes of change",
     "Social Processes",
     "Social Sciences",
-    "Social Sciences",
-    "Social change"]
+    "Social change",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HC79.I55 L365"
@@ -36177,7 +36213,7 @@
     "code": ["323"],
     "wording": ["Civil and political rights",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JC571 .I39"
@@ -36248,7 +36284,7 @@
     "Media (Means of communication)",
     "Social Interaction",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "P91 .B356"
@@ -36303,7 +36339,7 @@
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JQ4005.W48"
@@ -36357,7 +36393,7 @@
     "Journalism And Publishing"]
   },
   "lcc": {
-    "code": "PN4775.L224"
+    "code": "PN4775 .L25"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["20275895"],
@@ -36469,7 +36505,7 @@
     "Economics",
     "Mineral Extraction",
     "Production",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "awards": ["Australian Book Industry Awards Shortlist"],
@@ -36530,7 +36566,7 @@
     "wording": ["Commerce, Communications, Transportation",
     "History, geographic treatment, biography",
     "Local transportation",
-    "Social Sciences",
+    "Social sciences",
     "Transportation"]
   },
   "lcc": {
@@ -36736,8 +36772,8 @@
     "code": ["305.420973"],
     "wording": ["Role in society, status",
     "Social Sciences",
-    "Social Sciences",
     "Social groups ; Inequality",
+    "Social sciences",
     "Women"]
   },
   "lcc": {
@@ -36810,8 +36846,8 @@
     "code": ["305.42"],
     "wording": ["Role in society, status",
     "Social Sciences",
-    "Social Sciences",
     "Social groups ; Inequality",
+    "Social sciences",
     "Women"]
   },
   "lcc": {
@@ -36981,7 +37017,7 @@
     "Relations between the sexes, sexualities, love",
     "Self-pleasure",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HQ447 .L36"
@@ -37672,7 +37708,7 @@
     "Central Asia",
     "N. E. Afghanistan, Kabul",
     "Political Science ",
-    "Social Sciences",
+    "Social sciences",
     "The legislative process"]
   },
   "lcc": {
@@ -37731,10 +37767,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["352.23860973"],
-    "wording": ["General Practice of Public Administration",
+    "wording": ["General considerations of public administration",
     "Police",
     "Public Administration, Military Science",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "J82 .E91"
@@ -38772,7 +38808,7 @@
     "Pacific",
     "Political Science ",
     "Political parties",
-    "Social Sciences",
+    "Social sciences",
     "The political process"]
   },
   "lcc": {
@@ -38840,7 +38876,7 @@
     "wording": ["Capital",
     "Economics",
     "Finance",
-    "Social Sciences",
+    "Social sciences",
     "Special Topics"]
   },
   "lcc": {
@@ -38962,7 +38998,7 @@
     "Pacifc",
     "Social Sciences",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HN850.S6 M45"
@@ -39104,7 +39140,7 @@
     "Law",
     "Military, defense, public property, public finance, tax, commerce {trade}, industrial law",
     "Pacific",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "KU1065.P43"
@@ -39176,7 +39212,7 @@
     "code": ["384.06"],
     "wording": ["Commerce, Communications, Transportation",
     "General",
-    "Social Sciences",
+    "Social sciences",
     "Telecommunications (Telegraph, Internet, Cables, Broadcasting, Telephones, Movies)"]
   },
   "lcc": {
@@ -39342,7 +39378,7 @@
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "DA589.7 .L47"
@@ -40099,8 +40135,8 @@
     "Murder",
     "North America",
     "Offenses against persons",
-    "Social Sciences",
-    "Social problems and services; associations"]
+    "Social problems and services; associations",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HV6533.K3"
@@ -40640,7 +40676,7 @@
     "Political Science ",
     "Political Science ",
     "Political ideologies",
-    "Social Sciences",
+    "Social sciences",
     "United States"]
   },
   "lcc": {
@@ -41704,7 +41740,7 @@
     "Economics",
     "Finance",
     "North America",
-    "Social Sciences",
+    "Social sciences",
     "United States"]
   },
   "lcc": {
@@ -42645,8 +42681,8 @@
     "Development of science and technology",
     "Social Processes",
     "Social Sciences",
-    "Social Sciences",
-    "Social change"]
+    "Social change",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HM846 .R86"
@@ -43395,7 +43431,7 @@
     "Energy",
     "Land, recreational and wilderness areas, energy",
     "North America",
-    "Social Sciences",
+    "Social sciences",
     "United States"]
   },
   "lcc": {
@@ -43761,8 +43797,8 @@
     "16": ["Young adult fiction"],
     "17": ["science fiction"]
   },
-  "series": ["Ender's Game",
-  "Ender's saga",
+  "series": ["Ender's saga",
+  "Ender Saga",
   "Enderverse"],
   "originaltitle": "Ender's Game",
   "awards": ["Hugo",
@@ -43991,7 +44027,7 @@
     "code": ["335.4"],
     "wording": ["Economics",
     "Marxian systems",
-    "Social Sciences",
+    "Social sciences",
     "Socialism and related systems"]
   },
   "lcc": {
@@ -44194,11 +44230,11 @@
   },
   "series": ["Known Space",
   "Espacio Conocido",
+  "Ringwelt",
+  "Ringwelt-Zyklus",
   "Ringworld",
   "L'anneau-monde",
-  "Ringwereld",
-  "Ringwelt",
-  "Ringwelt-Zyklus"],
+  "Ringwereld"],
   "originaltitle": "Ringworld",
   "awards": ["Hugo",
   "Nebula",
@@ -44857,7 +44893,7 @@
     "Europe",
     "Public Administration, Military Science",
     "Russia and Central Europe",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Nonfiction"],
@@ -45462,8 +45498,8 @@
     "code": ["364.1320973"],
     "wording": ["Crimes and Offenses",
     "Criminology",
-    "Social Sciences",
     "Social problems and services; associations",
+    "Social sciences",
     "State & Political Crimes"]
   },
   "lcc": {
@@ -47588,7 +47624,7 @@
     "Organization of military forces",
     "Psychological Warfare",
     "Public Administration, Military Science",
-    "Social Sciences",
+    "Social sciences",
     "Special service"]
   },
   "lcc": {
@@ -48557,7 +48593,7 @@
     "Communities",
     "Pacific",
     "Social Sciences",
-    "Social Sciences",
+    "Social sciences",
     "Specific kinds of communities",
     "Urban communities"]
   },
@@ -49845,8 +49881,8 @@
     "Contact between cultures",
     "Social Processes",
     "Social Sciences",
-    "Social Sciences",
-    "Social change"]
+    "Social change",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HM621 .H463"
@@ -49963,8 +49999,8 @@
     "wording": ["Causes of change",
     "Social Processes",
     "Social Sciences",
-    "Social Sciences",
-    "Social change"]
+    "Social change",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HM851.C748"
@@ -50596,7 +50632,7 @@
     "code": ["319.41"],
     "wording": ["Australia",
     "Pacific",
-    "Social Sciences",
+    "Social sciences",
     "Statistics",
     "Western Australia"]
   },
@@ -53206,11 +53242,13 @@
   "lcc": {
     "code": "PR6058.E62 P67"
   },
-  "genre": ["Horror",
+  "genre": ["General Fiction",
+  "Horror",
   "Science Fiction",
   "All Topics",
   "Fiction"],
-  "genre_id": ["188",
+  "genre_id": ["2",
+  "188",
   "281",
   "8292535",
   "17160326"],
@@ -54592,8 +54630,8 @@
     "Murder",
     "North America",
     "Offenses against persons",
-    "Social Sciences",
-    "Social problems and services; associations"]
+    "Social problems and services; associations",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HV6533.M7 S34"
@@ -57626,6 +57664,7 @@
   "Die Roboter-Romane",
   "Isaac Asimov's Robot Series",
   "Les robots"],
+  "originaltitle": "The Caves of Steel",
   "awards": ["Locus 1987 Poll, All-Time Best SF Novel",
   "Locus 1975 Poll, All-Time Best Novel",
   "Classics of Science Fiction",
@@ -58845,9 +58884,9 @@
   "ddc": {
     "code": ["362.849915"],
     "wording": ["Problems of and services to other groups",
-    "Social Sciences",
     "Social problems and services; associations",
-    "Social problems of & services to groups of people"]
+    "Social problems of & services to groups of people",
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Nonfiction"],
@@ -58882,7 +58921,7 @@
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Pop Culture",
@@ -59029,8 +59068,10 @@
     "Drawing and decorative arts"]
   },
   "lcc": [],
-  "genre": ["Nonfiction"],
-  "genre_id": ["20275895"],
+  "genre": ["Comics",
+  "Nonfiction"],
+  "genre_id": ["4778",
+  "20275895"],
   "source": "manual entry",
   "workcode": "22732109",
   "entrydate": "2019-01-12",
@@ -59776,7 +59817,7 @@
     "Media (Means of communication)",
     "Social Interaction",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "PN4749.R668"
@@ -60147,10 +60188,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["331.80994"],
-    "wording": ["Capital; Labor; Wages",
-    "Economics",
-    "Laboring classes",
-    "Social Sciences"]
+    "wording": ["Economics",
+    "Labor economics",
+    "Labour Unions, labour-management bargaining and disputes",
+    "Social sciences"]
   },
   "lcc": [],
   "series": ["Little Books on Big Themes",
@@ -60645,7 +60686,7 @@
     "Religions"]
   },
   "lcc": {
-    "code": "BS2560 .A58"
+    "code": "BS2560.A2 A35"
   },
   "subject": [["Bible. N.T. Gospels",
   "Harmonies"],
@@ -60653,6 +60694,7 @@
   "Harmonies, English"],
   ["Bible. N.T. Gospels",
   "Quotations, Early"]],
+  "originaltitle": "Synopsis Quattuor Evangeliorum",
   "genre": ["Religion & Spirituality",
   "All Topics",
   "Nonfiction"],
@@ -60709,7 +60751,7 @@
     "wording": ["Customs, Etiquette, Folklore",
     "General Customs",
     "Official ceremonies and observances",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "NA9355.A8 A85"
@@ -60829,8 +60871,8 @@
     "Development of science and technology",
     "Social Processes",
     "Social Sciences",
-    "Social Sciences",
-    "Social change"]
+    "Social change",
+    "Social sciences"]
   },
   "lcc": {
     "code": "GN380.I58"
@@ -60883,8 +60925,8 @@
     "Development of science and technology",
     "Social Processes",
     "Social Sciences",
-    "Social Sciences",
-    "Social change"]
+    "Social change",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HM851 .I5455"
@@ -63133,9 +63175,9 @@
     "Families",
     "History, geographic treatment, biography",
     "Problems of and services to other groups",
-    "Social Sciences",
     "Social problems and services; associations",
     "Social problems of & services to groups of people",
+    "Social sciences",
     "Specific problems"]
   },
   "lcc": {
@@ -64282,12 +64324,10 @@
   "series": ["The Expanse"],
   "genre": ["General Fiction",
   "Science Fiction",
-  "Audiobooks",
   "All Topics",
   "Fiction"],
   "genre_id": ["2",
   "281",
-  "1697",
   "8292535",
   "17160326"],
   "source": "amazon.com books",
@@ -64512,8 +64552,8 @@
   "lcc": {
     "code": "PR6119.T79 L33"
   },
-  "series": ["La laverie",
-  "The Laundry"],
+  "series": ["The Laundry",
+  "La laverie"],
   "originaltitle": "The Labyrinth Index",
   "genre": ["Horror",
   "Science Fiction",
@@ -64641,17 +64681,18 @@
     "12": ["science fiction"]
   },
   "series": ["Discworld",
+  "Korongvil\u00e1g",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
   "Kettamaailm",
   "Disksvijet",
+  "Biblioteca Terry Pratchett",
+  "Mundodisco : Los Magos",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Scheibenwelt",
-  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
-  "Korongvil\u00e1g",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Diskverden",
   "Mondo Disco",
@@ -64662,6 +64703,7 @@
   "Mundodisco",
   "Diskd\u00fcnya",
   "Kiekkomaailma",
+  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
@@ -64671,8 +64713,6 @@
   "Zem\u011bplocha",
   "\u00da\u017easn\u00e1 Zem\u011bplocha",
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Biblioteca Terry Pratchett",
-  "Mundodisco : Los Magos",
   "Mundodisco: Guardia de la Ciudad",
   "Skivv\u00e4rlden: Stadsvakten",
   "Scheibenwelt: Stadtwache",
@@ -64735,7 +64775,7 @@
     "wording": ["Emigration and Refugees ",
     "International migration and colonization",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HV640.K87 B44"
@@ -65213,11 +65253,11 @@
   "A D\u0171ne: El\u0151j\u00e1t\u00e9k a D\u0171n\u00e9hez tril\u00f3gia",
   "A teljes D\u0171ne sorozat t\u00f6rt\u00e9neti sorrendben - kem\u00e9nyk\u00f6t\u00e9ses verzi\u00f3",
   "Saga completa de Dune",
-  "Ciclo di Dune",
   "Dune",
-  "Duna: Kompletn\u00e1 chronol\u00f3gia",
-  "Dune: complete chronology",
+  "Ciclo di Dune",
   "Cronolog\u00eda completa de Dune",
+  "Dune: complete chronology",
+  "Duna: Kompletn\u00e1 chronol\u00f3gia",
   "Duin: chronologisch"],
   "originaltitle": "Dune",
   "awards": ["Nebula",
@@ -68222,7 +68262,9 @@
   "English"],
   ["Greek language, Biblical",
   "English"]],
-  "series": ["The Daily Study Bible: New Testament"],
+  "series": ["The Daily Study Bible: New Testament",
+  "Auslegung des Neuen Testaments",
+  "Barclay Auslegung des Neuen Testaments"],
   "genre": ["Religion & Spirituality",
   "Reference",
   "All Topics",
@@ -72053,8 +72095,8 @@
   "ddc": {
     "code": ["305.401"],
     "wording": ["Social Sciences",
-    "Social Sciences",
     "Social groups ; Inequality",
+    "Social sciences",
     "Women",
     "Women - subdivisions"]
   },
@@ -74041,8 +74083,8 @@
     "Other Groups",
     "Pacific Origin",
     "Social Sciences",
-    "Social Sciences",
-    "Social groups ; Inequality"]
+    "Social groups ; Inequality",
+    "Social sciences"]
   },
   "lcc": {
     "code": "GN666 .G76"
@@ -74757,7 +74799,7 @@
     "Culture and Institutions",
     "Religious institutions",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "BL60 .M498"
@@ -81893,8 +81935,8 @@
     "North America",
     "Other social problems and services",
     "Police Services",
-    "Social Sciences",
     "Social problems and services; associations",
+    "Social sciences",
     "United States"]
   },
   "lcc": {
@@ -82824,10 +82866,12 @@
   "ddc": {
     "code": ["320.9385"],
     "wording": ["Ancient World",
+    "Attica to 323",
+    "Greece to 323",
     "Political Science ",
     "Political Science ",
     "Political situation and conditions",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JC71.A41 R48"
@@ -84747,7 +84791,7 @@
     "Political Science ",
     "Political Systems",
     "Political Systems",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JC71"
@@ -84834,7 +84878,7 @@
     "Political Science ",
     "Political Science ",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JC71.A41"
@@ -87472,8 +87516,6 @@
     "12": ["humorous fiction"]
   },
   "series": ["Scheibenwelt",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
   "Mondo Disco",
   "Schijfwereld",
@@ -87481,7 +87523,7 @@
   "Les Annales du Disque-Monde",
   "Mundodisco",
   "Diskd\u00fcnya",
-  "Korongvil\u00e1g",
+  "Kiekkomaailma",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
@@ -87489,9 +87531,10 @@
   "Skivv\u00e4rlden",
   "Kettamaailm",
   "Disksvijet",
+  "Biblioteca Terry Pratchett",
+  "Mundodisco : Los Magos",
+  "Korongvil\u00e1g",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Diskverden",
-  "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
@@ -87502,8 +87545,9 @@
   "Zem\u011bplocha",
   "\u00da\u017easn\u00e1 Zem\u011bplocha",
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Biblioteca Terry Pratchett",
-  "Mundodisco : Los Magos",
+  "Diskverden",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -87584,8 +87628,6 @@
   ["fantasy fiction"],
   ["science fiction"]],
   "series": ["Scheibenwelt",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
   "Mondo Disco",
   "Schijfwereld",
@@ -87593,7 +87635,7 @@
   "Les Annales du Disque-Monde",
   "Mundodisco",
   "Diskd\u00fcnya",
-  "Korongvil\u00e1g",
+  "Kiekkomaailma",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
@@ -87601,9 +87643,10 @@
   "Skivv\u00e4rlden",
   "Kettamaailm",
   "Disksvijet",
+  "Biblioteca Terry Pratchett",
+  "Mundodisco : Los Magos",
+  "Korongvil\u00e1g",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Diskverden",
-  "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
@@ -87614,8 +87657,9 @@
   "Zem\u011bplocha",
   "\u00da\u017easn\u00e1 Zem\u011bplocha",
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Biblioteca Terry Pratchett",
-  "Mundodisco : Los Magos",
+  "Diskverden",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld: Death",
   "Mundodisco: La Muerte",
   "Scheibenwelt: Der Tod",
@@ -87703,8 +87747,6 @@
     "11": ["science fiction"]
   },
   "series": ["Scheibenwelt",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
   "Mondo Disco",
   "Schijfwereld",
@@ -87712,7 +87754,7 @@
   "Les Annales du Disque-Monde",
   "Mundodisco",
   "Diskd\u00fcnya",
-  "Korongvil\u00e1g",
+  "Kiekkomaailma",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
@@ -87720,9 +87762,10 @@
   "Skivv\u00e4rlden",
   "Kettamaailm",
   "Disksvijet",
+  "Biblioteca Terry Pratchett",
+  "Mundodisco : Los Magos",
+  "Korongvil\u00e1g",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Diskverden",
-  "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
   "\u015awiat Dysku",
@@ -87733,8 +87776,9 @@
   "Zem\u011bplocha",
   "\u00da\u017easn\u00e1 Zem\u011bplocha",
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Biblioteca Terry Pratchett",
-  "Mundodisco : Los Magos",
+  "Diskverden",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -87838,8 +87882,8 @@
     "Other Groups",
     "Pacific Origin",
     "Social Sciences",
-    "Social Sciences",
-    "Social groups ; Inequality"]
+    "Social groups ; Inequality",
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["History",
@@ -93089,7 +93133,7 @@
     "wording": ["Emigration and Refugees ",
     "International migration and colonization",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Nonfiction"],
@@ -95252,7 +95296,8 @@
     "Poetry"],
     "17": ["fantasy"]
   },
-  "series": ["Der Herr der Ringe",
+  "series": ["The Lord of the Rings",
+  "Der Herr der Ringe",
   "Le seigneur des anneaux",
   "Ringenes herre",
   "Sagan om Ringen",
@@ -95268,7 +95313,6 @@
   "El Se\u00f1or de los Anillos",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "The Lord of the Rings",
   "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
   "Gospodar prstenova"],
@@ -95757,8 +95801,8 @@
   "Ciclo di Haynish",
   "Hainish-Zyklus",
   "Hainish Cycle, Chronological",
-  "Cycle de l'Ekumen",
-  "Hainish-Zyklus, chronologisch"],
+  "Hainish-Zyklus, chronologisch",
+  "Cycle de l'Ekumen"],
   "originaltitle": "The Dispossessed: An Ambiguous Utopia",
   "awards": ["Hugo",
   "Nebula",
@@ -95978,8 +96022,7 @@
   "lcc": {
     "code": "PS3562.E42 B66"
   },
-  "series": ["The Earthsea Cycle",
-  "Erdsee-Zyklus",
+  "series": ["Erdsee-Zyklus",
   "Erdsee",
   "Maameren tarinat",
   "La saga di Terramare",
@@ -95988,7 +96031,10 @@
   "Els llibres de Terramar",
   "Los libros de Terramar",
   "Ziemiomorze",
-  "Zemljomorje"],
+  "The Earthsea Cycle",
+  "Zemljomorje",
+  "\u010carodej Zememor\u00ed",
+  "Zem\u011bmo\u0159\u00ed"],
   "awards": ["Locus",
   "Hugo"],
   "genre": ["Fantasy",
@@ -96484,7 +96530,7 @@
   "ddc": {
     "code": ["335"],
     "wording": ["Economics",
-    "Social Sciences",
+    "Social sciences",
     "Socialism and related systems"]
   },
   "lcc": {
@@ -96551,8 +96597,8 @@
     "Coordination and control ; Power",
     "Social Processes",
     "Social Sciences",
-    "Social Sciences",
-    "Social norms"]
+    "Social norms",
+    "Social sciences"]
   },
   "lcc": {
     "code": "HM216 .W352"
@@ -96813,7 +96859,7 @@
     "wording": ["Economics",
     "Economics of land & energy",
     "Land, recreational and wilderness areas, energy",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "GE195 .L84"
@@ -97113,7 +97159,7 @@
     "Family",
     "Marriage and Parenting",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HQ615 .H36"
@@ -97247,14 +97293,13 @@
     "code": ["306"],
     "wording": ["Culture and Institutions",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HM621 .G735"
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
-  "Science & Nature",
   "History",
   "Audiobooks",
   "Recent Nonfiction",
@@ -97263,7 +97308,6 @@
   "Nonfiction"],
   "genre_id": ["1240",
   "1247",
-  "1457",
   "1599",
   "1697",
   "8278606",
@@ -97908,8 +97952,8 @@
     "Other Groups",
     "Pacific Origin",
     "Social Sciences",
-    "Social Sciences",
-    "Social groups ; Inequality"]
+    "Social groups ; Inequality",
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Anthropology",
@@ -99215,9 +99259,9 @@
     "Fiction"],
     "11": ["science fiction"]
   },
-  "series": ["Ciclo delle parabole",
-  "Earthseed",
+  "series": ["Earthseed",
   "Parable",
+  "Ciclo delle parabole",
   "Parabole"],
   "awards": ["Arthur C. Clarke Award Shortlist",
   "Nebula",
@@ -99525,6 +99569,7 @@
   "lcc": {
     "code": "BQ4490 .K372"
   },
+  "originaltitle": "\u0f56\u0f62\u0f0b\u0f51\u0f7c\u0f0b\u0f50\u0f7c\u0f66\u0f0b\u0f42\u0fb2\u0f7c\u0f63",
   "genre": ["General Nonfiction",
   "Religion & Spirituality",
   "All Topics",
@@ -99815,10 +99860,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["344.4"],
-    "wording": ["Europe",
+    "wording": ["Europe [Option B: Law > France]",
     "Labor, social service, education, cultural law [Option B: Law > Europe]",
     "Law",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "KJ985.S48 B78"
@@ -100444,8 +100489,8 @@
     "Other Groups",
     "Pacific Origin",
     "Social Sciences",
-    "Social Sciences",
-    "Social groups ; Inequality"]
+    "Social groups ; Inequality",
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Anthropology",
@@ -100714,7 +100759,7 @@
     "Folklore",
     "Folklore of Australnesia and the Pacific Islands",
     "History, geographic treatment, biography",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "source": "amazon.com books",
@@ -100761,7 +100806,7 @@
     "Folklore",
     "Folklore by ethnic group",
     "Groups of people",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Fiction"],
@@ -100810,7 +100855,7 @@
     "Europe",
     "France & Monaco",
     "Law",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "KJV130.D8 D3813"
@@ -101626,9 +101671,9 @@
   "lcc": {
     "code": "PR6066.R34 L664"
   },
-  "series": ["The Long Earth",
-  "La Longue Terre",
-  "La tierra larga"],
+  "series": ["La tierra larga",
+  "The Long Earth",
+  "La Longue Terre"],
   "originaltitle": "The Long Mars",
   "genre": ["General Fiction",
   "Science Fiction",
@@ -101680,9 +101725,9 @@
   "lcc": {
     "code": "PR6066.R34 L68"
   },
-  "series": ["The Long Earth",
-  "La Longue Terre",
-  "La tierra larga"],
+  "series": ["La tierra larga",
+  "The Long Earth",
+  "La Longue Terre"],
   "originaltitle": "The Long War",
   "awards": ["Prometheus Award nominee"],
   "genre": ["General Fiction",
@@ -101806,7 +101851,7 @@
     "wording": ["Culture and Institutions",
     "Economic institutions",
     "Social Sciences",
-    "Social Sciences",
+    "Social sciences",
     "Systems of labor, industrial sociology"]
   },
   "lcc": {
@@ -102414,7 +102459,7 @@
     "wording": ["Nature, entity, concept of the state",
     "Political Science ",
     "Political Science ",
-    "Social Sciences",
+    "Social sciences",
     "The State"]
   },
   "lcc": {
@@ -102730,7 +102775,7 @@
     "Relations between the sexes, sexualities, love",
     "Sexual orientation, gender identity",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HQ78.E85 .D488"
@@ -103895,7 +103940,7 @@
     "Relations between the sexes, sexualities, love",
     "Sexual orientation, gender identity",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HQ76.E8 B67"
@@ -108800,7 +108845,9 @@
     "Fiction"],
     "7": ["fantasy"]
   },
-  "series": ["El Se\u00f1or de los Anillos",
+  "series": ["\u015ar\u00f3dziemie",
+  "W\u0142adca Pier\u015bcieni",
+  "El Se\u00f1or de los Anillos",
   "Gospodar prstenova",
   "Ringenes herre",
   "El Senyor dels Anells",
@@ -108813,8 +108860,6 @@
   "Sagan om Ringen",
   "Ringenes herre",
   "Le seigneur des anneaux",
-  "\u015ar\u00f3dziemie",
-  "W\u0142adca Pier\u015bcieni",
   "Gy\u0171r\u0171k Ura",
   "Il Signore degli Anelli",
   "Gospodar prstenova",
@@ -112196,8 +112241,8 @@
     "Criminology",
     "Offenses against persons",
     "Robbery and assault",
-    "Social Sciences",
-    "Social problems and services; associations"]
+    "Social problems and services; associations",
+    "Social sciences"]
   },
   "lcc": {
     "code": "BX1912 .P67"
@@ -115563,7 +115608,7 @@
     "Marriage",
     "Marriage and Parenting",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HQ503 .C66"
@@ -116882,7 +116927,7 @@
     "wording": ["Capitalism",
     "Economics",
     "Economics",
-    "Social Sciences",
+    "Social sciences",
     "Systems",
     "Theory"]
   },
@@ -118180,7 +118225,7 @@
     "code": ["301.6"],
     "wording": ["Formerly: Social conflict and accomodation",
     "Social Sciences",
-    "Social Sciences",
+    "Social sciences",
     "Sociology, Anthropology"]
   },
   "lcc": {
@@ -118391,7 +118436,7 @@
     "Translations"]
   },
   "lcc": {
-    "code": "BP109 .A7"
+    "code": "BP109"
   },
   "awards": ["The Globe & Mail 50 Greatest Books"],
   "genre": ["Religion & Spirituality",
@@ -118660,7 +118705,7 @@
     "code": ["320.1"],
     "wording": ["Political Science ",
     "Political Science ",
-    "Social Sciences",
+    "Social sciences",
     "The State"]
   },
   "lcc": {
@@ -118968,7 +119013,7 @@
     "Europe",
     "International Relations",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "DA315 .W4"
@@ -119412,7 +119457,7 @@
     "Economics",
     "England, Wales",
     "Europe",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HC253 .H57"
@@ -119821,7 +119866,7 @@
     "Economics",
     "Economics",
     "Europe",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HC254 .H55"
@@ -119956,7 +120001,7 @@
     "Political Science ",
     "Political Science ",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JA82 .U4"
@@ -120568,7 +120613,7 @@
     "Diplomacy",
     "International Relations",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "JX1641 .M27"
@@ -120763,8 +120808,8 @@
     "code": ["305.42"],
     "wording": ["Role in society, status",
     "Social Sciences",
-    "Social Sciences",
     "Social groups ; Inequality",
+    "Social sciences",
     "Women"]
   },
   "lcc": {
@@ -121042,8 +121087,8 @@
     "code": ["305.409"],
     "wording": ["Biography And History",
     "Social Sciences",
-    "Social Sciences",
     "Social groups ; Inequality",
+    "Social sciences",
     "Women",
     "Women - subdivisions"]
   },
@@ -123113,8 +123158,8 @@
     "Crimes and Offenses",
     "Criminology",
     "Offenses against persons",
-    "Social Sciences",
-    "Social problems and services; associations"]
+    "Social problems and services; associations",
+    "Social sciences"]
   },
   "lcc": {
     "code": "BV4392.5 .D38"
@@ -125262,8 +125307,10 @@
   "originallanguage": ["Irish"],
   "originallanguage_codeA": ["gle"],
   "lcc": [],
-  "genre": ["Nonfiction"],
-  "genre_id": ["20275895"],
+  "genre": ["Reference",
+  "Nonfiction"],
+  "genre_id": ["4877",
+  "20275895"],
   "source": "amazon.com books",
   "workcode": "20327335",
   "entrydate": "2021-12-20",
@@ -126136,8 +126183,8 @@
     "wording": ["Biography; History By Place",
     "Other Public Safety Concerns",
     "Other social problems and services",
-    "Social Sciences",
     "Social problems and services; associations",
+    "Social sciences",
     "Terrorism",
     "Terrorism and security"]
   },
@@ -126495,7 +126542,7 @@
     "code": ["322"],
     "wording": ["Political Science ",
     "Relation of the state to organized groups and their members",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "BR1642.U5 B69"
@@ -127159,8 +127206,8 @@
     "wording": ["Ethnic and national groups ; racism, multiculturalism",
     "Other Groups",
     "Social Sciences",
-    "Social Sciences",
-    "Social groups ; Inequality"]
+    "Social groups ; Inequality",
+    "Social sciences"]
   },
   "lcc": {
     "code": "DS119 .D2913"
@@ -127603,7 +127650,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3607.G59774 C35"
+    "code": "PS3607.O59774 C35"
   },
   "originaltitle": "Call Us What We Carry: Poems",
   "genre": ["Fiction"],
@@ -128362,6 +128409,7 @@
   "lcc": {
     "code": "PS3601.N428 A79"
   },
+  "series": ["All The Birds In The Sky"],
   "awards": ["Amazon's Best Books of the Month",
   "Amazon.com Best Books",
   "Kirkus Reviews Best Book of the Year",
@@ -128859,8 +128907,8 @@
     "code": ["305.4200"],
     "wording": ["Role in society, status",
     "Social Sciences",
-    "Social Sciences",
     "Social groups ; Inequality",
+    "Social sciences",
     "Women"]
   },
   "lcc": {
@@ -128913,7 +128961,7 @@
     "Folklore of ancient Greece",
     "Folklore of the ancient world",
     "History, geographic treatment, biography",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": [],
   "genre": ["Fiction"],
@@ -130211,26 +130259,26 @@
     "21": ["fantasy"],
     "22": ["fiction in English"]
   },
-  "series": ["The Lord of the Rings",
-  "Gospodar prstenova",
-  "Il Signore degli Anelli",
-  "Gy\u0171r\u0171k Ura",
-  "Der Herr der Ringe",
-  "Le seigneur des anneaux",
-  "Ringenes herre",
-  "Sagan om Ringen",
-  "O Senhor dos An\u00e9is",
-  "Taru sormusten herrasta",
-  "Taru Sormusten Herrasta",
-  "In de ban van de ring",
+  "series": ["Der Herr der Ringe",
+  "El Senyor dels Anells",
   "P\u00e1n Prsten\u016f",
   "P\u00e1n prsten\u016f",
-  "El Senyor dels Anells",
+  "In de ban van de ring",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
+  "O Senhor dos An\u00e9is",
+  "Sagan om Ringen",
+  "Ringenes herre",
+  "Le seigneur des anneaux",
   "Ringenes herre",
   "Gospodar prstenova",
-  "El Se\u00f1or de los Anillos",
+  "Gospodar prstenova",
+  "Il Signore degli Anelli",
+  "The Lord of the Rings",
+  "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
+  "El Se\u00f1or de los Anillos",
   "Middle-earth"],
   "originaltitle": "The Lord of the Rings",
   "awards": ["International Fantasy Award",
@@ -130773,7 +130821,7 @@
     "wording": ["Culture and Institutions",
     "Religious institutions",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "GN470 .D813"
@@ -130979,7 +131027,7 @@
     "wording": ["Civil and political rights",
     "Minority Politics",
     "Political Science ",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "HN375 .M66"
@@ -131429,7 +131477,7 @@
     "Education",
     "Objectives of Education",
     "Social Responsibility",
-    "Social Sciences",
+    "Social sciences",
     "Theory of education; Meaning; Aim"]
   },
   "lcc": {
@@ -131606,44 +131654,44 @@
     "Fiction"],
     "13": ["fantasy fiction"]
   },
-  "series": ["Discworld",
-  "Mondo Disco",
-  "Skivv\u00e4rlden",
+  "series": ["\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
+  "\u015awiat Dysku",
+  "Skiveverdenen",
+  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
+  "Kiekkomaailma",
+  "Diskd\u00fcnya",
+  "Mundodisco",
   "Disque-monde",
   "Les Annales du Disque-Monde",
-  "Mundodisco",
-  "Diskd\u00fcnya",
-  "Kiekkomaailma",
-  "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
-  "Skiveverdenen",
-  "\u015awiat Dysku",
-  "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
-  "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
   "Disgfyd",
+  "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
+  "Lumea Disc",
+  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Korongvil\u00e1g",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
+  "Diskverden",
   "Zem\u011bplocha",
   "\u00da\u017easn\u00e1 Zem\u011bplocha",
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
-  "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
+  "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
+  "Schijfwereld",
+  "Skivv\u00e4rlden",
+  "Mondo Disco",
+  "Discworld",
   "Plochozem",
-  "Kettamaailm",
-  "Scheibenwelt",
-  "Disksvijet",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Lumea Disc",
+  "Scheibenwelt",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
-  "Schijfwereld",
-  "Diskverden",
-  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "Korongvil\u00e1g",
+  "Kettamaailm",
+  "Disksvijet",
   "Tiffany Aching",
   "Ein M\u00e4rchen von der Scheibenwelt",
   "Discworld: Tiffany Aching",
-  "Discworld: Young Adult",
-  "Mundodisco: Juvenil"],
+  "Mundodisco: Juvenil",
+  "Discworld: Young Adult"],
   "originaltitle": "The Wee Free Men",
   "awards": ["ALA Notable Children's Book",
   "Locus",
@@ -131716,8 +131764,8 @@
     "code": ["305.42"],
     "wording": ["Role in society, status",
     "Social Sciences",
-    "Social Sciences",
     "Social groups ; Inequality",
+    "Social sciences",
     "Women"]
   },
   "lcc": {
@@ -131910,7 +131958,7 @@
     "Military Science",
     "Organization of military forces",
     "Public Administration, Military Science",
-    "Social Sciences",
+    "Social sciences",
     "Special service"]
   },
   "lcc": {
@@ -131960,7 +132008,7 @@
     "wording": ["Culture and Institutions",
     "Religious institutions",
     "Social Sciences",
-    "Social Sciences"]
+    "Social sciences"]
   },
   "lcc": {
     "code": "BR115.C3 W413"
@@ -132904,8 +132952,8 @@
     "Jews",
     "Other Groups",
     "Social Sciences",
-    "Social Sciences",
-    "Social groups ; Inequality"]
+    "Social groups ; Inequality",
+    "Social sciences"]
   },
   "lcc": {
     "code": "DS135.A88 L57"
@@ -132982,4 +133030,1336 @@
   "dimensions": "8.5 x 5.5 x 0.54 inches",
   "weight": "0.60186197526 pounds",
   "pages": "214 "
+},
+"215186335": {
+  "books_id": "215186335",
+  "title": "The Qur'an",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Abdel Haleem, M. A. S.",
+  "primaryauthorrole": "Translator",
+  "authors": [{
+    "lf": "Abdel Haleem, M. A. S.",
+    "fl": "M. A. S. Abdel Haleem",
+    "role": "Translator"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0199535957",
+  "isbn": {
+    "0": "0199535957",
+    "2": "9780199535958"
+  },
+  "asin": "0199535957",
+  "ean": ["0199535957"],
+  "publication": "Oxford University Press (2008), Edition: Illustrated, 512 pages",
+  "date": "2008",
+  "summary": "The Qur'an by M. A. S. Abdel Haleem (2008)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["297.122521"],
+    "wording": ["Islam, Babism, Bahai Faith",
+    "Koran",
+    "Other Religions",
+    "Religions",
+    "Sacred Books and Scriptures",
+    "Textual Sources",
+    "Translations"]
+  },
+  "lcc": {
+    "code": "BP109"
+  },
+  "genre": ["Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "12871685",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "512 p.; 6 x 4.7 inches",
+  "height": "4.7 inches",
+  "thickness": "0.6 inches",
+  "length": "6 inches",
+  "dimensions": "4.7 x 6 x 0.6 inches",
+  "weight": "0.7826410301 pounds",
+  "pages": "512 "
+},
+"215186337": {
+  "books_id": "215186337",
+  "title": "Jewish Folktales",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Sadeh, Pinhas",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Sadeh, Pinhas",
+    "fl": "Pinhas Sadeh",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0385195745",
+  "isbn": {
+    "0": "0385195745",
+    "2": "9780385195744"
+  },
+  "asin": "0385195745",
+  "ean": ["0385195745"],
+  "publication": "Anchor (1989), Edition: Illustrated, 468 pages",
+  "date": "1989",
+  "summary": "Jewish Folktales by Pinhas Sadeh (1989)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["398.2089924"],
+    "wording": ["Customs, Etiquette, Folklore",
+    "Folk literature",
+    "Folklore",
+    "Folklore by ethnic group",
+    "Groups of people",
+    "Jewish folklore",
+    "Semitic folklore",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "GR98 .S2313"
+  },
+  "subject": [["Jewish folk literature"],
+  ["Jews",
+  "Folklore"]],
+  "genre": ["Fiction"],
+  "genre_id": ["17160326"],
+  "source": "amazon.com books",
+  "workcode": "599007",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "468 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "1 inch",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 1 inches",
+  "weight": "1.63803460666 pounds",
+  "pages": "468 "
+},
+"215186340": {
+  "books_id": "215186340",
+  "title": "Hegel: A Very Short Introduction",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Singer, Peter",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Singer, Peter",
+    "fl": "Peter Singer",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "019280197X",
+  "isbn": {
+    "0": "019280197X",
+    "2": "9780192801975"
+  },
+  "asin": "019280197X",
+  "ean": ["019280197X"],
+  "publication": "Oxford University Press (2001), Edition: Revised ed., 152 pages",
+  "date": "2001",
+  "summary": "Hegel: A Very Short Introduction by Peter Singer (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["193"],
+    "wording": ["German and Austrian",
+    "Modern western philosophy",
+    "Philosophy and Psychology"]
+  },
+  "lcc": {
+    "code": "B2948 .S57"
+  },
+  "subject": [["Hegel, Georg Wilhelm Friedrich, 1770-1831"]],
+  "genre": ["Biography & Memoir",
+  "General Nonfiction",
+  "History",
+  "All Topics",
+  "Biography",
+  "Nonfiction"],
+  "genre_id": ["1240",
+  "1247",
+  "1599",
+  "8292535",
+  "20216197",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "241417",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "152 p.; 7.06 x 0.37 inches",
+  "height": "0.37 inches",
+  "thickness": "4.56 inches",
+  "length": "7.06 inches",
+  "dimensions": "0.37 x 7.06 x 4.56 inches",
+  "weight": "0.2645547144 pounds",
+  "pages": "152 "
+},
+"215186344": {
+  "books_id": "215186344",
+  "title": "Haroun and the Sea of Stories",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Rushdie, Salman",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Rushdie, Salman",
+    "fl": "Salman Rushdie",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0140366504",
+  "isbn": {
+    "0": "0140366504",
+    "2": "9780140366501"
+  },
+  "asin": "0140366504",
+  "ean": ["0140366504"],
+  "publication": "Puffin (2020), 224 pages",
+  "date": "2020",
+  "summary": "Haroun and the Sea of Stories by Salman Rushdie (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823"],
+    "wording": ["English fiction",
+    "English {except North American}",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PR6068.U757 H37"
+  },
+  "subject": [["Children's stories"],
+  ["Fantasy fiction"],
+  ["Fathers and sons",
+  "Juvenile fiction"],
+  ["Storytelling",
+  "Juvenile fiction"],
+  ["fantasy fiction"]],
+  "series": ["Khalifa Brothers"],
+  "originaltitle": "Haroun and the Sea of Stories",
+  "awards": ["Mythopoeic Fantasy Award",
+  "The Observer's 100 Greatest Novels of All Time",
+  "Writers' Guild Award",
+  "1001 Children's Books You Must Read Before You Grow Up",
+  "Reading Agency Mood Boosting Books 2012",
+  "Harvard Bookstore Top 100"],
+  "genre": ["Fantasy",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["5280",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "17930",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "224 p.; 7.8 x 5.08 inches",
+  "height": "5.0787401523 inches",
+  "thickness": "0.5511811018 inches",
+  "length": "7.7952755826 inches",
+  "dimensions": "5.0787401523 x 7.7952755826 x 0.5511811018 inches",
+  "weight": "0.35053499658 pounds",
+  "pages": "224 "
+},
+"215186347": {
+  "books_id": "215186347",
+  "title": "Gender Trouble: Feminism and the Subversion of Identity (Routledge Classics)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Butler, Judith",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Butler, Judith",
+    "fl": "Judith Butler",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780415389556",
+  "isbn": ["9780415389556",
+  "0415389550"],
+  "asin": "0415389550",
+  "ean": ["0415389550"],
+  "publication": "Routledge (2006), Edition: 1, 272 pages",
+  "date": "2006",
+  "summary": "Gender Trouble: Feminism and the Subversion of Identity (Routledge Classics) by Judith Butler (2006)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["305.3"],
+    "wording": ["By Gender",
+    "Social Sciences",
+    "Social groups ; Inequality",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "HQ1154 .B88"
+  },
+  "subject": {
+    "0": ["Femininity"],
+    "2": ["Feminist theory"],
+    "4": ["Identity (Psychology)"],
+    "6": ["Sex differences (Psychology)"],
+    "8": ["Sex role"],
+    "10": ["sex role"]
+  },
+  "originaltitle": "Gender Trouble: Feminism and the Subversion of Identity",
+  "genre": ["General Nonfiction",
+  "LGBTQ+",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "364398",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "29236",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "272 p.; 7.79 inches",
+  "height": "7.79 inches",
+  "thickness": "0.62 inches",
+  "length": "5.08 inches",
+  "dimensions": "7.79 x 5.08 x 0.62 inches",
+  "weight": "0.61068046574 pounds",
+  "pages": "272 "
+},
+"215186352": {
+  "books_id": "215186352",
+  "title": "Plain Tales from the Hills (Oxford World's Classics)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Kipling, Rudyard",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Kipling, Rudyard",
+    "fl": "Rudyard Kipling",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0199538611",
+  "isbn": {
+    "0": "0199538611",
+    "2": "9780199538614"
+  },
+  "asin": "0199538611",
+  "ean": ["8601407025430"],
+  "publication": "OUP Oxford (2009), Edition: Reissue, 279 pages",
+  "date": "2009",
+  "summary": "Plain Tales from the Hills (Oxford World's Classics) by Rudyard Kipling (2009)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["Spanish"],
+  "originallanguage_codeA": ["eng",
+  "spa"],
+  "ddc": {
+    "code": ["823.8"],
+    "wording": ["English fiction",
+    "English {except North American}",
+    "Literature",
+    "Victorian period 1837-1900"]
+  },
+  "lcc": {
+    "code": "PR4854 .P6"
+  },
+  "subject": {
+    "0": ["British",
+    "India",
+    "Fiction"],
+    "2": ["India",
+    "History",
+    "British occupation, 1765-1947",
+    "Fiction"],
+    "4": ["Short stories, English",
+    "19th century"]
+  },
+  "originaltitle": "Plain Tales from the Hills",
+  "awards": ["Newark Public Library's 1904 List of a Thousand of the Best Novels"],
+  "genre": ["General Fiction",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["2",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "15552",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "279 p.; 7.6 x 0.7 inches",
+  "height": "0.7 inches",
+  "thickness": "5 inches",
+  "length": "7.6 inches",
+  "dimensions": "0.7 x 7.6 x 5 inches",
+  "weight": "0.4960400895 pounds",
+  "pages": "279 "
+},
+"215186359": {
+  "books_id": "215186359",
+  "title": "Qur'an and Woman: Rereading the Sacred Text from a Woman's Perspective",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Wadud, Amina",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Wadud, Amina",
+    "fl": "Amina Wadud",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0195128362",
+  "isbn": {
+    "0": "0195128362",
+    "2": "9780195128369"
+  },
+  "asin": "0195128362",
+  "ean": ["0195128362"],
+  "publication": "Oxford University Press (1999), Edition: 2, 144 pages",
+  "date": "1999",
+  "summary": "Qur'an and Woman: Rereading the Sacred Text from a Woman's Perspective by Amina Wadud (1999)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["297.12283054"],
+    "wording": ["Islam, Babism, Bahai Faith",
+    "Koran",
+    "Other Religions",
+    "Religions",
+    "Sacred Books and Scriptures",
+    "Textual Sources",
+    "Treatment of Particular Subjects and Groups in the Koran"]
+  },
+  "lcc": {
+    "code": "BP134.W6 W28"
+  },
+  "subject": [["Koran",
+  "Theology"],
+  ["Women in the Koran"]],
+  "genre": ["General Nonfiction",
+  "Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "90924",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "144 p.; 8.25 x 5.49 inches",
+  "height": "5.49 inches",
+  "thickness": "0.43 inches",
+  "length": "8.25 inches",
+  "dimensions": "5.49 x 8.25 x 0.43 inches",
+  "weight": "0.36155810968 pounds",
+  "pages": "144 "
+},
+"215186368": {
+  "books_id": "215186368",
+  "title": "Upright Women Wanted",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Gailey, Sarah",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Gailey, Sarah",
+    "fl": "Sarah Gailey",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1250213584",
+  "isbn": {
+    "0": "1250213584",
+    "2": "9781250213587"
+  },
+  "asin": "1250213584",
+  "ean": ["1250213584"],
+  "publication": "Tor.com (2020), 176 pages",
+  "date": "2020",
+  "summary": "Upright Women Wanted by Sarah Gailey (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3607.A35943"
+  },
+  "awards": ["Hugo Nominee"],
+  "genre": ["General Fiction",
+  "Science Fiction",
+  "Audiobooks",
+  "LGBTQ+",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["2",
+  "281",
+  "1697",
+  "364398",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "23211237",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "176 p.; 8.29 inches",
+  "height": "8.2901409 inches",
+  "thickness": "0.759841 inches",
+  "length": "5.32 inches",
+  "dimensions": "8.2901409 x 5.32 x 0.759841 inches",
+  "weight": "0.661386786 pounds",
+  "pages": "176 "
+},
+"215186373": {
+  "books_id": "215186373",
+  "title": "Formations of the Secular: Christianity, Islam, Modernity (Cultural Memory in the Present)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Asad, Talal",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Asad, Talal",
+    "fl": "Talal Asad",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780804747684",
+  "isbn": ["9780804747684",
+  "0804747687"],
+  "asin": "0804747687",
+  "ean": ["0804747687"],
+  "publication": "Stanford University Press (2003), Edition: 1, 285 pages",
+  "date": "2003",
+  "summary": "Formations of the Secular: Christianity, Islam, Modernity (Cultural Memory in the Present) by Talal Asad (2003)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["291.17"],
+    "wording": ["Comparative Religion; Mythology (No Longer Used)",
+    "Mythologies",
+    "Other Religions",
+    "Religions",
+    "Theologies"]
+  },
+  "lcc": {
+    "code": "BL2747.8 A75"
+  },
+  "subject": {
+    "0": ["Christianity and politics"],
+    "2": ["Islam and politics"],
+    "4": ["Secularism"]
+  },
+  "genre": ["General Nonfiction",
+  "History",
+  "Religion & Spirituality",
+  "Anthropology",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1599",
+  "1944",
+  "5022",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "9121",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "285 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.72 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.72 inches",
+  "weight": "0.89066753848 pounds",
+  "pages": "285 "
+},
+"215186376": {
+  "books_id": "215186376",
+  "title": "Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Asad, Talal",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Asad, Talal",
+    "fl": "Talal Asad",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0801846323",
+  "isbn": {
+    "0": "0801846323",
+    "2": "9780801846328"
+  },
+  "asin": "0801846323",
+  "ean": ["0801846323"],
+  "publication": "Johns Hopkins University Press (1993), Edition: 1st, 344 pages",
+  "date": "1993",
+  "summary": "Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam by Talal Asad (1993)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["306.6"],
+    "wording": ["Culture and Institutions",
+    "Religious institutions",
+    "Social Sciences",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "BL50 .A85"
+  },
+  "subject": {
+    "0": ["Civilization, Christian"],
+    "2": ["Civilization, Islamic"],
+    "4": ["Religion"],
+    "6": ["Rushdie, Salman"],
+    "7": ["religion"]
+  },
+  "genre": ["General Nonfiction",
+  "History",
+  "Religion & Spirituality",
+  "Anthropology",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1599",
+  "1944",
+  "5022",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "1088332",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "344 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.79 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.79 inches",
+  "weight": "1.04940036712 pounds",
+  "pages": "344 "
+},
+"215186378": {
+  "books_id": "215186378",
+  "title": "New Testament People",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Apple, Raymond",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Apple, Raymond",
+    "fl": "Raymond Apple",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1524629944",
+  "isbn": {
+    "0": "1524629944",
+    "2": "9781524629946"
+  },
+  "asin": "1524629944",
+  "ean": ["1524629944"],
+  "publication": "AuthorHouseUK (2016), 236 pages",
+  "date": "2016",
+  "summary": "New Testament People by Raymond Apple (2016)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "28044453",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "236 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.59 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.59 inches",
+  "weight": "0.76941329438 pounds",
+  "pages": "236 "
+},
+"215186385": {
+  "books_id": "215186385",
+  "title": "The Making of the Middle Ages",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Southern, R. W.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Southern, R. W.",
+    "fl": "R. W. Southern",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780300002300",
+  "isbn": ["9780300002300",
+  "0300002300"],
+  "asin": "0300002300",
+  "ean": ["0300002300"],
+  "publication": "Yale University Press (1992), 288 pages",
+  "date": "1992",
+  "summary": "The Making of the Middle Ages by R. W. Southern (1992)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["940.1"],
+    "wording": ["Europe",
+    "Europe",
+    "History and Geography",
+    "Medieval 476-1453"]
+  },
+  "lcc": {
+    "code": "CB351 .S6"
+  },
+  "subject": {
+    "0": ["Civilization, Medieval"],
+    "2": ["Middle Ages"],
+    "4": ["Middle ages"]
+  },
+  "genre": ["General Nonfiction",
+  "History",
+  "Religion & Spirituality",
+  "All Topics",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1599",
+  "1944",
+  "8292535",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "9780",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "288 p.; 7.76 x 0.64 inches",
+  "height": "0.64 inches",
+  "thickness": "5.14 inches",
+  "length": "7.76 inches",
+  "dimensions": "0.64 x 7.76 x 5.14 inches",
+  "weight": "0.6503636729 pounds",
+  "pages": "288 "
+},
+"215186390": {
+  "books_id": "215186390",
+  "title": "My dear friends : the life of Rabbi Dr. Herman Sanger",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Levi, John S.",
+  "authors": [{
+    "lf": "Levi, John S.",
+    "fl": "John S. Levi"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9781876462758",
+  "isbn": ["9781876462758",
+  "1876462752"],
+  "publication": "Ormond, Vic. : Hybrid Publishers, 2009.",
+  "date": "2009",
+  "summary": "My dear friends : the life of Rabbi Dr. Herman Sanger by John S. Levi (2009)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["296.092"],
+    "wording": ["Biography",
+    "Biography And History",
+    "Judaism",
+    "Judaism",
+    "Other Religions",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BM755.S32L48 1995"
+  },
+  "subject": [["Rabbis Australia Biography"],
+  ["Sanger, H. M. 1909-1980"]],
+  "genre": ["Biography & Memoir",
+  "Religion & Spirituality",
+  "Biography",
+  "Nonfiction"],
+  "genre_id": ["1240",
+  "1944",
+  "20216197",
+  "20275895"],
+  "source": "Library of Congress",
+  "lccn": "2010474144",
+  "workcode": "19975832",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1",
+    "text": "Paper Book"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "viii, 248 p.; 24 cm",
+  "height": "24 cm",
+  "dimensions": "24 cm",
+  "pages": "viii; 248 "
+},
+"215186402": {
+  "books_id": "215186402",
+  "title": "The Space Trilogy: Out of the Silent Planet, Perelandra, and That Hideous Strength",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Lewis, C. S.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lewis, C. S.",
+    "fl": "C. S. Lewis",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0007528418",
+  "isbn": {
+    "0": "0007528418",
+    "2": "9780007528417"
+  },
+  "asin": "0007528418",
+  "ean": ["8601405174536"],
+  "publication": "HarperCollins (2013), Edition: 75th Anniversary edition, 728 pages",
+  "date": "2013",
+  "summary": "The Space Trilogy: Out of the Silent Planet, Perelandra, and That Hideous Strength by C. S. Lewis (2013)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.912"],
+    "wording": ["1901-1945",
+    "1901-1999",
+    "English fiction",
+    "English {except North American}",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6023.E926 A6"
+  },
+  "series": ["Space Trilogy",
+  "\u5225\u4e16\u754c\u7269\u8a9e",
+  "Trilog\u00eda C\u00f3smica",
+  "La trilogie cosmique",
+  "Kosmin\u0117 trilogija"],
+  "originaltitle": "The Cosmic Trilogy: Out of the Silent Planet; Perelandra; That Hideous Strength",
+  "awards": ["NPR's Top 100 Science-Fiction, Fantasy Books"],
+  "genre": ["General Fiction",
+  "Science Fiction",
+  "Christian Fiction",
+  "All Topics",
+  "Fiction"],
+  "genre_id": ["2",
+  "281",
+  "39177",
+  "8292535",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "6969785",
+  "entrydate": "2022-04-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "728 p.; 8.94 inches",
+  "height": "8.93699 inches",
+  "thickness": "2.28346 inches",
+  "length": "6.25983 inches",
+  "dimensions": "8.93699 x 6.25983 x 2.28346 inches",
+  "weight": "2.20462262 pounds",
+  "pages": "728 "
+},
+"215627175": {
+  "books_id": "215627175",
+  "title": "The Satanic Verses",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Rushdie, Salman",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Rushdie, Salman",
+    "fl": "Salman Rushdie",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0963270702",
+  "isbn": {
+    "0": "0963270702",
+    "2": "9780963270702"
+  },
+  "asin": "B00RP55HTM",
+  "ean": ["0963270702"],
+  "publication": "New Society Publishers (2006)",
+  "date": "2006",
+  "summary": "The Satanic Verses by Salman Rushdie (2006)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.914"],
+    "wording": ["1901-1999",
+    "1945-1999",
+    "English fiction",
+    "English {except North American}",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6068.U757 S27"
+  },
+  "subject": {
+    "0": ["Didactic fiction"],
+    "2": ["Domestic Fiction"],
+    "3": ["Domestic fiction"],
+    "5": ["East Indians",
+    "England",
+    "Fiction"],
+    "7": ["India",
+    "Fiction"],
+    "9": ["London (England)",
+    "Fiction"],
+    "11": ["Survival after airplane accidents, shipwrecks, etc.",
+    "Fiction"]
+  },
+  "awards": ["Whitbread",
+  "Booker Prize Shortlist",
+  "The Modern Library's 100 Best Novels: The Reader's List",
+  "Radcliffe Publishing Course Top 100 Novels of the 20th Century",
+  "Prix Colette",
+  "New York Times Best Books of the Year",
+  "New York Times bestseller",
+  "Guardian 1000",
+  "1001 Books You Must Read Before You Die",
+  "501 Must-Read Books",
+  "The Top Ten: Writers Pick Their Favorite Books",
+  "Torchlight List",
+  "Publishers Weekly Bestseller",
+  "JoMA Mythic Fiction Reading List",
+  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
+  "I Migliori Libri del '900",
+  "\u00c5rhundrets bibliotek"],
+  "genre": ["General Fiction",
+  "Fantasy",
+  "All Topics",
+  "Fiction",
+  "Fantasy"],
+  "genre_id": ["2",
+  "5280",
+  "8292535",
+  "17160326",
+  "20216151"],
+  "source": "amazon.com books",
+  "workcode": "12601",
+  "entrydate": "2022-04-19",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "7.72 inches",
+  "thickness": "1.5 inches",
+  "length": "5.12 inches",
+  "dimensions": "7.72 x 5.12 x 1.5 inches",
+  "weight": "0.79 pounds",
+  "pages": "549 "
+},
+"215627179": {
+  "books_id": "215627179",
+  "title": "Irony in the Old Testament (Bible & Literature Series)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Good, Edwin M.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Good, Edwin M.",
+    "fl": "Edwin M. Good",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0907459056",
+  "isbn": {
+    "0": "0907459056",
+    "2": "9780907459057"
+  },
+  "asin": "0907459056",
+  "ean": ["0907459056"],
+  "publication": "Sheffield Academic Pr (1981), Edition: 2, 256 pages",
+  "date": "1981",
+  "summary": "Irony in the Old Testament (Bible & Literature Series) by Edwin M. Good (1981)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["221.88"],
+    "wording": ["Bible",
+    "Old Testament",
+    "Religions",
+    "Special Topics"]
+  },
+  "lcc": {
+    "code": "BS1199.I7 G6"
+  },
+  "subject": [["Irony"]],
+  "genre": ["Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1944",
+  "20275895"],
+  "source": "amazon.com books",
+  "workcode": "1310644",
+  "entrydate": "2022-04-19",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"215627180": {
+  "books_id": "215627180",
+  "title": "Reynard the Fox",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Avery, Anne Louise",
+  "primaryauthorrole": "Adapter",
+  "authors": [{
+    "lf": "Avery, Anne Louise",
+    "fl": "Anne Louise Avery",
+    "role": "Adapter"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1851245553",
+  "isbn": {
+    "0": "1851245553",
+    "2": "9781851245550"
+  },
+  "asin": "1851245553",
+  "ean": ["1851245553"],
+  "publication": "Bodleian Library, University of Oxford (2020), Edition: New edition, 480 pages",
+  "date": "2020",
+  "summary": "Reynard the Fox by Anne Louise Avery (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English fiction",
+    "English {except North American}",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6101.V47 R49"
+  },
+  "genre": ["General Fiction",
+  "Fantasy",
+  "Recent Fiction",
+  "Fiction",
+  "Fantasy"],
+  "genre_id": ["2",
+  "5280",
+  "8278605",
+  "17160326",
+  "20216151"],
+  "source": "amazon.com books",
+  "workcode": "24660436",
+  "entrydate": "2022-04-19",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "480 p.; 7.75 inches",
+  "height": "7.75 inches",
+  "thickness": "2.1 inches",
+  "length": "5.75 inches",
+  "dimensions": "7.75 x 5.75 x 2.1 inches",
+  "weight": "1.65 pounds",
+  "pages": "480 "
+},
+"215627181": {
+  "books_id": "215627181",
+  "title": "Alien - Alien 3: The Unproduced Screenplay by William Gibson",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Cadigan, Pat",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Cadigan, Pat",
+    "fl": "Pat Cadigan",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1789097525",
+  "isbn": {
+    "0": "1789097525",
+    "2": "9781789097528"
+  },
+  "asin": "1789097525",
+  "ean": ["1789097525"],
+  "publication": "Titan Books (UK) (2021), 432 pages",
+  "date": "2021",
+  "summary": "Alien - Alien 3: The Unproduced Screenplay by William Gibson by Pat Cadigan (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3553.A3135"
+  },
+  "genre": ["Science Fiction",
+  "Fiction"],
+  "genre_id": ["281",
+  "17160326"],
+  "source": "amazon.com books",
+  "workcode": "27031296",
+  "entrydate": "2022-04-19",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "432 p.; 8.18 inches",
+  "height": "8.18 inches",
+  "thickness": "1.28 inches",
+  "length": "5.3 inches",
+  "dimensions": "8.18 x 5.3 x 1.28 inches",
+  "weight": "0.81130112416 pounds",
+  "pages": "432 "
+},
+"215627184": {
+  "books_id": "215627184",
+  "title": "Memory's Legion",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Corey, James S. A.",
+  "authors": [{
+    "lf": "Corey, James S. A.",
+    "fl": "James S. A. Corey"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780356517773",
+  "isbn": ["9780356517773",
+  "0356517772"],
+  "publication": "Little Brown, 2022",
+  "date": "2022",
+  "summary": "Memory's Legion by James S. A. Corey (2022)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3601.B677 M46"
+  },
+  "series": ["The Expanse"],
+  "genre": ["Science Fiction",
+  "Fiction"],
+  "genre_id": ["281",
+  "17160326"],
+  "source": "The Royal Library of Sweden (LIBRIS)",
+  "workcode": "26772433",
+  "entrydate": "2022-04-19",
+  "format": [{
+    "code": "1.1",
+    "text": "Paper Book"
+  }],
+  "copies": "1",
+  "volumes": "1"
+},
+"215627249": {
+  "books_id": "215627249",
+  "title": "The First Astronomers",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Holders, Duane Hamacher with Elders and Knowledge",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Holders, Duane Hamacher with Elders and Knowledge",
+    "fl": "Duane Hamacher with Elders and Knowledge Holders",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1760877204",
+  "isbn": {
+    "0": "1760877204",
+    "2": "9781760877200"
+  },
+  "asin": "1760877204",
+  "ean": ["1760877204"],
+  "publication": "Allen & Unwin (2022), 304 pages",
+  "date": "2022",
+  "summary": "The First Astronomers by Duane Hamacher with Elders and Knowledge Holders (2022)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["520"],
+    "wording": ["Astronomy",
+    "Astronomy",
+    "Natural sciences and mathematics"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "27861706",
+  "entrydate": "2022-04-19",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "304 p.",
+  "weight": "0.881849048 pounds",
+  "pages": "304 "
+},
+"215627251": {
+  "books_id": "215627251",
+  "title": "Towards a Feminist Critical Reading of the Gospel according to Matthew (Beihefte zur Zeitschrift f\u00fcr die neutestamentliche Wissenschaft Book 60)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Wainwright, Elaine M.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Wainwright, Elaine M.",
+    "fl": "Elaine M. Wainwright",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9783110128604",
+  "isbn": ["9783110128604",
+  "3110128608"],
+  "asin": "B07G4RQX5C",
+  "publication": "De Gruyter (2010), Edition: 1, 433 pages",
+  "date": "2010",
+  "summary": "Towards a Feminist Critical Reading of the Gospel according to Matthew (Beihefte zur Zeitschrift f\u00fcr die neutestamentliche Wissenschaft Book 60) by Elaine M. Wainwright (2010)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "27331655",
+  "entrydate": "2022-04-19",
+  "format": [{
+    "code": "1.3",
+    "text": "Ebook"
+  }],
+  "copies": "1",
+  "height": "9.5 inches",
+  "thickness": "1 inch",
+  "length": "6.5 inches",
+  "dimensions": "9.5 x 6.5 x 1 inches",
+  "weight": "1.6 pounds"
 }}
