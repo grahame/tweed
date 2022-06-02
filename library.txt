@@ -1581,30 +1581,60 @@ I3.03 823.914        9780140063318     Mortimer, John, 1923-2009     1984 Rumpol
 I3.04 823.914        9780141037530     Mortimer, John, 1923-2009     None Rumpole and the Penge Bungalow murders
 I3.05 823.914        9780140132618     Mortimer, John, 1923-2009     1991 Rumpole à la carte
 I3.06 823.914        9780061975134     Nix, Garth                    2009 Sabriel
-I3.07 823.914        9780552166669     Pratchett, Terry              2012 Guards! guards!
-I3.08 823.914        9780552166621     Pratchett, Terry              2012 Mort : a novel of Discworld
-I3.09 823.914        9780575064836     Pratchett, Terry              1997 Reaper man
-I3.10 823.914        9780575067981     Pratchett, Terry              1999 The city watch trilogy
-I3.11 823.914        9780552124751     Pratchett, Terry              1985 The colour of magic
-I3.12 823.914        9780857520104     Pratchett, Terry              2012 The long earth
-I3.13 823.914        9780857521750     Pratchett, Terry              2014 The Long Mars
-I3.14 823.914        9780857520128     Pratchett, Terry              None The Long War
-I3.15 823.914        9780552549059     Pratchett, Terry              None The Wee Free Men
-I3.16 823.914        9780552525954     Pratchett, Terry              1990 Truckers
-I3.17 823.914        9780552167505     Pratchett, Terry              2013 Witches abroad
-I3.18 823.914        9780552166645     Pratchett, Terry              2012 Wyrd sisters : a novel of Discworld
-I3.19 823.914        9780747591054     Rowling, J. K.                2007 Harry Potter and the deathly hallows
-I3.20 823.914        9780140366501     Rushdie, Salman               2020 Haroun and the sea of stories
-I3.21 823.914        9780963270702     Rushdie, Salman               2006 The satanic verses
-I3.22 823.914        9780008453343     Tolkien, J. R. R. (John Ro    2021 Tales from the perilous realm
-I3.23 823.914        9780008131388     Tolkien, J. R. R. (John Ro    2018 The story of Kullervo
-I3.24 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damascus
-I3.25 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
-I3.26 823.914        9780732265694     Williams, Sean, 1967-         1964 The prodigal sun
-I3.27 823.92         9780575097582     Aaronovitch, Ben, 1964-       2011 Rivers of London
-I3.28 823.92         9780007362622     Adichie, Chimamanda Ngozi,    2013 Americanah
-I3.29 823.92         9781473228863     Baxter, Stephen               None Galaxias
-I3.30 823.92         9780246137067     Baxter, Stephen               1991 Raft
+I3.07 823.914        9780552551441     Pratchett, Terry              2005 A hat full of sky
+I3.08 823.914        9780552167611     Pratchett, Terry              2013 Carpe jugulum : a novel of Discworld
+I3.09 823.914        9780552166614     Pratchett, Terry              2012 Equal rites : a Discworld novel
+I3.10 823.914        9780552167574     Pratchett, Terry              2013 Feet of clay : a novel of Discworld
+I3.11 823.914        9780552167680     Pratchett, Terry              2014 Going postal : a novel of Discworld
+I3.12 823.914        9780552166669     Pratchett, Terry              2012 Guards! guards!
+I3.13 823.914        9780552167581     Pratchett, Terry              2013 Hogfather
+I3.14 823.914        9780552167543     Pratchett, Terry              2013 Interesting times : a novel of Discworld
+I3.15 823.914        9780552167598     Pratchett, Terry              2013 Jingo : a Discworld novel
+I3.16 823.914        9780552167529     Pratchett, Terry              2013 Lords and ladies : a novel of Discworld
+I3.17 823.914        9780552167703     Pratchett, Terry              2014 Making money : a novel of Discworld
+I3.18 823.914        9780552167567     Pratchett, Terry              2013 Maskerade : a novel of Discworld series
+I3.19 823.914        9780552167536     Pratchett, Terry              2013 Men at arms : a novel of discworld
+I3.20 823.914        9780552167673     Pratchett, Terry              2014 Monstrous regiment : a novel of Discworld
+I3.21 823.914        9780552166621     Pratchett, Terry              2012 Mort : a novel of Discworld
+I3.22 823.914        9780552166676     Pratchett, Terry              2012 Moving pictures
+I3.23 823.914        9780552167666     Pratchett, Terry              2014 Night watch
+I3.24 823.914        9780552166652     Pratchett, Terry              2012 Pyramids : a novel of Discworld
+I3.25 823.914        9780552170468     Pratchett, Terry              2013 Raising steam : a Discworld novel
+I3.26 823.914        9780575064836     Pratchett, Terry              1997 Reaper man
+I3.27 823.914        9780552167512     Pratchett, Terry              2013 Small gods : a novel of Discworld
+I3.28 823.914        9780552166751     Pratchett, Terry              2011 Snuff : a novel of Discworld
+I3.29 823.914        9780552167550     Pratchett, Terry              2013 Soul music : a novel of discworld
+I3.30 823.914        9780552166638     Pratchett, Terry              2012 Sourcery : a novel of Discworld
+I3.31 823.914        9780552576802     Pratchett, Terry              2018 The Amazing Maurice and his Educated Rodents (Discworld Nove
+I3.32 823.914        9780575067981     Pratchett, Terry              1999 The city watch trilogy
+I3.33 823.914        9780552124751     Pratchett, Terry              1985 The colour of magic
+I3.34 823.914        9780552167628     Pratchett, Terry              2013 The fifth elephant : a novel of Discworld
+I3.35 823.914        9780552167604     Pratchett, Terry              2013 The last continent : a discworld novel
+I3.36 823.914        9780552166607     Pratchett, Terry              2012 The light fantastic
+I3.37 823.914        9780857520104     Pratchett, Terry              2012 The long earth
+I3.38 823.914        9780857521750     Pratchett, Terry              2014 The Long Mars
+I3.39 823.914        9780857520128     Pratchett, Terry              None The Long War
+I3.40 823.914        9780552167635     Pratchett, Terry              2013 The truth : a novel of Discworld
+I3.41 823.914        9780552549059     Pratchett, Terry              None The Wee Free Men
+I3.42 823.914        9780552167642     Pratchett, Terry              2013 Thief of time : a novel of Discworld
+I3.43 823.914        9780552167697     Pratchett, Terry              2014 Thud! : a novel of Discworld
+I3.44 823.914        9780552525954     Pratchett, Terry              1990 Truckers
+I3.45 823.914        9780552167710     Pratchett, Terry              2014 Unseen academicals : a novel of Discworld
+I3.46 823.914        9780552553698     Pratchett, Terry              2007 Wintersmith
+I3.47 823.914        9780552167505     Pratchett, Terry              2013 Witches abroad
+I3.48 823.914        9780552166645     Pratchett, Terry              2012 Wyrd sisters : a novel of Discworld
+I3.49 823.914        9780747591054     Rowling, J. K.                2007 Harry Potter and the deathly hallows
+I3.50 823.914        9780140366501     Rushdie, Salman               2020 Haroun and the sea of stories
+I3.51 823.914        9780963270702     Rushdie, Salman               2006 The satanic verses
+I3.52 823.914        9780008453343     Tolkien, J. R. R. (John Ro    2021 Tales from the perilous realm
+I3.53 823.914        9780008131388     Tolkien, J. R. R. (John Ro    2018 The story of Kullervo
+I3.54 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damascus
+I3.55 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
+I3.56 823.914        9780732265694     Williams, Sean, 1967-         1964 The prodigal sun
+I3.57 823.92         9780575097582     Aaronovitch, Ben, 1964-       2011 Rivers of London
+I3.58 823.92         9780007362622     Adichie, Chimamanda Ngozi,    2013 Americanah
+I3.59 823.92         9781473228863     Baxter, Stephen               None Galaxias
+I3.60 823.92         9780246137067     Baxter, Stephen               1991 Raft
 I4.01 823.92         9781894063302     Bedford, K. A. (K. Adrian)    2005 Eclipse
 I4.02 823.92         9781894063203     Bedford, K. A. (K. Adrian)    2007 Hydrogen steel
 I4.03 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
@@ -1620,19 +1650,21 @@ I4.12 823.92         9781925849530     McKay, Laura Jean             None The an
 I4.13 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
 I4.14 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
 I4.15 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
-I4.16 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
-I4.17 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
-I4.18 823.92         9780575079076     Robson, Justina               2006 Keeping it real
-I4.19 823.92         9781408883358     Shannon, Samantha, 1991-      2020 The priory of the orange tree
-I4.20 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
-I4.21 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
-I4.22 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
-I4.23 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
-I4.24 823.92         9780356511108     Stross, Charles               None The labyrinth index
-I4.25 823.92         9780356511368     Thompson, Tade                2018 Rosewater
-I4.26 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
-I4.27 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
-I4.28 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
+I4.16 823.92         9780552166058     Pratchett, Terry              2012 I shall wear midnight
+I4.17 823.92         9780552574471     Pratchett, Terry              2016 The Shepherd's crown
+I4.18 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
+I4.19 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
+I4.20 823.92         9780575079076     Robson, Justina               2006 Keeping it real
+I4.21 823.92         9781408883358     Shannon, Samantha, 1991-      2020 The priory of the orange tree
+I4.22 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
+I4.23 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
+I4.24 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
+I4.25 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
+I4.26 823.92         9780356511108     Stross, Charles               None The labyrinth index
+I4.27 823.92         9780356511368     Thompson, Tade                2018 Rosewater
+I4.28 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
+I4.29 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
+I4.30 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
 I5.01 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
 I5.02 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
 I5.03 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
