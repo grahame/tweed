@@ -46,7 +46,7 @@
                 { "bookshelf": "E", "shelf": 2, "first_book": { "isbn": "9781876462758" } },
                 { "bookshelf": "E", "shelf": 3, "first_book": { "isbn": "9781568587295" } },
 
-                { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "9781890951337" } },
+                { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "9780231195515" } },
                 { "bookshelf": "F", "shelf": 2, "first_book": { "isbn": "9781621387312" } },
                 { "bookshelf": "F", "shelf": 3, "first_book": { "isbn": "9781851777372" } },
                 { "bookshelf": "F", "shelf": 4, "first_book": { "isbn": "9780008207045" } },
@@ -62,7 +62,7 @@
 
                 { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "9781529405712" } },
                 { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9780708899427" } },
-                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9781851245550" } },
+                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9780143028574" } },
                 { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "9780785834212" } },
                 { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780007528417" } },
                 { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9780141037233" } },
