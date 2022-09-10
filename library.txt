@@ -225,8 +225,9 @@ B1.31 223.207        9780551008465     Anderson, A. A. (Arnold Al    1972 The bo
 B1.32 223.207        9780806621203     Brueggemann, Walter           1985 The message of the Psalms : a theological commentary
 B1.33 223.207        9780802804884     Gerstenberger, Erhard S.      2001 Psalms : Part 2, and Lamentations
 B1.34 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
-B1.35 223.806        9780802842923     Fox, Michael V., 1940-        1999 A time to tear down and a time to build up : a rereading of 
-B1.36 223.9052       9780907459071     Falk, Marcia                  1981 Love lyrics from the Bible : a translation and literary stud
+B1.35 223.8052034    9781481476546     Rylant, Cynthia [Illustrat    2018 Ecclesiastes : to everything there is a season
+B1.36 223.806        9780802842923     Fox, Michael V., 1940-        1999 A time to tear down and a time to build up : a rereading of 
+B1.37 223.9052       9780907459071     Falk, Marcia                  1981 Love lyrics from the Bible : a translation and literary stud
 B2.01 223.9077       9781625648952     Good, Edwin M. (Edwin Mars    2015 The Song of songs : codes of love
 B2.02 223.9077       9780300139495     Pope, Marvin H.               1995 Song of songs : a new translation with introduction and comm
 B2.03 223.9077       9780879073473     William, of Saint-Thierry,    1970 Exposition on the Song of Songs
@@ -263,50 +264,49 @@ B2.33 225.66         9780801027895     Resseguie, James L.           2005 Narrat
 B2.34 225.67         9780190203825     Ehrman, Bart D                2015 The New Testament : a historical introduction to the early C
 B2.35 225.67         9781108455701     Huebner, Sabine R., 1976-     2019 Papyri and the social world of the New Testament
 B2.36 225.68         9780334022114     Bultmann, Rudolf, 1884-197    1985 New Testament and mythology and other basic writings
-B3.01 223.8052034    9781481476546     Rylant, Cynthia [Illustrat    2018 Ecclesiastes : to everything there is a season
-B3.02 225.7          9780198261681     Harvey, A. E. (Anthony Ern    1972 Companion to the New Testament : the New English Bible
-B3.03 225.83055      9781803410821     Crossley, James               2023 Jesus: A Life in Class Conflict
-B3.04 225.83055      9781978702073     Myles, Robert J. [Editor]     2019 Class struggle in the New Testament
-B3.05 225.835500937  9781978704046     Zeichman, Christopher B.      2021 The Roman army and the New Testament
-B3.06 225.92         9781847301710     O'Mahony, Kieran J.           2009 Do we still need St. Paul? : a contemporary reading of the A
-B3.07 225.922        9781524629946     Apple, Raymond, 1935-         2016 New Testament People : A Rabbi's Notes
-B3.08 225.922082     9781529372595     Bond, Helen K. (Helen Kath    2022 Women remembered : Jesus' female disciples
-B3.09 225.924        9780800662042     Hock, Ronald F., 1944-        1995 The social context of Paul's ministry : tentmaking and apost
-B3.10 225.93         9780060616342     Crossan, John Dominic         2003 Excavating Jesus : beneath the stones, behind the texts
-B3.11 225.95         9780281037919     Kee, Howard Clark             1980 The origins of Christianity; : sources and documents
-B3.12 225.95         9780334018179     Roetzel, Calvin J.            2012 The world that shaped the New Testament
-B3.13 226            9780800601812     Perrin, Norman                1969 What is redaction criticism?
-B3.14 226.0520434    9781844671762     Fraser, Giles [Editor; Oth    2007 The Gospels-- Jesus Christ
-B3.15 226.06         9780620578615     Blackie, Margaret             2013 Rooted in love: Integrating Ignatian spirituality into daily
-B3.16 226.06         9781863714716     Burridge, Richard A., 1955    1994 Four Gospels, one Jesus? : a symbolic reading
-B3.17 226.06         9780281074082     Hays, Richard B.              2015 Reading backwards : figural christology and the fourfold Gos
+B3.01 225.7          9780198261681     Harvey, A. E. (Anthony Ern    1972 Companion to the New Testament : the New English Bible
+B3.02 225.83055      9781803410821     Crossley, James               2023 Jesus: A Life in Class Conflict
+B3.03 225.83055      9781978702073     Myles, Robert J. [Editor]     2019 Class struggle in the New Testament
+B3.04 225.835500937  9781978704046     Zeichman, Christopher B.      2021 The Roman army and the New Testament
+B3.05 225.92         9781847301710     O'Mahony, Kieran J.           2009 Do we still need St. Paul? : a contemporary reading of the A
+B3.06 225.922        9781524629946     Apple, Raymond, 1935-         2016 New Testament People : A Rabbi's Notes
+B3.07 225.922082     9781529372595     Bond, Helen K. (Helen Kath    2022 Women remembered : Jesus' female disciples
+B3.08 225.924        9780800662042     Hock, Ronald F., 1944-        1995 The social context of Paul's ministry : tentmaking and apost
+B3.09 225.93         9780060616342     Crossan, John Dominic         2003 Excavating Jesus : beneath the stones, behind the texts
+B3.10 225.95         9780281037919     Kee, Howard Clark             1980 The origins of Christianity; : sources and documents
+B3.11 225.95         9780334018179     Roetzel, Calvin J.            2012 The world that shaped the New Testament
+B3.12 226            9780800601812     Perrin, Norman                1969 What is redaction criticism?
+B3.13 226.0520434    9781844671762     Fraser, Giles [Editor; Oth    2007 The Gospels-- Jesus Christ
+B3.14 226.06         9780620578615     Blackie, Margaret             2013 Rooted in love: Integrating Ignatian spirituality into daily
+B3.15 226.06         9781863714716     Burridge, Richard A., 1955    1994 Four Gospels, one Jesus? : a symbolic reading
+B3.16 226.06         9780281074082     Hays, Richard B.              2015 Reading backwards : figural christology and the fourfold Gos
+B3.17 226.06         9781864071955     Loader, William R. G., 194    1997 Jesus and the fundamentalism of his day
 B3.18 226.06         9781864071955     Loader, William R. G., 194    1997 Jesus and the fundamentalism of his day
-B3.19 226.06         9781864071955     Loader, William R. G., 194    1997 Jesus and the fundamentalism of his day
-B3.20 226.06         9780060675349     Spong, John Shelby            1996 Liberating the Gospels : reading the Bible with Jewish eyes 
-B3.21 226.066        9781569751893     Borg, Marcus J.               1999 The lost gospel Q : the original sayings of Jesus
-B3.22 226.077        9780909246730     Fallon, Michael               1980 The Winston commentary on the Gospels
-B3.23 226.1          9780840751508     Throckmorton, Burton H. (B    1979 Gospel parallels : a comparison of the Synoptic Gospels : wi
-B3.24 226.2          9780800683245     Bonhoeffer, Dietrich, 1906    2003 The cost of discipleship
-B3.25 226.2          9780334009863     Cox, G. E. P. (George Erne    1968 The Gospel according to Saint Matthew
-B3.26 226.2          9780894534607     Senior, Donald                1990 The Passion of Jesus in the Gospel of Matthew
-B3.27 226.206        9780334016946     Bornkamm, Günther             1982 Tradition and interpretation in Matthew
-B3.28 226.206        9781909697386     Myles, Robert J.              2014 The homeless Jesus in the Gospel of Matthew
-B3.29 226.206        9780800617660     Stanton, Graham               1983 The Interpretation of Matthew
-B3.30 226.206        9781350008793     Wainwright, Elaine Mary, 1    2017 Matthew : an introduction and study guide : Basileia of the 
-B3.31 226.20601      9780521716147     Powell, Mark Allan, 1953-     2009 Methods for Matthew
-B3.32 226.2067       9781570753244     Carter, Warren, 1955-         2001 Matthew and the margins : a sociopolitical and religious rea
-B3.33 226.207        9781876295844     Byrne, Brendan (Brendan J.    2004 Lifting the burden : reading Matthew's Gospel in the church 
-B3.34 226.207        9781910928226     Wainwright, Elaine Mary, 1    2017 Habitat, human, and holy : an eco-rhetorical reading of the 
-B3.35 226.306        9780281064014     Borg, Marcus J.               2011 Meeting Jesus in Mark : conversations with Scripture
-B3.36 226.306        9780415113656     Painter, John                 1997 Mark's Gospel : worlds in conflict
-B3.37 226.306        9780800625955     Robbins, Vernon K. (Vernon    2009 Jesus the teacher : a socio-rhetorical interpretation of Mar
-B3.38 226.306        9780894532733     Stock, Augustine              1982 Call to discipleship : a literary study of Mark's gospel
-B3.39 226.306        9780281072507     Williams, Rowan (Rowan Dou    2014 Meeting God in Mark : reflections for the season of Lent
-B3.40 226.307        9780802818874     Anderson, Hugh, 1920-         1981 The Gospel of Mark : based on the Revised standard version
-B3.41 226.307        9780664221072     Boring, M. Eugene             2006 Mark : a commentary
-B3.42 226.307        9781921032974     Byrne, Brendan (Brendan J.    2008 A costly freedom : a theological reading of Mark's Gospel
-B3.43 226.407        9781876295301     Byrne, Brendan (Brendan J.    2000 The hospitality of God : a reading of Luke's gospel
-B3.44 226.407        9780140137736     Caird, G. B. (George Bradf    1964 The Gospel of St. Luke
+B3.19 226.06         9780060675349     Spong, John Shelby            1996 Liberating the Gospels : reading the Bible with Jewish eyes 
+B3.20 226.066        9781569751893     Borg, Marcus J.               1999 The lost gospel Q : the original sayings of Jesus
+B3.21 226.077        9780909246730     Fallon, Michael               1980 The Winston commentary on the Gospels
+B3.22 226.1          9780840751508     Throckmorton, Burton H. (B    1979 Gospel parallels : a comparison of the Synoptic Gospels : wi
+B3.23 226.2          9780800683245     Bonhoeffer, Dietrich, 1906    2003 The cost of discipleship
+B3.24 226.2          9780334009863     Cox, G. E. P. (George Erne    1968 The Gospel according to Saint Matthew
+B3.25 226.2          9780894534607     Senior, Donald                1990 The Passion of Jesus in the Gospel of Matthew
+B3.26 226.206        9780334016946     Bornkamm, Günther             1982 Tradition and interpretation in Matthew
+B3.27 226.206        9781909697386     Myles, Robert J.              2014 The homeless Jesus in the Gospel of Matthew
+B3.28 226.206        9780800617660     Stanton, Graham               1983 The Interpretation of Matthew
+B3.29 226.206        9781350008793     Wainwright, Elaine Mary, 1    2017 Matthew : an introduction and study guide : Basileia of the 
+B3.30 226.20601      9780521716147     Powell, Mark Allan, 1953-     2009 Methods for Matthew
+B3.31 226.2067       9781570753244     Carter, Warren, 1955-         2001 Matthew and the margins : a sociopolitical and religious rea
+B3.32 226.207        9781876295844     Byrne, Brendan (Brendan J.    2004 Lifting the burden : reading Matthew's Gospel in the church 
+B3.33 226.207        9781910928226     Wainwright, Elaine Mary, 1    2017 Habitat, human, and holy : an eco-rhetorical reading of the 
+B3.34 226.306        9780281064014     Borg, Marcus J.               2011 Meeting Jesus in Mark : conversations with Scripture
+B3.35 226.306        9780415113656     Painter, John                 1997 Mark's Gospel : worlds in conflict
+B3.36 226.306        9780800625955     Robbins, Vernon K. (Vernon    2009 Jesus the teacher : a socio-rhetorical interpretation of Mar
+B3.37 226.306        9780894532733     Stock, Augustine              1982 Call to discipleship : a literary study of Mark's gospel
+B3.38 226.306        9780281072507     Williams, Rowan (Rowan Dou    2014 Meeting God in Mark : reflections for the season of Lent
+B3.39 226.307        9780802818874     Anderson, Hugh, 1920-         1981 The Gospel of Mark : based on the Revised standard version
+B3.40 226.307        9780664221072     Boring, M. Eugene             2006 Mark : a commentary
+B3.41 226.307        9781921032974     Byrne, Brendan (Brendan J.    2008 A costly freedom : a theological reading of Mark's Gospel
+B3.42 226.407        9781876295301     Byrne, Brendan (Brendan J.    2000 The hospitality of God : a reading of Luke's gospel
+B3.43 226.407        9780140137736     Caird, G. B. (George Bradf    1964 The Gospel of St. Luke
 B4.01 226.4077       9780814659663     Johnson, Luke Timothy         2006 The Gospel of Luke
 B4.02 226.4077       9780521676816     Levine, Amy-Jill, 1956-       2018 The Gospel of Luke
 B4.03 226.5          9780814635742     Byrne, Brendan (Brendan J.    2014 Life abounding : a reading of John's gospel
@@ -1563,10 +1563,6 @@ H5.49 823.914        9780349139135     Banks, Iain, 1954-2013        2013 Compli
 H5.50 823.914        9781857231380     Banks, Iain, 1954-2013        2003 Consider Phlebas
 H5.51 823.914        9780349116648     Banks, Iain, 1954-2013        2003 Dead air
 H5.52 823.914        9780349102146     Banks, Iain, 1954-2013        1990 Espedair Street
-H5.53 823.914        9781857234572     Banks, Iain, 1954-2013        1997 Excession
-H5.54 823.914        9781857232738     Banks, Iain, 1954-2013        1994 Feersum endjinn
-H5.55 823.914        9781857237634     Banks, Iain, 1954-2013        1999 Inversions
-H5.56 823.914        9781841490595     Banks, Iain, 1954-2013        2001 Look to windward
 H6.01 821.1          9780008433932     Tolkien, J. R. R. 1892-197    2021 Sir Gawain and the Green Knight ; with Pearl ; and Sir Orfeo
 H6.02 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
 H6.03 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
@@ -1589,26 +1585,30 @@ H6.19 821.9208       9781788542845     Copus, Julia, 1969-           2020 Life s
 H6.20 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
 H6.21 822.912                          Eliot, T. S.                  2021 Murder in the Cathedral
 H6.22 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
-I1.01 823.914        9781841494197     Banks, Iain, 1954-2013        2009 Matter
-I1.02 823.914        9781408702512     Banks, Iain, 1954-2013        2012 Stonemouth
-I1.03 823.914        9781841498942     Banks, Iain, 1954-2013        2010 Surface detail
-I1.04 823.914        9781841492292     Banks, Iain, 1954-2013        2005 The algebraist
-I1.05 823.914        9780708883037     Banks, Iain, 1954-2013        1989 The bridge
-I1.06 823.914        9780349139227     Banks, Iain, 1954-2013        2013 The business : a novel
-I1.07 823.914        9780356501512     Banks, Iain, 1954-2013        2012 The hydrogen sonata
-I1.08 823.914        9781857231465     Banks, Iain, 1954-2013        1992 The player of games
-I1.09 823.914        9780349138596     Banks, Iain, 1954-2013        2001 The quarry
-I1.10 823.914        9781857230307     Banks, Iain, 1954-2013        1993 The state of the art
-I1.11 823.914        9780349119281     Banks, Iain, 1954-2013        2012 The steep approach to Garbadale
-I1.12 823.914        9780349101774     Banks, Iain, 1954-2013        1992 The wasp factory : a novel
-I1.13 823.914        9780349119274     Banks, Iain, 1954-2013        2010 Transition
-I1.14 823.914        9781857231359     Banks, Iain, 1954-2013        1992 Use of weapons
-I1.15 823.914        9780349139203     Banks, Iain, 1954-2013        2013 Walking on glass
-I1.16 823.914        9780349107684     Banks, Iain, 1954-2013        1996 Whit, or Isis amongst the unsaved
-I1.17 823.914        9780575075535     Baxter, Stephen               2004 Coalescent
-I1.18 823.914        9780575076556     Baxter, Stephen               2005 Exultant
-I1.19 823.914        9780575084827     Baxter, Stephen               2008 Flood
-I1.20 823.914        9780006511830     Baxter, Stephen               2001 Space
+I1.01 823.914        9781857234572     Banks, Iain, 1954-2013        1997 Excession
+I1.02 823.914        9781857232738     Banks, Iain, 1954-2013        1994 Feersum endjinn
+I1.03 823.914        9781857237634     Banks, Iain, 1954-2013        1999 Inversions
+I1.04 823.914        9781841490595     Banks, Iain, 1954-2013        2001 Look to windward
+I1.05 823.914        9781841494197     Banks, Iain, 1954-2013        2009 Matter
+I1.06 823.914        9781408702512     Banks, Iain, 1954-2013        2012 Stonemouth
+I1.07 823.914        9781841498942     Banks, Iain, 1954-2013        2010 Surface detail
+I1.08 823.914        9781841492292     Banks, Iain, 1954-2013        2005 The algebraist
+I1.09 823.914        9780708883037     Banks, Iain, 1954-2013        1989 The bridge
+I1.10 823.914        9780349139227     Banks, Iain, 1954-2013        2013 The business : a novel
+I1.11 823.914        9780356501512     Banks, Iain, 1954-2013        2012 The hydrogen sonata
+I1.12 823.914        9781857231465     Banks, Iain, 1954-2013        1992 The player of games
+I1.13 823.914        9780349138596     Banks, Iain, 1954-2013        2001 The quarry
+I1.14 823.914        9781857230307     Banks, Iain, 1954-2013        1993 The state of the art
+I1.15 823.914        9780349119281     Banks, Iain, 1954-2013        2012 The steep approach to Garbadale
+I1.16 823.914        9780349101774     Banks, Iain, 1954-2013        1992 The wasp factory : a novel
+I1.17 823.914        9780349119274     Banks, Iain, 1954-2013        2010 Transition
+I1.18 823.914        9781857231359     Banks, Iain, 1954-2013        1992 Use of weapons
+I1.19 823.914        9780349139203     Banks, Iain, 1954-2013        2013 Walking on glass
+I1.20 823.914        9780349107684     Banks, Iain, 1954-2013        1996 Whit, or Isis amongst the unsaved
+I1.21 823.914        9780575075535     Baxter, Stephen               2004 Coalescent
+I1.22 823.914        9780575076556     Baxter, Stephen               2005 Exultant
+I1.23 823.914        9780575084827     Baxter, Stephen               2008 Flood
+I1.24 823.914        9780006511830     Baxter, Stephen               2001 Space
 I2.01 823.914        9781473205109     Baxter, Stephen               None The massacre of mankind : sequel to The war of the worlds
 I2.02 823.914        9780006511823     Baxter, Stephen               2000 Time
 I2.03 823.914        9780002246934     Baxter, Stephen               1998 Traces

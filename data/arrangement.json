@@ -67,7 +67,7 @@
                 { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780679734932" } },
                 { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9780008433932" } },
 
-                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9781841494197" } },
+                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9781857234572" } },
                 { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "9781473205109" } },
                 { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "9780721412634" } },
                 { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "9780552167574" } },
@@ -104,9 +104,6 @@
         { "isbn": "9781426735783", "bookshelf": "A", "shelf": 3 },
         { "isbn": "9780136149347", "bookshelf": "A", "shelf": 3 },
         { "title": "Missionary Memories", "bookshelf": "A", "shelf": 3 },
-
-        { "isbn": "9781481476546", "bookshelf": "B", "shelf": 3 },
-        { "isbn": "9781481476546", "bookshelf": "B", "shelf": 3},
 
         { "isbn": "9780646480947", "bookshelf": "D", "shelf": 6 },
 
