@@ -22,9 +22,9 @@
                 { "bookshelf": "A", "shelf": 6, "first_book": { "isbn": "9780334004035" } },
 
                 { "bookshelf": "B", "shelf": 1, "first_book": { "title": "r:^Leviticus .*by Martin Noth.*" } },
-                { "bookshelf": "B", "shelf": 2, "first_book": { "isbn": "9780879073473" } },
-                { "bookshelf": "B", "shelf": 3, "first_book": { "isbn": "9781978702073" } },
-                { "bookshelf": "B", "shelf": 4, "first_book": { "isbn": "9780521676816" } },
+                { "bookshelf": "B", "shelf": 2, "first_book": { "isbn": "9781625648952" } },
+                { "bookshelf": "B", "shelf": 3, "first_book": { "isbn": "9780198261681" } },
+                { "bookshelf": "B", "shelf": 4, "first_book": { "isbn": "9780814659663" } },
                 { "bookshelf": "B", "shelf": 5, "first_book": { "isbn": "9780521285544" } },
                 { "bookshelf": "B", "shelf": 6, "first_book": { "isbn": "9780804201414" } },
 
@@ -61,11 +61,11 @@
                 { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9781473647671" } },
 
                 { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "9781529405712" } },
-                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9780708899427" } },
-                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9780143028574" } },
-                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "9780785834212" } },
-                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780007528417" } },
-                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9780141037233" } },
+                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9781529100624" } },
+                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9780733640865" } },
+                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "9781343336766" } },
+                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780679734932" } },
+                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9780008433932" } },
 
                 { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9781841494197" } },
                 { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "9781473205109" } },
