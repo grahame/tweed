@@ -41,6 +41,25 @@ def is_ddc(v):
     return ddc_re.match(str(v)) is not None
 
 
+def match_string(query, s):
+    if query.startswith("r:"):
+        return re.match(query[2:], s) is not None
+    return query == s
+
+
+def query_matches(query, book):
+    match = True
+    if "ddc" in query:
+        match &= re.match(query["ddc"], book.ddc or "") is not None
+    if "isbn" in query:
+        match &= book.isbn == query["isbn"]
+    if "title" in query:
+        match &= match_string(query["title"], book.title)
+    if "author" in query:
+        match &= match_string(query["author"], book.author)
+    return match
+
+
 class OCLC:
     ISBN_WID_OVERRIDES = {
         "9780232525274": "54781379",
@@ -426,21 +445,6 @@ class Library:
         def format_loc(shelf, index):
             return "{}{}.{:>02}".format(shelf["bookshelf"], shelf["shelf"], index)
 
-        def match_string(query, s):
-            if query.startswith("r:"):
-                return re.match(query[2:], s) is not None
-            return query == s
-
-        def query_matches(query, book):
-            match = True
-            if "isbn" in query:
-                match &= book.isbn == query["isbn"]
-            if "title" in query:
-                match &= match_string(query["title"], book.title)
-            if "author" in query:
-                match &= match_string(query["author"], book.author)
-            return match
-
         placed = []
 
         def get_override(book):
@@ -492,12 +496,13 @@ class Library:
         # routing
         zones = arrangement["zones"]
         zone_books = {zone: [] for zone in zones}
-        zone_re = [(z, re.compile(zones[z]["ddc"])) for z in zones]
+        zone_matches = [(z, zones[z]["matches"]) for z in zones]
+        # zone_re = [(z, re.compile(zones[z]["ddc"])) for z in zones]
 
         for book in books:
             matched = False
-            for zone, zre in zone_re:
-                if zre.match(book.ddc or ""):
+            for zone, zm in zone_matches:
+                if any(query_matches(t, book) for t in zm):
                     matched = True
                     zone_books[zone].append(book)
                     break
