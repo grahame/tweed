@@ -68,9 +68,10 @@ A3.08 220.7          9781426735820     Keck, Leander E.              2015 The Ne
 A3.09 220.7          9781426735813     Keck, Leander E.              2015 The New interpreter's bible commentary
 A3.10 220.7          9781426735790     Keck, Leander E.              2015 The New interpreter's bible commentary
 A3.11 220.7          9781426735783     Keck, Leander E.              2015 The New interpreter's bible commentary
-A3.12 266.394                          Cottier, J & J                None Missionary Memories
-A3.13 220.83067      9781909697836     Myles, Robert J.              2015 Sexuality, ideology and the Bible : Antipodean engagements
-A3.14 220.8412       9781592446926     Barr, James, 1924-2006        2004 The semantics of Biblical language
+A3.12 283.09031      9780198822325     Strong, Rowan                 2019 The Oxford history of Anglicanism
+A3.13 283.09031      9780198822332     Strong, Rowan                 2019 The Oxford history of Anglicanism
+A3.14 220.83067      9781909697836     Myles, Robert J.              2015 Sexuality, ideology and the Bible : Antipodean engagements
+A3.15 220.8412       9781592446926     Barr, James, 1924-2006        2004 The semantics of Biblical language
 A4.01 199.94         9781876492083     Franklin, James, 1953-        None Corrupting the youth : a history of philosophy in Australia
 A4.02 200            9780141046310     De Botton, Alain              2013 Religion for atheists : a non-believer's guide to the uses o
 A4.03 200            9780521566353     Lash, Nicholas                1996 The beginning and the end of 'religion'
@@ -199,32 +200,33 @@ B2.19 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuter
 B2.20 222.3506       9780334059837     Havea, Jione, 1965-           2021 Losing ground : reading Ruth in the Pacific
 B2.21 222.407                          Hertzberg, H. W.              1965 H W Hertzberg / First and Second Samuel A Commentary 1965
 B2.22 222.40924      9780907459125     Rost, Leonhard, 1896-1979     1982 The succession to the throne of David
-B3.01 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
-B3.02 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
-B3.03 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
-B3.04 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
-B3.05 223.1          9780300140750     Pope, Marvin H.               1965 Job
-B3.06 223.1          9781592446599     Terrien, Samuel L., 1911-2    2004 Job: poet of existence
-B3.07 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
-B3.08 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
-B3.09 223.106        9780883445525     Gutiérrez, Gustavo, 1928-     1987 On Job : God-talk and the suffering of the innocent
-B3.10 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
-B3.11 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
-B3.12 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
-B3.13 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
-B3.14 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
-B3.15 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
-B3.16 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
-B3.17 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
-B3.18 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
-B3.19 223.206        9780664258320     Anderson, Bernhard W.         2000 Out of the depths : the Psalms speak for us today
-B3.20 223.206        9780800618964     Miller, Patrick D.            1986 Interpreting the Psalms
-B3.21 223.206        9780804217927     Westermann, Claus             1981 Praise and lament in the Psalms
-B3.22 223.2061       9780800630430     Gunkel, Hermann, 1862-1932    1967 The Psalms : a form-critical introduction
-B3.23 223.20663      9780802802552     Gerstenberger, Erhard S.      1988 Psalms : with an introduction to cultic poetry : Part 1
-B3.24 223.207        9780551008465     Anderson, A. A. (Arnold Al    1972 The book of Psalms : based on the Revised Standard Version
-B3.25 223.207        9780806621203     Brueggemann, Walter           1985 The message of the Psalms : a theological commentary
-B3.26 223.207        9780802804884     Gerstenberger, Erhard S.      2001 Psalms : Part 2, and Lamentations
+B3.01 266.394                          Cottier, J & J                None Missionary Memories
+B3.02 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
+B3.03 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
+B3.04 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
+B3.05 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
+B3.06 223.1          9780300140750     Pope, Marvin H.               1965 Job
+B3.07 223.1          9781592446599     Terrien, Samuel L., 1911-2    2004 Job: poet of existence
+B3.08 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
+B3.09 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
+B3.10 223.106        9780883445525     Gutiérrez, Gustavo, 1928-     1987 On Job : God-talk and the suffering of the innocent
+B3.11 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
+B3.12 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
+B3.13 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
+B3.14 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
+B3.15 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
+B3.16 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
+B3.17 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
+B3.18 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
+B3.19 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job
+B3.20 223.206        9780664258320     Anderson, Bernhard W.         2000 Out of the depths : the Psalms speak for us today
+B3.21 223.206        9780800618964     Miller, Patrick D.            1986 Interpreting the Psalms
+B3.22 223.206        9780804217927     Westermann, Claus             1981 Praise and lament in the Psalms
+B3.23 223.2061       9780800630430     Gunkel, Hermann, 1862-1932    1967 The Psalms : a form-critical introduction
+B3.24 223.20663      9780802802552     Gerstenberger, Erhard S.      1988 Psalms : with an introduction to cultic poetry : Part 1
+B3.25 223.207        9780551008465     Anderson, A. A. (Arnold Al    1972 The book of Psalms : based on the Revised Standard Version
+B3.26 223.207        9780806621203     Brueggemann, Walter           1985 The message of the Psalms : a theological commentary
+B3.27 223.207        9780802804884     Gerstenberger, Erhard S.      2001 Psalms : Part 2, and Lamentations
 B4.01 223.6          9780891301790     Tsevat, Matitiahu             1955 A study of the language of the Biblical Psalms
 B4.02 223.806        9780802842923     Fox, Michael V., 1940-        1999 A time to tear down and a time to build up : a rereading of 
 B4.03 223.9052       9780907459071     Falk, Marcia                  1981 Love lyrics from the Bible : a translation and literary stud
@@ -397,11 +399,12 @@ C3.23 230.046        9780415196994     Milbank, John                 1998 Radica
 C3.24 230.0711       9780802878441     Jennings, Willie James, 19    2020 After whiteness : an education in belonging
 C3.25 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
 C3.26 230.082        9780367490805     Handasyde, Kerrie             2021 Contemporary feminist theologies : power, authority, love
-C3.27 230.082        9780827242401     Webb, Val                     1999 Why we're equal : introducing feminist theology
-C3.28 230.082        9781626980389     Williams, Delores S.          2013 Sisters in the wilderness : the challenge of womanist God-ta
-C3.29 230.08664      9781498218795     Tonstad, Linn Marie, 1978-    2018 Queer theology : beyond apologetics
-C3.30 230.088042     9781597525008     Fabella, Virginia             2006 With Passion and Compassion: Third World Women Doing Theolog
-C3.31 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
+C3.27 230.082        9781451484472     McRandal, Janice              2015 Christian doctrine and the grammar of difference : a contrib
+C3.28 230.082        9780827242401     Webb, Val                     1999 Why we're equal : introducing feminist theology
+C3.29 230.082        9781626980389     Williams, Delores S.          2013 Sisters in the wilderness : the challenge of womanist God-ta
+C3.30 230.08664      9781498218795     Tonstad, Linn Marie, 1978-    2018 Queer theology : beyond apologetics
+C3.31 230.088042     9781597525008     Fabella, Virginia             2006 With Passion and Compassion: Third World Women Doing Theolog
+C3.32 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
 C4.01 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
 C4.02 230.0902       9780631212034     Evans, G. R. (Gillian Rose    2001 The medieval theologians
 C4.03 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
@@ -542,7 +545,8 @@ D1.30 233.5          9780631210702     Rogers, Eugene F., Jr. (Eu    1999 Sexual
 D1.31 233.5          9780281079759     Williams, Rowan, 1950-        2018 Being human : bodies, minds, persons
 D1.32 234            9780722085189     Aumann, Jordan                1980 Spiritual theology
 D1.33 234            9780521426169     Ford, David F., 1948-         1999 Self and salvation : being transformed
-D1.34 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
+D1.34 234            9780830853229     Lindsay, Mark R., 1971-       2020 God has chosen : the doctrine of election through Christian 
+D1.35 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
 D2.01 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
 D2.02 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
 D2.03 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
@@ -752,12 +756,13 @@ D6.38 261            9780156177351     Eliot, T. S. (Thomas Stear    1977 Christ
 D6.39 261            9781570756665     Kavanaugh, John F.            2006 Following Christ in a consumer society : the spirituality of
 D6.40 261.1          9780883444009     Balasuriya, Tissa             1984 Planetary theology
 D6.41 261.2          9780192830111     Neill, Stephen, 1900-1984     1970 Christian faith and other faiths; : the Christian dialogue w
-D6.42 261.26         9780809139316     Boys, Mary C.                 2000 Has God only one blessing? : Judaism as a source of Christia
-D6.43 261.26         9780061137785     Levine, Amy-Jill, 1956-       2007 The misunderstood Jew : the Church and the scandal of the Je
-D6.44 261.2609       9780618219087     Carroll, James, 1943-         2002 Constantine's sword : the church and the Jews : a history
-D6.45 261.27         9780879072476     Salenson, Christian           2012 Christian de Chergé : a theology of hope
-D6.46 261.55         9780857465795                                   None Messy church does science : 100 sizzling science-based ideas
-D6.47 261.57         9780953575770     Brand, Hilary                 2014 Art and soul : signposts for Christians in the arts
+D6.42 261.21         9780232514940     Lash, Nicholas                1981 A matter of hope : a theologian's reflections on the thought
+D6.43 261.26         9780809139316     Boys, Mary C.                 2000 Has God only one blessing? : Judaism as a source of Christia
+D6.44 261.26         9780061137785     Levine, Amy-Jill, 1956-       2007 The misunderstood Jew : the Church and the scandal of the Je
+D6.45 261.2609       9780618219087     Carroll, James, 1943-         2002 Constantine's sword : the church and the Jews : a history
+D6.46 261.27         9780879072476     Salenson, Christian           2012 Christian de Chergé : a theology of hope
+D6.47 261.55         9780857465795                                   None Messy church does science : 100 sizzling science-based ideas
+D6.48 261.57         9780953575770     Brand, Hilary                 2014 Art and soul : signposts for Christians in the arts
 E1.01 261.6          9780061300035     Niebuhr, Helmut Richard 18    1975 Christ and culture
 E1.02 261.7                            Crossan, John Dominic         2009 God and Empire: Jesus Against Rome, Then and Now
 E1.03 261.70994      9780908284740     Edwards, Benjamin, 1978-      2008 Wasps, tykes and ecumaniacs : aspects of Australian sectaria
@@ -1228,33 +1233,34 @@ G4.37 811.6          9781925713886     Headley, Maria Dahvana, 19    None Beowul
 G5.01 811.6080353    9781635863864     Crews, James, 1980-           2021 How to love the world : poems of gratitude and hope
 G5.02 812.6          9780571211012     Guirgis, Stephen Adly         2005 The last days of Judas Iscariot
 G5.03 813            9780008433802     Kim, Bo Young                 None I'm waiting for you : and other stories
-G5.04 813.087608     9780441054992     McCarthy, Shawna              1990 Isaac Asimov's Fantasy!
-G5.05 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
-G5.06 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
-G5.07 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
-G5.08 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
-G5.09 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
-G5.10 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
-G5.11 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
-G5.12 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
-G5.13 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
-G5.14 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
-G5.15 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
-G5.16 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
-G5.17 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
-G5.18 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-G5.19 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-G5.20 813.54         9780008117498     Asimov, Isaac, 1920-1992      2016 Foundation
-G5.21 813.54         9780586071106     Asimov, Isaac, 1920-1992      1994 Foundation and earth
-G5.22 813.54         9780586013557     Asimov, Isaac, 1920-1992      1988 Foundation and empire
-G5.23 813.54         9780586058398     Asimov, Isaac, 1920-1992      1990 Foundation's edge
-G5.24 813.54         9780586025321     Asimov, Isaac, 1920-1992      2004 I, robot
-G5.25 813.54         9780586062005     Asimov, Isaac, 1920-1992      1993 Robots and empire
-G5.26 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
+G5.04 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
+G5.05 813.087608     9780441054992     McCarthy, Shawna              1990 Isaac Asimov's Fantasy!
+G5.06 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
+G5.07 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
+G5.08 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
+G5.09 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
+G5.10 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
+G5.11 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
+G5.12 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
+G5.13 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
+G5.14 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
+G5.15 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
+G5.16 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
+G5.17 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
+G5.18 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
+G5.19 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+G5.20 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+G5.21 813.54         9780008117498     Asimov, Isaac, 1920-1992      2016 Foundation
+G5.22 813.54         9780586071106     Asimov, Isaac, 1920-1992      1994 Foundation and earth
+G5.23 813.54         9780586013557     Asimov, Isaac, 1920-1992      1988 Foundation and empire
+G5.24 813.54         9780586058398     Asimov, Isaac, 1920-1992      1990 Foundation's edge
+G5.25 813.54         9780586025321     Asimov, Isaac, 1920-1992      2004 I, robot
+G5.26 813.54         9780586062005     Asimov, Isaac, 1920-1992      1993 Robots and empire
 G5.27 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
-G5.28 813.54         9780722112571     Asimov, Isaac, 1920-1992      1977 The best of Isaac Asimov
-G5.29 813.54         9780586008355     Asimov, Isaac, 1920-1992      1993 The caves of steel
-G5.30 813.54         9780575129054     Asimov, Isaac, 1920-1992      2013 The gods themselves
+G5.28 813.54         9780586017135     Asimov, Isaac, 1920-1992      1988 Second foundation
+G5.29 813.54         9780722112571     Asimov, Isaac, 1920-1992      1977 The best of Isaac Asimov
+G5.30 813.54         9780586008355     Asimov, Isaac, 1920-1992      1993 The caves of steel
+G5.31 813.54         9780575129054     Asimov, Isaac, 1920-1992      2013 The gods themselves
 G6.01 813.54         9780330328111     Asimov, Isaac, 1920-1992      1993 The positronic man
 G6.02 813.54         9780586061992     Asimov, Isaac, 1920-1992      1985 The robots of dawn
 G6.03 813.54         9780765319159     Asimov, Isaac, 1920-1992      2009 The stars, like dust
@@ -1333,15 +1339,16 @@ H2.13 813.54         9780141190563     Potok, Chaim                  2009 My nam
 H2.14 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
 H2.15 813.54         9781400095414     Potok, Chaim                  2011 The promise
 H2.16 813.54         9781857236187     Powers, Tim, 1952-            1998 The Anubis gates
-H2.17 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
-H2.18 813.54         9780553573350     Robinson, Kim Stanley         1997 Blue Mars
-H2.19 813.54         9780553572391     Robinson, Kim Stanley         1995 Green mars
-H2.20 813.54         9780356508788     Robinson, Kim Stanley         2018 New York 2140
-H2.21 813.54         9780553560732     Robinson, Kim Stanley         1993 Red Mars
-H2.22 813.54         9780553574012     Robinson, Kim Stanley         2000 The Martians
-H2.23 813.54         9780006482567     Robinson, Kim Stanley         1999 The memory of whiteness : a scientific romance
-H2.24 813.54         9780356508849     Robinson, Kim Stanley         2020 The ministry for the future
-H2.25 813.54         9780006480198     Robinson, Kim Stanley         1995 The wild shore
+H2.17 813.54         9781529100778     Reid, Ava                     2022 Juniper & Thorn
+H2.18 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
+H2.19 813.54         9780553573350     Robinson, Kim Stanley         1997 Blue Mars
+H2.20 813.54         9780553572391     Robinson, Kim Stanley         1995 Green mars
+H2.21 813.54         9780356508788     Robinson, Kim Stanley         2018 New York 2140
+H2.22 813.54         9780553560732     Robinson, Kim Stanley         1993 Red Mars
+H2.23 813.54         9780553574012     Robinson, Kim Stanley         2000 The Martians
+H2.24 813.54         9780006482567     Robinson, Kim Stanley         1999 The memory of whiteness : a scientific romance
+H2.25 813.54         9780356508849     Robinson, Kim Stanley         2020 The ministry for the future
+H2.26 813.54         9780006480198     Robinson, Kim Stanley         1995 The wild shore
 H3.01 813.54         9780807062999     Russ, Joanna, 1937-2011       2000 The female man
 H3.02 813.54         9780552998116     Russell, Mary Doria, 1950-    1999 Children of God : a novel
 H3.03 813.54         9780356518848     Sagan, Carl, 1934-1996        2022 Contact : a novel
@@ -1790,7 +1797,7 @@ J6.10 994.11         9780980348132     Nevill, Simon J.              2007 Perth 
 J6.11 994.11042      9780646191249     Gervas, Stan                  1994 The way we were : Perth in the 1930's
 J6.12 994.12         9780731694440     Cresswell, Gail J             1990 The light of Leeuwin
 J6.13 994.12004      9781921401428     Host, John T. (John Thomas    2009 'It's still in my heart this is my country' : the single Noo
-J6.14                                                                1813 A Matter of Hope by Lash Nicholas (1982-05-01) Hardcover
+J6.14 994.2          9780733342448     Copley, Vince                 2022 The Wonder of Little Things
 J6.15                                                                1833 Essays on Old Testament History and Religion by ALT (1966-02
 J6.16                                                                1836 Story of Israel Between Settlement and Exile: A Redactional 
 J6.17                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
@@ -2089,10 +2096,11 @@ W1.51 641.25209946   9780980450811     Kudelka, Jon,                 2014 Kudelk
 W1.52 641.3383       9780300151350     Freedman, Paul, 1949-         2009 Out of the East : spices and the medieval imagination
 W1.53 641.5          9781846147500     Pollan, Michael               None Cooked : a natural history of transformation
 W1.54 641.56362      9781922417572     Kidd, Sara (Baker)            2022 The vegan cake bible : the definitive guide to baking, build
-W1.55 641.815        9780399578847     Robertson, Chad               2021 Bread book : ideas and innovations from the future of grain,
-W1.56 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
-W1.57 658.3          9781107664852     Teicher, Julian               2013 Australian workplace relations
-W1.58 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
+W1.55 641.5952       9781922616289                                   None Japanese Home Cooking
+W1.56 641.815        9780399578847     Robertson, Chad               2021 Bread book : ideas and innovations from the future of grain,
+W1.57 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
+W1.58 658.3          9781107664852     Teicher, Julian               2013 Australian workplace relations
+W1.59 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
 Y1.01 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
 Y1.02 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
 Y1.03 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
