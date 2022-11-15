@@ -113,6 +113,9 @@
         { "isbn": "9781426735837", "bookshelf": "A", "shelf": 3 },
         { "isbn": "9780198822325", "bookshelf": "A", "shelf": 3 },
         { "isbn": "9780198822332", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9780198822295", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9780198822318", "bookshelf": "A", "shelf": 3 },
+        { "isbn": "9780198822301", "bookshelf": "A", "shelf": 3 },
 
         { "title": "Missionary Memories", "bookshelf": "B", "shelf": 3 },
 
