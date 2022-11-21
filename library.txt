@@ -1275,79 +1275,47 @@ G5.28 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing
 G5.29 813.54         9780345324481     Bradbury, Ray, 1920-2012      1985 The October country
 G5.30 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
 G5.31 813.54         9781857233858     Brin, David                   1996 Brightness reef
-G5.32 813.54         9781472281074     Butler, Octavia E.            2022 Adulthood rites : xenogenesis
-G5.33 813.54         9781583226988     Butler, Octavia E.            2005 Bloodchild and other stories
-G5.34 813.54         9781472281029     Butler, Octavia E.            2021 Clay's ark
-G5.35 813.54         9781472281067     Butler, Octavia E.            2022 Dawn : xenogenesis
-G5.36 813.54         9781472281081     Butler, Octavia E.            2022 Imago
-G5.37 813.54         9781472258229     Butler, Octavia E.            2018 Kindred
-G5.38 813.54         9781472263667     Butler, Octavia E.            2019 Parable of the sower
-G5.39 813.54         9781472263650     Butler, Octavia E.            2019 Parable of the talents : a novel
-G5.40 813.54         9781472281043     Butler, Octavia E.            None Patternmaster
-G5.41 813.54         9781472280992     Butler, Octavia E.            2021 Wild seed
-G5.42 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
-G5.43 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
-G5.44 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
-G5.45 813.54         9780434021055     Coupland, Douglas             2010 Player One : what is to become of us : a novel in five hours
-G5.46 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
-H1.01 813.54         9780679752981     Dick, Philip K.               1994 A maze of death
-H1.02 813.54         9781857988475     Dick, Philip K.               1999 A scanner darkly
-H1.03 813.54         9781780220413     Dick, Philip K.               2012 Flow my tears, the policeman said
-H1.04 813.54         9780575074552     Dick, Philip K.               2003 Solar lottery
-H1.05 813.54         9780575076709     Dick, Philip K.               2006 The cosmic puppets
-H1.06 813.54         9780547877327     Dick, Philip K.               2012 The game-players of Titan
-H1.07 813.54         9780141186672     Dick, Philip K.               2010 The man in the high castle
-H1.08 813.54         9781857988536     Dick, Philip K.               2000 Ubik
-H1.09 813.54         9780575081727     Egan, Greg, 1961-             2008 Quarantine
-H1.10 813.54         9780747263746     Gaiman, Neil                  2002 American gods : a novel
-H1.11 813.54         9780241237229     Gibson, William, 1948-        2020 Agency
-H1.12 813.54         9780006480419     Gibson, William, 1948-        1995 Neuromancer
-H1.13 813.54         9780140266146     Gibson, William, 1948-        2010 Pattern recognition
-H1.14 813.54         9780141016719     Gibson, William, 1948-        2008 Spook country
-H1.15 813.54         9780670919550     Gibson, William, 1948-        2011 Zero history
-H1.16 813.54         9780747545187     Goldman, William, 1931-201    1999 The princess bride: S. Morgenstern's classic tale of true lo
-H1.17 813.54         9780141029542     Hamid, Mohsin, 1971-          2008 The reluctant fundamentalist
-H1.18 813.54         9780575120723     Heinlein, Robert A. (Rober    2001 The door into summer
-H1.19 813.54         9780450051272     Heinlein, Robert A. (Rober    1981 The number of the beast
-H1.20 813.54         9780099470465     Heller, Joseph, 1923-1999     2004 Catch-22 : a novel
-H1.21 813.54         9781784872786     Heller, Joseph, 1923-1999,    2017 WORK
-H1.22 813.54         9780340960196     Herbert, Frank                2015 Dune. House Harkonnen
-H1.23 813.54         9780450424052     Herbert, Frank                1988 Eye
-H1.24 813.54         9780450012297     Herbert, Frank.               1969 Dune Messiah
-H1.25 813.54         9780241485729     Hoban, Russell                2021 The Medusa frequency
-H1.26 813.54         9780007232192     Hunt, Stephen, 1967-          2007 The Court of the Air
-H1.27 813.54         9780141184883     Kerouac, Jack 1922-1969       2000 The Dharma bums
-H1.28 813.54         9780141187884     Kesey, Ken                    2005 One flew over the cuckoo's nest : a novel
-H1.29 813.54         9781473223547     Le Guin, Ursula K., 1929-2    2018 The books of Earthsea
-H1.30 813.54         9781473228412     Le Guin, Ursula K., 1929-2    2019 The dispossessed : a novel
-H1.31 813.54         9781473234178     Le Guin, Ursula K., 1929-2    2021 The lathe of heaven
-H1.32 813.54         9780441478125     Le Guin, Ursula K., 1929-2    1987 The left hand of darkness
-H2.01 813.54         9781473205765     Le Guin, Ursula K., 1929-2    2001 The wind's twelve quarters and the compass rose
-H2.02 813.54         9781473230989     Le Guin, Ursula K., 1929-2    2020 Worlds of exile and illusion
-H2.03 813.54         9780434020485     Lee, Harper, 1926-            2010 To kill a mockingbird
-H2.04 813.54         9780099283928     MacLeod, Alistair             2006 No great mischief
-H2.05 813.54         9781472203199     McDevitt, Jack                2001 The engines of God
-H2.06 813.54         9780553273816     Miller, Walter M., Jr., 19    1984 A Canticle for Leibowitz
-H2.07 813.54         9780553380798     Miller, Walter M., Jr., 19    2000 Saint Leibowitz and the wild horse woman
-H2.08 813.54         9781857238815     Moon, Elizabeth               1999 Hunting party
-H2.09 813.54         9780575076525     Morgan, Richard K., 1965-     2005 Woken furies
-H2.10 813.54         9780575077027     Niven, Larry                  2005 Ringworld
-H2.11 813.54         9780544309760     O'Brien, Tim                  2009 The Things They Carried
-H2.12 813.54         9781785033780     Piercy, Marge                 2016 Woman on the edge of time
-H2.13 813.54         9780141190563     Potok, Chaim                  2009 My name is Asher Lev
-H2.14 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
-H2.15 813.54         9781400095414     Potok, Chaim                  2011 The promise
-H2.16 813.54         9781857236187     Powers, Tim, 1952-            1998 The Anubis gates
-H2.17 813.54         9781529100778     Reid, Ava                     2022 Juniper & Thorn
-H2.18 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
-H2.19 813.54         9780553573350     Robinson, Kim Stanley         1997 Blue Mars
-H2.20 813.54         9780553572391     Robinson, Kim Stanley         1995 Green mars
-H2.21 813.54         9780356508788     Robinson, Kim Stanley         2018 New York 2140
-H2.22 813.54         9780553560732     Robinson, Kim Stanley         1993 Red Mars
-H2.23 813.54         9780553574012     Robinson, Kim Stanley         2000 The Martians
-H2.24 813.54         9780006482567     Robinson, Kim Stanley         1999 The memory of whiteness : a scientific romance
-H2.25 813.54         9780356508849     Robinson, Kim Stanley         2020 The ministry for the future
-H2.26 813.54         9780006480198     Robinson, Kim Stanley         1995 The wild shore
+G5.32 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
+G5.33 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
+G5.34 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
+G5.35 813.54         9780434021055     Coupland, Douglas             2010 Player One : what is to become of us : a novel in five hours
+G5.36 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
+G5.37 813.54         9780575081727     Egan, Greg, 1961-             2008 Quarantine
+G5.38 813.54         9780747263746     Gaiman, Neil                  2002 American gods : a novel
+G5.39 813.54         9780241237229     Gibson, William, 1948-        2020 Agency
+G5.40 813.54         9780006480419     Gibson, William, 1948-        1995 Neuromancer
+G5.41 813.54         9780140266146     Gibson, William, 1948-        2010 Pattern recognition
+G5.42 813.54         9780141016719     Gibson, William, 1948-        2008 Spook country
+G5.43 813.54         9780670919550     Gibson, William, 1948-        2011 Zero history
+G5.44 813.54         9780747545187     Goldman, William, 1931-201    1999 The princess bride: S. Morgenstern's classic tale of true lo
+G5.45 813.54         9780141029542     Hamid, Mohsin, 1971-          2008 The reluctant fundamentalist
+G5.46 813.54         9780575120723     Heinlein, Robert A. (Rober    2001 The door into summer
+G5.47 813.54         9780450051272     Heinlein, Robert A. (Rober    1981 The number of the beast
+G5.48 813.54         9780099470465     Heller, Joseph, 1923-1999     2004 Catch-22 : a novel
+G5.49 813.54         9781784872786     Heller, Joseph, 1923-1999,    2017 WORK
+G5.50 813.54         9780340960196     Herbert, Frank                2015 Dune. House Harkonnen
+G5.51 813.54         9780450424052     Herbert, Frank                1988 Eye
+G5.52 813.54         9780450012297     Herbert, Frank.               1969 Dune Messiah
+G5.53 813.54         9780241485729     Hoban, Russell                2021 The Medusa frequency
+G5.54 813.54         9780007232192     Hunt, Stephen, 1967-          2007 The Court of the Air
+G5.55 813.54         9780141184883     Kerouac, Jack 1922-1969       2000 The Dharma bums
+G5.56 813.54         9780141187884     Kesey, Ken                    2005 One flew over the cuckoo's nest : a novel
+G5.57 813.54         9780434020485     Lee, Harper, 1926-            2010 To kill a mockingbird
+G5.58 813.54         9780099283928     MacLeod, Alistair             2006 No great mischief
+G5.59 813.54         9781472203199     McDevitt, Jack                2001 The engines of God
+G5.60 813.54         9780553273816     Miller, Walter M., Jr., 19    1984 A Canticle for Leibowitz
+G5.61 813.54         9780553380798     Miller, Walter M., Jr., 19    2000 Saint Leibowitz and the wild horse woman
+G5.62 813.54         9781857238815     Moon, Elizabeth               1999 Hunting party
+G5.63 813.54         9780575076525     Morgan, Richard K., 1965-     2005 Woken furies
+G5.64 813.54         9780575077027     Niven, Larry                  2005 Ringworld
+G5.65 813.54         9780544309760     O'Brien, Tim                  2009 The Things They Carried
+G5.66 813.54         9781785033780     Piercy, Marge                 2016 Woman on the edge of time
+G5.67 813.54         9780141190563     Potok, Chaim                  2009 My name is Asher Lev
+G5.68 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
+G5.69 813.54         9781400095414     Potok, Chaim                  2011 The promise
+G5.70 813.54         9781857236187     Powers, Tim, 1952-            1998 The Anubis gates
+G5.71 813.54         9781529100778     Reid, Ava                     2022 Juniper & Thorn
+G5.72 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
 H3.01 813.54         9780807062999     Russ, Joanna, 1937-2011       2000 The female man
 H3.02 813.54         9780552998116     Russell, Mary Doria, 1950-    1999 Children of God : a novel
 H3.03 813.54         9780356518848     Sagan, Carl, 1934-1996        2022 Contact : a novel
@@ -1356,30 +1324,14 @@ H3.05 813.54         9780441010752     Schmitz, James H., 1911-19    1982 Agent 
 H3.06 813.54                           Selby, Hubert, Jr.            2001 Last Exit To Brooklyn
 H3.07 813.54         9780141195667     Selby, Hubert, Jr., 1928-2    2012 Requiem for a dream : a novel
 H3.08 813.54         9780575038219     Sturgeon, Theodore            1986 More than human
-H3.09 813.54         9780575078581     Sutin, Lawrence, 1951-        2006 Divine invasions : a life of Philip K. Dick
-H3.10 813.54         9781250769848     Tolmie, Sarah                 2020 The fourth island
-H3.11 813.54         9780008375331     VanderMeer, Jeff              2019 Dead astronauts
-H3.12 813.54         9780008299323     VanderMeer, Jeff              None Hummingbird salamander
-H3.13 813.54         9781473211957     Vinge, Vernor                 2016 A fire upon the deep
-H3.14 813.54         9781857981193     Vinge, Vernor                 1993 Across realtime
-H3.15 813.54         9780008264338     Vonnegut, Kurt                2019 Bluebeard
-H3.16 813.54         9780099842606     Vonnegut, Kurt                2009 Breakfast of champions, or, Goodbye blue Monday!
-H3.17 813.54         9780141045443     Vonnegut, Kurt                2009 Cat's cradle
-H3.18 813.54         9780008264321     Vonnegut, Kurt                2019 Deadeye Dick
-H3.19 813.54         9780586090459     Vonnegut, Kurt                2019 Galápagos : a novel
-H3.20 813.54         9780099842804     Vonnegut, Kurt                1992 God bless you, Mr. Rosewater : or, Pearls before swine
-H3.21 813.54         9780099877103     Vonnegut, Kurt                1991 Hocus pocus
-H3.22 813.54         9780385333900     Vonnegut, Kurt                1999 Jailbird : a novel
-H3.23 813.54         9780385334143     Vonnegut, Kurt                1999 Mother night
-H3.24 813.54         9780385333788     Vonnegut, Kurt                1999 Player piano
-H3.25 813.54         9780099842705     Vonnegut, Kurt                1991 Slapstick, or, Lonesome no more! : a novel
-H3.26 813.54         9780440180296     Vonnegut, Kurt                1991 Slaughterhouse-five : or, The children's crusade, a duty-dan
-H3.27 813.54         9780385333498     Vonnegut, Kurt                1998 The sirens of Titan
-H3.28 813.54         9780099267546     Vonnegut, Kurt                1998 Timequake
-H3.29 813.54         9788129115546     Vonnegut, Kurt                2011 While Mortals Sleep
-H3.30 813.54         9781474607254     Walker, Alice, 1944-          2017 The color purple : a novel
-H3.31 813.54         9780812566628     Wilson, Robert Charles, 19    1999 Darwinia
-H3.32 813.54         9780575132306     Womack, Jack                  2013 Random acts of senseless violence
+H3.09 813.54         9781250769848     Tolmie, Sarah                 2020 The fourth island
+H3.10 813.54         9780008375331     VanderMeer, Jeff              2019 Dead astronauts
+H3.11 813.54         9780008299323     VanderMeer, Jeff              None Hummingbird salamander
+H3.12 813.54         9781473211957     Vinge, Vernor                 2016 A fire upon the deep
+H3.13 813.54         9781857981193     Vinge, Vernor                 1993 Across realtime
+H3.14 813.54         9781474607254     Walker, Alice, 1944-          2017 The color purple : a novel
+H3.15 813.54         9780812566628     Wilson, Robert Charles, 19    1999 Darwinia
+H3.16 813.54         9780575132306     Womack, Jack                  2013 Random acts of senseless violence
 H4.01 813.6          9781785650550     Anders, Charlie Jane          2016 All the birds in the sky
 H4.02 813.6          9781789091618     Anders, Charlie Jane          2019 The city in the middle of the night
 H4.03 813.6          9781789094725     Anders, Charlie Jane          2021 Victories greater than death
@@ -1444,29 +1396,27 @@ H6.05 813.6          9780553418026     Weir, Andy                    2014 The Ma
 H6.06 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
 H6.07 813.6          9781529101478     Zahn, Timothy                 2021 Greater good
 H6.08 813.6          9781784744656     Zevin, Gabrielle              None Tomorrow, and tomorrow, and tomorrow : a novel
-H6.09 813.914        9781857989120     Dick, Philip K.               2000 Three early novels
-H6.10 814.54         9780241339725     Lorde, Audre                  2018 The master's tools will never dismantle the master's house
-H6.11 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
-H6.12 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
-H6.13 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
-H6.14 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
-H6.15 818.54         9780099524083     Vonnegut, Kurt                2009 Armageddon in retrospect : and other new and unpublished wri
-H6.16 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
-H6.17 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
-H6.18 821.008        9780956688446     Hodges, David                 None Deep Unto Deep
-H6.19 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
-H6.20 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
-H6.21 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
-H6.22 821.1          9780199599028     Chaucer, Geoffrey, -1400      2011 The Canterbury tales
-H6.23 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
-H6.24 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
-H6.25 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
-H6.26 821.4          9781760801182     Rhook, Nadia,                 None Boots
-H6.27 821.408        9780140420388     Gardner, Helen, 1908-1986     1960 The metaphysical poets;
-H6.28 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
-H6.29 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
-H6.30 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
-H6.31 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
+H6.09 814.54         9780241339725     Lorde, Audre                  2018 The master's tools will never dismantle the master's house
+H6.10 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
+H6.11 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
+H6.12 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
+H6.13 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
+H6.14 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
+H6.15 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
+H6.16 821.008        9780956688446     Hodges, David                 None Deep Unto Deep
+H6.17 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
+H6.18 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
+H6.19 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
+H6.20 821.1          9780199599028     Chaucer, Geoffrey, -1400      2011 The Canterbury tales
+H6.21 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
+H6.22 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
+H6.23 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
+H6.24 821.4          9781760801182     Rhook, Nadia,                 None Boots
+H6.25 821.408        9780140420388     Gardner, Helen, 1908-1986     1960 The metaphysical poets;
+H6.26 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
+H6.27 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
+H6.28 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
+H6.29 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
 I1.01 821.914        9781800171619     Tóibín, Colm, 1955-           2022 Vinegar Hill
 I1.02 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
 I1.03 821.92         9781760991654     Bateman, Bron, 1964-          2022 BLUE WREN
@@ -1569,18 +1519,14 @@ I3.32 823.914        9780330301626     Adams, Douglas, 1952-2001     1988 Dirk G
 I4.01 823.914        9780330309554     Adams, Douglas, 1952-2001,    1989 The long dark tea-time of the soul
 I4.02 823.914        9780140306019     Adams, Richard (1920- )       2000 Watership Down
 I4.03 823.914        9780586049969     Aldiss, Brian W. (Brian Wi    1985 Enemies of the system : a tale of homo uniformis
-I4.04 823.914        9780330023122     Clarke, Arthur C              1969 A fall of moondust
-I4.05 823.914        9780151879809     Clarke, Arthur C              1962 Tales of ten worlds
-I4.06 823.914        9780586056998     Clarke, Arthur C. (Arthur     1985 2010 : odyssey two
-I4.07 823.914        9780330240246     Clarke, Arthur C. (Arthur     1974 Rendezvous with Rama
-I4.08 823.914        9780140156829     Dahl, Roald                   1992 Boy : tales of childhood
-I4.09 823.914        9780141037578     Dahl, Roald, 1916-1990        2008 Roald Dahl's tales of the unexpected
-I4.10 823.914        9780671855673     Elton, Ben                    1997 Popcorn
-I4.11 823.914        9780241984994     Evaristo, Bernardine, 1959    2020 Girl, woman, other
-I4.12 823.914        9781473227835     Gaiman, Neil                  2019 Good omens : the nice and accurate prophecies of Agnes Nutte
-I4.13 823.914        9788172236137     Ghosh, Amitav                 2008 The hungry tide
-I4.14 823.914        9781405088817     Hamilton, Peter F.            2007 The dreaming void
-I4.15 823.914        9780450588853     Herbert, James, 1943-2013     1993 Portent
+I4.04 823.914        9780140156829     Dahl, Roald                   1992 Boy : tales of childhood
+I4.05 823.914        9780141037578     Dahl, Roald, 1916-1990        2008 Roald Dahl's tales of the unexpected
+I4.06 823.914        9780671855673     Elton, Ben                    1997 Popcorn
+I4.07 823.914        9780241984994     Evaristo, Bernardine, 1959    2020 Girl, woman, other
+I4.08 823.914        9781473227835     Gaiman, Neil                  2019 Good omens : the nice and accurate prophecies of Agnes Nutte
+I4.09 823.914        9788172236137     Ghosh, Amitav                 2008 The hungry tide
+I4.10 823.914        9781405088817     Hamilton, Peter F.            2007 The dreaming void
+I4.11 823.914        9780450588853     Herbert, James, 1943-2013     1993 Portent
 I5.01 823.914        9780141037356     Hornby, Nick                  2008 High fidelity
 I5.02 823.914        9780571342211     James, P. D.                  2018 The children of men
 I5.03 823.914        9780571209293     Kureishi, Hanif, 1954-        2002 Gabriel's gift : a novel
@@ -1909,103 +1855,157 @@ U1.14 813.54         9780330328111     Asimov, Isaac, 1920-1992      1993 The po
 U1.15 813.54         9780586061992     Asimov, Isaac, 1920-1992      1985 The robots of dawn
 U1.16 813.54         9780765319159     Asimov, Isaac, 1920-1992      2009 The stars, like dust
 U1.17 813.54         9780006482215     Baxter, Stephen               1996 Ring
-U1.18 813.54         9781843549161     Stephenson, Neal              2008 Anathem
-U1.19 813.54         9780099410676     Stephenson, Neal              2000 Cryptonomicon
-U1.20 813.54         9781460752128     Stephenson, Neal              None Fall; or, Dodge in hell : a novel
-U1.21 813.54         9780553383430     Stephenson, Neal              2005 Interface
-U1.22 813.54         9780140232929     Stephenson, Neal              1994 Snow crash
-U1.23 813.54         9781460759264     Stephenson, Neal              None Termination shock : a novel
-U1.24 813.54         9780380816033     Stephenson, Neal              2001 The big U
-U1.25 813.54         9780099478850     Stephenson, Neal              2006 The cobweb
-U1.26 813.54         9780099410690     Stephenson, Neal              2005 The confusion
-U1.27 813.54         9780553380965     Stephenson, Neal              2000 The diamond age
-U1.28 813.54         9780099463368     Stephenson, Neal              2005 The system of the world
-U1.29 813.54         9780802143150     Stephenson, Neal              2007 Zodiac : the eco-thriller
-U1.30 813.54         9781848874510     Stephenson, Neal (1959- )     2012 Reamde
-U1.31 813.54         9780099410683     Stephenson, Neal,             2004 Quicksilver
-U1.32 813.54         9780008132514     Stephenson, Neal,             None Seveneves
-U1.33 813.6          9781841499932     Corey, James S. A.            2014 Abaddon's Gate
-U1.34 813.6          9780356504292     Corey, James S. A.            2017 Babylon's ashes
-U1.35 813.6          9781841499918     Corey, James S. A.            None Caliban's war
-U1.36 813.6          9780356504193     Corey, James S. A.            2015 Cibola burn
-U1.37 813.6          9780356510385     Corey, James S. A.            2021 Leviathan Falls
-U1.38 813.6          9781841499895     Corey, James S. A.            2012 Leviathan wakes
-U1.39 813.6          9780356517773     Corey, James S. A.            2022 Memory's Legion
-U1.40 813.6          9780356504254     Corey, James S. A.            2016 Nemesis games
-U1.41 813.6          9780356510323     Corey, James S. A.            2018 Persepolis rising
-U1.42 813.6          9780356510347     Corey, James S. A.            None Tiamat's wrath
-U1.43 813.6          9781612182377     Stephenson, Neal              2012 The Mongoliad (The Mongoliad Cycle)
-U1.44 813.6          9781612182384     Stephenson, Neal              2013 The Mongoliad : Book three
-U1.45 813.6          9780008132576     Stephenson, Neal,             2017 The rise and fall of D.O.D.O : a novel
-U1.46 820.8009       9780349103235     Banks, Iain, 1954-2013        1993 The crow road : a novel
-U1.47 821.1          9780008433932     Tolkien, J. R. R. 1892-197    2021 Sir Gawain and the Green Knight ; with Pearl ; and Sir Orfeo
-U1.48 821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
-U1.49 821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
-U1.50 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
-U1.51 821.9208       9781408705872     Banks, Iain, 1954-2013        2016 Poems
-U1.52 823.0876089282 9780583309868     Asimov, Isaac, 1920-1992      1986 Asimov's extraterrestrials
-U1.53 823.91         9780450020674     Asimov, Isaac, 1920-1992      1983 The moons of Jupiter
-U1.54 823.912        9780711241275     Garth, John, 1966-            2020 The worlds of J.R.R. Tolkien : the places that inspired Midd
-U1.55 823.912        9780008214227     Tolkien, J. R. R              2018 Beren and Lúthien
-U1.56 823.912        9780044403982     Tolkien, J. R. R              1989 The lost road and other writings : language and legend befor
-U1.57 823.912        9780008205539     Tolkien, J. R. R. (John Ro    2016 Leaf by niggle
-U1.58 823.912        9780048231888     Tolkien, J. R. R. (John Ro    1987 The hobbit, or, There and back again
-U1.59 823.912        9780261102354     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
-U1.60 823.912        9780261102361     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
-U1.61 823.912        9780261102378     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
-U1.62 823.912        9780008471286     Tolkien, J. R. R. (John Ro    None The lord of the rings
-U1.63 823.912        9780044401506     Tolkien, J. R. R. (John Ro    1988 The shaping of Middle-earth : the Quenta, the Ambarkanta, an
-U1.64 823.912        9780261102736     Tolkien, J. R. R. (John Ro    2013 The Silmarillion
-U1.65 823.912        9780261103566     Tolkien, J. R. R. (John Ro    2011 The Hobbit : the Lord of the Rings
-U1.66 823.912        9780008387921     Tolkien, J. R. R. (John Ro    2021 The nature of Middle-earth : late writings on the lands, inh
-U1.67 823.912        9780008302757     Tolkien, J. R. R., 1892-19    2018 The fall of Gondolin
-U1.68 823.912        9780048232083     Tolkien, J. R. R., 1892-19    1982 Unfinished tales of Númenor and Middle-earth
-U1.69 823.912        9780048233387     Tolkien, J.R.R                1986 The book of lost tales
-U1.70 823.912        9780048232816     Tolkien, J.R.R                1985 The book of lost tales
-U1.71 823.912        9780007252268     Tolkien, John Ronald Reuel    2008 Narn i chîn Húrin : the tale of the children of Húrin
-U1.72 823.912        9780008387952     Tolkien, John Ronald Reuel    2020 Unfinished tales of Númenor and Middle-earth
-U1.73 823.912        9780664226107     Wood, Ralph C.                2003 The gospel according to Tolkien : visions of the kingdom in 
-U1.74 823.914        9780007287024     Ballard, J. G                 2008 Crash
-U1.75 823.914        9780586089965     Ballard, J. G., 1930-2009     2008 The drought
-U1.76 823.914        9780007287048     Ballard, J. G., 1930-2009,    2008 Concrete island
-U1.77 823.914        9780007287031     Ballard, James Graham (193    2008 Hello America
-U1.78 823.914        9780008329754     Ballard, James Graham, 193    2019 Empire of the Sun : a novel
-U1.79 823.914        9780349110110     Banks, Iain, 1954-2013        1998 A song of stone : a novel
-U1.80 823.914        9781857231793     Banks, Iain, 1954-2013        1996 Against a dark background
-U1.81 823.914        9780349101712     Banks, Iain, 1954-2013        1990 Canal dreams
-U1.82 823.914        9780349139135     Banks, Iain, 1954-2013        2013 Complicity
-U1.83 823.914        9781857231380     Banks, Iain, 1954-2013        2003 Consider Phlebas
-U1.84 823.914        9780349116648     Banks, Iain, 1954-2013        2003 Dead air
-U1.85 823.914        9780349102146     Banks, Iain, 1954-2013        1990 Espedair Street
-U1.86 823.914        9781857234572     Banks, Iain, 1954-2013        1997 Excession
-U1.87 823.914        9781857232738     Banks, Iain, 1954-2013        1994 Feersum endjinn
-U1.88 823.914        9781857237634     Banks, Iain, 1954-2013        1999 Inversions
-U1.89 823.914        9781841490595     Banks, Iain, 1954-2013        2001 Look to windward
-U1.90 823.914        9781841494197     Banks, Iain, 1954-2013        2009 Matter
-U1.91 823.914        9781408702512     Banks, Iain, 1954-2013        2012 Stonemouth
-U1.92 823.914        9781841498942     Banks, Iain, 1954-2013        2010 Surface detail
-U1.93 823.914        9781841492292     Banks, Iain, 1954-2013        2005 The algebraist
-U1.94 823.914        9780708883037     Banks, Iain, 1954-2013        1989 The bridge
-U1.95 823.914        9780349139227     Banks, Iain, 1954-2013        2013 The business : a novel
-U1.96 823.914        9780356501512     Banks, Iain, 1954-2013        2012 The hydrogen sonata
-U1.97 823.914        9781857231465     Banks, Iain, 1954-2013        1992 The player of games
-U1.98 823.914        9780349138596     Banks, Iain, 1954-2013        2001 The quarry
-U1.99 823.914        9781857230307     Banks, Iain, 1954-2013        1993 The state of the art
-U1.100 823.914        9780349119281     Banks, Iain, 1954-2013        2012 The steep approach to Garbadale
-U1.101 823.914        9780349101774     Banks, Iain, 1954-2013        1992 The wasp factory : a novel
-U1.102 823.914        9780349119274     Banks, Iain, 1954-2013        2010 Transition
-U1.103 823.914        9781857231359     Banks, Iain, 1954-2013        1992 Use of weapons
-U1.104 823.914        9780349139203     Banks, Iain, 1954-2013        2013 Walking on glass
-U1.105 823.914        9780349107684     Banks, Iain, 1954-2013        1996 Whit, or Isis amongst the unsaved
-U1.106 823.914        9780575075535     Baxter, Stephen               2004 Coalescent
-U1.107 823.914        9780575076556     Baxter, Stephen               2005 Exultant
-U1.108 823.914        9780575084827     Baxter, Stephen               2008 Flood
-U1.109 823.914        9780006511830     Baxter, Stephen               2001 Space
-U1.110 823.914        9781473205109     Baxter, Stephen               None The massacre of mankind : sequel to The war of the worlds
-U1.111 823.914        9780006511823     Baxter, Stephen               2000 Time
-U1.112 823.914        9780002246934     Baxter, Stephen               1998 Traces
-U1.113 823.914        9780006498124     Baxter, Stephen               1998 Vacuum diagrams : stories of the xeelee sequence
-U1.114 823.914        9780006480372     Baxter, Stephen               1997 Voyage
+U1.18 813.54         9781472281074     Butler, Octavia E.            2022 Adulthood rites : xenogenesis
+U1.19 813.54         9781583226988     Butler, Octavia E.            2005 Bloodchild and other stories
+U1.20 813.54         9781472281029     Butler, Octavia E.            2021 Clay's ark
+U1.21 813.54         9781472281067     Butler, Octavia E.            2022 Dawn : xenogenesis
+U1.22 813.54         9781472281081     Butler, Octavia E.            2022 Imago
+U1.23 813.54         9781472258229     Butler, Octavia E.            2018 Kindred
+U1.24 813.54         9781472263667     Butler, Octavia E.            2019 Parable of the sower
+U1.25 813.54         9781472263650     Butler, Octavia E.            2019 Parable of the talents : a novel
+U1.26 813.54         9781472281043     Butler, Octavia E.            None Patternmaster
+U1.27 813.54         9781472280992     Butler, Octavia E.            2021 Wild seed
+U1.28 813.54         9780679752981     Dick, Philip K.               1994 A maze of death
+U1.29 813.54         9781857988475     Dick, Philip K.               1999 A scanner darkly
+U1.30 813.54         9781780220413     Dick, Philip K.               2012 Flow my tears, the policeman said
+U1.31 813.54         9780575074552     Dick, Philip K.               2003 Solar lottery
+U1.32 813.54         9780575076709     Dick, Philip K.               2006 The cosmic puppets
+U1.33 813.54         9780547877327     Dick, Philip K.               2012 The game-players of Titan
+U1.34 813.54         9780141186672     Dick, Philip K.               2010 The man in the high castle
+U1.35 813.54         9781857988536     Dick, Philip K.               2000 Ubik
+U1.36 813.54         9781473223547     Le Guin, Ursula K., 1929-2    2018 The books of Earthsea
+U1.37 813.54         9781473228412     Le Guin, Ursula K., 1929-2    2019 The dispossessed : a novel
+U1.38 813.54         9781473234178     Le Guin, Ursula K., 1929-2    2021 The lathe of heaven
+U1.39 813.54         9780441478125     Le Guin, Ursula K., 1929-2    1987 The left hand of darkness
+U1.40 813.54         9781473205765     Le Guin, Ursula K., 1929-2    2001 The wind's twelve quarters and the compass rose
+U1.41 813.54         9781473230989     Le Guin, Ursula K., 1929-2    2020 Worlds of exile and illusion
+U1.42 813.54         9780553573350     Robinson, Kim Stanley         1997 Blue Mars
+U1.43 813.54         9780553572391     Robinson, Kim Stanley         1995 Green mars
+U1.44 813.54         9780356508788     Robinson, Kim Stanley         2018 New York 2140
+U1.45 813.54         9780553560732     Robinson, Kim Stanley         1993 Red Mars
+U1.46 813.54         9780553574012     Robinson, Kim Stanley         2000 The Martians
+U1.47 813.54         9780006482567     Robinson, Kim Stanley         1999 The memory of whiteness : a scientific romance
+U1.48 813.54         9780356508849     Robinson, Kim Stanley         2020 The ministry for the future
+U1.49 813.54         9780006480198     Robinson, Kim Stanley         1995 The wild shore
+U1.50 813.54         9781843549161     Stephenson, Neal              2008 Anathem
+U1.51 813.54         9780099410676     Stephenson, Neal              2000 Cryptonomicon
+U1.52 813.54         9781460752128     Stephenson, Neal              None Fall; or, Dodge in hell : a novel
+U1.53 813.54         9780553383430     Stephenson, Neal              2005 Interface
+U1.54 813.54         9780140232929     Stephenson, Neal              1994 Snow crash
+U1.55 813.54         9781460759264     Stephenson, Neal              None Termination shock : a novel
+U1.56 813.54         9780380816033     Stephenson, Neal              2001 The big U
+U1.57 813.54         9780099478850     Stephenson, Neal              2006 The cobweb
+U1.58 813.54         9780099410690     Stephenson, Neal              2005 The confusion
+U1.59 813.54         9780553380965     Stephenson, Neal              2000 The diamond age
+U1.60 813.54         9780099463368     Stephenson, Neal              2005 The system of the world
+U1.61 813.54         9780802143150     Stephenson, Neal              2007 Zodiac : the eco-thriller
+U1.62 813.54         9781848874510     Stephenson, Neal (1959- )     2012 Reamde
+U1.63 813.54         9780099410683     Stephenson, Neal,             2004 Quicksilver
+U1.64 813.54         9780008132514     Stephenson, Neal,             None Seveneves
+U1.65 813.54         9780575078581     Sutin, Lawrence, 1951-        2006 Divine invasions : a life of Philip K. Dick
+U1.66 813.54         9780008264338     Vonnegut, Kurt                2019 Bluebeard
+U1.67 813.54         9780099842606     Vonnegut, Kurt                2009 Breakfast of champions, or, Goodbye blue Monday!
+U1.68 813.54         9780141045443     Vonnegut, Kurt                2009 Cat's cradle
+U1.69 813.54         9780008264321     Vonnegut, Kurt                2019 Deadeye Dick
+U1.70 813.54         9780586090459     Vonnegut, Kurt                2019 Galápagos : a novel
+U1.71 813.54         9780099842804     Vonnegut, Kurt                1992 God bless you, Mr. Rosewater : or, Pearls before swine
+U1.72 813.54         9780099877103     Vonnegut, Kurt                1991 Hocus pocus
+U1.73 813.54         9780385333900     Vonnegut, Kurt                1999 Jailbird : a novel
+U1.74 813.54         9780385334143     Vonnegut, Kurt                1999 Mother night
+U1.75 813.54         9780385333788     Vonnegut, Kurt                1999 Player piano
+U1.76 813.54         9780099842705     Vonnegut, Kurt                1991 Slapstick, or, Lonesome no more! : a novel
+U1.77 813.54         9780440180296     Vonnegut, Kurt                1991 Slaughterhouse-five : or, The children's crusade, a duty-dan
+U1.78 813.54         9780385333498     Vonnegut, Kurt                1998 The sirens of Titan
+U1.79 813.54         9780099267546     Vonnegut, Kurt                1998 Timequake
+U1.80 813.54         9788129115546     Vonnegut, Kurt                2011 While Mortals Sleep
+U1.81 813.6          9781841499932     Corey, James S. A.            2014 Abaddon's Gate
+U1.82 813.6          9780356504292     Corey, James S. A.            2017 Babylon's ashes
+U1.83 813.6          9781841499918     Corey, James S. A.            None Caliban's war
+U1.84 813.6          9780356504193     Corey, James S. A.            2015 Cibola burn
+U1.85 813.6          9780356510385     Corey, James S. A.            2021 Leviathan Falls
+U1.86 813.6          9781841499895     Corey, James S. A.            2012 Leviathan wakes
+U1.87 813.6          9780356517773     Corey, James S. A.            2022 Memory's Legion
+U1.88 813.6          9780356504254     Corey, James S. A.            2016 Nemesis games
+U1.89 813.6          9780356510323     Corey, James S. A.            2018 Persepolis rising
+U1.90 813.6          9780356510347     Corey, James S. A.            None Tiamat's wrath
+U1.91 813.6          9781612182377     Stephenson, Neal              2012 The Mongoliad (The Mongoliad Cycle)
+U1.92 813.6          9781612182384     Stephenson, Neal              2013 The Mongoliad : Book three
+U1.93 813.6          9780008132576     Stephenson, Neal,             2017 The rise and fall of D.O.D.O : a novel
+U1.94 813.914        9781857989120     Dick, Philip K.               2000 Three early novels
+U1.95 818.54         9780099524083     Vonnegut, Kurt                2009 Armageddon in retrospect : and other new and unpublished wri
+U1.96 820.8009       9780349103235     Banks, Iain, 1954-2013        1993 The crow road : a novel
+U1.97 821.1          9780008433932     Tolkien, J. R. R. 1892-197    2021 Sir Gawain and the Green Knight ; with Pearl ; and Sir Orfeo
+U1.98 821.91         9780007557271     Tolkien, John R. R            2014 The adventures of Tom Bombadil : and other verses from the R
+U1.99 821.912        9780375823732     Tolkien, J. R. R. (John Ro    2002 Bilbo's last song : at the Grey Havens
+U1.100 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
+U1.101 821.9208       9781408705872     Banks, Iain, 1954-2013        2016 Poems
+U1.102 823.0876089282 9780583309868     Asimov, Isaac, 1920-1992      1986 Asimov's extraterrestrials
+U1.103 823.91         9780450020674     Asimov, Isaac, 1920-1992      1983 The moons of Jupiter
+U1.104 823.912        9780711241275     Garth, John, 1966-            2020 The worlds of J.R.R. Tolkien : the places that inspired Midd
+U1.105 823.912        9780008214227     Tolkien, J. R. R              2018 Beren and Lúthien
+U1.106 823.912        9780044403982     Tolkien, J. R. R              1989 The lost road and other writings : language and legend befor
+U1.107 823.912        9780008205539     Tolkien, J. R. R. (John Ro    2016 Leaf by niggle
+U1.108 823.912        9780048231888     Tolkien, J. R. R. (John Ro    1987 The hobbit, or, There and back again
+U1.109 823.912        9780261102354     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
+U1.110 823.912        9780261102361     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
+U1.111 823.912        9780261102378     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
+U1.112 823.912        9780008471286     Tolkien, J. R. R. (John Ro    None The lord of the rings
+U1.113 823.912        9780044401506     Tolkien, J. R. R. (John Ro    1988 The shaping of Middle-earth : the Quenta, the Ambarkanta, an
+U1.114 823.912        9780261102736     Tolkien, J. R. R. (John Ro    2013 The Silmarillion
+U1.115 823.912        9780261103566     Tolkien, J. R. R. (John Ro    2011 The Hobbit : the Lord of the Rings
+U1.116 823.912        9780008387921     Tolkien, J. R. R. (John Ro    2021 The nature of Middle-earth : late writings on the lands, inh
+U1.117 823.912        9780008302757     Tolkien, J. R. R., 1892-19    2018 The fall of Gondolin
+U1.118 823.912        9780048232083     Tolkien, J. R. R., 1892-19    1982 Unfinished tales of Númenor and Middle-earth
+U1.119 823.912        9780048233387     Tolkien, J.R.R                1986 The book of lost tales
+U1.120 823.912        9780048232816     Tolkien, J.R.R                1985 The book of lost tales
+U1.121 823.912        9780007252268     Tolkien, John Ronald Reuel    2008 Narn i chîn Húrin : the tale of the children of Húrin
+U1.122 823.912        9780008387952     Tolkien, John Ronald Reuel    2020 Unfinished tales of Númenor and Middle-earth
+U1.123 823.912        9780664226107     Wood, Ralph C.                2003 The gospel according to Tolkien : visions of the kingdom in 
+U1.124 823.914        9780007287024     Ballard, J. G                 2008 Crash
+U1.125 823.914        9780586089965     Ballard, J. G., 1930-2009     2008 The drought
+U1.126 823.914        9780007287048     Ballard, J. G., 1930-2009,    2008 Concrete island
+U1.127 823.914        9780007287031     Ballard, James Graham (193    2008 Hello America
+U1.128 823.914        9780008329754     Ballard, James Graham, 193    2019 Empire of the Sun : a novel
+U1.129 823.914        9780349110110     Banks, Iain, 1954-2013        1998 A song of stone : a novel
+U1.130 823.914        9781857231793     Banks, Iain, 1954-2013        1996 Against a dark background
+U1.131 823.914        9780349101712     Banks, Iain, 1954-2013        1990 Canal dreams
+U1.132 823.914        9780349139135     Banks, Iain, 1954-2013        2013 Complicity
+U1.133 823.914        9781857231380     Banks, Iain, 1954-2013        2003 Consider Phlebas
+U1.134 823.914        9780349116648     Banks, Iain, 1954-2013        2003 Dead air
+U1.135 823.914        9780349102146     Banks, Iain, 1954-2013        1990 Espedair Street
+U1.136 823.914        9781857234572     Banks, Iain, 1954-2013        1997 Excession
+U1.137 823.914        9781857232738     Banks, Iain, 1954-2013        1994 Feersum endjinn
+U1.138 823.914        9781857237634     Banks, Iain, 1954-2013        1999 Inversions
+U1.139 823.914        9781841490595     Banks, Iain, 1954-2013        2001 Look to windward
+U1.140 823.914        9781841494197     Banks, Iain, 1954-2013        2009 Matter
+U1.141 823.914        9781408702512     Banks, Iain, 1954-2013        2012 Stonemouth
+U1.142 823.914        9781841498942     Banks, Iain, 1954-2013        2010 Surface detail
+U1.143 823.914        9781841492292     Banks, Iain, 1954-2013        2005 The algebraist
+U1.144 823.914        9780708883037     Banks, Iain, 1954-2013        1989 The bridge
+U1.145 823.914        9780349139227     Banks, Iain, 1954-2013        2013 The business : a novel
+U1.146 823.914        9780356501512     Banks, Iain, 1954-2013        2012 The hydrogen sonata
+U1.147 823.914        9781857231465     Banks, Iain, 1954-2013        1992 The player of games
+U1.148 823.914        9780349138596     Banks, Iain, 1954-2013        2001 The quarry
+U1.149 823.914        9781857230307     Banks, Iain, 1954-2013        1993 The state of the art
+U1.150 823.914        9780349119281     Banks, Iain, 1954-2013        2012 The steep approach to Garbadale
+U1.151 823.914        9780349101774     Banks, Iain, 1954-2013        1992 The wasp factory : a novel
+U1.152 823.914        9780349119274     Banks, Iain, 1954-2013        2010 Transition
+U1.153 823.914        9781857231359     Banks, Iain, 1954-2013        1992 Use of weapons
+U1.154 823.914        9780349139203     Banks, Iain, 1954-2013        2013 Walking on glass
+U1.155 823.914        9780349107684     Banks, Iain, 1954-2013        1996 Whit, or Isis amongst the unsaved
+U1.156 823.914        9780575075535     Baxter, Stephen               2004 Coalescent
+U1.157 823.914        9780575076556     Baxter, Stephen               2005 Exultant
+U1.158 823.914        9780575084827     Baxter, Stephen               2008 Flood
+U1.159 823.914        9780006511830     Baxter, Stephen               2001 Space
+U1.160 823.914        9781473205109     Baxter, Stephen               None The massacre of mankind : sequel to The war of the worlds
+U1.161 823.914        9780006511823     Baxter, Stephen               2000 Time
+U1.162 823.914        9780002246934     Baxter, Stephen               1998 Traces
+U1.163 823.914        9780006498124     Baxter, Stephen               1998 Vacuum diagrams : stories of the xeelee sequence
+U1.164 823.914        9780006480372     Baxter, Stephen               1997 Voyage
+U1.165 823.914        9780330023122     Clarke, Arthur C              1969 A fall of moondust
+U1.166 823.914        9780151879809     Clarke, Arthur C              1962 Tales of ten worlds
+U1.167 823.914        9780586056998     Clarke, Arthur C. (Arthur     1985 2010 : odyssey two
+U1.168 823.914        9780330240246     Clarke, Arthur C. (Arthur     1974 Rendezvous with Rama
 U2.01 823.914        9780552551441     Pratchett, Terry              2005 A hat full of sky
 U2.02 823.914        9780552167611     Pratchett, Terry              2013 Carpe jugulum : a novel of Discworld
 U2.03 823.914        9780552166614     Pratchett, Terry              2012 Equal rites : a Discworld novel
