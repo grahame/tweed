@@ -63,15 +63,19 @@ function BookTable(props: React.PropsWithChildren<BookProp>) {
 
 function App() {
     const [searchString, searchStringInput] = useInput();
-    var error = "";
-    var re: RegExp;
-    try {
-        re = new RegExp(searchString.toString(), "i");
-    } catch (e: any) {
-        error = e.toString();
-        re = new RegExp("^.*$", "i");
-    }
-    const book_rows = Books.books.filter((book) => filterBook(book, re));
+    const [bookRows, setBookRows] = useState<typeof Books.books>(Books.books);
+    const [error, setError] = useState<string | null>();
+
+    React.useEffect(() => {
+        var re: RegExp;
+        try {
+            re = new RegExp(searchString.toString(), "i");
+        } catch (e: any) {
+            setError(e.toString());
+            re = new RegExp("^.*$", "i");
+        }
+        setBookRows(Books.books.filter((book) => filterBook(book, re)));
+    }, [searchString]);
 
     return (
         <div>
@@ -79,12 +83,12 @@ function App() {
                 <Row className="bg-dark">
                     <Col xs={{ size: 9, offset: 1 }}>{searchStringInput}</Col>
                     <Col xs={{ size: 1 }}>
-                        <Badge pill>{book_rows.length}</Badge>
+                        <Badge pill>{bookRows.length}</Badge>
                     </Col>
                 </Row>
                 {error}
             </Form>
-            <BookTable books={book_rows} />
+            <BookTable books={bookRows} />
         </div>
     );
 }
