@@ -1,9 +1,16 @@
+import { config } from "@fortawesome/fontawesome-svg-core";
+import "@fortawesome/fontawesome-svg-core/styles.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+
 import React from "react";
 import "./index.css";
 import { createRoot } from "react-dom/client";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.min.css";
+
+// address CSP issues with react-fontawesome
+config.autoAddCss = false;
 
 const container = document.getElementById("root")!;
 const root = createRoot(container);

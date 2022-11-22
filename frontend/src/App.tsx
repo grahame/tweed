@@ -1,6 +1,8 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./App.css";
 import { Table, Form, Row, Col, Input, Badge, Button } from "reactstrap";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBarsStaggered } from "@fortawesome/free-solid-svg-icons";
 import Books from "./books.json";
 
 function useInput() {
@@ -25,6 +27,7 @@ function useInput() {
 
 interface BookProp {
     books: typeof Books.books;
+    realMatches: Set<number>;
 }
 
 function filterBook(book: typeof Books.books[0], re: RegExp) {
@@ -32,17 +35,21 @@ function filterBook(book: typeof Books.books[0], re: RegExp) {
 }
 
 function BookTable(props: React.PropsWithChildren<BookProp>) {
+    const { books, realMatches } = props;
     const tableRows = () => {
-        return props.books.map((book) => (
-            <tr key={book.books_id}>
-                <td>{book.loc}</td>
-                <td>{book.ddc}</td>
-                <td>{book.author}</td>
-                <td>{book.title}</td>
-                <td>{book.isbn}</td>
-                <td>{book.date}</td>
-            </tr>
-        ));
+        return books.map((book) => {
+            const match = realMatches.has(book.books_id);
+            return (
+                <tr key={book.books_id} className={match ? "matchRow" : ""}>
+                    <td>{book.loc}</td>
+                    <td>{book.ddc}</td>
+                    <td>{book.author}</td>
+                    <td>{book.title}</td>
+                    <td>{book.isbn}</td>
+                    <td>{book.date}</td>
+                </tr>
+            );
+        });
     };
     return (
         <Table dark striped>
@@ -64,6 +71,7 @@ function BookTable(props: React.PropsWithChildren<BookProp>) {
 function App() {
     const [searchString, searchStringInput] = useInput();
     const [bookRows, setBookRows] = useState<typeof Books.books>(Books.books);
+    const [realMatches, setRealMatches] = useState<Set<number>>(new Set());
     const [fuzzy, setFuzzy] = useState<boolean>(false);
     const [error, setError] = useState<string | null>();
 
@@ -76,8 +84,40 @@ function App() {
             setError(e.toString());
             re = new RegExp("^.*$", "i");
         }
-        setBookRows(Books.books.filter((book) => filterBook(book, re)));
-    }, [searchString]);
+        // build a list of matching books
+        var i = 0;
+        const matchingIndeces = new Set<number>();
+        for (const book of Books.books) {
+            if (filterBook(book, re)) {
+                matchingIndeces.add(i);
+            }
+            ++i;
+        }
+        const realMatches = new Set<number>();
+        const matchingBooks: typeof Books.books = [];
+        i = 0;
+        for (const book of Books.books) {
+            var matched = false;
+            if (matchingIndeces.has(i)) {
+                matchingBooks.push(book);
+                if (fuzzy) {
+                    realMatches.add(book.books_id);
+                }
+                matched = true;
+            }
+            if (!matched && fuzzy) {
+                for (var j = 1; j < 3; ++j) {
+                    if (matchingIndeces.has(i + j) || matchingIndeces.has(i - j)) {
+                        matchingBooks.push(book);
+                        break;
+                    }
+                }
+            }
+            ++i;
+        }
+        setRealMatches(realMatches);
+        setBookRows(matchingBooks);
+    }, [searchString, fuzzy]);
 
     return (
         <div>
@@ -86,7 +126,7 @@ function App() {
                     <Col xs={{ size: 8, offset: 1 }}>{searchStringInput}</Col>
                     <Col xs={{ size: 1 }}>
                         <Button active={fuzzy} onClick={() => setFuzzy(!fuzzy)}>
-                            []
+                            <FontAwesomeIcon icon={faBarsStaggered} />
                         </Button>
                     </Col>
                     <Col xs={{ size: 1 }}>
@@ -95,7 +135,7 @@ function App() {
                 </Row>
                 {error}
             </Form>
-            <BookTable books={bookRows} />
+            <BookTable books={bookRows} realMatches={realMatches} />
         </div>
     );
 }
