@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./App.css";
-import { Table, Form, Row, Col, Input, Badge } from "reactstrap";
+import { Table, Form, Row, Col, Input, Badge, Button } from "reactstrap";
 import Books from "./books.json";
 
 function useInput() {
@@ -64,12 +64,14 @@ function BookTable(props: React.PropsWithChildren<BookProp>) {
 function App() {
     const [searchString, searchStringInput] = useInput();
     const [bookRows, setBookRows] = useState<typeof Books.books>(Books.books);
+    const [fuzzy, setFuzzy] = useState<boolean>(false);
     const [error, setError] = useState<string | null>();
 
     React.useEffect(() => {
         var re: RegExp;
         try {
             re = new RegExp(searchString.toString(), "i");
+            setError(null);
         } catch (e: any) {
             setError(e.toString());
             re = new RegExp("^.*$", "i");
@@ -81,7 +83,12 @@ function App() {
         <div>
             <Form>
                 <Row className="bg-dark">
-                    <Col xs={{ size: 9, offset: 1 }}>{searchStringInput}</Col>
+                    <Col xs={{ size: 8, offset: 1 }}>{searchStringInput}</Col>
+                    <Col xs={{ size: 1 }}>
+                        <Button active={fuzzy} onClick={() => setFuzzy(!fuzzy)}>
+                            []
+                        </Button>
+                    </Col>
                     <Col xs={{ size: 1 }}>
                         <Badge pill>{bookRows.length}</Badge>
                     </Col>
