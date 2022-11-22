@@ -1,11 +1,11 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./App.css";
-import { Table, Form, Row, Col, Input, Badge, Button } from "reactstrap";
+import { Table, Form, Row, Col, Input, Button, ButtonGroup } from "reactstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBarsStaggered } from "@fortawesome/free-solid-svg-icons";
 import Books from "./books.json";
 
-function useInput() {
+function useInput(): [string, JSX.Element] {
     const [value, setValue] = useState<string>("");
     const inputReference = useRef<HTMLInputElement>(null);
 
@@ -28,10 +28,6 @@ function useInput() {
 interface BookProp {
     books: typeof Books.books;
     realMatches: Set<number>;
-}
-
-function filterBook(book: typeof Books.books[0], re: RegExp) {
-    return re.test(book.author) || re.test(book.title) || re.test(book.loc);
 }
 
 function BookTable(props: React.PropsWithChildren<BookProp>) {
@@ -76,26 +72,43 @@ function App() {
     const [error, setError] = useState<string | null>();
 
     React.useEffect(() => {
-        var re: RegExp;
-        try {
-            re = new RegExp(searchString.toString(), "i");
-            setError(null);
-        } catch (e: any) {
-            setError(e.toString());
-            re = new RegExp("^.*$", "i");
-        }
-        // build a list of matching books
-        var i = 0;
-        const matchingIndeces = new Set<number>();
-        for (const book of Books.books) {
-            if (filterBook(book, re)) {
-                matchingIndeces.add(i);
+        const filterBook = (book: typeof Books.books[0], re: RegExp) => {
+            return re.test(book.author) || re.test(book.title);
+        };
+        const safeRe = () => {
+            return new RegExp("^.*$", "i");
+        };
+        const makeRe = (s: string) => {
+            try {
+                const re = new RegExp(s, "i");
+                setError(null);
+                return re;
+            } catch (e: any) {
+                setError(e.toString());
+                return safeRe();
             }
-            ++i;
-        }
+        };
+        const userRe = () => {
+            return makeRe(searchString.toString());
+        };
+        const reFilter = () => {
+            var re = userRe();
+            // build a list of matching books
+            var i = 0;
+            const matchingIndeces = new Set<number>();
+            for (const book of Books.books) {
+                if (filterBook(book, re)) {
+                    matchingIndeces.add(i);
+                }
+                ++i;
+            }
+            return matchingIndeces;
+        };
+
         const realMatches = new Set<number>();
         const matchingBooks: typeof Books.books = [];
-        i = 0;
+        const matchingIndeces = reFilter();
+        var i = 0;
         for (const book of Books.books) {
             var matched = false;
             if (matchingIndeces.has(i)) {
@@ -124,13 +137,13 @@ function App() {
             <Form>
                 <Row className="bg-dark">
                     <Col xs={{ size: 8, offset: 1 }}>{searchStringInput}</Col>
-                    <Col xs={{ size: 1 }}>
-                        <Button active={fuzzy} onClick={() => setFuzzy(!fuzzy)}>
-                            <FontAwesomeIcon icon={faBarsStaggered} />
-                        </Button>
-                    </Col>
-                    <Col xs={{ size: 1 }}>
-                        <Badge pill>{bookRows.length}</Badge>
+                    <Col xs={{ size: 2 }}>
+                        <ButtonGroup>
+                            <Button active={fuzzy} onClick={() => setFuzzy(!fuzzy)}>
+                                <FontAwesomeIcon icon={faBarsStaggered} />
+                            </Button>
+                            <Button>{bookRows.length}</Button>
+                        </ButtonGroup>
                     </Col>
                 </Row>
                 {error}
