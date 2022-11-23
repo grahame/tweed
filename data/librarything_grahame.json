@@ -73398,9 +73398,10 @@
     "38": ["fantasy"]
   },
   "series": ["Alice in Wonderland: Publication Order",
+  "Les aventures d'Alice",
   "Le avventure di Alice",
   "Alice's Adventures",
-  "Les aventures d'Alice"],
+  "Splendour Books"],
   "originaltitle": "Alice in Wonderland",
   "awards": ["Waterstones The Nation's Favourite Children's Books",
   "IBBY Honour Book",
@@ -73990,6 +73991,7 @@
   "lcc": {
     "code": "PS3568.U3615"
   },
+  "series": ["Lovecraft Country"],
   "awards": ["Locus Award Finalist",
   "Washington State Book Award Finalist",
   "World Fantasy Award Nominee",
@@ -74764,6 +74766,7 @@
     "code": "PZ7.R7375 F"
   },
   "series": ["Carve the Mark"],
+  "originaltitle": "The Fates Divide",
   "genre": ["Young Adult",
   "All Topics",
   "Fiction"],
@@ -86933,7 +86936,9 @@
     "English {except North American}",
     "Literature"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PR2245"
+  },
   "genre": ["Fiction"],
   "genre_id": ["17160326"],
   "source": "amazon.com books",
@@ -98965,6 +98970,8 @@
   "lcc": {
     "code": "HM621 .G735"
   },
+  "awards": ["Chicago Public Library Best of the Best Book List",
+  "Goodreads Choice Awards"],
   "genre": ["Biography & Memoir",
   "General Nonfiction",
   "Science & Nature",
@@ -110050,9 +110057,9 @@
   "lcc": {
     "code": "PZ7.R4423 M"
   },
-  "series": ["Miss Peregrine's Peculiar Children",
-  "Miss Peregrine et les enfants particuliers",
-  "De bijzondere kinderen van mevrouw Peregrine"],
+  "series": ["Miss Peregrine et les enfants particuliers",
+  "De bijzondere kinderen van mevrouw Peregrine",
+  "Miss Peregrine's Peculiar Children"],
   "originaltitle": "Miss Peregrine's Home for Peculiar Children",
   "awards": ["Grand Prix de l'Imaginaire",
   "VDL Green Mountain Book Award Nominee",
@@ -124652,7 +124659,8 @@
   "awards": ["Indie Next List",
   "LibraryReads",
   "Audie Winner",
-  "Hugo Nominee"],
+  "Hugo Nominee",
+  "Goodreads Choice Awards"],
   "genre": ["Science Fiction",
   "Audiobooks",
   "All Topics",
@@ -143159,7 +143167,8 @@
   "lcc": {
     "code": "PS3601.L583 W55"
   },
-  "awards": ["Walt Whitman Award of the Academy of American Poets"],
+  "awards": ["Walt Whitman Award of the Academy of American Poets",
+  "Brooklyn Public Library Literary Prize Shortlist"],
   "genre": ["Fiction"],
   "genre_id": ["17160326"],
   "source": "amazon.com books",
@@ -148451,7 +148460,8 @@
   "lcc": {
     "code": "PS3626.E95 T66"
   },
-  "awards": ["Book of the Month Club Selection"],
+  "awards": ["Book of the Month Club Selection",
+  "Goodreads Choice Award Nominee"],
   "genre": ["General Fiction",
   "Popular Books",
   "Audiobooks",
@@ -150971,6 +150981,7 @@
     "Literature"]
   },
   "lcc": [],
+  "awards": ["Goodreads Choice Award Nominee"],
   "genre": ["General Fiction",
   "Horror",
   "Fantasy",
@@ -151323,7 +151334,10 @@
     "English (North America)",
     "Literature"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PS3561.I496 D46"
+  },
+  "awards": ["Goodreads Choice Award Nominee"],
   "genre": ["General Fiction",
   "Audiobooks",
   "Recent Fiction",
@@ -152055,4 +152069,115 @@
   "length": "6 inches",
   "dimensions": "9 x 6 x 0.75 inches",
   "weight": "0.82893810512 pounds"
+},
+"229817504": {
+  "books_id": "229817504",
+  "title": "Dramatised Bible",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Oakes, Meredith",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Oakes, Meredith",
+    "fl": "Meredith Oakes",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0551017791",
+  "isbn": {
+    "0": "0551017791",
+    "2": "9780551017795"
+  },
+  "asin": "0551017791",
+  "ean": ["0551017791"],
+  "publication": "HarperCollins Publishers (1997), 896 pages",
+  "date": "1997",
+  "summary": "Dramatised Bible by Meredith Oakes (1997)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["259.8"],
+    "wording": ["Camps and Visitation Programs",
+    "Christian pastoral theology, homiletics and religious orders",
+    "Other ministries and church work",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BV652.2"
+  },
+  "subject": [["Bible plays"],
+  ["Church group work"],
+  ["Drama in Christian education"]],
+  "genre": ["General Nonfiction",
+  "Religion & Spirituality",
+  "Nonfiction"],
+  "genre_id": ["1247",
+  "1944",
+  "20275895"],
+  "source": "amazon.com all media",
+  "workcode": "1366712",
+  "entrydate": "2022-11-21",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "896 p.",
+  "weight": "3.52298694676 pounds",
+  "pages": "896 "
+},
+"229929748": {
+  "books_id": "229929748",
+  "title": "The Theological Imperative to Authenticity",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Capper, Christy",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Capper, Christy",
+    "fl": "Christy Capper",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1032191341",
+  "isbn": {
+    "0": "1032191341",
+    "2": "9781032191348"
+  },
+  "asin": "1032191341",
+  "ean": ["1032191341"],
+  "publication": "Routledge (2022), Edition: 1, 174 pages",
+  "date": "2022",
+  "summary": "The Theological Imperative to Authenticity by Christy Capper (2022)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["233.6"],
+    "wording": ["Christian doctrinal theology",
+    "Personality",
+    "Religions",
+    "Theological anthropology; Humankind"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "29235953",
+  "entrydate": "2022-11-23",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "174 p.; 9.21 inches",
+  "height": "9.2098241 inches",
+  "thickness": "0.59 inches",
+  "length": "6.1401452 inches",
+  "dimensions": "9.2098241 x 6.1401452 x 0.59 inches",
+  "weight": "1.0582188576 pounds",
+  "pages": "174 "
 }}

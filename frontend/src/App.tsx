@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import "./App.css";
 import { Table, Form, Row, Col, Input, Button, ButtonGroup } from "reactstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faBarsStaggered } from "@fortawesome/free-solid-svg-icons";
+import { faBarsStaggered, faBook } from "@fortawesome/free-solid-svg-icons";
 import Books from "./books.json";
 
 function useInput(): [string, JSX.Element] {
@@ -142,7 +142,9 @@ function App() {
                             <Button active={fuzzy} onClick={() => setFuzzy(!fuzzy)}>
                                 <FontAwesomeIcon icon={faBarsStaggered} />
                             </Button>
-                            <Button>{bookRows.length}</Button>
+                            <Button onClick={() => false}>
+                                <FontAwesomeIcon icon={faBook} /> {bookRows.length}
+                            </Button>
                         </ButtonGroup>
                     </Col>
                 </Row>

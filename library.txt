@@ -547,10 +547,11 @@ D1.28 233.5          9780300081725     Martin, Dale B., 1954-        1999 The Co
 D1.29 233.5          9780334058373     O'Donnell, Karen (Research    2019 Broken bodies : the Eucharist, Mary and the body in trauma t
 D1.30 233.5          9780631210702     Rogers, Eugene F., Jr. (Eu    1999 Sexuality and the Christian body : their way into the triune
 D1.31 233.5          9780281079759     Williams, Rowan, 1950-        2018 Being human : bodies, minds, persons
-D1.32 234            9780722085189     Aumann, Jordan                1980 Spiritual theology
-D1.33 234            9780521426169     Ford, David F., 1948-         1999 Self and salvation : being transformed
-D1.34 234            9780830853229     Lindsay, Mark R., 1971-       2020 God has chosen : the doctrine of election through Christian 
-D1.35 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
+D1.32 233.6          9781032191348     Capper, Christy               2022 The Theological Imperative to Authenticity
+D1.33 234            9780722085189     Aumann, Jordan                1980 Spiritual theology
+D1.34 234            9780521426169     Ford, David F., 1948-         1999 Self and salvation : being transformed
+D1.35 234            9780830853229     Lindsay, Mark R., 1971-       2020 God has chosen : the doctrine of election through Christian 
+D1.36 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
 D2.01 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
 D2.02 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
 D2.03 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
@@ -1199,10 +1200,11 @@ G3.28 709.470749411  9780975016893     Dodge, A.R                    2005 St Pet
 G3.29 720.103        9780643106468     Donovan, Jenny (Urban desi    2013 Designing to heal
 G3.30 725.94         9781760800260     Atkinson-Phillips, Alison     2019 Survivor memorials : remembering trauma and loss in contempo
 G3.31 741.509        9781569804001     Weinstein, Simcha             2014 Up, up, and oy vey! : how Jewish history, culture, and value
-G3.32 741.5952       9780857528223     Shinkai, Makoto               2022 She and her cat
-G3.33 741.5973       9781594746031     Riggs, Ransom                 2013 Miss Peregrine's Home for Peculiar Children
-G3.34 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
-G3.35 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
+G3.32 741.51         9780980436778     Davis, Oslo                   2010 Overheard : the art of eavesdropping
+G3.33 741.5952       9780857528223     Shinkai, Makoto               2022 She and her cat
+G3.34 741.5973       9781594746031     Riggs, Ransom                 2013 Miss Peregrine's Home for Peculiar Children
+G3.35 741.6019       9781592535156     Malamed, Connie               2009 Visual language for designers : principles for creating grap
+G3.36 745.670942889  9780714824611     Backhouse, Janet              1994 The Lindisfarne Gospels
 G4.01 755            9781628371727     Robbins, Vernon K. (Vernon    2017 The art of visual exegesis : rhetoric, texts, images
 G4.02 759.94         9780141035796     Berger, John                  2008 Ways of seeing
 G4.03 778.71         9780817439613     Tharp, Brenda                 2010 Creative nature & outdoor photography
@@ -2117,14 +2119,15 @@ W1.56 641.815        9780399578847     Robertson, Chad               2021 Bread 
 W1.57 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
 W1.58 658.3          9781107664852     Teicher, Julian               2013 Australian workplace relations
 W1.59 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
-Y1.01 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
-Y1.02 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
-Y1.03 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
-Y1.04 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
-Y1.05 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
-Y1.06 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
-Y1.07 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
-Y1.08 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
+Y1.01 259.8          9780551017795     Perry, Michael, 1933- [Edi    1997 The Dramatised Bible
+Y1.02 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
+Y1.03 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
+Y1.04 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
+Y1.05 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
+Y1.06 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
+Y1.07 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
+Y1.08 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
+Y1.09 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
 Y2.01 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
 Y2.02 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
 Y2.03 220            9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
@@ -2165,30 +2168,29 @@ Y3.15 741.5          9781401225759     Gaiman, Neil                  2010 The sa
 Y3.16 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
 Y3.17 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
 Y3.18 741.51                           Davis, Oslo                   2011 Libraryland!
-Y3.19 741.51         9780980436778     Davis, Oslo                   2010 Overheard : the art of eavesdropping
-Y3.20 741.51                           Davis, Oslo                   None Where the wild things aren't
-Y3.21 741.51                           McLeod, Jessica               2007 Mungo Bean
-Y3.22 741.51                           Salmon-Lomas, Riley           None Riley: Moments in the Life Of
-Y3.23 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
-Y3.24 741.56973      9781472269058     Pyle, Nathan W.               2019 Strange planet
-Y3.25 741.56973      9780740748479     Watterson, Bill               2005 Calvin and Hobbes
-Y3.26 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
-Y3.27 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
-Y3.28 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
-Y3.29 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
-Y3.30 741.5944       9781444004908     Goscinny, 1926-1977           2013 Asterix omnibus : 5,. Asterix and the cauldron, Asterix in S
-Y3.31 741.5944       9781444004243     Goscinny, 1926-1977           2011 Asterix omnibus : Asterix the Gladiator, Asterix and the Ban
-Y3.32 741.5944       9781444004878     Goscinny, 1926-1977           2012 Asterix omnibus : Asterix the legionary, Asterix and the Chi
-Y3.33 741.5944       9781444004236     Goscinny, 1926-1977           2011 Asterix Omnibus. Asterix the Gaul, Asterix and the golden si
-Y3.34 741.5944       9781444004755     Goscinny, René                None Asterix omnibus : Asterix and the big fight, Asterix in Brit
-Y3.35 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
-Y3.36 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
-Y3.37 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
-Y3.38 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
-Y3.39 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
-Y3.40 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
-Y3.41 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
-Y3.42 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
+Y3.19 741.51                           Davis, Oslo                   None Where the wild things aren't
+Y3.20 741.51                           McLeod, Jessica               2007 Mungo Bean
+Y3.21 741.51                           Salmon-Lomas, Riley           None Riley: Moments in the Life Of
+Y3.22 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
+Y3.23 741.56973      9781472269058     Pyle, Nathan W.               2019 Strange planet
+Y3.24 741.56973      9780740748479     Watterson, Bill               2005 Calvin and Hobbes
+Y3.25 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
+Y3.26 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
+Y3.27 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
+Y3.28 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
+Y3.29 741.5944       9781444004908     Goscinny, 1926-1977           2013 Asterix omnibus : 5,. Asterix and the cauldron, Asterix in S
+Y3.30 741.5944       9781444004243     Goscinny, 1926-1977           2011 Asterix omnibus : Asterix the Gladiator, Asterix and the Ban
+Y3.31 741.5944       9781444004878     Goscinny, 1926-1977           2012 Asterix omnibus : Asterix the legionary, Asterix and the Chi
+Y3.32 741.5944       9781444004236     Goscinny, 1926-1977           2011 Asterix Omnibus. Asterix the Gaul, Asterix and the golden si
+Y3.33 741.5944       9781444004755     Goscinny, René                None Asterix omnibus : Asterix and the big fight, Asterix in Brit
+Y3.34 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
+Y3.35 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
+Y3.36 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
+Y3.37 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
+Y3.38 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
+Y3.39 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
+Y3.40 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
+Y3.41 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
 Z1.01 635            9780857832269     Allen, Darina                 2017 Grow, cook, nourish : a kitchen garden companion in 500 reci
 Z1.02 641.5          9781529109481     Ottolenghi, Yotam             2021 Ottolenghi Test Kitchen: Shelf Love
 Z1.03 641.512        9781785031168     Ottolenghi, Yotam             2018 Ottolenghi Simple : a cookbook
