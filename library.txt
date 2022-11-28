@@ -1348,41 +1348,43 @@ H3.14 813.6          9780307346612     Brooks, Max                   2007 World 
 H3.15 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
 H3.16 813.6          9781789097528     Cadigan, Pat, 1953-           2021 Alien 3
 H3.17 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
-H3.18 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
-H3.19 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
-H3.20 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
-H3.21 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
-H3.22 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
-H3.23 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
-H3.24 813.6          9781398508552     Conklin, Lydia, 1983-         2022 Rainbow rainbow : stories
-H3.25 813.6          9780007327898     Doctorow, Cory                2010 Makers
-H3.26 813.6          9780007250387     Dolnick, Ben                  2007 Zoology : a novel
-H3.27 813.6          9781597802277     Egan, Greg, 1961-             2011 The clockwork rocket
-H3.28 813.6          9781789095319     Ellis, Lindsay, 1984-         2020 Axiom's end : a novel
-H3.29 813.6                            Fowler, Therese               2011 Souvenir by Therese Fowler
-H3.30 813.6          9781250213587     Gailey, Sarah                 2020 Upright women wanted
-H3.31 813.6          9780143567592     Green, John, 1977-            2012 The fault in our stars
-H3.32 813.6          9781472296443     Hart, Michelle                None We do what we do in the dark
-H3.33 813.6          9781469984209     Howey, Hugh                   2012 Wool omnibus
-H3.34 813.6          9780356512686     Jemisin, N. K.                2021 The city we became
-H3.35 813.6          9781841498171     Jemisin, N. K.                2010 The hundred thousand kingdoms
-H3.36 813.6          9780552778251     Johnson, Adam, 1967-          2013 The orphan master's son : a novel
-H3.37 813.6          9781529405712     Jones, Robert, Jr., 1971-     None The prophets : a novel
-H3.38 813.6          9781982121525     Joukhadar, Zeyn               2021 The thirty names of night : a novel
-H3.39 813.6          9780765378385     Kowal, Mary Robinette, 196    2018 The calculating stars
-H3.40 813.6          9780356502403     Leckie, Ann                   2013 Ancillary justice
-H3.41 813.6          9780356502427     Leckie, Ann                   2015 Ancillary mercy
-H3.42 813.6          9780356502410     Leckie, Ann                   2014 Ancillary sword
-H3.43 813.6          9780356506982     Leckie, Ann                   2018 Provenance
-H3.44 813.6          9781534414594     Leicht, Stina                 2021 Persephone Station
-H3.45 813.6          9780297844907     Levin, Janna                  2007 A madman dreams of Turing machines
-H3.46 813.6          9781782111856     Lin, Tao, 1983-               2001 Taipei : a novel
-H3.47 813.6          9781529083507     Mandel, Emily St. John, 19    2022 Sea of Tranquility : a novel
-H3.48 813.6          9781447268970     Mandel, Emily St. John, 19    2014 Station eleven : a novel
-H3.49 813.6          9781529065619     Mandel, Emily St. John, 19    2021 The glass hotel
-H3.50 813.6          9781529001631     Martine, Arkady               2021 A desolation called peace
-H3.51 813.6          9780008512415     Monáe, Janelle                None The memory librarian : and other stories of dirty computer
-H3.52 813.6          9780997063325     Nagel, Margaret               2016 The adventures of Brother Arcadius and Pangur Ban : 11 tales
+H3.18 813.6          9781250236234     Chambers, Becky               2022 A prayer for the Crown-Shy
+H3.19 813.6          9781250236210     Chambers, Becky               2021 A psalm for the wild-built
+H3.20 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
+H3.21 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
+H3.22 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
+H3.23 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
+H3.24 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
+H3.25 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
+H3.26 813.6          9781398508552     Conklin, Lydia, 1983-         2022 Rainbow rainbow : stories
+H3.27 813.6          9780007327898     Doctorow, Cory                2010 Makers
+H3.28 813.6          9780007250387     Dolnick, Ben                  2007 Zoology : a novel
+H3.29 813.6          9781597802277     Egan, Greg, 1961-             2011 The clockwork rocket
+H3.30 813.6          9781789095319     Ellis, Lindsay, 1984-         2020 Axiom's end : a novel
+H3.31 813.6                            Fowler, Therese               2011 Souvenir by Therese Fowler
+H3.32 813.6          9781250213587     Gailey, Sarah                 2020 Upright women wanted
+H3.33 813.6          9780143567592     Green, John, 1977-            2012 The fault in our stars
+H3.34 813.6          9781472296443     Hart, Michelle                None We do what we do in the dark
+H3.35 813.6          9781469984209     Howey, Hugh                   2012 Wool omnibus
+H3.36 813.6          9780356512686     Jemisin, N. K.                2021 The city we became
+H3.37 813.6          9781841498171     Jemisin, N. K.                2010 The hundred thousand kingdoms
+H3.38 813.6          9780552778251     Johnson, Adam, 1967-          2013 The orphan master's son : a novel
+H3.39 813.6          9781529405712     Jones, Robert, Jr., 1971-     None The prophets : a novel
+H3.40 813.6          9781982121525     Joukhadar, Zeyn               2021 The thirty names of night : a novel
+H3.41 813.6          9780765378385     Kowal, Mary Robinette, 196    2018 The calculating stars
+H3.42 813.6          9780356502403     Leckie, Ann                   2013 Ancillary justice
+H3.43 813.6          9780356502427     Leckie, Ann                   2015 Ancillary mercy
+H3.44 813.6          9780356502410     Leckie, Ann                   2014 Ancillary sword
+H3.45 813.6          9780356506982     Leckie, Ann                   2018 Provenance
+H3.46 813.6          9781534414594     Leicht, Stina                 2021 Persephone Station
+H3.47 813.6          9780297844907     Levin, Janna                  2007 A madman dreams of Turing machines
+H3.48 813.6          9781782111856     Lin, Tao, 1983-               2001 Taipei : a novel
+H3.49 813.6          9781529083507     Mandel, Emily St. John, 19    2022 Sea of Tranquility : a novel
+H3.50 813.6          9781447268970     Mandel, Emily St. John, 19    2014 Station eleven : a novel
+H3.51 813.6          9781529065619     Mandel, Emily St. John, 19    2021 The glass hotel
+H3.52 813.6          9781529001631     Martine, Arkady               2021 A desolation called peace
+H3.53 813.6          9780008512415     Monáe, Janelle                None The memory librarian : and other stories of dirty computer
+H3.54 813.6          9780997063325     Nagel, Margaret               2016 The adventures of Brother Arcadius and Pangur Ban : 11 tales
 H5.01 813.6          9780356512228     O'Keefe, Megan E., 1985-      2019 Velocity weapon
 H5.02 813.6          9780765385253     Okorafor, Nnedi               2015 Binti
 H5.03 813.6          9781529346664     Roanhorse, Rebecca            2019 Trail of lightning
@@ -1557,20 +1559,21 @@ I5.08 823.92         9781894063302     Bedford, K. A. (K. Adrian)    2005 Eclips
 I5.09 823.92         9781894063203     Bedford, K. A. (K. Adrian)    2007 Hydrogen steel
 I5.10 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
 I5.11 823.92         9788129113726     Bhagat, Chetan                2008 The 3 mistakes of my life : a story about business, cricket,
-I5.12 823.92         9780141042138     Colfer, Eoin                  2010 And another thing-- : Douglas Adams's Hitchhiker's guide to 
-I5.13 823.92         9781473232297     Egan, Greg, 1961-             2021 The best of Greg Egan
-I5.14 823.92         9780571372676     Emezi, Akwaeke                None You made a fool of death with your beauty : a novel
-I5.15 823.92         9781444791747     Gooder, Paula                 2019 Phoebe : a story
-I5.16 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
-I5.17 823.92         9781786892720     Haig, Matt                    2020 The midnight library
-I5.18 823.92         9780732281229     Harding, Traci                2009 Being of the field
-I5.19 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
-I5.20 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
-I5.21 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
-I5.22 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
-I5.23 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
-I5.24 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
-I5.25 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
+I5.12 823.92         9781399711586     Chupeco, Rin                  None Silver Under Nightfall
+I5.13 823.92         9780141042138     Colfer, Eoin                  2010 And another thing-- : Douglas Adams's Hitchhiker's guide to 
+I5.14 823.92         9781473232297     Egan, Greg, 1961-             2021 The best of Greg Egan
+I5.15 823.92         9780571372676     Emezi, Akwaeke                None You made a fool of death with your beauty : a novel
+I5.16 823.92         9781444791747     Gooder, Paula                 2019 Phoebe : a story
+I5.17 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
+I5.18 823.92         9781786892720     Haig, Matt                    2020 The midnight library
+I5.19 823.92         9780732281229     Harding, Traci                2009 Being of the field
+I5.20 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
+I5.21 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
+I5.22 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
+I5.23 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
+I5.24 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
+I5.25 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
+I5.26 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
 I6.01 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
 I6.02 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
 I6.03 823.92         9780575079076     Robson, Justina               2006 Keeping it real
@@ -1960,54 +1963,55 @@ U1.117 823.912        9780008302757     Tolkien, J. R. R., 1892-19    2018 The f
 U1.118 823.912        9780048232083     Tolkien, J. R. R., 1892-19    1982 Unfinished tales of Númenor and Middle-earth
 U1.119 823.912        9780048233387     Tolkien, J.R.R                1986 The book of lost tales
 U1.120 823.912        9780048232816     Tolkien, J.R.R                1985 The book of lost tales
-U1.121 823.912        9780007252268     Tolkien, John Ronald Reuel    2008 Narn i chîn Húrin : the tale of the children of Húrin
-U1.122 823.912        9780008387952     Tolkien, John Ronald Reuel    2020 Unfinished tales of Númenor and Middle-earth
-U1.123 823.912        9780664226107     Wood, Ralph C.                2003 The gospel according to Tolkien : visions of the kingdom in 
-U1.124 823.914        9780007287024     Ballard, J. G                 2008 Crash
-U1.125 823.914        9780586089965     Ballard, J. G., 1930-2009     2008 The drought
-U1.126 823.914        9780007287048     Ballard, J. G., 1930-2009,    2008 Concrete island
-U1.127 823.914        9780007287031     Ballard, James Graham (193    2008 Hello America
-U1.128 823.914        9780008329754     Ballard, James Graham, 193    2019 Empire of the Sun : a novel
-U1.129 823.914        9780349110110     Banks, Iain, 1954-2013        1998 A song of stone : a novel
-U1.130 823.914        9781857231793     Banks, Iain, 1954-2013        1996 Against a dark background
-U1.131 823.914        9780349101712     Banks, Iain, 1954-2013        1990 Canal dreams
-U1.132 823.914        9780349139135     Banks, Iain, 1954-2013        2013 Complicity
-U1.133 823.914        9781857231380     Banks, Iain, 1954-2013        2003 Consider Phlebas
-U1.134 823.914        9780349116648     Banks, Iain, 1954-2013        2003 Dead air
-U1.135 823.914        9780349102146     Banks, Iain, 1954-2013        1990 Espedair Street
-U1.136 823.914        9781857234572     Banks, Iain, 1954-2013        1997 Excession
-U1.137 823.914        9781857232738     Banks, Iain, 1954-2013        1994 Feersum endjinn
-U1.138 823.914        9781857237634     Banks, Iain, 1954-2013        1999 Inversions
-U1.139 823.914        9781841490595     Banks, Iain, 1954-2013        2001 Look to windward
-U1.140 823.914        9781841494197     Banks, Iain, 1954-2013        2009 Matter
-U1.141 823.914        9781408702512     Banks, Iain, 1954-2013        2012 Stonemouth
-U1.142 823.914        9781841498942     Banks, Iain, 1954-2013        2010 Surface detail
-U1.143 823.914        9781841492292     Banks, Iain, 1954-2013        2005 The algebraist
-U1.144 823.914        9780708883037     Banks, Iain, 1954-2013        1989 The bridge
-U1.145 823.914        9780349139227     Banks, Iain, 1954-2013        2013 The business : a novel
-U1.146 823.914        9780356501512     Banks, Iain, 1954-2013        2012 The hydrogen sonata
-U1.147 823.914        9781857231465     Banks, Iain, 1954-2013        1992 The player of games
-U1.148 823.914        9780349138596     Banks, Iain, 1954-2013        2001 The quarry
-U1.149 823.914        9781857230307     Banks, Iain, 1954-2013        1993 The state of the art
-U1.150 823.914        9780349119281     Banks, Iain, 1954-2013        2012 The steep approach to Garbadale
-U1.151 823.914        9780349101774     Banks, Iain, 1954-2013        1992 The wasp factory : a novel
-U1.152 823.914        9780349119274     Banks, Iain, 1954-2013        2010 Transition
-U1.153 823.914        9781857231359     Banks, Iain, 1954-2013        1992 Use of weapons
-U1.154 823.914        9780349139203     Banks, Iain, 1954-2013        2013 Walking on glass
-U1.155 823.914        9780349107684     Banks, Iain, 1954-2013        1996 Whit, or Isis amongst the unsaved
-U1.156 823.914        9780575075535     Baxter, Stephen               2004 Coalescent
-U1.157 823.914        9780575076556     Baxter, Stephen               2005 Exultant
-U1.158 823.914        9780575084827     Baxter, Stephen               2008 Flood
-U1.159 823.914        9780006511830     Baxter, Stephen               2001 Space
-U1.160 823.914        9781473205109     Baxter, Stephen               None The massacre of mankind : sequel to The war of the worlds
-U1.161 823.914        9780006511823     Baxter, Stephen               2000 Time
-U1.162 823.914        9780002246934     Baxter, Stephen               1998 Traces
-U1.163 823.914        9780006498124     Baxter, Stephen               1998 Vacuum diagrams : stories of the xeelee sequence
-U1.164 823.914        9780006480372     Baxter, Stephen               1997 Voyage
-U1.165 823.914        9780330023122     Clarke, Arthur C              1969 A fall of moondust
-U1.166 823.914        9780151879809     Clarke, Arthur C              1962 Tales of ten worlds
-U1.167 823.914        9780586056998     Clarke, Arthur C. (Arthur     1985 2010 : odyssey two
-U1.168 823.914        9780330240246     Clarke, Arthur C. (Arthur     1974 Rendezvous with Rama
+U1.121 823.912        9780008537838     Tolkien, J.R.R.               2022 The Fall of Númenor: and Other Tales from the Second Age of 
+U1.122 823.912        9780007252268     Tolkien, John Ronald Reuel    2008 Narn i chîn Húrin : the tale of the children of Húrin
+U1.123 823.912        9780008387952     Tolkien, John Ronald Reuel    2020 Unfinished tales of Númenor and Middle-earth
+U1.124 823.912        9780664226107     Wood, Ralph C.                2003 The gospel according to Tolkien : visions of the kingdom in 
+U1.125 823.914        9780007287024     Ballard, J. G                 2008 Crash
+U1.126 823.914        9780586089965     Ballard, J. G., 1930-2009     2008 The drought
+U1.127 823.914        9780007287048     Ballard, J. G., 1930-2009,    2008 Concrete island
+U1.128 823.914        9780007287031     Ballard, James Graham (193    2008 Hello America
+U1.129 823.914        9780008329754     Ballard, James Graham, 193    2019 Empire of the Sun : a novel
+U1.130 823.914        9780349110110     Banks, Iain, 1954-2013        1998 A song of stone : a novel
+U1.131 823.914        9781857231793     Banks, Iain, 1954-2013        1996 Against a dark background
+U1.132 823.914        9780349101712     Banks, Iain, 1954-2013        1990 Canal dreams
+U1.133 823.914        9780349139135     Banks, Iain, 1954-2013        2013 Complicity
+U1.134 823.914        9781857231380     Banks, Iain, 1954-2013        2003 Consider Phlebas
+U1.135 823.914        9780349116648     Banks, Iain, 1954-2013        2003 Dead air
+U1.136 823.914        9780349102146     Banks, Iain, 1954-2013        1990 Espedair Street
+U1.137 823.914        9781857234572     Banks, Iain, 1954-2013        1997 Excession
+U1.138 823.914        9781857232738     Banks, Iain, 1954-2013        1994 Feersum endjinn
+U1.139 823.914        9781857237634     Banks, Iain, 1954-2013        1999 Inversions
+U1.140 823.914        9781841490595     Banks, Iain, 1954-2013        2001 Look to windward
+U1.141 823.914        9781841494197     Banks, Iain, 1954-2013        2009 Matter
+U1.142 823.914        9781408702512     Banks, Iain, 1954-2013        2012 Stonemouth
+U1.143 823.914        9781841498942     Banks, Iain, 1954-2013        2010 Surface detail
+U1.144 823.914        9781841492292     Banks, Iain, 1954-2013        2005 The algebraist
+U1.145 823.914        9780708883037     Banks, Iain, 1954-2013        1989 The bridge
+U1.146 823.914        9780349139227     Banks, Iain, 1954-2013        2013 The business : a novel
+U1.147 823.914        9780356501512     Banks, Iain, 1954-2013        2012 The hydrogen sonata
+U1.148 823.914        9781857231465     Banks, Iain, 1954-2013        1992 The player of games
+U1.149 823.914        9780349138596     Banks, Iain, 1954-2013        2001 The quarry
+U1.150 823.914        9781857230307     Banks, Iain, 1954-2013        1993 The state of the art
+U1.151 823.914        9780349119281     Banks, Iain, 1954-2013        2012 The steep approach to Garbadale
+U1.152 823.914        9780349101774     Banks, Iain, 1954-2013        1992 The wasp factory : a novel
+U1.153 823.914        9780349119274     Banks, Iain, 1954-2013        2010 Transition
+U1.154 823.914        9781857231359     Banks, Iain, 1954-2013        1992 Use of weapons
+U1.155 823.914        9780349139203     Banks, Iain, 1954-2013        2013 Walking on glass
+U1.156 823.914        9780349107684     Banks, Iain, 1954-2013        1996 Whit, or Isis amongst the unsaved
+U1.157 823.914        9780575075535     Baxter, Stephen               2004 Coalescent
+U1.158 823.914        9780575076556     Baxter, Stephen               2005 Exultant
+U1.159 823.914        9780575084827     Baxter, Stephen               2008 Flood
+U1.160 823.914        9780006511830     Baxter, Stephen               2001 Space
+U1.161 823.914        9781473205109     Baxter, Stephen               None The massacre of mankind : sequel to The war of the worlds
+U1.162 823.914        9780006511823     Baxter, Stephen               2000 Time
+U1.163 823.914        9780002246934     Baxter, Stephen               1998 Traces
+U1.164 823.914        9780006498124     Baxter, Stephen               1998 Vacuum diagrams : stories of the xeelee sequence
+U1.165 823.914        9780006480372     Baxter, Stephen               1997 Voyage
+U1.166 823.914        9780330023122     Clarke, Arthur C              1969 A fall of moondust
+U1.167 823.914        9780151879809     Clarke, Arthur C              1962 Tales of ten worlds
+U1.168 823.914        9780586056998     Clarke, Arthur C. (Arthur     1985 2010 : odyssey two
+U1.169 823.914        9780330240246     Clarke, Arthur C. (Arthur     1974 Rendezvous with Rama
 U2.01 823.914        9780552551441     Pratchett, Terry              2005 A hat full of sky
 U2.02 823.914        9780552167611     Pratchett, Terry              2013 Carpe jugulum : a novel of Discworld
 U2.03 823.914        9780552166614     Pratchett, Terry              2012 Equal rites : a Discworld novel

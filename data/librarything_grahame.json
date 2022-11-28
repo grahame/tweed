@@ -234,13 +234,13 @@
     "4": ["Science fiction, American"],
     "5": ["science fiction"]
   },
-  "series": ["Hainish-Zyklus",
-  "Ciclo di Haynish",
+  "series": ["Hainish Cycle",
   "Hain-sviten",
-  "Hainish Cycle",
-  "Hainish-Zyklus, chronologisch",
+  "Ciclo di Haynish",
+  "Hainish-Zyklus",
+  "Hainish Cycle, Chronological",
   "Cycle de l'Ekumen",
-  "Hainish Cycle, Chronological"],
+  "Hainish-Zyklus, chronologisch"],
   "originaltitle": "The Left Hand of Darkness",
   "awards": ["Hugo",
   "Nebula",
@@ -496,8 +496,8 @@
     "25": ["adventure stories"],
     "26": ["historical fiction"]
   },
-  "series": ["Barock-Zyklus",
-  "The Baroque Cycle"],
+  "series": ["The Baroque Cycle",
+  "Barock-Zyklus"],
   "originaltitle": "Quicksilver",
   "awards": ["Arthur C. Clarke Award",
   "Time Magazine's Best Books of the Year",
@@ -573,7 +573,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PZ7.G759 W"
+    "code": "PZ7.G75266 W"
   },
   "subject": {
     "0": ["Amiti\u00e9",
@@ -1624,29 +1624,30 @@
     "20": ["fantasy fiction"],
     "21": ["fiction in English"]
   },
-  "series": ["O Senhor dos An\u00e9is",
-  "Sagan om Ringen",
-  "Ringenes herre",
-  "Le seigneur des anneaux",
-  "El Senyor dels Anells",
-  "P\u00e1n Prsten\u016f",
-  "P\u00e1n prsten\u016f",
-  "In de ban van de ring",
-  "In de Ban van de Ring",
-  "Taru sormusten herrasta",
-  "Taru Sormusten Herrasta",
-  "Der Herr der Ringe",
-  "The Lord of the Rings",
+  "series": ["The Lord of the Rings",
+  "Il Signore degli Anelli",
+  "Gospodar prstenova",
   "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "Il Signore degli Anelli",
-  "Gospodar prstenova",
-  "Gospodar prstenova",
-  "Ringenes herre",
   "El Se\u00f1or de los Anillos",
+  "Der Herr der Ringe",
+  "Le seigneur des anneaux",
+  "Ringenes herre",
+  "Sagan om Ringen",
+  "O Senhor dos An\u00e9is",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
+  "In de ban van de ring",
+  "In de Ban van de Ring",
+  "P\u00e1n Prsten\u016f",
+  "P\u00e1n prsten\u016f",
+  "El Senyor dels Anells",
+  "Ringenes herre",
+  "Gospodar prstenova",
   "Middle-earth",
-  "Mittelerde"],
+  "Mittelerde",
+  "Tierra Media"],
   "originaltitle": "The Silmarillion",
   "awards": ["Ditmar Award",
   "Gandalf Award",
@@ -1733,6 +1734,7 @@
   },
   "series": ["Middle-earth",
   "Mittelerde",
+  "Tierra Media",
   "Tales of Middle Earth",
   "Racconti della Terra di Mezzo"],
   "originaltitle": "The Children of H\u00farin",
@@ -1829,29 +1831,30 @@
     "20": ["fantasy fiction"],
     "21": ["fiction in English"]
   },
-  "series": ["O Senhor dos An\u00e9is",
-  "Sagan om Ringen",
-  "Ringenes herre",
-  "Le seigneur des anneaux",
-  "El Senyor dels Anells",
-  "P\u00e1n Prsten\u016f",
-  "P\u00e1n prsten\u016f",
-  "In de ban van de ring",
-  "In de Ban van de Ring",
-  "Taru sormusten herrasta",
-  "Taru Sormusten Herrasta",
-  "Der Herr der Ringe",
-  "The Lord of the Rings",
+  "series": ["The Lord of the Rings",
+  "Il Signore degli Anelli",
+  "Gospodar prstenova",
   "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "Il Signore degli Anelli",
-  "Gospodar prstenova",
-  "Gospodar prstenova",
-  "Ringenes herre",
   "El Se\u00f1or de los Anillos",
+  "Der Herr der Ringe",
+  "Le seigneur des anneaux",
+  "Ringenes herre",
+  "Sagan om Ringen",
+  "O Senhor dos An\u00e9is",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
+  "In de ban van de ring",
+  "In de Ban van de Ring",
+  "P\u00e1n Prsten\u016f",
+  "P\u00e1n prsten\u016f",
+  "El Senyor dels Anells",
+  "Ringenes herre",
+  "Gospodar prstenova",
   "Middle-earth",
-  "Mittelerde"],
+  "Mittelerde",
+  "Tierra Media"],
   "originaltitle": "The Fellowship of the Ring",
   "awards": ["1001 Children's Books You Must Read Before You Grow Up",
   "IBBY Honour Book",
@@ -1960,29 +1963,30 @@
     "34": ["fantasy fiction"],
     "35": ["fiction in English"]
   },
-  "series": ["O Senhor dos An\u00e9is",
-  "Sagan om Ringen",
-  "Ringenes herre",
-  "Le seigneur des anneaux",
-  "El Senyor dels Anells",
-  "P\u00e1n Prsten\u016f",
-  "P\u00e1n prsten\u016f",
-  "In de ban van de ring",
-  "In de Ban van de Ring",
-  "Taru sormusten herrasta",
-  "Taru Sormusten Herrasta",
-  "Der Herr der Ringe",
-  "The Lord of the Rings",
+  "series": ["The Lord of the Rings",
+  "Il Signore degli Anelli",
+  "Gospodar prstenova",
   "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "Il Signore degli Anelli",
-  "Gospodar prstenova",
-  "Gospodar prstenova",
-  "Ringenes herre",
   "El Se\u00f1or de los Anillos",
+  "Der Herr der Ringe",
+  "Le seigneur des anneaux",
+  "Ringenes herre",
+  "Sagan om Ringen",
+  "O Senhor dos An\u00e9is",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
+  "In de ban van de ring",
+  "In de Ban van de Ring",
+  "P\u00e1n Prsten\u016f",
+  "P\u00e1n prsten\u016f",
+  "El Senyor dels Anells",
+  "Ringenes herre",
+  "Gospodar prstenova",
   "Middle-earth",
-  "Mittelerde"],
+  "Mittelerde",
+  "Tierra Media"],
   "originaltitle": "The Two Towers",
   "genre": ["General Fiction",
   "Fantasy",
@@ -2077,29 +2081,30 @@
     "22": ["fantasy fiction"],
     "23": ["fiction in English"]
   },
-  "series": ["O Senhor dos An\u00e9is",
-  "Sagan om Ringen",
-  "Ringenes herre",
-  "Le seigneur des anneaux",
-  "El Senyor dels Anells",
-  "P\u00e1n Prsten\u016f",
-  "P\u00e1n prsten\u016f",
-  "In de ban van de ring",
-  "In de Ban van de Ring",
-  "Taru sormusten herrasta",
-  "Taru Sormusten Herrasta",
-  "Der Herr der Ringe",
-  "The Lord of the Rings",
+  "series": ["The Lord of the Rings",
+  "Il Signore degli Anelli",
+  "Gospodar prstenova",
   "Gy\u0171r\u0171k Ura",
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
-  "Il Signore degli Anelli",
-  "Gospodar prstenova",
-  "Gospodar prstenova",
-  "Ringenes herre",
   "El Se\u00f1or de los Anillos",
+  "Der Herr der Ringe",
+  "Le seigneur des anneaux",
+  "Ringenes herre",
+  "Sagan om Ringen",
+  "O Senhor dos An\u00e9is",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
+  "In de ban van de ring",
+  "In de Ban van de Ring",
+  "P\u00e1n Prsten\u016f",
+  "P\u00e1n prsten\u016f",
+  "El Senyor dels Anells",
+  "Ringenes herre",
+  "Gospodar prstenova",
   "Middle-earth",
-  "Mittelerde"],
+  "Mittelerde",
+  "Tierra Media"],
   "originaltitle": "The Lord of the Rings: The Return of the King",
   "awards": ["Academy Award for Writing Adapted Screenplay",
   "Whitcoulls top 100, 2008",
@@ -3768,11 +3773,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["791.450232092"],
-    "wording": ["Arts and Recreation",
-    "Film, Radio, and Television",
+    "wording": ["Film, Radio, and Television",
     "Public performances",
     "Recreational and performing arts",
-    "Television"]
+    "Television",
+    "The arts"]
   },
   "lcc": {
     "code": "PN1992.R55 F47"
@@ -4265,9 +4270,9 @@
     "code": "HV9713 .S6413"
   },
   "series": ["De Goelag Archipel, 1918-1956",
-  "Archipelag Gu\u0142ag",
   "The Gulag Archipelago",
-  "Der Archipel GULAG"],
+  "Der Archipel GULAG",
+  "Archipelag Gu\u0142ag"],
   "originaltitle": "\u0410\u0440\u0445\u0438\u043f\u0435\u043b\u0430\u0433 \u0413\u0423\u041b\u0410\u0413",
   "awards": ["New York Times Best Books of the Year",
   "National Review's 100 Best Nonfiction Books of the Century",
@@ -4473,8 +4478,8 @@
   "lcc": {
     "code": "PS3572.I534"
   },
-  "series": ["Across Realtime",
-  "Las Burbujas"],
+  "series": ["Las Burbujas",
+  "Across Realtime"],
   "genre": ["Science Fiction",
   "All Topics",
   "Fiction",
@@ -4966,19 +4971,19 @@
   },
   "series": ["Dirk Gentle, d\u00e9tective holistique",
   "Dirk Gently",
+  "The Hitchhiker's Guide to the Galaxy",
+  "Autostopem przez Galaktyk\u0119",
+  "H2G2",
+  "Per Anhalter durch die Galaxis",
+  "Het transgalactisch liftershandboek",
+  "Liftartrilogin",
+  "Gu\u00eda del autoestopista gal\u00e1ctico",
   "La Gu\u00eda del Autoestopista Gal\u00e1ctico",
   "Galaxis utikalauz",
-  "Guida galattica per gli autostoppisti",
   "O Guia do Mochileiro das Gal\u00e1xias",
-  "Gu\u00eda del autoestopista gal\u00e1ctico",
-  "Per Anhalter durch die Galaxis",
-  "H2G2",
-  "Autostopem przez Galaktyk\u0119",
-  "The Hitchhiker's Guide to the Galaxy",
-  "Liftartrilogin",
-  "Het transgalactisch liftershandboek",
-  "Stopa\u0159\u016fv pr\u016fvodce po Galaxii",
-  "Galakse-blafferen"],
+  "Guida galattica per gli autostoppisti",
+  "Galakse-blafferen",
+  "Stopa\u0159\u016fv pr\u016fvodce po Galaxii"],
   "originaltitle": "The Salmon of Doubt: Hitchhiking the Galaxy One Last Time",
   "genre": ["All Topics",
   "Fiction"],
@@ -5450,9 +5455,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["791"],
-    "wording": ["Arts and Recreation",
-    "Public performances",
-    "Recreational and performing arts"]
+    "wording": ["Public performances",
+    "Recreational and performing arts",
+    "The arts"]
   },
   "lcc": {
     "code": "PR6062.Y618 Y4"
@@ -6563,7 +6568,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6011.O56 Y6"
+    "code": "PR6011.O56"
   },
   "subject": {
     "0": ["Great Britain",
@@ -9270,9 +9275,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["790.01"],
-    "wording": ["Arts and Recreation",
+    "wording": ["Recreational and performing arts",
     "Recreational and performing arts",
-    "Recreational and performing arts"]
+    "The arts"]
   },
   "lcc": {
     "code": "GV1201 .D374"
@@ -11501,11 +11506,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["779.092"],
-    "wording": ["Arts and Recreation",
-    "Collections by individual photographers",
+    "wording": ["Collections by individual photographers",
     "Photographic images",
     "Photographs by origin of artist",
-    "Photography, computer art, cinematography, videography"]
+    "Photography, computer art, cinematography, videography",
+    "The arts"]
   },
   "lcc": {
     "code": "TR140.A265 A3"
@@ -12566,13 +12571,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.56994"],
-    "wording": ["Arts and Recreation",
-    "Australasian",
+    "wording": ["Australasian",
     "Cartoons, Caricatures, Comic Strips",
     "Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "genre": ["Comics",
@@ -12629,11 +12634,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["709.470749411"],
-    "wording": ["Arts and Recreation",
-    "Europe",
-    "Historical, geographic, persons treatment of fine and decorative arts",
+    "wording": ["Europe",
+    "History, geographic treatment, biography",
+    "Modified subdivisions of the arts",
     "Russia & Eastern Europe",
-    "The Arts / Fine and decorative arts"]
+    "The arts"]
   },
   "lcc": {
     "code": "N6987 .S7"
@@ -12683,10 +12688,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "genre": ["General Nonfiction",
@@ -20547,8 +20552,10 @@
   ["Spiritual life",
   "Catholic church"]],
   "genre": ["Religion & Spirituality",
+  "All Topics",
   "Nonfiction"],
   "genre_id": ["1944",
+  "8292535",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "1447541",
@@ -20665,12 +20672,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["780.943613"],
-    "wording": ["Arts and Recreation",
-    "Biography And History",
+    "wording": ["Biography And History",
     "Europe",
     "Germany & Central Europe",
     "Music",
-    "Music"]
+    "Music",
+    "The arts"]
   },
   "lcc": {
     "code": "BX2170.L4 H84"
@@ -26332,10 +26339,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["745.6"],
-    "wording": ["Arts and Recreation",
-    "Calligraphy, illumination, heraldic design",
+    "wording": ["Calligraphy, illumination, heraldic design",
     "Decorative Arts",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": {
     "code": "ND3359.L5 B3"
@@ -28339,6 +28346,7 @@
   "Der Herr der Ringe",
   "Gospodar prstenova",
   "The Lord of the Rings",
+  "Tierra Media",
   "Mittelerde",
   "Middle-earth"],
   "originaltitle": "The hobbit",
@@ -29011,10 +29019,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": {
     "code": "PN6728.P4 S327"
@@ -29247,13 +29255,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5993"],
-    "wording": ["Arts and Recreation",
-    "Australasian",
+    "wording": ["Australasian",
     "Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
-    "New Zealand"]
+    "New Zealand",
+    "The arts"]
   },
   "lcc": {
     "code": "NC1761.P3 B8"
@@ -29624,9 +29632,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["794"],
-    "wording": ["Arts and Recreation",
-    "Indoor games of skill; board games",
-    "Recreational and performing arts"]
+    "wording": ["Indoor games of skill; board games",
+    "Recreational and performing arts",
+    "The arts"]
   },
   "lcc": {
     "code": "GV1469.D84 G94"
@@ -29681,10 +29689,10 @@
   "ddc": {
     "code": ["793.93"],
     "wording": ["Adventure and fantasy games",
-    "Arts and Recreation",
     "Indoor games and amusements",
     "Other indoor amusements",
-    "Recreational and performing arts"]
+    "Recreational and performing arts",
+    "The arts"]
   },
   "lcc": {
     "code": "GV1469.B23 C61"
@@ -29739,8 +29747,7 @@
   "fre"],
   "ddc": {
     "code": ["782.42166092"],
-    "wording": ["Arts and Recreation",
-    "Biography",
+    "wording": ["Biography",
     "General principles and musical forms",
     "History, geographic treatment, biography",
     "Music",
@@ -29748,6 +29755,7 @@
     "Secular Forms of vocal music",
     "Secular songs",
     "Song genres",
+    "The arts",
     "Vocal music"]
   },
   "lcc": {
@@ -30138,12 +30146,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -30380,9 +30388,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts and Recreation",
-    "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "wording": ["Drawing &  drawings",
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": {
     "code": "PN6714 .N67"
@@ -30441,13 +30449,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5994"],
-    "wording": ["Arts and Recreation",
-    "Australasian",
+    "wording": ["Australasian",
     "Australia",
     "Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "genre": ["Comics",
@@ -30771,10 +30779,10 @@
   "summary": "Mungo Bean by Jessica McLeod (2007)",
   "ddc": {
     "code": ["741.51"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "genre": ["Comics",
@@ -30807,10 +30815,10 @@
   "summary": "Libraryland! by Oslo Davis (2011)",
   "ddc": {
     "code": ["741.51"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "genre": ["Comics",
@@ -30843,10 +30851,10 @@
   "summary": "Where the wild things aren't by Oslo Davis (?)",
   "ddc": {
     "code": ["741.51"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "genre": ["Comics",
@@ -31830,10 +31838,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["779.309905"],
-    "wording": ["Arts and Recreation",
-    "Nature and still life",
+    "wording": ["Nature and still life",
     "Photographic images",
-    "Photography, computer art, cinematography, videography"]
+    "Photography, computer art, cinematography, videography",
+    "The arts"]
   },
   "lcc": {
     "code": "TR721 .A97"
@@ -32683,8 +32691,8 @@
     "code": ["711.4"],
     "wording": ["Area planning (Civic art)",
     "Area planning and landscape architecture",
-    "Arts and Recreation",
-    "Local community planning (City planning)"]
+    "Local community planning (City planning)",
+    "The arts"]
   },
   "lcc": {
     "code": "QH541.29"
@@ -33062,9 +33070,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["778.71"],
-    "wording": ["Arts and Recreation",
-    "Photography, computer art, cinematography, videography",
-    "Special Applications"]
+    "wording": ["Photography, computer art, cinematography, videography",
+    "Special Applications",
+    "The arts"]
   },
   "lcc": {
     "code": "TR721 .T43"
@@ -33227,12 +33235,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -33344,13 +33352,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5941"],
-    "wording": ["Arts and Recreation",
-    "British Isles",
+    "wording": ["British Isles",
     "Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "European",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": {
     "code": "PN6737.M66 W38"
@@ -33438,12 +33446,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -33517,12 +33525,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -33600,12 +33608,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -33679,12 +33687,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -33755,12 +33763,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -33838,12 +33846,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -33919,12 +33927,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -34000,12 +34008,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -34083,12 +34091,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -34163,12 +34171,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -34251,12 +34259,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -38668,10 +38676,10 @@
   "jpn"],
   "ddc": {
     "code": ["784.2092"],
-    "wording": ["Arts and Recreation",
-    "Full symphony orchestra [formerly: Complete choral works]",
+    "wording": ["Full symphony orchestra [formerly: Complete choral works]",
     "Instruments and instrumental ensembles and their music [formerly: Voice and vocal music]",
-    "Music"]
+    "Music",
+    "The arts"]
   },
   "lcc": {
     "code": "ML422.O9 A5"
@@ -41652,10 +41660,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["792.702"],
-    "wording": ["Arts and Recreation",
-    "Recreational and performing arts",
+    "wording": ["Recreational and performing arts",
     "Stage presentations, Theatre",
     "Techniques, procedures, apparatus, materials",
+    "The arts",
     "Variety shows and theatrical dancing"]
   },
   "lcc": {
@@ -44242,10 +44250,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["795.4"],
-    "wording": ["Arts and Recreation",
-    "Card games",
+    "wording": ["Card games",
     "Games of chance",
-    "Recreational and performing arts"]
+    "Recreational and performing arts",
+    "The arts"]
   },
   "lcc": {
     "code": "GV1282 .F63"
@@ -44434,13 +44442,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["791.4572"],
-    "wording": ["Arts and Recreation",
-    "Film, Radio, and Television",
+    "wording": ["Film, Radio, and Television",
     "Public performances",
     "Recreational and performing arts",
     "Single Programs",
     "TV Programs",
-    "Television"]
+    "Television",
+    "The arts"]
   },
   "lcc": {
     "code": "QB500 .K65"
@@ -48927,10 +48935,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.6019"],
-    "wording": ["Arts and Recreation",
-    "Drawing &  drawings",
+    "wording": ["Drawing &  drawings",
     "Graphic arts and decorative arts",
-    "Graphic design, illustration, commercial art"]
+    "Graphic design, illustration, commercial art",
+    "The arts"]
   },
   "lcc": {
     "code": "NC997 .M24"
@@ -49220,9 +49228,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts and Recreation",
-    "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "wording": ["Drawing &  drawings",
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": {
     "code": "NC1429.M86"
@@ -51763,12 +51771,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["799.10994"],
-    "wording": ["Arts and Recreation",
-    "Biography; History By Place",
+    "wording": ["Biography; History By Place",
     "Fishing",
     "Fishing, hunting, target shooting",
     "Pacific",
-    "Recreational and performing arts"]
+    "Recreational and performing arts",
+    "The arts"]
   },
   "lcc": [],
   "genre": ["Hunting and Fishing",
@@ -58572,14 +58580,14 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["Fundaci\u00f3n y Robots",
+  "series": ["FOUNDATION",
+  "Der Foundation-Zyklus",
+  "Fundaci\u00f3n y Robots",
   "Robot/Imperium/Fundacja - Story Order",
   "Robot/Fundacja",
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
-  "FOUNDATION",
-  "Der Foundation-Zyklus",
   "Rom\u00e1ny o robotech",
   "Die Roboter-Romane",
   "Isaac Asimov's Robot Series",
@@ -58751,6 +58759,7 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
+  "Alap\u00edtv\u00e1ny",
   "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
@@ -58764,17 +58773,16 @@
   "Trilog\u00eda de la Fundaci\u00f3n",
   "Fondation",
   "Cycle de Fondation",
-  "Alap\u00edtv\u00e1ny",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
+  "FOUNDATION",
+  "Der Foundation-Zyklus",
   "Fundaci\u00f3n y Robots",
   "Robot/Imperium/Fundacja - Story Order",
   "Robot/Fundacja",
   "Foundation Expanded Universe",
   "Robot/Foundation",
-  "Robot/Empire/Foundation - Chronological",
-  "FOUNDATION",
-  "Der Foundation-Zyklus"],
+  "Robot/Empire/Foundation - Chronological"],
   "originaltitle": "Foundation's Edge",
   "awards": ["1000 Books to Read Before You Die"],
   "genre": ["Science Fiction",
@@ -58850,14 +58858,14 @@
     "9": ["Science fiction"],
     "11": ["science fiction"]
   },
-  "series": ["Fundaci\u00f3n y Robots",
+  "series": ["FOUNDATION",
+  "Der Foundation-Zyklus",
+  "Fundaci\u00f3n y Robots",
   "Robot/Imperium/Fundacja - Story Order",
   "Robot/Fundacja",
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
-  "FOUNDATION",
-  "Der Foundation-Zyklus",
   "Rom\u00e1ny o robotech",
   "Die Roboter-Romane",
   "Isaac Asimov's Robot Series",
@@ -58932,14 +58940,14 @@
     "4": ["Science fiction, American"],
     "5": ["science fiction"]
   },
-  "series": ["Fundaci\u00f3n y Robots",
+  "series": ["FOUNDATION",
+  "Der Foundation-Zyklus",
+  "Fundaci\u00f3n y Robots",
   "Robot/Imperium/Fundacja - Story Order",
   "Robot/Fundacja",
   "Foundation Expanded Universe",
   "Robot/Foundation",
   "Robot/Empire/Foundation - Chronological",
-  "FOUNDATION",
-  "Der Foundation-Zyklus",
   "L'empire de Trantor",
   "Die Imperium-Romane",
   "Imperio Gal\u00e1ctico",
@@ -59103,6 +59111,7 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
+  "Alap\u00edtv\u00e1ny",
   "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
@@ -59116,17 +59125,16 @@
   "Trilog\u00eda de la Fundaci\u00f3n",
   "Fondation",
   "Cycle de Fondation",
-  "Alap\u00edtv\u00e1ny",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
+  "FOUNDATION",
+  "Der Foundation-Zyklus",
   "Fundaci\u00f3n y Robots",
   "Robot/Imperium/Fundacja - Story Order",
   "Robot/Fundacja",
   "Foundation Expanded Universe",
   "Robot/Foundation",
-  "Robot/Empire/Foundation - Chronological",
-  "FOUNDATION",
-  "Der Foundation-Zyklus"],
+  "Robot/Empire/Foundation - Chronological"],
   "awards": ["1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
   "1000 Books to Read Before You Die"],
   "genre": ["Science Fiction",
@@ -59209,6 +59217,7 @@
     "15": ["science fiction"]
   },
   "series": ["De Foundation",
+  "Alap\u00edtv\u00e1ny",
   "Ciclo delle Fondazioni",
   "Trilogia de les Fundacions",
   "Serijal o Zakladi",
@@ -59222,17 +59231,16 @@
   "Trilog\u00eda de la Fundaci\u00f3n",
   "Fondation",
   "Cycle de Fondation",
-  "Alap\u00edtv\u00e1ny",
-  "Die Foundation-Romane",
   "Foundation",
+  "Die Foundation-Romane",
+  "FOUNDATION",
+  "Der Foundation-Zyklus",
   "Fundaci\u00f3n y Robots",
   "Robot/Imperium/Fundacja - Story Order",
   "Robot/Fundacja",
   "Foundation Expanded Universe",
   "Robot/Foundation",
-  "Robot/Empire/Foundation - Chronological",
-  "FOUNDATION",
-  "Der Foundation-Zyklus"],
+  "Robot/Empire/Foundation - Chronological"],
   "originaltitle": "Foundation",
   "awards": ["Guardian 1000",
   "1001 Books You Must Read Before You Die",
@@ -59307,8 +59315,8 @@
     "code": "PR6052.A849 R3"
   },
   "series": ["Xeelee Sequence",
-  "Cycle des Xeelees",
-  "Der Xeelee-Zyklus"],
+  "Der Xeelee-Zyklus",
+  "Cycle des Xeelees"],
   "genre": ["Science Fiction",
   "All Topics",
   "Fiction",
@@ -60020,10 +60028,10 @@
   "summary": "Riley: Moments in the Life Of by Riley Salmon-Lomas (?)",
   "ddc": {
     "code": ["741.51"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Drawing &  drawings",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "genre": ["Comics",
@@ -60559,11 +60567,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["704.9482"],
-    "wording": ["Arts and Recreation",
-    "Iconography",
+    "wording": ["Iconography",
+    "Modified subdivisions of the arts",
     "Religious art",
     "Special topics in fine and decorative arts",
-    "The Arts / Fine and decorative arts"]
+    "The arts"]
   },
   "lcc": {
     "code": "N8187"
@@ -60974,7 +60982,8 @@
   "lcc": {
     "code": "PR6039.O32 B47"
   },
-  "series": ["Mittelerde",
+  "series": ["Tierra Media",
+  "Mittelerde",
   "Middle-earth",
   "Racconti della Terra di Mezzo",
   "Tales of Middle Earth"],
@@ -62324,7 +62333,8 @@
   ["Fantasy poetry, English"],
   ["Middle Earth (Imaginary place)",
   "Juvenile poetry"]],
-  "series": ["Mittelerde",
+  "series": ["Tierra Media",
+  "Mittelerde",
   "Middle-earth"],
   "genre": ["Fantasy",
   "All Topics",
@@ -62499,7 +62509,8 @@
   "lcc": {
     "code": "PR6039.O32 F354"
   },
-  "series": ["Mittelerde",
+  "series": ["Tierra Media",
+  "Mittelerde",
   "Middle-earth",
   "Racconti della Terra di Mezzo",
   "Tales of Middle Earth"],
@@ -66221,12 +66232,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
     "North American",
+    "The arts",
     "United States (General)"]
   },
   "lcc": {
@@ -69861,8 +69872,10 @@
   "subject": [["Bible. N.T. Matthew",
   "Theology"]],
   "genre": ["Religion & Spirituality",
+  "All Topics",
   "Nonfiction"],
   "genre_id": ["1944",
+  "8292535",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "187184",
@@ -73397,11 +73410,10 @@
     "37": ["fantastic fiction"],
     "38": ["fantasy"]
   },
-  "series": ["Alice in Wonderland: Publication Order",
-  "Les aventures d'Alice",
-  "Le avventure di Alice",
+  "series": ["Alice in Wonderland",
   "Alice's Adventures",
-  "Splendour Books"],
+  "Le avventure di Alice",
+  "Les aventures d'Alice"],
   "originaltitle": "Alice in Wonderland",
   "awards": ["Waterstones The Nation's Favourite Children's Books",
   "IBBY Honour Book",
@@ -76063,10 +76075,10 @@
     "England",
     "Fiction"]
   },
-  "series": ["Sherlock Holmes",
-  "S\u00e4mtliche Sherlock-Holmes-Erz\u00e4hlungen",
+  "series": ["S\u00e4mtliche Sherlock-Holmes-Erz\u00e4hlungen",
   "Avanture \u0160erloka Holmsa",
-  "Conan Doyle : Sherlock Holmes"],
+  "Conan Doyle : Sherlock Holmes",
+  "Sherlock Holmes"],
   "genre": ["Mystery",
   "All Topics",
   "Fiction"],
@@ -76137,10 +76149,10 @@
     "England",
     "Fiction"]
   },
-  "series": ["Sherlock Holmes",
-  "S\u00e4mtliche Sherlock-Holmes-Erz\u00e4hlungen",
+  "series": ["S\u00e4mtliche Sherlock-Holmes-Erz\u00e4hlungen",
   "Avanture \u0160erloka Holmsa",
-  "Conan Doyle : Sherlock Holmes"],
+  "Conan Doyle : Sherlock Holmes",
+  "Sherlock Holmes"],
   "awards": ["The Telegraph's 110 Best Books: The Perfect Library"],
   "genre": ["Mystery",
   "All Topics",
@@ -76206,10 +76218,8 @@
   ["Paul, The Apostle, Saint"],
   ["Paul, the Apostle, Saint"]],
   "genre": ["Religion & Spirituality",
-  "All Topics",
   "Nonfiction"],
   "genre_id": ["1944",
-  "8292535",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "1112522",
@@ -76499,8 +76509,10 @@
   "subject": [["Bible. N.T.",
   "Criticism, Narrative"]],
   "genre": ["Religion & Spirituality",
+  "All Topics",
   "Nonfiction"],
   "genre_id": ["1944",
+  "8292535",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "799198",
@@ -80215,11 +80227,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["759.94"],
-    "wording": ["Arts and Recreation",
-    "Europe",
+    "wording": ["Europe",
     "History, geographic treatment, biography",
     "Other geographic areas",
-    "Painting"]
+    "Painting",
+    "The arts"]
   },
   "lcc": {
     "code": "N7430.W39"
@@ -80298,9 +80310,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["709"],
-    "wording": ["Arts and Recreation",
-    "Historical, geographic, persons treatment of fine and decorative arts",
-    "The Arts / Fine and decorative arts"]
+    "wording": ["History, geographic treatment, biography",
+    "Modified subdivisions of the arts",
+    "The arts"]
   },
   "lcc": {
     "code": "N5300 .G643"
@@ -80374,9 +80386,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["709"],
-    "wording": ["Arts and Recreation",
-    "Historical, geographic, persons treatment of fine and decorative arts",
-    "The Arts / Fine and decorative arts"]
+    "wording": ["History, geographic treatment, biography",
+    "Modified subdivisions of the arts",
+    "The arts"]
   },
   "lcc": {
     "code": "N5300 .A142"
@@ -88588,7 +88600,8 @@
     "Fiction"],
     "5": ["Short stories, English"]
   },
-  "series": ["Middle-earth",
+  "series": ["Tierra Media",
+  "Middle-earth",
   "Mittelerde"],
   "originaltitle": "Unfinished Tales of N\u00famenor and Middle-earth",
   "awards": ["Mythopoeic Fantasy Award",
@@ -88906,10 +88919,10 @@
   "fre"],
   "ddc": {
     "code": ["709.252"],
-    "wording": ["Arts and Recreation",
-    "Historical, geographic, persons treatment of fine and decorative arts",
-    "Persons (artists not limited to a specific form)",
-    "The Arts / Fine and decorative arts"]
+    "wording": ["Biography (artists not limited to a specific form)",
+    "History, geographic treatment, biography",
+    "Modified subdivisions of the arts",
+    "The arts"]
   },
   "lcc": {
     "code": "N8354.H63"
@@ -88992,8 +89005,6 @@
     "12": ["humorous fiction"]
   },
   "series": ["Scheibenwelt",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
@@ -89001,7 +89012,7 @@
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
-  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
+  "Diskd\u00fcnya",
   "Korongvil\u00e1g",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
@@ -89009,11 +89020,10 @@
   "Plochozem",
   "Kettamaailm",
   "Disksvijet",
+  "Biblioteca Terry Pratchett",
+  "Mundodisco : Los Magos",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Diskd\u00fcnya",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
@@ -89022,8 +89032,11 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
-  "Biblioteca Terry Pratchett",
-  "Mundodisco : Los Magos",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -89104,8 +89117,6 @@
   ["fantasy fiction"],
   ["science fiction"]],
   "series": ["Scheibenwelt",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
@@ -89113,7 +89124,7 @@
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
-  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
+  "Diskd\u00fcnya",
   "Korongvil\u00e1g",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
@@ -89121,11 +89132,10 @@
   "Plochozem",
   "Kettamaailm",
   "Disksvijet",
+  "Biblioteca Terry Pratchett",
+  "Mundodisco : Los Magos",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Diskd\u00fcnya",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
@@ -89134,8 +89144,11 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
-  "Biblioteca Terry Pratchett",
-  "Mundodisco : Los Magos",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld: Death",
   "Mundodisco: La Muerte",
   "Scheibenwelt: Der Tod",
@@ -89225,8 +89238,6 @@
     "11": ["science fiction"]
   },
   "series": ["Scheibenwelt",
-  "Disksvet",
-  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld",
   "Mondo Disco",
   "Skivv\u00e4rlden",
@@ -89234,7 +89245,7 @@
   "Disque-monde",
   "Les Annales du Disque-Monde",
   "Mundodisco",
-  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
+  "Diskd\u00fcnya",
   "Korongvil\u00e1g",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Lumea Disc",
@@ -89242,11 +89253,10 @@
   "Plochozem",
   "Kettamaailm",
   "Disksvijet",
+  "Biblioteca Terry Pratchett",
+  "Mundodisco : Los Magos",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Diskverden",
-  "Zem\u011bplocha",
-  "\u00da\u017easn\u00e1 Zem\u011bplocha",
-  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Diskd\u00fcnya",
   "Kiekkomaailma",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Skiveverdenen",
@@ -89255,8 +89265,11 @@
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
-  "Biblioteca Terry Pratchett",
-  "Mundodisco : Los Magos",
+  "Zem\u011bplocha",
+  "\u00da\u017easn\u00e1 Zem\u011bplocha",
+  "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
+  "Disksvet",
+  "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Discworld: Witches",
   "Mundodisco: Brujas",
   "Skivv\u00e4rlden: H\u00e4xorna",
@@ -95568,11 +95581,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["791.43"],
-    "wording": ["Arts and Recreation",
-    "Film",
+    "wording": ["Film",
     "Film, Radio, and Television",
     "Public performances",
-    "Recreational and performing arts"]
+    "Recreational and performing arts",
+    "The arts"]
   },
   "lcc": {
     "code": "PN1995.J4 R45"
@@ -96639,9 +96652,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["755.4"],
-    "wording": ["Arts and Recreation",
-    "Painting",
-    "Religious; Ecclesiastic "]
+    "wording": ["Painting",
+    "Religious; Ecclesiastic ",
+    "The arts"]
   },
   "lcc": {
     "code": "N8023 .A78"
@@ -98323,7 +98336,7 @@
     "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B2430.W473 P43"
+    "code": "B2430.W473 P413"
   },
   "subject": [["Life"],
   ["Meditations"],
@@ -99732,11 +99745,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.509"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
-    "History"]
+    "History",
+    "The arts"]
   },
   "lcc": {
     "code": "PN6710 .W46"
@@ -100672,10 +100685,12 @@
   },
   "genre": ["Biography & Memoir",
   "General Nonfiction",
+  "All Topics",
   "Biography",
   "Nonfiction"],
   "genre_id": ["1240",
   "1247",
+  "8292535",
   "20216197",
   "20275895"],
   "source": "amazon.com books",
@@ -110404,7 +110419,8 @@
   "lcc": {
     "code": "PR6039.O32 L43"
   },
-  "series": ["Mittelerde",
+  "series": ["Tierra Media",
+  "Mittelerde",
   "Middle-earth"],
   "genre": ["General Fiction",
   "Fantasy",
@@ -110803,7 +110819,8 @@
     "Fiction"],
     "7": ["fantasy"]
   },
-  "series": ["Mittelerde",
+  "series": ["Tierra Media",
+  "Mittelerde",
   "Middle-earth"],
   "originaltitle": "Tales from the Perilous Realm: Roverandom and Other Classic Faery Stories",
   "genre": ["Fantasy",
@@ -127819,6 +127836,7 @@
   },
   "series": ["The Expanse"],
   "originaltitle": "Leviathan Falls",
+  "awards": ["Goodreads Choice Award Nominee"],
   "genre": ["Science Fiction",
   "Audiobooks",
   "All Topics",
@@ -130044,6 +130062,7 @@
     "code": "PS3607.O59774 A6"
   },
   "originaltitle": "Call Us What We Carry: Poems",
+  "awards": ["Goodreads Choice Award Nominee"],
   "genre": ["All Topics",
   "Fiction"],
   "genre_id": ["8292535",
@@ -131300,7 +131319,8 @@
   "lcc": {
     "code": "PR6039.O32 N38"
   },
-  "series": ["Mittelerde",
+  "series": ["Tierra Media",
+  "Mittelerde",
   "Middle-earth"],
   "originaltitle": "The nature of Middle-Earth",
   "genre": ["Fantasy",
@@ -131606,10 +131626,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.6"],
-    "wording": ["Arts and Recreation",
-    "Drawing &  drawings",
+    "wording": ["Drawing &  drawings",
     "Graphic arts and decorative arts",
-    "Graphic design, illustration, commercial art"]
+    "Graphic design, illustration, commercial art",
+    "The arts"]
   },
   "lcc": {
     "code": "N6797.T64 A4"
@@ -132500,9 +132520,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["792"],
-    "wording": ["Arts and Recreation",
-    "Recreational and performing arts",
-    "Stage presentations, Theatre"]
+    "wording": ["Recreational and performing arts",
+    "Stage presentations, Theatre",
+    "The arts"]
   },
   "lcc": {
     "code": "PS3607.U49 L37"
@@ -132732,20 +132752,21 @@
   "\u015ar\u00f3dziemie",
   "W\u0142adca Pier\u015bcieni",
   "El Se\u00f1or de los Anillos",
-  "Gospodar prstenova",
-  "Der Herr der Ringe",
   "Ringenes herre",
-  "Le seigneur des anneaux",
   "Sagan om Ringen",
+  "Der Herr der Ringe",
+  "Le seigneur des anneaux",
   "O Senhor dos An\u00e9is",
+  "Taru sormusten herrasta",
+  "Taru Sormusten Herrasta",
+  "Gospodar prstenova",
   "Ringenes herre",
   "El Senyor dels Anells",
   "P\u00e1n Prsten\u016f",
   "P\u00e1n prsten\u016f",
   "In de ban van de ring",
   "In de Ban van de Ring",
-  "Taru sormusten herrasta",
-  "Taru Sormusten Herrasta",
+  "Tierra Media",
   "Mittelerde",
   "Middle-earth"],
   "originaltitle": "The Lord of the Rings",
@@ -133906,10 +133927,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["781.2"],
-    "wording": ["Arts and Recreation",
-    "General principles and musical forms",
+    "wording": ["General principles and musical forms",
     "Music",
-    "Technical Music Theory"]
+    "Technical Music Theory",
+    "The arts"]
   },
   "lcc": {
     "code": "MT7"
@@ -134151,29 +134172,28 @@
     "Fiction"],
     "13": ["fantasy fiction"]
   },
-  "series": ["Diskd\u00fcnya",
+  "series": ["Kiekkomaailma",
   "Plochozem",
-  "Discworld",
+  "Mondo Disco",
   "Kettamaailm",
   "Disksvijet",
+  "Discworld",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
   "Scheibenwelt",
-  "Mondo Disco",
+  "Skivv\u00e4rlden",
   "Lumea Disc",
-  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
-  "Kiekkomaailma",
-  "Mundodisco",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
+  "Diskd\u00fcnya",
+  "Skiveverdenen",
+  "Mundodisco",
   "Disque-monde",
   "Les Annales du Disque-Monde",
-  "Schijfwereld",
-  "Skiveverdenen",
-  "Skivv\u00e4rlden",
   "\u015awiat Dysku",
+  "Schijfwereld",
   "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
   "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Disgfyd",
@@ -134184,12 +134204,13 @@
   "Diskverden",
   "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
   "Korongvil\u00e1g",
+  "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
   "Tiffany Aching",
   "Ein M\u00e4rchen von der Scheibenwelt",
   "Discworld: Tiffany Aching",
+  "Roman du Disque-Monde",
   "Mundodisco: Juvenil",
-  "Discworld: Young Adult",
-  "Roman du Disque-Monde"],
+  "Discworld: Young Adult"],
   "originaltitle": "The Wee Free Men",
   "awards": ["ALA Notable Children's Book",
   "Locus",
@@ -134401,7 +134422,6 @@
   "lcc": {
     "code": "PR6119.H365"
   },
-  "originaltitle": "The Priory of the Orange Tree",
   "awards": ["Chicago Public Library Best of the Best Book List",
   "Lambda Literary Award Finalist"],
   "genre": ["Fantasy",
@@ -136502,10 +136522,10 @@
     "code": "PR6023.E926 A6"
   },
   "series": ["Kosmin\u0117 trilogija",
+  "\u5225\u4e16\u754c\u7269\u8a9e",
   "La trilogie cosmique",
-  "Space Trilogy",
   "Trilog\u00eda C\u00f3smica",
-  "\u5225\u4e16\u754c\u7269\u8a9e"],
+  "Space Trilogy"],
   "originaltitle": "The Cosmic Trilogy: Out of the Silent Planet; Perelandra; That Hideous Strength",
   "awards": ["NPR's Top 100 Science-Fiction, Fantasy Books"],
   "genre": ["Science Fiction",
@@ -136978,7 +136998,9 @@
     "Home and family management",
     "Technology and Application of Knowledge"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "TX769.R648"
+  },
   "genre": ["Food & Cooking",
   "Nonfiction"],
   "genre_id": ["20444",
@@ -137564,19 +137586,19 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5944"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "European",
     "France & Monaco",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "series": ["Asterix",
   "Asterix",
-  "Asteriks",
   "Ast\u00e9rix",
+  "Asteriks",
   "Asterix",
   "\u0391\u03c3\u03c4\u03b5\u03c1\u03af\u03be",
   "Asterix",
@@ -137632,13 +137654,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5944"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "European",
     "France & Monaco",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": [],
   "series": ["Asterix seikkailee",
@@ -137694,13 +137716,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5944"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "European",
     "France & Monaco",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": {
     "code": "PN6748.A8 G658513"
@@ -137765,13 +137787,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5944"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "European",
     "France & Monaco",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": {
     "code": "PN6748.A8 G658513"
@@ -137837,13 +137859,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5944"],
-    "wording": ["Arts and Recreation",
-    "Cartoons, Caricatures, Comics",
+    "wording": ["Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "European",
     "France & Monaco",
-    "Graphic arts and decorative arts"]
+    "Graphic arts and decorative arts",
+    "The arts"]
   },
   "lcc": {
     "code": "PN6748.A8 G6613"
@@ -138526,6 +138548,7 @@
   "lcc": {
     "code": "PR9199.M3347 S43"
   },
+  "awards": ["Goodreads Choice Award Nominee"],
   "genre": ["General Fiction",
   "Science Fiction",
   "Audiobooks",
@@ -142915,6 +142938,7 @@
   "lcc": {
     "code": "PR9387.E42 Y68"
   },
+  "awards": ["Goodreads Choice Award Nominee"],
   "genre": ["General Fiction",
   "Audiobooks",
   "Romance",
@@ -143837,11 +143861,11 @@
   "ddc": {
     "code": ["704.9432"],
     "wording": ["Animals in art",
-    "Arts and Recreation",
     "Iconography",
+    "Modified subdivisions of the arts",
     "Nature and still life",
     "Special topics in fine and decorative arts",
-    "The Arts / Fine and decorative arts"]
+    "The arts"]
   },
   "lcc": {
     "code": "N7668.C3 M875"
@@ -147366,11 +147390,11 @@
     "3": ["Science fiction"],
     "5": ["science fiction"]
   },
-  "series": ["Saga Xenog\u00e8nesi",
-  "Xenog\u00e8nesi",
-  "Xenogenesis",
+  "series": ["Xenog\u00e9nesis",
   "Xenogenesis-Trilogie",
-  "Xenog\u00e9nesis"],
+  "Saga Xenog\u00e8nesi",
+  "Xenog\u00e8nesi",
+  "Xenogenesis"],
   "originaltitle": "Dawn",
   "awards": ["Ditmar Shortlist",
   "Barnes and Noble 25 Most Terrifying Horror Books Ever"],
@@ -148521,15 +148545,18 @@
     "code": "Q173 .M966"
   },
   "series": ["What if?"],
+  "awards": ["Goodreads Choice Award Nominee"],
   "genre": ["General Nonfiction",
   "Science & Nature",
   "Audiobooks",
   "Recent Nonfiction",
+  "All Topics",
   "Nonfiction"],
   "genre_id": ["1247",
   "1457",
   "1697",
   "8278606",
+  "8292535",
   "20275895"],
   "source": "amazon.com books",
   "workcode": "28991133",
@@ -148786,10 +148813,10 @@
   "lcc": {
     "code": "PR6063.A438 W65"
   },
-  "series": ["Tudor-Trilogie",
-  "Wolf Hall trilogie",
+  "series": ["Wolf Hall trilogie",
   "Wolf Hall Trilogy",
-  "Cromwell Trilogy"],
+  "Cromwell Trilogy",
+  "Tudor-Trilogie"],
   "awards": ["Booker Prize",
   "National Book Critics Circle Award",
   "Walter Scott Prize",
@@ -148889,7 +148916,8 @@
   "Historia de la Tierra Media",
   "Histoire de la Terre du Milieu",
   "Middle-earth",
-  "Mittelerde"],
+  "Mittelerde",
+  "Tierra Media"],
   "genre": ["Fantasy",
   "All Topics",
   "Fiction",
@@ -149010,7 +149038,8 @@
   "Historia de la Tierra Media",
   "Histoire de la Terre du Milieu",
   "Middle-earth",
-  "Mittelerde"],
+  "Mittelerde",
+  "Tierra Media"],
   "originaltitle": "The Book of Lost Tales, Part Two",
   "genre": ["Fantasy",
   "All Topics",
@@ -149085,7 +149114,8 @@
   "Historia de la Tierra Media",
   "Histoire de la Terre du Milieu",
   "Middle-earth",
-  "Mittelerde"],
+  "Mittelerde",
+  "Tierra Media"],
   "originaltitle": "The Book of Lost Tales, Part One",
   "genre": ["Fantasy",
   "All Topics",
@@ -149158,7 +149188,8 @@
     "5": ["Short stories, English"]
   },
   "series": ["Middle-earth",
-  "Mittelerde"],
+  "Mittelerde",
+  "Tierra Media"],
   "originaltitle": "Unfinished Tales of N\u00famenor and Middle-earth",
   "awards": ["Mythopoeic Fantasy Award",
   "New York Times bestseller"],
@@ -149939,13 +149970,13 @@
   "jpn"],
   "ddc": {
     "code": ["741.5952"],
-    "wording": ["Arts and Recreation",
-    "Asian",
+    "wording": ["Asian",
     "Cartoons, Caricatures, Comics",
     "Collections",
     "Drawing &  drawings",
     "Graphic arts and decorative arts",
-    "Japanese"]
+    "Japanese",
+    "The arts"]
   },
   "lcc": {
     "code": "PN6790.J33 S55513"
@@ -151335,16 +151366,18 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3561.I496 D46"
+    "code": "PS3561.I496"
   },
   "awards": ["Goodreads Choice Award Nominee"],
   "genre": ["General Fiction",
   "Audiobooks",
   "Recent Fiction",
+  "All Topics",
   "Fiction"],
   "genre_id": ["2",
   "1697",
   "8278605",
+  "8292535",
   "17160326"],
   "source": "amazon.com books",
   "workcode": "27996967",
@@ -151573,13 +151606,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["791.4572"],
-    "wording": ["Arts and Recreation",
-    "Film, Radio, and Television",
+    "wording": ["Film, Radio, and Television",
     "Public performances",
     "Recreational and performing arts",
     "Single Programs",
     "TV Programs",
-    "Television"]
+    "Television",
+    "The arts"]
   },
   "lcc": {
     "code": "PN1992.D6273"
@@ -151697,12 +151730,10 @@
   },
   "genre": ["History",
   "Religion & Spirituality",
-  "All Topics",
   "Academic: History",
   "Nonfiction"],
   "genre_id": ["1599",
   "1944",
-  "8292535",
   "16730777",
   "20275895"],
   "source": "amazon.com books",
@@ -152180,4 +152211,254 @@
   "dimensions": "9.2098241 x 6.1401452 x 0.59 inches",
   "weight": "1.0582188576 pounds",
   "pages": "174 "
+},
+"230137521": {
+  "books_id": "230137521",
+  "title": "The Fall of N\u00famenor: and Other Tales from the Second Age of Middle-earth",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Tolkien, J.R.R.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Tolkien, J.R.R.",
+    "fl": "J.R.R. Tolkien",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0008537836",
+  "isbn": {
+    "0": "0008537836",
+    "2": "9780008537838"
+  },
+  "asin": "0008537836",
+  "ean": ["0008537836"],
+  "publication": "HarperCollins (2022), 352 pages",
+  "date": "2022",
+  "summary": "The Fall of N\u00famenor: and Other Tales from the Second Age of Middle-earth by J.R.R. Tolkien (2022)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.912"],
+    "wording": ["1901-1945",
+    "1901-1999",
+    "English fiction",
+    "English {except North American}",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": [],
+  "series": ["Middle-earth",
+  "Mittelerde",
+  "Tierra Media"],
+  "genre": ["Fantasy",
+  "Fiction",
+  "Fantasy"],
+  "genre_id": ["5280",
+  "17160326",
+  "20216151"],
+  "source": "amazon.com books",
+  "workcode": "28734949",
+  "entrydate": "2022-11-28",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "352 p.; 8.98 inches",
+  "height": "8.97636 inches",
+  "thickness": "1.29921 inches",
+  "length": "5.86613 inches",
+  "dimensions": "8.97636 x 5.86613 x 1.29921 inches",
+  "pages": "352 "
+},
+"230137527": {
+  "books_id": "230137527",
+  "title": "A Psalm for the Wild-Built",
+  "sortcharacter": "3",
+  "public": "true",
+  "primaryauthor": "Chambers, Becky",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Chambers, Becky",
+    "fl": "Becky Chambers",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1250236215",
+  "isbn": {
+    "0": "1250236215",
+    "2": "9781250236210"
+  },
+  "asin": "1250236215",
+  "ean": ["1250236215"],
+  "publication": "Tordotcom (2021), 160 pages",
+  "date": "2021",
+  "summary": "A Psalm for the Wild-Built by Becky Chambers (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3603.H347 P73"
+  },
+  "series": ["Monk & Robot",
+  "Histoires de moine et de robot"],
+  "awards": ["Indie Next List",
+  "LibraryReads",
+  "Hugo Nominee",
+  "Nebula Nominee",
+  "Hugo"],
+  "genre": ["Science Fiction",
+  "Audiobooks",
+  "All Topics",
+  "Fiction",
+  "Science Fiction"],
+  "genre_id": ["281",
+  "1697",
+  "8292535",
+  "17160326",
+  "21183959"],
+  "source": "amazon.com books",
+  "workcode": "24591029",
+  "entrydate": "2022-11-28",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "160 p.; 7.8 inches",
+  "height": "7.7999844 inches",
+  "thickness": "0.7999984 inches",
+  "length": "5.1 inches",
+  "dimensions": "7.7999844 x 5.1 x 0.7999984 inches",
+  "weight": "0.51588169308 pounds",
+  "pages": "160 "
+},
+"230137564": {
+  "books_id": "230137564",
+  "title": "A Prayer for the Crown-Shy: A Monk and Robot Book: 2 (Monk & Robot)",
+  "sortcharacter": "3",
+  "public": "true",
+  "primaryauthor": "Chambers, Becky",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Chambers, Becky",
+    "fl": "Becky Chambers",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1250236231",
+  "isbn": {
+    "0": "1250236231",
+    "2": "9781250236234"
+  },
+  "asin": "1250236231",
+  "ean": ["1250236231"],
+  "publication": "Tordotcom (2022), 160 pages",
+  "date": "2022",
+  "summary": "A Prayer for the Crown-Shy: A Monk and Robot Book: 2 (Monk & Robot) by Becky Chambers (2022)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3603.H347 P728"
+  },
+  "series": ["Monk & Robot",
+  "Histoires de moine et de robot"],
+  "genre": ["Science Fiction",
+  "Audiobooks",
+  "All Topics",
+  "Fiction",
+  "Science Fiction"],
+  "genre_id": ["281",
+  "1697",
+  "8292535",
+  "17160326",
+  "21183959"],
+  "source": "amazon.com all media",
+  "workcode": "24794656",
+  "entrydate": "2022-11-28",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "160 p.; 8.3 inches",
+  "height": "8.2999834 inches",
+  "thickness": "0.9 inches",
+  "length": "5.3499893 inches",
+  "dimensions": "8.2999834 x 5.3499893 x 0.9 inches",
+  "weight": "1.00089866948 pounds",
+  "pages": "160 "
+},
+"230137645": {
+  "books_id": "230137645",
+  "title": "Silver Under Nightfall",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Chupeco, Rin",
+  "authors": [{
+    "lf": "Chupeco, Rin",
+    "fl": "Rin Chupeco"
+  }],
+  "tags": ["queer",
+  "vampire"],
+  "tagidA": [20301,
+  20233],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9781399711586",
+  "isbn": ["9781399711586",
+  "139971158X"],
+  "summary": "Silver Under Nightfall by Rin Chupeco",
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English fiction",
+    "English {except North American}",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": [],
+  "genre": ["General Fiction",
+  "Romance",
+  "Fantasy",
+  "Recent Fiction",
+  "Fiction",
+  "Fantasy"],
+  "genre_id": ["2",
+  "2019",
+  "5280",
+  "8278605",
+  "17160326",
+  "20216151"],
+  "source": "manual entry",
+  "workcode": "27846506",
+  "entrydate": "2022-11-28",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1"
 }}
