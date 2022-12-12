@@ -152512,10 +152512,12 @@
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["994.07"],
-    "wording": ["Australia",
-    "History and Geography",
-    "Oceania and elsewhere"]
+    "code": ["283.0924"],
+    "wording": ["Anglican and Episcopal",
+    "Biography",
+    "Biography And History",
+    "Christian denominations",
+    "Religions"]
   },
   "lcc": [],
   "subject": [["Australia Social conditions 2001-"],
