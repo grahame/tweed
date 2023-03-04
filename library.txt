@@ -1297,26 +1297,25 @@ G5.10 813            9780141346090     Green, John, 1977-            2012 An abu
 G5.11 813            9780008433802     Kim, Bo Young                 None I'm waiting for you : and other stories
 G5.12 813            9780571376476     Kingsolver, Barbara           2022 DEMON COPPERHEAD
 G5.13 813.00         9780702266164                                   None A Minor Chorus
-G5.14 813.0000       9781849354806     brown, adrienne maree         2023 Maroons: A Grievers Novel (Black Dawn)
-G5.15 813.08508      9780141349176     Green, John, 1977-            2013 Let it snow
-G5.16 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
-G5.17 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
-G5.18 813.0876208377 9781648411304     Blue, Elly                    2023 Bicycles & Broomsticks: Fantastical Feminist Stories about W
-G5.19 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
-G5.20 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
-G5.21 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
-G5.22 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
-G5.23 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
-G5.24 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
-G5.25 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
-G5.26 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
-G5.27 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
-G5.28 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
-G5.29 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
-G5.30 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
-G5.31 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-G5.32 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-G5.33 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
+G5.14 813.08508      9780141349176     Green, John, 1977-            2013 Let it snow
+G5.15 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
+G5.16 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
+G5.17 813.0876208377 9781648411304     Blue, Elly                    2023 Bicycles & Broomsticks: Fantastical Feminist Stories about W
+G5.18 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
+G5.19 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
+G5.20 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
+G5.21 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
+G5.22 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
+G5.23 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
+G5.24 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
+G5.25 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
+G5.26 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
+G5.27 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
+G5.28 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
+G5.29 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
+G5.30 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+G5.31 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+G5.32 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
 G6.01 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
 G6.02 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
 G6.03 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
@@ -1402,22 +1401,23 @@ H3.14 813.6          9780349432564     Blake, Ashley Herring         2022 Delila
 H3.15 813.6          9781925856118     Brody, Jed                    2019 The philodendrist heresy
 H3.16 813.6          9780307346612     Brooks, Max                   2007 World War Z : an oral history of the zombie war
 H3.17 813.6          9781849354523     brown, adrienne maree         2021 Grievers
-H3.18 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
-H3.19 813.6          9781789097528     Cadigan, Pat, 1953-           2021 Alien 3
-H3.20 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
-H3.21 813.6          9781250236234     Chambers, Becky               2022 A prayer for the Crown-Shy
-H3.22 813.6          9781250236210     Chambers, Becky               2021 A psalm for the wild-built
-H3.23 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
-H3.24 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
-H3.25 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
-H3.26 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
-H3.27 813.6          9781787302693     Chang, K-Ming                 2022 Gods of want : stories
-H3.28 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
-H3.29 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
-H3.30 813.6          9781982170714     Cochrun, Alison               2021 The charm offensive : a novel
-H3.31 813.6          9781398508552     Conklin, Lydia, 1983-         2022 Rainbow rainbow : stories
-H3.32 813.6          9780007327898     Doctorow, Cory                2010 Makers
-H3.33 813.6          9780007250387     Dolnick, Ben                  2007 Zoology : a novel
+H3.18 813.6          9781849354806     brown, adrienne maree         2023 Maroons: A Grievers Novel (Black Dawn)
+H3.19 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
+H3.20 813.6          9781789097528     Cadigan, Pat, 1953-           2021 Alien 3
+H3.21 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
+H3.22 813.6          9781250236234     Chambers, Becky               2022 A prayer for the Crown-Shy
+H3.23 813.6          9781250236210     Chambers, Becky               2021 A psalm for the wild-built
+H3.24 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
+H3.25 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
+H3.26 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
+H3.27 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
+H3.28 813.6          9781787302693     Chang, K-Ming                 2022 Gods of want : stories
+H3.29 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
+H3.30 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
+H3.31 813.6          9781982170714     Cochrun, Alison               2021 The charm offensive : a novel
+H3.32 813.6          9781398508552     Conklin, Lydia, 1983-         2022 Rainbow rainbow : stories
+H3.33 813.6          9780007327898     Doctorow, Cory                2010 Makers
+H3.34 813.6          9780007250387     Dolnick, Ben                  2007 Zoology : a novel
 H4.01 813.6          9781597802277     Egan, Greg, 1961-             2011 The clockwork rocket
 H4.02 813.6          9781789095319     Ellis, Lindsay, 1984-         2020 Axiom's end : a novel
 H4.03 813.6                            Fowler, Therese               2011 Souvenir by Therese Fowler
@@ -1542,27 +1542,28 @@ I2.05 823.8          9780007902279     Grahame, Kenneth              2011 Wind i
 I2.06 823.8          9780333168776     Hardy, Thomas                 1974 Under the greenwood tree : a rural painting of the Dutch sch
 I2.07 823.8          9780199538614     Kipling, Rudyard, 1865-193    2009 Plain tales from the hills
 I2.08 823.8          9780007351053     Wilde, Oscar, 1854-1900       2010 The picture of Dorian Gray
-I2.09 823.9          9781761150937     Cunningham, Sophie            2024 This Devastating Fever
-I2.10 823.9          9780722154755     Leiber, Fritz                 1976 The Night of the Wolf
-I2.11 823.9          9781761150128     Reid, Diana                   None Seeing Other People
-I2.12 823.9          9780734420251     Rose, Lystra                  2022 The Upwelling
-I2.13 823.9          9781742756882     White, Patrick, 1912-1990     None Voss : a novel
-I2.14 823.91         9780141185897     Hamilton, Patrick, 1904 Ma    2001 Hangover Square : a story of darkest Earl's Court
-I2.15 823.91         9780425021507     Jones, D. F.                  1972 Implosion
-I2.16 823.91         9780486452814     Lindsay, Norman, 1879-1969    2006 The magic pudding
-I2.17 823.91                           Russell, Bertrand             1953 Satan in the Suburbs and Other Stories
-I2.18 823.91         9780749301026     Russell, Eric Frank, 1905-    1989 With a strange device
-I2.19 823.912        9780486251219     Chesterton, G. K. (Gilbert    1986 The man who was Thursday : a nightmare
-I2.20 823.912        9780600766001     Christie, Agatha, 1890-197    1969 Agatha Christie crime collection
-I2.21 823.912        9780007420261     Conrad, Joseph, 1857-1924     2011 The secret agent, : a simple tale
-I2.22 823.912        9780140119398     Forester, C. S                2005 The young Hornblower
-I2.23 823.912        9780140119404     Forester, C. S. (Cecil Sco    1990 Admiral Hornblower
-I2.24 823.912        9780140432589     Forster, E. M. (Edward Mor    1985 A passage to India
-I2.25 823.912        9780099478478     Greene, Graham, 1904-1991     2004 Brighton rock
-I2.26 823.912        9780060850524     Huxley, Aldous, 1894-1963     2006 Brave new world
-I2.27 823.912        9780006547297     Huxley, Aldous, 1894-1963     1994 Crome yellow
-I2.28 823.912        9781853260483     Joyce, James, 1882-1941       1999 Dubliners
-I2.29 823.912        9780199535675     Joyce, James, 1882-1941       2008 Ulysses
+I2.09 823.9          9781760802295                                   None Madukka the River Serpent
+I2.10 823.9          9781761150937     Cunningham, Sophie            2024 This Devastating Fever
+I2.11 823.9          9780722154755     Leiber, Fritz                 1976 The Night of the Wolf
+I2.12 823.9          9781761150128     Reid, Diana                   None Seeing Other People
+I2.13 823.9          9780734420251     Rose, Lystra                  2022 The Upwelling
+I2.14 823.9          9781742756882     White, Patrick, 1912-1990     None Voss : a novel
+I2.15 823.91         9780141185897     Hamilton, Patrick, 1904 Ma    2001 Hangover Square : a story of darkest Earl's Court
+I2.16 823.91         9780425021507     Jones, D. F.                  1972 Implosion
+I2.17 823.91         9780486452814     Lindsay, Norman, 1879-1969    2006 The magic pudding
+I2.18 823.91                           Russell, Bertrand             1953 Satan in the Suburbs and Other Stories
+I2.19 823.91         9780749301026     Russell, Eric Frank, 1905-    1989 With a strange device
+I2.20 823.912        9780486251219     Chesterton, G. K. (Gilbert    1986 The man who was Thursday : a nightmare
+I2.21 823.912        9780600766001     Christie, Agatha, 1890-197    1969 Agatha Christie crime collection
+I2.22 823.912        9780007420261     Conrad, Joseph, 1857-1924     2011 The secret agent, : a simple tale
+I2.23 823.912        9780140119398     Forester, C. S                2005 The young Hornblower
+I2.24 823.912        9780140119404     Forester, C. S. (Cecil Sco    1990 Admiral Hornblower
+I2.25 823.912        9780140432589     Forster, E. M. (Edward Mor    1985 A passage to India
+I2.26 823.912        9780099478478     Greene, Graham, 1904-1991     2004 Brighton rock
+I2.27 823.912        9780060850524     Huxley, Aldous, 1894-1963     2006 Brave new world
+I2.28 823.912        9780006547297     Huxley, Aldous, 1894-1963     1994 Crome yellow
+I2.29 823.912        9781853260483     Joyce, James, 1882-1941       1999 Dubliners
+I2.30 823.912        9780199535675     Joyce, James, 1882-1941       2008 Ulysses
 I3.01 823.912        9780141037424     Lawrence, D. H. (David Her    2008 John Thomas and Lady Jane
 I3.02 823.912        9780099540755     Lawrence, D. H. (David Her    2011 Sons and lovers
 I3.03 823.912        9780679734932     Lawrence, D. H. (David Her    1992 The plumed serpent : [Quetzalcoatl]
@@ -1819,24 +1820,23 @@ J6.13 994.12         9780731694440     Cresswell, Gail J             1990 The li
 J6.14 994.12004      9781921401428     Host, John T. (John Thomas    2009 'It's still in my heart this is my country' : the single Noo
 J6.15 994.2          9780733342448     Copley, Vince                 2022 The Wonder of Little Things
 J6.16                                                                1833 Essays on Old Testament History and Religion by ALT (1966-02
-J6.17                9781760802295                                   None Madukka the River Serpent
-J6.18                                                                1836 Story of Israel Between Settlement and Exile: A Redactional 
-J6.19                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
-J6.20                                  Bishop Of Chichester          1954 The Kingship of Christ:the Bishop of Chichester
-J6.21                                  Fa'aoso, Aaron                2022 So Far, So Good: A memoir of connection, loss, laughter and 
-J6.22                9789829150530     Gelling, Peter                2015 15053 - How To Play Ukulele - Book/Online Video & Audio
-J6.23                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
-J6.24                                  Hume, David (Introduction     1964 Hume on Religion
-J6.25                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
-J6.26                9786188148949     Katerelos, Archimandrite A    2016 The Jesus Prayer and its application
-J6.27                9781436589635     Knowledg, Society For Prom    2008 The Ministry Of Women: A Report By A Committee Appointed By 
-J6.28                                  Phillips, F. B.               1950 Letters to Young Churches
-J6.29                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
-J6.30                9781513625607     Rogich, Daniel M.             2017 The Friend of God: An Illustrated Manual of the Jesus Prayer
-J6.31                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
-J6.32                9780648228202     Watts, Rachel                 2018 Survival
-J6.33                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
-J6.34                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+J6.17                                                                1836 Story of Israel Between Settlement and Exile: A Redactional 
+J6.18                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
+J6.19                                  Bishop Of Chichester          1954 The Kingship of Christ:the Bishop of Chichester
+J6.20                                  Fa'aoso, Aaron                2022 So Far, So Good: A memoir of connection, loss, laughter and 
+J6.21                9789829150530     Gelling, Peter                2015 15053 - How To Play Ukulele - Book/Online Video & Audio
+J6.22                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
+J6.23                                  Hume, David (Introduction     1964 Hume on Religion
+J6.24                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
+J6.25                9786188148949     Katerelos, Archimandrite A    2016 The Jesus Prayer and its application
+J6.26                9781436589635     Knowledg, Society For Prom    2008 The Ministry Of Women: A Report By A Committee Appointed By 
+J6.27                                  Phillips, F. B.               1950 Letters to Young Churches
+J6.28                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
+J6.29                9781513625607     Rogich, Daniel M.             2017 The Friend of God: An Illustrated Manual of the Jesus Prayer
+J6.30                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
+J6.31                9780648228202     Watts, Rachel                 2018 Survival
+J6.32                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+J6.33                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 T1.01 001.642        9780914845461     Norton, Peter                 1985 The Peter Norton Programmer's guide to the IBM PC
 T1.02 001.9          9780099185727     White, Michael, 1959-2018     1996 The science of the X-files
 T1.03 004.62         9780321336316     Stevens, W. Richard           2011 TCP/IP illustrated

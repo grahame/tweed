@@ -145635,6 +145635,13 @@
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.9"],
+    "wording": ["English fiction",
+    "English {except North American}",
+    "Literature",
+    "Modern Period"]
+  },
   "lcc": [],
   "genre": ["No Genre"],
   "genre_id": ["10037570"],
@@ -147159,9 +147166,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["813.0000"],
-    "wording": ["American fiction",
-    "By type",
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
     "English (North America)",
     "Literature"]
   },
