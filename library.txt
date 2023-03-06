@@ -584,40 +584,41 @@ D2.10 234.23         9780232529531     Ashby, Roland                 2012 A fait
 D2.11 234.5          9780819217349     Countryman, Louis William,    1998 Forgiven and forgiving
 D2.12 234.509015     9780879076061     Ward, Benedicta, 1933-2022    1987 Harlots of the desert : a study of repentance in early monas
 D2.13 234.7          9780980573213     Moore, Richard K. (Richard    None Justification : God's way of bringing us into a right relati
-D2.14 235.4          9781505126334     Gonzaga, St. Aloysius         2022 Meditations on the Holy Angels
-D2.15 236            9780813215167     Benedict XVI, Pope, 1927-     2007 Eschatology, death and eternal life
-D2.16 236            9781608994724     Cullmann, Oscar               2000 Immortality of the soul ; or, Resurrection of the dead? : th
-D2.17 236            9780800628246     Moltmann, Jürgen              1993 Theology of hope : on the ground and the implications of a C
-D2.18 236.7          9781505127119     Anselm, St.                   2022 The Glories of Heaven: The Supernatural Gifts that Await Bod
-D2.19 238.11         9781597528009     Barth, Karl                   2006 The Faith of the Church: A Commentary on the Apostles' Creed
-D2.20 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
-D2.21 238.11         9781921963179     Benedict XVI, Pope, 1927-     2012 I believe in one God : the creed explained
-D2.22 238.11         9780334028987     Lash, Nicholas                2003 Believing three ways in one God : a reading of the Apostles'
-D2.23 238.2          9780854397983                                   None Faith matters : fundamentals of faith
-D2.24 238.2                            Gore, Bishop                  1939 Belief in God
-D2.25 239            9780881410242     Bloom, Anthony, 1914-2003     1997 God and man
-D2.26 239            9780802456571     Chesterton, G. K. (Gilbert    2009 Orthodoxy
-D2.27 239            9780281057085     Pritchard, John, 1948-        2006 How to explain your faith
-D2.28 239.3          9780140448948     Augustine, of Hippo, Saint    2004 The city of God
-D2.29 241                              McCormick, Richard, SJ; Ag    1968 The Future of Ethics and Moral Theology
-D2.30 241            9780642972422     McInerney, Maureen            1976 O freedom O freedom : a series of six talks by leading Austr
-D2.31 241            9781570759666     Stivers, Laura A.             2012 Christian ethics : a case method approach
-D2.32 241.0321       9780334022046     MACQUARRIE, John (ed)         1990 A New dictionary of Christian ethics
-D2.33 241.042        9780268036041     Noonan, John T., Jr. (John    2005 A church that can and cannot change : the development of Cat
-D2.34 241.042        9780816404049     O'Connell, Timothy E.         1978 Principles for a Catholic morality
-D2.35 241.309015     9780691160900     Fredriksen, Paula             2014 Sin : the early history of an idea
-D2.36 241.4          9781621643463     Benedict XVI, Pope, 1927-     2021 On love : selected writings
-D2.37 241.4          9780334009627     Zimmerli, Walther             2012 Man and his hope in the Old Testament
-D2.38 241.5          9780334022282     Patrick, Dale                 2012 Old Testament law
-D2.39 241.52         9780908284702     Cowdell, Scott                2008 The ten commandments and ethics today
-D2.40 242            9780232515213     Câmara, Hélder, 1909-1999     1981 A thousand reasons for living
-D2.41 242            9780340979945     Foster, Richard J.            2010 Longing for God : seven paths of Christian devotion
-D2.42 242            9781663208682     Fox, Matthew                  2020 Julian of Norwich: Wisdom in a Time of Pandemic-And Beyond
-D2.43 242            9780486836089     Julian of Norwich             2019 Revelations of Divine Love
-D2.44 242            9780281059737     Newman, John Henry, 1801-1    2007 John Henry Newman : prayers, poems and meditations
-D2.45 242            9781620327722     Ringma, Charles               2013 Hear the ancient wisdom : a meditational reader for the whol
-D2.46 242            9780819281227     Taize, Brother Jean Marc o    2005 Seeds of Trust: Reflecting on the Bible in silence and song
-D2.47 242                              The Taizé Community           1966 The Taize Office
+D2.14 235.3          9780809148967     McKenna, Megan M.             2015 Angels unawares
+D2.15 235.4          9781505126334     Gonzaga, St. Aloysius         2022 Meditations on the Holy Angels
+D2.16 236            9780813215167     Benedict XVI, Pope, 1927-     2007 Eschatology, death and eternal life
+D2.17 236            9781608994724     Cullmann, Oscar               2000 Immortality of the soul ; or, Resurrection of the dead? : th
+D2.18 236            9780800628246     Moltmann, Jürgen              1993 Theology of hope : on the ground and the implications of a C
+D2.19 236.7          9781505127119     Anselm, St.                   2022 The Glories of Heaven: The Supernatural Gifts that Await Bod
+D2.20 238.11         9781597528009     Barth, Karl                   2006 The Faith of the Church: A Commentary on the Apostles' Creed
+D2.21 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
+D2.22 238.11         9781921963179     Benedict XVI, Pope, 1927-     2012 I believe in one God : the creed explained
+D2.23 238.11         9780334028987     Lash, Nicholas                2003 Believing three ways in one God : a reading of the Apostles'
+D2.24 238.2          9780854397983                                   None Faith matters : fundamentals of faith
+D2.25 238.2                            Gore, Bishop                  1939 Belief in God
+D2.26 239            9780881410242     Bloom, Anthony, 1914-2003     1997 God and man
+D2.27 239            9780802456571     Chesterton, G. K. (Gilbert    2009 Orthodoxy
+D2.28 239            9780281057085     Pritchard, John, 1948-        2006 How to explain your faith
+D2.29 239.3          9780140448948     Augustine, of Hippo, Saint    2004 The city of God
+D2.30 241                              McCormick, Richard, SJ; Ag    1968 The Future of Ethics and Moral Theology
+D2.31 241            9780642972422     McInerney, Maureen            1976 O freedom O freedom : a series of six talks by leading Austr
+D2.32 241            9781570759666     Stivers, Laura A.             2012 Christian ethics : a case method approach
+D2.33 241.0321       9780334022046     MACQUARRIE, John (ed)         1990 A New dictionary of Christian ethics
+D2.34 241.042        9780268036041     Noonan, John T., Jr. (John    2005 A church that can and cannot change : the development of Cat
+D2.35 241.042        9780816404049     O'Connell, Timothy E.         1978 Principles for a Catholic morality
+D2.36 241.309015     9780691160900     Fredriksen, Paula             2014 Sin : the early history of an idea
+D2.37 241.4          9781621643463     Benedict XVI, Pope, 1927-     2021 On love : selected writings
+D2.38 241.4          9780334009627     Zimmerli, Walther             2012 Man and his hope in the Old Testament
+D2.39 241.5          9780334022282     Patrick, Dale                 2012 Old Testament law
+D2.40 241.52         9780908284702     Cowdell, Scott                2008 The ten commandments and ethics today
+D2.41 242            9780232515213     Câmara, Hélder, 1909-1999     1981 A thousand reasons for living
+D2.42 242            9780340979945     Foster, Richard J.            2010 Longing for God : seven paths of Christian devotion
+D2.43 242            9781663208682     Fox, Matthew                  2020 Julian of Norwich: Wisdom in a Time of Pandemic-And Beyond
+D2.44 242            9780486836089     Julian of Norwich             2019 Revelations of Divine Love
+D2.45 242            9780281059737     Newman, John Henry, 1801-1    2007 John Henry Newman : prayers, poems and meditations
+D2.46 242            9781620327722     Ringma, Charles               2013 Hear the ancient wisdom : a meditational reader for the whol
+D2.47 242            9780819281227     Taize, Brother Jean Marc o    2005 Seeds of Trust: Reflecting on the Bible in silence and song
+D2.48 242                              The Taizé Community           1966 The Taize Office
 D3.01 242            9780819213143     Underhill, Evelyn, 1875-19    1989 The fruits of the spirit
 D3.02 242.19         9781888212266     Hester, David                 2001 The Jesus Prayer: A Gift from the Fathers
 D3.03 242.2                            Hilton, Mary C.               None The Parish as a Center of Prayer
