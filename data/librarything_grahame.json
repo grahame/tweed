@@ -147454,6 +147454,14 @@
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["811.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American poetry",
+    "English (North America)",
+    "Literature"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30023105",
@@ -147493,6 +147501,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["220.6082"],
+    "wording": ["--",
+    "Bible",
+    "Interpretation and criticism (Exegesis)",
+    "Religions",
+    "Specific Groups of People"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "29477168",
@@ -147894,6 +147910,13 @@
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.4"],
+    "wording": ["English fiction",
+    "English {except North American}",
+    "Literature",
+    "Post-Elizabethan 1625-1702"]
+  },
   "lcc": [],
   "awards": ["Aurealis Award shortlist"],
   "genre": ["Fiction",
