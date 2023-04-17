@@ -29,9 +29,9 @@ def he(s):
     return html.unescape(s)
 
 
-def one(l):
-    assert len(l) == 1
-    return l[0]
+def one(elems):
+    assert len(elems) == 1
+    return elems[0]
 
 
 ddc_re = re.compile(r"^[0-9]")
@@ -104,14 +104,6 @@ class OCLC:
         recursive lookup; may return more than one <work/> document
         """
 
-        def get(url):
-            print("OCLC lookup: {}".format(url), file=sys.stderr)
-            response = self.session.get(
-                "http://classify.oclc.org/classify2/Classify", params=params
-            )
-            assert response.status_code == 200
-            return response.content
-
         params = list(kwargs.items())
         params.append(("summary", False))
         params.sort()
@@ -120,14 +112,12 @@ class OCLC:
         )
         url_hash = sha256(url.encode("utf8")).hexdigest()
         cache_fname = os.path.join("cache", "oclc_lookup_{}.xml".format(url_hash))
-        tmp_fname = cache_fname + ".tmp"
         if not os.access(cache_fname, os.R_OK):
-            with open(tmp_fname, "wb") as fd:
-                fd.write(get(url))
-            os.rename(tmp_fname, cache_fname)
+            return
 
         et = etree.parse(cache_fname)
-        x = lambda q: et.xpath(q, namespaces={"c": "http://classify.oclc.org"})
+        def x(q):
+            return et.xpath(q, namespaces={"c": "http://classify.oclc.org"})
         responses = x("/c:classify/c:response/@code")
         assert len(responses) == 1
 
@@ -159,7 +149,9 @@ class OCLC:
 
         def work_to_book(fname):
             et = etree.parse(fname)
-            x = lambda q: et.xpath(q, namespaces={"c": "http://classify.oclc.org"})
+
+            def x(q):
+                return et.xpath(q, namespaces={"c": "http://classify.oclc.org"})
             work = one(x("/c:classify/c:work"))
 
             def get_author():
@@ -188,7 +180,8 @@ class OCLC:
                 return None, None
             holdings, ddc = candidate_ddcs[0]
 
-            # rank by overall holdings for this work, not just the particular classification
+            # rank by overall holdings for this work, not just the particular
+            # classification
             return int(work.get("holdings")), Book(
                 ddc, he(get_author()), he(work.get("title")), isbn, None, None
             )
@@ -286,8 +279,8 @@ class LibraryThing:
 
 class LibraryMetadata:
     """
-    responsible for providing a merged view of LibraryThing (authoritative for the books I own)
-    and OCLC (often much better metadata)
+    responsible for providing a merged view of LibraryThing
+    (authoritative for the books that I own) and OCLC (often much better metadata)
     """
 
     def __init__(self):
@@ -300,10 +293,6 @@ class LibraryMetadata:
         return self.oclc.lookup(isbn=book.isbn)
 
     def __iter__(self):
-        def a_first(a, b):
-            if a is not None and len(a) > 0:
-                return a
-            return b
 
         for lt_book in self.lt:
             oclc_book = self.lookup_lt_in_oclc(lt_book)
@@ -311,7 +300,12 @@ class LibraryMetadata:
                 yield lt_book
                 continue
             assert oclc_book.isbn == lt_book.isbn
-            best_attr = lambda x: a_first(getattr(oclc_book, x), getattr(lt_book, x))
+            def best_attr(x):
+                a = getattr(oclc_book, x)
+                b = getattr(lt_book, x)
+                if a is not None and len(a) > 0:
+                    return a
+                return b
             yield Book(
                 best_attr("ddc"),
                 best_attr("author"),
