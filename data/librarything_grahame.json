@@ -148670,7 +148670,11 @@
   "title": "Kerry O'Brien, a Memoir",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "O'Brien, Kerry",
+  "authors": [{
+    "lf": "O'Brien, Kerry",
+    "fl": "Kerry O'Brien"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1760875732",
@@ -148681,7 +148685,7 @@
   "asin": "1760875732",
   "ean": ["1760875732"],
   "publication": "Allen & Unwin",
-  "summary": "Kerry O'Brien, a Memoir",
+  "summary": "Kerry O'Brien, a Memoir by Kerry O'Brien",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
@@ -148854,6 +148858,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["261.8"],
+    "wording": ["Christian church and church work",
+    "Christianity and socioeconomic problems",
+    "Church and the world; Social theology and interreligious relations and attitudes",
+    "Religions"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30369037",
@@ -148915,24 +148926,34 @@
   "title": "Enter Ghost",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Hammad, Isabella",
+  "authors": [{
+    "lf": "Hammad, Isabella",
+    "fl": "Isabella Hammad"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
-  "originalisbn": "1787334074",
-  "isbn": {
-    "0": "1787334074",
-    "2": "9781787334076"
-  },
+  "originalisbn": "9781787334076",
+  "isbn": ["9781787334076",
+  "1787334074"],
   "asin": "1787334074",
   "ean": ["1787334074"],
-  "summary": "Enter Ghost",
+  "summary": "Enter Ghost by Isabella Hammad",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature",
+    "Modern Period"]
+  },
   "lcc": [],
   "source": "amazon.com books",
-  "workcode": "30144848",
+  "workcode": "29555193",
   "entrydate": "2023-06-04",
   "format": [{
     "code": "1.1.1",
@@ -149078,7 +149099,11 @@
   "title": "Mrs Dalloway",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Woolf, Virginia",
+  "authors": [{
+    "lf": "Woolf, Virginia",
+    "fl": "Virginia Woolf"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1784878081",
@@ -149088,7 +149113,7 @@
   },
   "asin": "1784878081",
   "ean": ["1784878081"],
-  "summary": "Mrs Dalloway",
+  "summary": "Mrs Dalloway by Virginia Woolf",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
@@ -149178,58 +149203,6 @@
   "length": "5.07873 inches",
   "dimensions": "7.79526 x 5.07873 x 0.51181 inches"
 },
-"241612825": {
-  "books_id": "241612825",
-  "title": "The Story of the Hundred Promises",
-  "sortcharacter": "5",
-  "public": "true",
-  "primaryauthor": "Cochrane, Neil",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Cochrane, Neil",
-    "fl": "Neil Cochrane",
-    "role": "Author"
-  }],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "1942436513",
-  "isbn": {
-    "0": "1942436513",
-    "2": "9781942436515"
-  },
-  "asin": "1942436513",
-  "ean": ["1942436513"],
-  "publication": "Forest Avenue Press (2022), 400 pages",
-  "date": "2022",
-  "summary": "The Story of the Hundred Promises by Neil Cochrane (2022)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["813.6"],
-    "wording": ["21st Century",
-    "American fiction",
-    "English (North America)",
-    "Literature"]
-  },
-  "lcc": [],
-  "source": "amazon.com books",
-  "workcode": "28383637",
-  "entrydate": "2023-06-04",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "physical_description": "400 p.; 9 inches",
-  "height": "9 inches",
-  "thickness": "0.75 inches",
-  "length": "6 inches",
-  "dimensions": "9 x 6 x 0.75 inches",
-  "weight": "1.2 pounds",
-  "pages": "400 "
-},
 "241612827": {
   "books_id": "241612827",
   "title": "Frozen Institutions: Questions for the Church after Christendom",
@@ -149258,6 +149231,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["283.94"],
+    "wording": ["Anglican and Episcopal",
+    "Australia",
+    "Christian denominations",
+    "In the Pacific",
+    "Religions"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30369074",
@@ -149303,6 +149284,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["271.1"],
+    "wording": ["Benedictines",
+    "History, geographic treatment, biography of Christianity",
+    "Religions",
+    "Religious Congregations and Orders in Church history"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30369078",
@@ -149348,6 +149336,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.2"],
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
+    "Religions",
+    "Religious experience"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "24690976",
@@ -149496,6 +149491,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.2"],
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
+    "Religions",
+    "Religious experience"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30001637",
@@ -149594,6 +149596,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["229.8"],
+    "wording": ["Apocrypha",
+    "Bible",
+    "Pseudo gospels",
+    "Religions"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30369081",
@@ -149639,6 +149648,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.2"],
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
+    "Religions",
+    "Religious experience"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30369082",
@@ -149684,6 +149700,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.2"],
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
+    "Religions",
+    "Religious experience"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30369083",
@@ -149729,6 +149752,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.2"],
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Christian Life; experience and practice",
+    "Religions",
+    "Religious experience"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30369084",
@@ -149941,11 +149971,10 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["220.77"],
-    "wording": ["--",
-    "Bible",
-    "Commentaries",
-    "Commentaries with text",
+    "code": ["224.5077"],
+    "wording": ["Bible",
+    "Daniel",
+    "Prophetic Books ",
     "Religions"]
   },
   "lcc": {
@@ -149970,6 +149999,7 @@
     "text": "Hardcover"
   }],
   "copies": "1",
+  "volumes": "1",
   "physical_description": "406 p.; 9.5 inches",
   "height": "9.5 inches",
   "thickness": "1.25 inches",
@@ -150007,11 +150037,10 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["220.77"],
-    "wording": ["--",
-    "Bible",
-    "Commentaries",
-    "Commentaries with text",
+    "code": ["222.2077"],
+    "wording": ["Bible",
+    "Historical Books ",
+    "Joshua",
     "Religions"]
   },
   "lcc": {
@@ -150071,9 +150100,10 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["220"],
-    "wording": ["--",
-    "Bible",
+    "code": ["226.5"],
+    "wording": ["Bible",
+    "Gospels and Acts",
+    "John",
     "Religions"]
   },
   "lcc": {
@@ -150098,6 +150128,7 @@
     "text": "Hardcover"
   }],
   "copies": "1",
+  "volumes": "1",
   "physical_description": "441 p.; 9.5 inches",
   "height": "9.5 inches",
   "thickness": "6.5 inches",
@@ -150133,11 +150164,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["220.77"],
-    "wording": ["--",
-    "Bible",
-    "Commentaries",
-    "Commentaries with text",
+    "code": ["222.12077"],
+    "wording": ["Bible",
+    "Exodus",
+    "Historical Books ",
+    "Pentateuch",
     "Religions"]
   },
   "lcc": {
@@ -150158,6 +150189,7 @@
     "text": "Hardcover"
   }],
   "copies": "1",
+  "volumes": "1",
   "physical_description": "256 p.; 9.5 inches",
   "height": "9.5 inches",
   "thickness": "1.75 inches",
@@ -150195,11 +150227,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["220.7"],
-    "wording": ["--",
-    "Bible",
-    "Commentaries",
-    "Religions"]
+    "code": ["222.43"],
+    "wording": ["Bible",
+    "Historical Books ",
+    "Religions",
+    "Samuel",
+    "Samuel 1"]
   },
   "lcc": {
     "code": "BS192.A1 .3"
@@ -150263,11 +150296,12 @@
   "originallanguage_codeA": ["heb",
   "eng"],
   "ddc": {
-    "code": ["220.7"],
-    "wording": ["--",
-    "Bible",
-    "Commentaries",
-    "Religions"]
+    "code": ["222.44077"],
+    "wording": ["Bible",
+    "Historical Books ",
+    "Religions",
+    "Samuel",
+    "Samuel 2"]
   },
   "lcc": {
     "code": "BS192.A1 .G3"
@@ -150289,6 +150323,7 @@
     "text": "Hardcover"
   }],
   "copies": "1",
+  "volumes": "1",
   "physical_description": "576 p.; 9.75 inches",
   "height": "9.75 inches",
   "thickness": "1.25 inches",
@@ -150385,6 +150420,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["242.34"],
+    "wording": ["Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
+    "Lent",
+    "Religions",
+    "Seasonal Devotions"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "22829489",
@@ -150526,10 +150569,12 @@
   "publication": "Penguin Books",
   "summary": "The Prayers and Meditations of Saint Anselm. Translated and with an Introduction by Sister Benedicta Ward, S.L.G. With a Foreword by R. W. Southern",
   "ddc": {
-    "code": ["308"],
-    "wording": ["Social Sciences",
-    "Social sciences",
-    "[No longer used]"]
+    "code": ["242.802"],
+    "wording": ["Catholic prayer books",
+    "Christian Devotional Literature and Practical Theology",
+    "Devotional Literature (Meditations + Contemplation)",
+    "Prayer books",
+    "Religions"]
   },
   "lcc": [],
   "source": "amazon.com books",
@@ -150820,10 +150865,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["008"],
-    "wording": ["--",
-    "Computing and Information",
-    "Information"]
+    "code": ["808.81"],
+    "wording": ["Anthologies & Collections",
+    "By Topic",
+    "Literature",
+    "Poetry",
+    "Rhetoric and anthologies"]
   },
   "lcc": {
     "code": "PR9615.R4 A6"
