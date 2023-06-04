@@ -60,6 +60,25 @@ def query_matches(query, book):
     return match
 
 
+def oclc_scrape(isbn):
+    url = 'http://classify.oclc.org/classify2/ClassifyDemo?search-standnum-txt={}&startRec=0'.format(isbn)
+    cache_fname = os.path.join("cache", "oclc_scrape_{}.html".format(isbn))
+    tmp_fname = cache_fname + ".tmp"
+    if not os.access(cache_fname, os.R_OK):
+        r = requests.get(url)
+        assert(r.status_code == 200)
+        with open(tmp_fname, "wb") as f:
+            f.write(r.content)
+        os.rename(tmp_fname, cache_fname)
+
+    et = etree.parse(cache_fname, parser=etree.HTMLParser())
+    codes = et.xpath("//td/text()[normalize-space(.)='Most Frequent']/../following-sibling::td[1]/text()")
+    codes = [t for t in codes if ddc_re.match(t)]
+    if len(codes) == 0:
+        return None
+    return codes[0]
+
+
 class OCLC:
     ISBN_WID_OVERRIDES = {
         "9780232525274": "54781379",
@@ -113,7 +132,10 @@ class OCLC:
         url_hash = sha256(url.encode("utf8")).hexdigest()
         cache_fname = os.path.join("cache", "oclc_lookup_{}.xml".format(url_hash))
         if not os.access(cache_fname, os.R_OK):
-            return
+            # they nuked free access to the API; to avoid a massive re-sort, we don't
+            # want to break previously cached results. However, we can relatively safely
+            # scrape for those books we had no previous results for.
+            return "SCRAPE_HACK"
 
         et = etree.parse(cache_fname)
         def x(q):
@@ -146,6 +168,12 @@ class OCLC:
         results = self.recursive_lookup(isbn=isbn)
         if results is None:
             return
+        if results == 'SCRAPE_HACK':
+            ddc = oclc_scrape(isbn)
+            if ddc is None:
+                return
+            print(isbn, ddc)
+            return Book(isbn=isbn, ddc=ddc, author=None, title=None, date=None, books_id=None)
 
         def work_to_book(fname):
             et = etree.parse(fname)
