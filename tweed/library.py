@@ -172,7 +172,6 @@ class OCLC:
             ddc = oclc_scrape(isbn)
             if ddc is None:
                 return
-            print(isbn, ddc)
             return Book(isbn=isbn, ddc=ddc, author=None, title=None, date=None, books_id=None)
 
         def work_to_book(fname):
