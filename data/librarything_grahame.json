@@ -151121,4 +151121,56 @@
   "dimensions": "7.79526 x 5.07873 x 1.37795 inches",
   "weight": "1.10231131 pounds",
   "pages": "368 "
+},
+"241621452": {
+  "books_id": "241621452",
+  "title": "Flow",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Chen, Luoyang",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Chen, Luoyang",
+    "fl": "Luoyang Chen",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9392494041",
+  "isbn": {
+    "0": "9392494041",
+    "2": "9789392494048"
+  },
+  "asin": "9392494041",
+  "ean": ["9392494041"],
+  "publication": "Red River (2022), 74 pages",
+  "date": "2022",
+  "summary": "Flow by Luoyang Chen (2022)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["819.13"],
+    "wording": ["American literature in English outside the USA (optional)",
+    "Canadian fiction",
+    "English (North America)",
+    "English literature from Canada",
+    "Literature"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "30369904",
+  "entrydate": "2023-06-04",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "74 p.; 8 inches",
+  "height": "8 inches",
+  "thickness": "0.19 inches",
+  "length": "5.8 inches",
+  "dimensions": "8 x 5.8 x 0.19 inches",
+  "pages": "74 "
 }}
