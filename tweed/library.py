@@ -369,9 +369,6 @@ class Library:
             return obj
 
         def report(old, new):
-            def insert(book):
-                print("insert:", book)
-
             old_books_id = set(t["books_id"] for t in old)
             new_books_id = set(t["books_id"] for t in new)
             row_index = dict((t["books_id"], idx) for (idx, t) in enumerate(new))
@@ -414,8 +411,9 @@ class Library:
             instructions.sort()
 
             def describe(book):
-                return "{:4} {:14} {:28}  {}".format(
+                return "{:4} {:7} {:14} {:28}  {}".format(
                     book["loc"],
+                    (book["ddc"] or "")[:6],
                     (book["isbn"] or "")[:14],
                     book["author"][:26],
                     book["title"][:40],
