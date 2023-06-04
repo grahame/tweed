@@ -449,27 +449,28 @@ C3.07 230.3          9780281029372     Church of England. Doctrin    1986 Christ
 C3.08 230.3          9780334023531     Macquarrie, John              2012 Theology, church, and ministry
 C3.09 230.3          9780816422173     Norris, Richard A., Jr. (R    1979 Understanding the faith of the Church
 C3.10 230.3                            Ramsey, Arthur Michael        1961 From Gore to Temple
-C3.11 230.42         9781598561685     Calvin, Jean, 1509-1564       2007 Institutes of the Christian religion
-C3.12 231            9780060610357     Borg, Marcus J.               1998 The God we never knew : beyond dogmatic religion to a more a
-C3.13 231            9781598151718     Caputo, John D.               2015 The folly of God : a theology of the unconditional
-C3.14 231            9780800615383     Fretheim, Terence E.          1984 The suffering of God : an Old Testament perspective
-C3.15 231            9780809127542     Haught, John F.               1986 What is God? : how to think about the divine
-C3.16 231            9781889973166     Jersak, Brad, 1964-           2016 A more Christlike God : a more beautiful gospel
-C3.17 231            9780006266372     Küng, Hans, 1928-             1983 Does God exist? : an answer for today
-C3.18 231            9780567088505     Mostert, Christiaan           2002 God and the future : Wolfhardt Pannenberg's eschatological d
-C3.19 231            9780860120155     Rahner, Karl, 1904-1984       2001 The Trinity
-C3.20 231            9780002151528     Smith, Ronald Gregor          1970 The doctrine of God
-C3.21 231            9781451482843     Sonderegger, Katherine        2015 Systematic theology
-C3.22 231            9781451482850     Sonderegger, Katherine        2020 Systematic theology
-C3.23 231            9780334056560     Studdert Kennedy, Geoffrey    2018 The hardest part,
-C3.24 231            9780334001799     Taylor, John V. (John Vern    1992 The Christlike God
-C3.25 231.0420994    9781863550963     Lyons, Adrian                 2003 Imagine believing : explorations in contemporary faith
-C3.26 231.044        9780521558266     Coakley, Sarah, 1951-         2013 God, sexuality and the self : an essay 'on the Trinity'
-C3.27 231.044        9780198712138     Emery, Gilles                 2014 The Oxford handbook of the trinity
-C3.28 231.044        9780310517092     Los Angeles Theology Confe    2014 Advancing Trinitarian theology : explorations in constructiv
-C3.29 231.044        9780334023685     Moltmann, Jürgen              1981 The Trinity and the kingdom : the doctrine of God
-C3.30 231.044        9781138554542     Tonstad, Linn Marie, 1978-    2017 God and difference : the Trinity, sexuality, and the transfo
-C3.31 231.044        9780567087034     Torrance, Thomas F. (Thoma    2000 Trinitarian perspectives : toward doctrinal agreement
+C3.11 230.3          9780687014606     Sykes, Stephen                1995 Unashamed Anglicanism
+C3.12 230.42         9781598561685     Calvin, Jean, 1509-1564       2007 Institutes of the Christian religion
+C3.13 231            9780060610357     Borg, Marcus J.               1998 The God we never knew : beyond dogmatic religion to a more a
+C3.14 231            9781598151718     Caputo, John D.               2015 The folly of God : a theology of the unconditional
+C3.15 231            9780800615383     Fretheim, Terence E.          1984 The suffering of God : an Old Testament perspective
+C3.16 231            9780809127542     Haught, John F.               1986 What is God? : how to think about the divine
+C3.17 231            9781889973166     Jersak, Brad, 1964-           2016 A more Christlike God : a more beautiful gospel
+C3.18 231            9780006266372     Küng, Hans, 1928-             1983 Does God exist? : an answer for today
+C3.19 231            9780567088505     Mostert, Christiaan           2002 God and the future : Wolfhardt Pannenberg's eschatological d
+C3.20 231            9780860120155     Rahner, Karl, 1904-1984       2001 The Trinity
+C3.21 231            9780002151528     Smith, Ronald Gregor          1970 The doctrine of God
+C3.22 231            9781451482843     Sonderegger, Katherine        2015 Systematic theology
+C3.23 231            9781451482850     Sonderegger, Katherine        2020 Systematic theology
+C3.24 231            9780334056560     Studdert Kennedy, Geoffrey    2018 The hardest part,
+C3.25 231            9780334001799     Taylor, John V. (John Vern    1992 The Christlike God
+C3.26 231.0420994    9781863550963     Lyons, Adrian                 2003 Imagine believing : explorations in contemporary faith
+C3.27 231.044        9780521558266     Coakley, Sarah, 1951-         2013 God, sexuality and the self : an essay 'on the Trinity'
+C3.28 231.044        9780198712138     Emery, Gilles                 2014 The Oxford handbook of the trinity
+C3.29 231.044        9780310517092     Los Angeles Theology Confe    2014 Advancing Trinitarian theology : explorations in constructiv
+C3.30 231.044        9780334023685     Moltmann, Jürgen              1981 The Trinity and the kingdom : the doctrine of God
+C3.31 231.044        9781138554542     Tonstad, Linn Marie, 1978-    2017 God and difference : the Trinity, sexuality, and the transfo
+C3.32 231.044        9780567087034     Torrance, Thomas F. (Thoma    2000 Trinitarian perspectives : toward doctrinal agreement
 C4.01 231.3          9780334023371     Moltmann, Jürgen              1992 The Spirit of life : a universal affirmation
 C4.02 231.3          9780334029694     Taylor, John V. (John Vern    2004 The go-between God : the Holy Spirit and the Christian missi
 C4.03 231.4          9780824513764     Johnson, Elizabeth A., 194    1993 She who is : the mystery of God in feminist theological disc
@@ -820,54 +821,54 @@ D6.26 261.8          9780664235161     Brueggemann, Walter           2010 Journe
 D6.27 261.8          9781398502208     Francis, Pope, 1936-          None Let us dream : the path to a better future
 D6.28 261.8          9780809140923     Grassi, Joseph A.             2003 Informing the future : social justice in the New Testament
 D6.29 261.8                            Masse, Benjamin L.            1964 Justice for All: An Introduction to the Social Teaching of
-D6.30 261.8          9780827205413     Schade, Leah D                2015 Creation-Crisis Preaching: Ecology, Theology, and the Pulpit
-D6.31 261.83219691   9780281085965     Williams, Rowan, 1950-        2021 Candles in the dark : faith, hope and love in a time of pand
-D6.32 261.8324       9780687108015     Eiesland, Nancy L., 1964-2    1994 The disabled God : toward a liberatory theology of disabilit
-D6.33 261.83272      9781925849684     Davey, Melissa,               2021 The case of George Pell : reckoning with child sexual abuse 
-D6.34 261.835        9780648265948     Anglican Church of Austral    2019 Marriage, same-sex marriage and the Anglican church of Austr
-D6.35 261.835766     9780802876546     Keen, Karen R., 1973-         2018 Scripture, ethics, and the possibility of same-sex relations
-D6.36 261.835766     9781601425188     Vines, Matthew                2015 God and the gay Christian : the biblical case in support of 
-D6.37 261.8357660882 9780232524116     Alison, James, 1959-          2001 Faith beyond resentment : fragments Catholic and gay
-D6.38 261.8362       9781863713887     Collins, Paul, 1940-          1995 God's earth : religion as if matter really mattered
-D6.39 261.85         9781472929778     Welby, Justin, 1956-          2017 Dethroning Mammon: : making money serve grace : the Archbish
+D6.30 261.83219691   9780281085965     Williams, Rowan, 1950-        2021 Candles in the dark : faith, hope and love in a time of pand
+D6.31 261.8324       9780687108015     Eiesland, Nancy L., 1964-2    1994 The disabled God : toward a liberatory theology of disabilit
+D6.32 261.83272      9781925849684     Davey, Melissa,               2021 The case of George Pell : reckoning with child sexual abuse 
+D6.33 261.835        9780648265948     Anglican Church of Austral    2019 Marriage, same-sex marriage and the Anglican church of Austr
+D6.34 261.835766     9780802876546     Keen, Karen R., 1973-         2018 Scripture, ethics, and the possibility of same-sex relations
+D6.35 261.835766     9781601425188     Vines, Matthew                2015 God and the gay Christian : the biblical case in support of 
+D6.36 261.8357660882 9780232524116     Alison, James, 1959-          2001 Faith beyond resentment : fragments Catholic and gay
+D6.37 261.8362       9781863713887     Collins, Paul, 1940-          1995 God's earth : religion as if matter really mattered
+D6.38 261.85         9781472929778     Welby, Justin, 1956-          2017 Dethroning Mammon: : making money serve grace : the Archbish
 E1.01 261.873        9781853116506     Williams, Rowan, 1950-        2014 The truce of God
 E1.02 261.88         978-1925208368    Ayre, Clive                   None Earth, faith and mission : the mission and practice of earth
 E1.03 261.88         9781925486193     Kelly, Anthony, 1938-         2016 An integral ecology and the Catholic vision
 E1.04 261.88         9780800662714     McFague, Sallie               2008 A new climate for theology : God, the world, and global warm
-E1.05 262            9780567672483     MacDougall, Scott             2018 More than communion : imagining an eschatological ecclesiolo
-E1.06 262            9780802807854     Ven, J. A. van der, 1940-     1996 Ecclesiology in context
-E1.07 262            9780881410297     Zizioulas, Jean, 1931-        1997 Being as communion : studies in personhood and the church
-E1.08 262.001                          Bea, Augustin                 1967 Peace among Christians
-E1.09 262.001        9780334001768     Macquarrie, John              1975 Christian unity and Christian diversity
-E1.10 262.0011       9780281041855     Avis, Paul D. L.              1986 Ecumenical theology : and the elusiveness of doctrine
-E1.11 262.0017       9780801039584     Gibbs, Eddie                  2013 The rebirth of the church : applying Paul's vision for minis
-E1.12 262.0017       9780281052080     Greenwood, Robin              2002 Transforming church : liberating structures for ministry
-E1.13 262.0017       9780994264534     Mascord, Keith                2016 Faith without fear : risky choices facing contemporary Chris
-E1.14 262.0017       9781566990509     Mead, Loren B.                1991 The once and future church : reinventing the congregation fo
-E1.15 262.0017       9780715140178     Warren, Robert, 1939-         2004 The healthy churches' handbook : a process for revitalizing 
-E1.16 262.039441     9781409420279     Porter, Muriel                2011 Sydney Anglicans and the threat to world Anglicanism : the S
-E1.17 262.1309       9780393951004     Barraclough, Geoffrey, 190    1979 The medieval papacy
-E1.18 262.1309       9780300206128     Duffy, Eamon                  2015 Saints & sinners : a history of the Popes
-E1.19 262.1309033    9780198269199     Chadwick, Owen                1981 The Popes and European revolution
-E1.20 262.1350924    9780192813060     Dessain, Charles Stephen      1980 John Henry Newman
-E1.21 262.14         9781563380938     Barnett, James Monroe         1995 The diaconate--a full and equal order : a comprehensive and 
-E1.22 262.14         9781561012534     Cocksworth, Christopher J.    2004 On being a priest today
-E1.23 262.14         9780232527438     Croft, Steven J. L.           2008 Ministry in three dimensions : ordination and leadership in 
-E1.24 262.14         9780881411461     Hopko, Thomas                 1983 Women and the priesthood
-E1.25 262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
-E1.26 262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
-E1.27 262.143        9781853117138     Giles, Richard, 1940-         2006 Here I am : reflections on the ordained life
-E1.28 262.14342      9780281072224     Smith, Magdalen               2014 Steel angels : the personal qualities of a priest
-E1.29 262.14394      9780987619358     Porter, Muriel                None The new scapegoats : the clergy victims of the Anglican Chur
-E1.30 262.260994     9781864590913     Nicholls, Alan                2006 Building the Mission-shaped Church in Australia : a resource
-E1.31 262.5          9780232509434     Hastings, Adrian              1968 A concise guide to the documents of the Second Vatican Counc
-E1.32 262.7          9780385113670     Küng, Hans, 1928-             1976 The church
-E1.33 262.7          9780334019428     Moltmann, Jürgen              1978 The church in the power of the spirit : a contribution to Me
-E1.34 263.04245632   9780851157719     Birch, Debra J. (Debra Jul    2000 Pilgrimage to Rome in the Middle Ages : continuity and chang
-E1.35 263.92         9780232524574     Brand, Hilary                 2002 Christ and the chocolaterie : a Lent course
-E1.36 264            9780281045556     Edward Yar Geoffrey Wainwr    1992 The Study of Liturgy
-E1.37 264                              Kimball, Dan                  2004 Emerging Worship: Creating Worship Gatherings for New Genera
-E1.38 264            9781863717670     Nelson, Janet                 1999 Let us pray
+E1.05 261.88         9780827205413     Schade, Leah D                2015 Creation-Crisis Preaching: Ecology, Theology, and the Pulpit
+E1.06 262            9780567672483     MacDougall, Scott             2018 More than communion : imagining an eschatological ecclesiolo
+E1.07 262            9780802807854     Ven, J. A. van der, 1940-     1996 Ecclesiology in context
+E1.08 262            9780881410297     Zizioulas, Jean, 1931-        1997 Being as communion : studies in personhood and the church
+E1.09 262.001                          Bea, Augustin                 1967 Peace among Christians
+E1.10 262.001        9780334001768     Macquarrie, John              1975 Christian unity and Christian diversity
+E1.11 262.0011       9780281041855     Avis, Paul D. L.              1986 Ecumenical theology : and the elusiveness of doctrine
+E1.12 262.0017       9780801039584     Gibbs, Eddie                  2013 The rebirth of the church : applying Paul's vision for minis
+E1.13 262.0017       9780281052080     Greenwood, Robin              2002 Transforming church : liberating structures for ministry
+E1.14 262.0017       9780994264534     Mascord, Keith                2016 Faith without fear : risky choices facing contemporary Chris
+E1.15 262.0017       9781566990509     Mead, Loren B.                1991 The once and future church : reinventing the congregation fo
+E1.16 262.0017       9780715140178     Warren, Robert, 1939-         2004 The healthy churches' handbook : a process for revitalizing 
+E1.17 262.039441     9781409420279     Porter, Muriel                2011 Sydney Anglicans and the threat to world Anglicanism : the S
+E1.18 262.1309       9780393951004     Barraclough, Geoffrey, 190    1979 The medieval papacy
+E1.19 262.1309       9780300206128     Duffy, Eamon                  2015 Saints & sinners : a history of the Popes
+E1.20 262.1309033    9780198269199     Chadwick, Owen                1981 The Popes and European revolution
+E1.21 262.1350924    9780192813060     Dessain, Charles Stephen      1980 John Henry Newman
+E1.22 262.14         9781563380938     Barnett, James Monroe         1995 The diaconate--a full and equal order : a comprehensive and 
+E1.23 262.14         9781561012534     Cocksworth, Christopher J.    2004 On being a priest today
+E1.24 262.14         9780232527438     Croft, Steven J. L.           2008 Ministry in three dimensions : ordination and leadership in 
+E1.25 262.14         9780881411461     Hopko, Thomas                 1983 Women and the priesthood
+E1.26 262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
+E1.27 262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
+E1.28 262.143        9781853117138     Giles, Richard, 1940-         2006 Here I am : reflections on the ordained life
+E1.29 262.14342      9780281072224     Smith, Magdalen               2014 Steel angels : the personal qualities of a priest
+E1.30 262.14394      9780987619358     Porter, Muriel                None The new scapegoats : the clergy victims of the Anglican Chur
+E1.31 262.260994     9781864590913     Nicholls, Alan                2006 Building the Mission-shaped Church in Australia : a resource
+E1.32 262.5          9780232509434     Hastings, Adrian              1968 A concise guide to the documents of the Second Vatican Counc
+E1.33 262.7          9780385113670     Küng, Hans, 1928-             1976 The church
+E1.34 262.7          9780334019428     Moltmann, Jürgen              1978 The church in the power of the spirit : a contribution to Me
+E1.35 263.04245632   9780851157719     Birch, Debra J. (Debra Jul    2000 Pilgrimage to Rome in the Middle Ages : continuity and chang
+E1.36 263.92         9780232524574     Brand, Hilary                 2002 Christ and the chocolaterie : a Lent course
+E1.37 264            9780281045556     Edward Yar Geoffrey Wainwr    1992 The Study of Liturgy
+E1.38 264                              Kimball, Dan                  2004 Emerging Worship: Creating Worship Gatherings for New Genera
+E1.39 264            9781863717670     Nelson, Janet                 1999 Let us pray
 E2.01 264.00321      9780334022077     Davies, J. G. (John Gordon    1986 A New dictionary of liturgy & worship
 E2.02 264.019        9780913836187     Shmeman, Aleksandr, 1921-1    1966 Introduction to liturgical theology
 E2.03 264.019036     9780881410181     Shmeman, Aleksandr, 1921-1    2003 The Eucharist--sacrament of the Kingdom
@@ -1349,9 +1350,10 @@ G6.22 813.54         9780141016719     Gibson, William, 1948-        2008 Spook 
 G6.23 813.54         9780670919550     Gibson, William, 1948-        2011 Zero history
 G6.24 813.54         9780747545187     Goldman, William, 1931-201    1999 The princess bride: S. Morgenstern's classic tale of true lo
 G6.25 813.54         9780007523160     Green, John, 1977-            2013 Looking for Alaska
-G6.26 813.54         9780141029542     Hamid, Mohsin, 1971-          2008 The reluctant fundamentalist
-G6.27 813.54         9780575120723     Heinlein, Robert A. (Rober    2001 The door into summer
-G6.28 813.54         9780450051272     Heinlein, Robert A. (Rober    1981 The number of the beast
+G6.26 813.54         9781399607797     Guin, Ursula K. Le            2022 The Word for World is Forest: The Best of the SF Masterworks
+G6.27 813.54         9780141029542     Hamid, Mohsin, 1971-          2008 The reluctant fundamentalist
+G6.28 813.54         9780575120723     Heinlein, Robert A. (Rober    2001 The door into summer
+G6.29 813.54         9780450051272     Heinlein, Robert A. (Rober    1981 The number of the beast
 H1.01 813.54         9780099470465     Heller, Joseph, 1923-1999     2004 Catch-22 : a novel
 H1.02 813.54         9781784872786     Heller, Joseph, 1923-1999,    2017 WORK
 H1.03 813.54         9780380015078     Henderson, Zenna              1963 Pilgrimage : the book of The People
@@ -1423,14 +1425,16 @@ H3.14 813.6          9781473697164     Chambers, Becky               None To be 
 H3.15 813.6          9781787302693     Chang, K-Ming                 2022 Gods of want : stories
 H3.16 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
 H3.17 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
-H3.18 813.6          9781982170714     Cochrun, Alison               2021 The charm offensive : a novel
-H3.19 813.6          9781398508552     Conklin, Lydia, 1983-         2022 Rainbow rainbow : stories
-H3.20 813.6          9781915202123     Crittendon, Denise            2022 Where it Rains in Color
-H3.21 813.6          9780007327898     Doctorow, Cory                2010 Makers
-H3.22 813.6          9780007250387     Dolnick, Ben                  2007 Zoology : a novel
-H3.23 813.6          9781597802277     Egan, Greg, 1961-             2011 The clockwork rocket
-H3.24 813.6          9781789095319     Ellis, Lindsay, 1984-         2020 Axiom's end : a novel
-H3.25 813.6                            Fowler, Therese               2011 Souvenir by Therese Fowler
+H3.18 813.6          9781942436515     Cochrane, Neil                2022 The Story of the Hundred Promises
+H3.19 813.6          9781982191139     Cochrun, Alison               2022 Kiss Her Once for Me: A Novel
+H3.20 813.6          9781982170714     Cochrun, Alison               2021 The charm offensive : a novel
+H3.21 813.6          9781398508552     Conklin, Lydia, 1983-         2022 Rainbow rainbow : stories
+H3.22 813.6          9781915202123     Crittendon, Denise            2022 Where it Rains in Color
+H3.23 813.6          9780007327898     Doctorow, Cory                2010 Makers
+H3.24 813.6          9780007250387     Dolnick, Ben                  2007 Zoology : a novel
+H3.25 813.6          9781597802277     Egan, Greg, 1961-             2011 The clockwork rocket
+H3.26 813.6          9781789095319     Ellis, Lindsay, 1984-         2020 Axiom's end : a novel
+H3.27 813.6                            Fowler, Therese               2011 Souvenir by Therese Fowler
 H4.01 813.6          9781250213587     Gailey, Sarah                 2020 Upright women wanted
 H4.02 813.6          9780349726700     Gonzalez, Xochitl, 1977-      None Olga dies dreaming
 H4.03 813.6          9780732289003     Green, John, 1977-            2009 Paper towns
@@ -1457,34 +1461,35 @@ H4.23 813.6          9781529001631     Martine, Arkady               2021 A deso
 H4.24 813.6          9781250819093     Min, Lio                      2022 Beating Heart Baby
 H5.01 813.6          9780008512415     Monáe, Janelle                None The memory librarian : and other stories of dirty computer
 H5.02 813.6          9780997063325     Nagel, Margaret               2016 The adventures of Brother Arcadius and Pangur Ban : 11 tales
-H5.03 813.6          9780356512228     O'Keefe, Megan E., 1985-      2019 Velocity weapon
-H5.04 813.6          9780765385253     Okorafor, Nnedi               2015 Binti
-H5.05 813.6          9781529346664     Roanhorse, Rebecca            2019 Trail of lightning
-H5.06 813.6          9780008192204     Roth, Veronica                2018 The fates divide
-H5.07 813.6          9780575081437     Rothfuss, Patrick, 1973-      2015 The wise man's fear
-H5.08 813.6          9781509883356     Ruff, Matt                    2019 Lovecraft Country : a novel
-H5.09 813.6          9780441014156     Stross, Charles               2006 Accelerando
-H5.10 813.6          9780441012961     Stross, Charles               2005 Iron sunrise
-H5.11 813.6          9781841493343     Stross, Charles               2005 Singularity sky
-H5.12 813.6          9781406384765     Thomas, Angie                 None The hate u give
-H5.13 813.6          9781529100624     Weir, Andy                    2021 Project Hail Mary : a novel
-H5.14 813.6          9780553418026     Weir, Andy                    2014 The Martian : a novel
-H5.15 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
-H5.16 813.6          9781529101478     Zahn, Timothy                 2021 Greater good
-H5.17 813.6          9781784744656     Zevin, Gabrielle              None Tomorrow, and tomorrow, and tomorrow : a novel
-H5.18 814.54         9780241339725     Lorde, Audre                  2018 The master's tools will never dismantle the master's house
-H5.19 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
-H5.20 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
-H5.21 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
-H5.22 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
-H5.23 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
-H5.24 818.608        9781849354509     brown, adrienne maree         2022 Fables and Spells: Collected and New Short Fiction and Poetr
-H5.25 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
-H5.26 820.8092087    9781760641436     Findlay, Carly                2021 Growing up disabled in Australia
-H5.27 821.008        9780956688446     Hodges, David                 None Deep Unto Deep
-H5.28 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
-H5.29 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
-H5.30 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
+H5.03 813.6          9780356520865     Newitz, Annalee               2023 The Terraformers
+H5.04 813.6          9780356512228     O'Keefe, Megan E., 1985-      2019 Velocity weapon
+H5.05 813.6          9780765385253     Okorafor, Nnedi               2015 Binti
+H5.06 813.6          9781529346664     Roanhorse, Rebecca            2019 Trail of lightning
+H5.07 813.6          9780008192204     Roth, Veronica                2018 The fates divide
+H5.08 813.6          9780575081437     Rothfuss, Patrick, 1973-      2015 The wise man's fear
+H5.09 813.6          9781509883356     Ruff, Matt                    2019 Lovecraft Country : a novel
+H5.10 813.6          9780441014156     Stross, Charles               2006 Accelerando
+H5.11 813.6          9780441012961     Stross, Charles               2005 Iron sunrise
+H5.12 813.6          9781841493343     Stross, Charles               2005 Singularity sky
+H5.13 813.6          9781406384765     Thomas, Angie                 None The hate u give
+H5.14 813.6          9781529100624     Weir, Andy                    2021 Project Hail Mary : a novel
+H5.15 813.6          9780553418026     Weir, Andy                    2014 The Martian : a novel
+H5.16 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
+H5.17 813.6          9781529101478     Zahn, Timothy                 2021 Greater good
+H5.18 813.6          9781784744656     Zevin, Gabrielle              None Tomorrow, and tomorrow, and tomorrow : a novel
+H5.19 814.54         9780241339725     Lorde, Audre                  2018 The master's tools will never dismantle the master's house
+H5.20 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
+H5.21 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
+H5.22 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
+H5.23 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
+H5.24 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
+H5.25 818.608        9781849354509     brown, adrienne maree         2022 Fables and Spells: Collected and New Short Fiction and Poetr
+H5.26 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
+H5.27 820.8092087    9781760641436     Findlay, Carly                2021 Growing up disabled in Australia
+H5.28 821.008        9780956688446     Hodges, David                 None Deep Unto Deep
+H5.29 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
+H5.30 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
+H5.31 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
 H6.01 821.1          9780199599028     Chaucer, Geoffrey, -1400      2011 The Canterbury tales
 H6.02 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
 H6.03 821.3          9780141392042     Herbert, George, (1593-163    2015 The complete poetry
@@ -1728,7 +1733,7 @@ J2.12 891.7344       9781612194325     Strugat︠s︡kiĭ, Arkadiĭ, 19    2015 
 J2.13 892.1          9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
 J2.14 892.736        9781801107266     Khartash, Fayṣal              2022 Roundabout of death
 J2.15 892.736        9780857423498     Zaqṭān, Ghassān               2016 Describing the past
-J2.16 895.13         9781250768919     Chen, Yu                      2022 The Way Spring Arrives and Other Stories: A Collection of Ch
+J2.16 895.130108     9781250768919     Chen, Yu                      2022 The Way Spring Arrives and Other Stories: A Collection of Ch
 J2.17 895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
 J2.18 895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
 J2.19 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
@@ -1834,23 +1839,24 @@ J6.10 994.12         9780731694440     Cresswell, Gail J             1990 The li
 J6.11 994.12004      9781921401428     Host, John T. (John Thomas    2009 'It's still in my heart this is my country' : the single Noo
 J6.12 994.2          9780733342448     Copley, Vince                 2022 The Wonder of Little Things
 J6.13                                                                1833 Essays on Old Testament History and Religion by ALT (1966-02
-J6.14                                                                1836 Story of Israel Between Settlement and Exile: A Redactional 
-J6.15                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
-J6.16                                  Bishop Of Chichester          1954 The Kingship of Christ:the Bishop of Chichester
-J6.17                                  Fa'aoso, Aaron                2022 So Far, So Good: A memoir of connection, loss, laughter and 
-J6.18                9789829150530     Gelling, Peter                2015 15053 - How To Play Ukulele - Book/Online Video & Audio
-J6.19                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
-J6.20                                  Hume, David (Introduction     1964 Hume on Religion
-J6.21                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
-J6.22                9786188148949     Katerelos, Archimandrite A    2016 The Jesus Prayer and its application
-J6.23                9781436589635     Knowledg, Society For Prom    2008 The Ministry Of Women: A Report By A Committee Appointed By 
-J6.24                                  Phillips, F. B.               1950 Letters to Young Churches
-J6.25                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
-J6.26                9781513625607     Rogich, Daniel M.             2017 The Friend of God: An Illustrated Manual of the Jesus Prayer
-J6.27                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
-J6.28                9780648228202     Watts, Rachel                 2018 Survival
-J6.29                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
-J6.30                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+J6.14                9781922790156                                   None It's Been A Pleasure, Noni Blake
+J6.15                                                                1836 Story of Israel Between Settlement and Exile: A Redactional 
+J6.16                                  Alexander, Editor Fred        1957 Four Bishops and Their See. Perth, Western Australia 1857-19
+J6.17                                  Bishop Of Chichester          1954 The Kingship of Christ:the Bishop of Chichester
+J6.18                                  Fa'aoso, Aaron                2022 So Far, So Good: A memoir of connection, loss, laughter and 
+J6.19                9789829150530     Gelling, Peter                2015 15053 - How To Play Ukulele - Book/Online Video & Audio
+J6.20                9781199915955     Hulsbosch, A                  1965 God's creation;: Creation, sin, and redemption in an evolvin
+J6.21                                  Hume, David (Introduction     1964 Hume on Religion
+J6.22                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
+J6.23                9786188148949     Katerelos, Archimandrite A    2016 The Jesus Prayer and its application
+J6.24                9781436589635     Knowledg, Society For Prom    2008 The Ministry Of Women: A Report By A Committee Appointed By 
+J6.25                                  Phillips, F. B.               1950 Letters to Young Churches
+J6.26                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
+J6.27                9781513625607     Rogich, Daniel M.             2017 The Friend of God: An Illustrated Manual of the Jesus Prayer
+J6.28                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
+J6.29                9780648228202     Watts, Rachel                 2018 Survival
+J6.30                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+J6.31                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 T1.01 001.642        9780914845461     Norton, Peter                 1985 The Peter Norton Programmer's guide to the IBM PC
 T1.02 001.9          9780099185727     White, Michael, 1959-2018     1996 The science of the X-files
 T1.03 004.62         9780321336316     Stevens, W. Richard           2011 TCP/IP illustrated
@@ -2199,7 +2205,7 @@ W1.27 598.91         9780811800044     Hendrickson, John, 1949-      1992 Raptor
 W1.28 598.970994     9780643097056     Olsen, Jerry                  2012 Australian high country owls
 W1.29 599.03         9780643091672     Strahan, Ronald               2007 Dictionary of Australian and New Guinean mammals
 W1.30 599.232099412  9780987577108     Wooller, Ron,                 None Sugar and sand : the world of the honey possum
-W1.31 612.8          9780888443014     Peter of Limoges              2012 The Moral Treatise on the Eye (Mediaeval Sources in Translat
+W1.31 612.84         9780888443014     Peter of Limoges              2012 The Moral Treatise on the Eye (Mediaeval Sources in Translat
 W1.32 613.2          9781594203084     Pollan, Michael               2011 Food rules : an eater's manual
 W1.33 613.69         9780733334252     First Dog on the Moon,        None First Dog's guide to living through the impending apocalypse
 W1.34 614.592414061  9781546000907     Heath, David                  2022 Longshot: The Inside Story of the Race for a COVID-19 Vaccin
