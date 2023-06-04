@@ -486,7 +486,6 @@ class Library:
         # place everything else linearly across available shelf space
         current_shelf = None
         for book in books:
-            print(current_shelf, book.ddc, book.title)
             # check if we are at the start of another shelf
             for shelf in shelves:
                 if query_matches(shelf["first_book"], book) and not get_override(book):
