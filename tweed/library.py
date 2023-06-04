@@ -116,7 +116,6 @@ class OCLC:
 
     def __init__(self):
         self.session = requests.Session()
-        self.book_holdings = Counter()
 
     def recursive_lookup(self, **kwargs):
         """
@@ -236,7 +235,6 @@ class OCLC:
         if not books:
             return None
         books.sort(reverse=True, key=lambda x: x[0])
-        self.book_holdings[isbn] += sum(t[0] for t in books)
         books = [t[1] for t in books]
         reduced = functools.reduce(merge_book, books)
         return reduced
@@ -488,9 +486,10 @@ class Library:
         # place everything else linearly across available shelf space
         current_shelf = None
         for book in books:
+            print(current_shelf, book.ddc, book.title)
             # check if we are at the start of another shelf
             for shelf in shelves:
-                if query_matches(shelf["first_book"], book):
+                if query_matches(shelf["first_book"], book) and not get_override(book):
                     current_shelf = shelf
                     break
             # skip overridden books, already placed
@@ -510,6 +509,7 @@ class Library:
                 book.title.lower(),
             )
         )
+
         # allocate to shelves
         with open("data/arrangement.json") as fd:
             arrangement = json.load(fd)
@@ -518,7 +518,6 @@ class Library:
         zones = arrangement["zones"]
         zone_books = {zone: [] for zone in zones}
         zone_matches = [(z, zones[z]["matches"]) for z in zones]
-        # zone_re = [(z, re.compile(zones[z]["ddc"])) for z in zones]
 
         for book in books:
             matched = False
