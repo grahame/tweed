@@ -881,21 +881,23 @@ E1.21 262.14         9781563380938     Barnett, James Monroe         1995 The di
 E1.22 262.14         9781561012534     Cocksworth, Christopher J.    2004 On being a priest today
 E1.23 262.14         9780232527438     Croft, Steven J. L.           2008 Ministry in three dimensions : ordination and leadership in 
 E1.24 262.14         9780881411461     Hopko, Thomas                 1983 Women and the priesthood
-E1.25 262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
-E1.26 262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
-E1.27 262.143        9781853117138     Giles, Richard, 1940-         2006 Here I am : reflections on the ordained life
-E1.28 262.14342      9780281072224     Smith, Magdalen               2014 Steel angels : the personal qualities of a priest
-E1.29 262.14394      9780987619358     Porter, Muriel                None The new scapegoats : the clergy victims of the Anglican Chur
-E1.30 262.260994     9781864590913     Nicholls, Alan                2006 Building the Mission-shaped Church in Australia : a resource
-E1.31 262.5          9780232509434     Hastings, Adrian              1968 A concise guide to the documents of the Second Vatican Counc
-E1.32 262.7          9780385113670     Küng, Hans, 1928-             1976 The church
-E1.33 262.7          9780334019428     Moltmann, Jürgen              1978 The church in the power of the spirit : a contribution to Me
-E1.34 263.04245632   9780851157719     Birch, Debra J. (Debra Jul    2000 Pilgrimage to Rome in the Middle Ages : continuity and chang
-E1.35 263.92         9780232524574     Brand, Hilary                 2002 Christ and the chocolaterie : a Lent course
-E1.36 264            9780281045556     Edward Yar Geoffrey Wainwr    1992 The Study of Liturgy
-E1.37 264                              Kimball, Dan                  2004 Emerging Worship: Creating Worship Gatherings for New Genera
-E1.38 264            9781863717083     Mccracken, Jeni               1998 Celebrating the New Church
-E1.39 264            9781863717670     Nelson, Janet                 1999 Let us pray
+E1.25 262.14         9781436589635     Knowledg, Society For Prom    2008 The Ministry Of Women: A Report By A Committee Appointed By 
+E1.26 262.14         9780281061167     Ramsey, Michael               2009 The Christian priest today
+E1.27 262.14         9781610977937     Ramsey, Michael               2012 The Christian priest today
+E1.28 262.14         9781666757446     Trist, Richard                2023 Ministry in Context: A Guide to Theological Field Education 
+E1.29 262.143        9781853117138     Giles, Richard, 1940-         2006 Here I am : reflections on the ordained life
+E1.30 262.14342      9780281072224     Smith, Magdalen               2014 Steel angels : the personal qualities of a priest
+E1.31 262.14394      9780987619358     Porter, Muriel                None The new scapegoats : the clergy victims of the Anglican Chur
+E1.32 262.260994     9781864590913     Nicholls, Alan                2006 Building the Mission-shaped Church in Australia : a resource
+E1.33 262.5          9780232509434     Hastings, Adrian              1968 A concise guide to the documents of the Second Vatican Counc
+E1.34 262.7          9780385113670     Küng, Hans, 1928-             1976 The church
+E1.35 262.7          9780334019428     Moltmann, Jürgen              1978 The church in the power of the spirit : a contribution to Me
+E1.36 263.04245632   9780851157719     Birch, Debra J. (Debra Jul    2000 Pilgrimage to Rome in the Middle Ages : continuity and chang
+E1.37 263.92         9780232524574     Brand, Hilary                 2002 Christ and the chocolaterie : a Lent course
+E1.38 264            9780281045556     Edward Yar Geoffrey Wainwr    1992 The Study of Liturgy
+E1.39 264                              Kimball, Dan                  2004 Emerging Worship: Creating Worship Gatherings for New Genera
+E1.40 264            9781863717083     Mccracken, Jeni               1998 Celebrating the New Church
+E1.41 264            9781863717670     Nelson, Janet                 1999 Let us pray
 E2.01 264.00321      9780334022077     Davies, J. G. (John Gordon    1986 A New dictionary of liturgy & worship
 E2.02 264.009        9780800627263     Senn, Frank C.                1997 Christian Liturgy: Catholic and Evangelical (Fortress Resour
 E2.03 264.019        9780913836187     Shmeman, Aleksandr, 1921-1    1966 Introduction to liturgical theology
@@ -1898,15 +1900,13 @@ J6.19                9781199915955     Hulsbosch, A                  1965 God's 
 J6.20                                  Hume, David (Introduction     1964 Hume on Religion
 J6.21                                  J J Bagley & P B Rowley       1968 A Documentary History Of England Vol I (1066-1540)
 J6.22                9786188148949     Katerelos, Archimandrite A    2016 The Jesus Prayer and its application
-J6.23                9781436589635     Knowledg, Society For Prom    2008 The Ministry Of Women: A Report By A Committee Appointed By 
-J6.24                                  Phillips, F. B.               1950 Letters to Young Churches
-J6.25                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
-J6.26                9781513625607     Rogich, Daniel M.             2017 The Friend of God: An Illustrated Manual of the Jesus Prayer
-J6.27                9781666757446     Trist, Richard                2023 Ministry in Context: A Guide to Theological Field Education 
-J6.28                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
-J6.29                9780648228202     Watts, Rachel                 2018 Survival
-J6.30                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
-J6.31                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
+J6.23                                  Phillips, F. B.               1950 Letters to Young Churches
+J6.24                9781636630076     Potter, Beatrix               2020 Peter Rabbit and Other Stories in Koine Greek (Accessible Gr
+J6.25                9781513625607     Rogich, Daniel M.             2017 The Friend of God: An Illustrated Manual of the Jesus Prayer
+J6.26                9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
+J6.27                9780648228202     Watts, Rachel                 2018 Survival
+J6.28                                  Wollaston, John Ramsden       1954 Wollaston's Albany Journals (1848-1856) being Volume 2 of th
+J6.29                                  Wollaston, John Ramsden       1948 Wollaston's Picton Journal (1841-1844). Volume 1 of the Jour
 T1.01 001.642        9780914845461     Norton, Peter                 1985 The Peter Norton Programmer's guide to the IBM PC
 T1.02 001.9          9780099185727     White, Michael, 1959-2018     1996 The science of the X-files
 T1.03 004.62         9780321336316     Stevens, W. Richard           2011 TCP/IP illustrated

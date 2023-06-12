@@ -120948,6 +120948,14 @@
   "publication": "Kessinger Publishing, LLC (2008), 368 pages",
   "date": "2008",
   "summary": "The Ministry Of Women: A Report By A Committee Appointed By His Grace, The Lord Archbishop Of Canterbury (1919) by Society For Promoting Christian Knowledg (2008)",
+  "ddc": {
+    "code": ["262.14"],
+    "wording": ["Christian church and church work",
+    "Church Polity; Ecclesiology",
+    "Ministry",
+    "Priest; Presbyter; Minister; Lay ministry",
+    "Religions"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "7621174",
@@ -151269,6 +151277,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["262.14"],
+    "wording": ["Christian church and church work",
+    "Church Polity; Ecclesiology",
+    "Ministry",
+    "Priest; Presbyter; Minister; Lay ministry",
+    "Religions"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "29822715",
