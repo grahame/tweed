@@ -1580,12 +1580,12 @@ I1.10 823.087608     9780142414385     Strahan, Jonathan             2008 The St
 I1.11 823.3          9781921361593     Mia, Tjalaminu                2010 Bush secrets
 I1.12 823.3          9781742831107     Rodda, Emily                  2011 The land of dragons : legends of ancient Deltora, including 
 I1.13 823.3          9780552773898     Zusak, Markus                 2007 Tou shu zei = : The book thief
-I1.14 823.4          9780733645624                                   None Hovering
-I1.15 823.4          9780702265853                                   None Personal Score
-I1.16 823.4          9780992378301     McPhee, Anscar                None Señor Pilich the Monastery Cat and the Sinister Mr Dreggs
-I1.17 823.4          9780975198063     McPhee, Anscar                None Señor Pilich the Monastery Cat in Wartime Kalumburu
-I1.18 823.4          9781921361586     Milroy, Gladys, 1927-         2010 The great cold
-I1.19 823.4          9780702263033     Neerven, Ellen van, 1990-     None Flock : First Nations stories then and now
+I1.14 823.4          9780733645624     Davis, Rhett                  None Hovering
+I1.15 823.4          9780992378301     McPhee, Anscar                None Señor Pilich the Monastery Cat and the Sinister Mr Dreggs
+I1.16 823.4          9780975198063     McPhee, Anscar                None Señor Pilich the Monastery Cat in Wartime Kalumburu
+I1.17 823.4          9781921361586     Milroy, Gladys, 1927-         2010 The great cold
+I1.18 823.4          9780702263033     Neerven, Ellen van, 1990-     None Flock : First Nations stories then and now
+I1.19 823.4          9780702265853     van Neerven, Ellen            None Personal Score
 I1.20 823.5          9780140431490     Defoe, Daniel, 1661?-1731     1982 Roxana, the fortunate mistress, or, A history of the life an
 I1.21 823.6          9780140431599     Goldsmith, Oliver, 1730?-1    1982 The vicar of Wakefield : a tale supposed to be written by hi
 I1.22 823.7          9780141199078     Austen, Jane, 1775-1817       2012 Pride and prejudice

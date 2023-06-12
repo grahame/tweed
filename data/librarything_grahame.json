@@ -147951,7 +147951,11 @@
   "title": "Hovering",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Davis, Rhett",
+  "authors": [{
+    "lf": "Davis, Rhett",
+    "fl": "Rhett Davis"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0733645623",
@@ -147961,7 +147965,7 @@
   },
   "asin": "0733645623",
   "ean": ["0733645623"],
-  "summary": "Hovering",
+  "summary": "Hovering by Rhett Davis",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
@@ -151217,7 +151221,11 @@
   "title": "Personal Score",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "van Neerven, Ellen",
+  "authors": [{
+    "lf": "van Neerven, Ellen",
+    "fl": "Ellen van Neerven"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "9780702265853",
@@ -151225,7 +151233,7 @@
   "0702265853"],
   "asin": "0702265853",
   "ean": ["0702265853"],
-  "summary": "Personal Score",
+  "summary": "Personal Score by Ellen van Neerven",
   "ddc": {
     "code": ["823.4"],
     "wording": ["English & Old English literatures",
