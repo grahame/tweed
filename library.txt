@@ -375,41 +375,40 @@ B6.41 229.8          9780645554366     Nixon, Fr Robert              2022 Protoe
 B6.42 229.8          9780525433897     Sabar, Ariel                  2021 Veritas : a Harvard professor, a con man and the Gospel of J
 C1.01 229.91052      9780521285544     Jonge, M. de (Marinus), 19    1986 Outside the Old Testament
 C1.02 229.9205209    9780195182507     Ehrman, Bart D.               2005 Lost scriptures : books that did not make it into the New Te
-C1.03 230                                                            1833 Essays on Old Testament History and Religion by ALT (1966-02
-C1.04 230                                                            1836 Story of Israel Between Settlement and Exile: A Redactional 
-C1.05 230            9783945233078     Anglican Catholic Church A    2017 The Anglican rosary : Anglican prayer beads - a form of cont
-C1.06 230            9781565484467     Augustine, Saint              2012 The Trinity (Works of Saint Augustine: A Translation for the
-C1.07 230            9780802818195     Barth, Karl, 1886-1968        1992 Evangelical theology : an introduction
-C1.08 230            9780061976582     Borg, Marcus J.               2014 Speaking Christian : why Christian words have lost their mea
-C1.09 230            9780060730680     Borg, Marcus J.               2015 The heart of Christianity : rediscovering a life of faith
-C1.10 230            9780809121748     Brown, Raymond E. (Raymond    1978 The community of the Beloved Disciple
-C1.11 230                              Cox, David                    1963 What Christians Believe
-C1.12 230            9781864071207     Dicker, Gordon S.             1996 Faith with understanding
-C1.13 230            9780334028550     Donovan, Vincent J            2014 Christianity Rediscovered: An Epistle from the Masai (scm cl
-C1.14 230            9780859247214     Fox, Matthew, 1940-           1995 The coming of the cosmic Christ : the healing of Mother Eart
-C1.15 230            9780567041418     Hardy, Daniel W.              2005 God's ways with the world : thinking and practising Christia
-C1.16 230            9780334042082     Hardy, Daniel W.              2010 Wording a radiance : parting conversations on God and the Ch
-C1.17 230            9780802829214     Hart, David Bentley           2004 The beauty of the infinite : the aesthetics of Christian tru
-C1.18 230            9780664239299     Helmer, Christine             2014 Theology and the end of doctrine
-C1.19 230            9780006251521     Küng, Hans, 1928-             1978 On being a Christian
-C1.20 230            9780020868309     Lewis, C. S. (Clive Staple    1984 Mere Christianity : a revised and amplified edition, with a 
-C1.21 230            9780334013082     Macquarrie, John              1970 Principles of Christian theology
-C1.22 230            9781444335149     McGrath, Alister E., 1953-    2011 Christian theology : an introduction
-C1.23 230            9781405102711     McIntosh, Mark Allen, 1960    2007 Divine teaching : an introduction to Christian theology
-C1.24 230            9781585422531     Needleman, Jacob              2003 Lost Christianity
-C1.25 230            9780800615635     Perdue, Leo G.                1994 The collapse of history : reconstructing Old Testament theol
-C1.26 230            9780804201469     Prussner, Frederick C., 19    1985 Old Testament theology : its history and development
-C1.27 230            9780334009238     Ritschl, Dietrich             2012 The logic of theology : a brief account of the relationship 
-C1.28 230            9781551455211     Schwartzentruber, Michael     2006 The emerging Christian way : thoughts, stories, and wisdom f
-C1.29 230            9780060794781     Smith, Huston                 2005 The soul of Christianity : restoring the great tradition
-C1.30 230            9780732274603     Spong, John Shelby            2001 A new Christianity for a new world : why traditional faith i
-C1.31 230            9780060675363     Spong, John Shelby            1999 Why Christianity must change or die : a bishop speaks to bel
-C1.32 230            9780006267683     Stein, Jock                   1984 In Christ all things hold together : an introduction to Chri
-C1.33 230            9781844749089     Stott, John R. W              2013 Basic Christianity : who is Jesus? why the cross? why is it 
-C1.34 230            9780226803432     Tillich, Paul, 1886-1965      1999 The essential Tillich : an anthology of the writings of Paul
-C1.35 230            9780631214403     Williams, Rowan, 1950-        1999 On Christian theology
-C1.36 230            9781853118036     Williams, Rowan, 1950-        2007 Tokens of trust : an introduction to Christian belief
-C1.37 230            9780908089611     Wilson, John W. (John Warw    1985 The Old Testament and Christian living
+C1.03 230                              Alt, Albrecht                 1833 Essays on Old Testament History and Religion
+C1.04 230            9783945233078     Anglican Catholic Church A    2017 The Anglican rosary : Anglican prayer beads - a form of cont
+C1.05 230            9781565484467     Augustine, Saint              2012 The Trinity (Works of Saint Augustine: A Translation for the
+C1.06 230            9780802818195     Barth, Karl, 1886-1968        1992 Evangelical theology : an introduction
+C1.07 230            9780061976582     Borg, Marcus J.               2014 Speaking Christian : why Christian words have lost their mea
+C1.08 230            9780060730680     Borg, Marcus J.               2015 The heart of Christianity : rediscovering a life of faith
+C1.09 230            9780809121748     Brown, Raymond E. (Raymond    1978 The community of the Beloved Disciple
+C1.10 230                              Cox, David                    1963 What Christians Believe
+C1.11 230            9781864071207     Dicker, Gordon S.             1996 Faith with understanding
+C1.12 230            9780334028550     Donovan, Vincent J            2014 Christianity Rediscovered: An Epistle from the Masai (scm cl
+C1.13 230            9780859247214     Fox, Matthew, 1940-           1995 The coming of the cosmic Christ : the healing of Mother Eart
+C1.14 230            9780567041418     Hardy, Daniel W.              2005 God's ways with the world : thinking and practising Christia
+C1.15 230            9780334042082     Hardy, Daniel W.              2010 Wording a radiance : parting conversations on God and the Ch
+C1.16 230            9780802829214     Hart, David Bentley           2004 The beauty of the infinite : the aesthetics of Christian tru
+C1.17 230            9780664239299     Helmer, Christine             2014 Theology and the end of doctrine
+C1.18 230            9780006251521     Küng, Hans, 1928-             1978 On being a Christian
+C1.19 230            9780020868309     Lewis, C. S. (Clive Staple    1984 Mere Christianity : a revised and amplified edition, with a 
+C1.20 230            9780334013082     Macquarrie, John              1970 Principles of Christian theology
+C1.21 230            9781444335149     McGrath, Alister E., 1953-    2011 Christian theology : an introduction
+C1.22 230            9781405102711     McIntosh, Mark Allen, 1960    2007 Divine teaching : an introduction to Christian theology
+C1.23 230            9781585422531     Needleman, Jacob              2003 Lost Christianity
+C1.24 230            9780800615635     Perdue, Leo G.                1994 The collapse of history : reconstructing Old Testament theol
+C1.25 230            9780804201469     Prussner, Frederick C., 19    1985 Old Testament theology : its history and development
+C1.26 230            9780334009238     Ritschl, Dietrich             2012 The logic of theology : a brief account of the relationship 
+C1.27 230            9781551455211     Schwartzentruber, Michael     2006 The emerging Christian way : thoughts, stories, and wisdom f
+C1.28 230            9780060794781     Smith, Huston                 2005 The soul of Christianity : restoring the great tradition
+C1.29 230            9780732274603     Spong, John Shelby            2001 A new Christianity for a new world : why traditional faith i
+C1.30 230            9780060675363     Spong, John Shelby            1999 Why Christianity must change or die : a bishop speaks to bel
+C1.31 230            9780006267683     Stein, Jock                   1984 In Christ all things hold together : an introduction to Chri
+C1.32 230            9781844749089     Stott, John R. W              2013 Basic Christianity : who is Jesus? why the cross? why is it 
+C1.33 230            9780226803432     Tillich, Paul, 1886-1965      1999 The essential Tillich : an anthology of the writings of Paul
+C1.34 230            9780631214403     Williams, Rowan, 1950-        1999 On Christian theology
+C1.35 230            9781853118036     Williams, Rowan, 1950-        2007 Tokens of trust : an introduction to Christian belief
+C1.36 230            9780908089611     Wilson, John W. (John Warw    1985 The Old Testament and Christian living
 C2.01 230            9780567033154     Zizioulas, Jean, 1931-        2009 Lectures in Christian dogmatics
 C2.02 230            9780262516204     Žižek, Slavoj, 1949-          2011 The monstrosity of Christ : paradox or dialectic?
 C2.03 230.01         9780824514013     Killen, Patricia O'Connell    1994 The art of theological reflection

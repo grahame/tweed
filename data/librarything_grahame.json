@@ -105103,34 +105103,6 @@
   "weight": "0.91050914206 pounds",
   "pages": "320 "
 },
-"206595405": {
-  "books_id": "206595405",
-  "title": "Story of Israel Between Settlement and Exile: A Redactional Study of the Deuteronomistic History by A.D.H. Mayes (1983-07-01)",
-  "sortcharacter": "1",
-  "public": "true",
-  "authors": [[]],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "asin": "B01K17BA6O",
-  "publication": "SCM-Canterbury Press Ltd (1836)",
-  "date": "1836",
-  "summary": "Story of Israel Between Settlement and Exile: A Redactional Study of the Deuteronomistic History by A.D.H. Mayes (1983-07-01) (1836)",
-  "ddc": {
-    "code": ["230"],
-    "wording": ["Christian doctrinal theology",
-    "Christianity, Christian theology",
-    "Religions"]
-  },
-  "lcc": [],
-  "source": "amazon.com books",
-  "workcode": "27128397",
-  "entrydate": "2021-09-30",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1"
-},
 "206595414": {
   "books_id": "206595414",
   "title": "Interpreting the Psalms",
@@ -105307,25 +105279,41 @@
 },
 "206595527": {
   "books_id": "206595527",
-  "title": "Essays on Old Testament History and Religion by ALT (1966-02-28)",
+  "title": "Essays on Old Testament History and Religion",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Alt, Albrecht",
+  "authors": [{
+    "lf": "Alt, Albrecht",
+    "fl": "Albrecht Alt"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "asin": "B01K91EELU",
   "publication": "Wiley-Blackwell (1833)",
   "date": "1833",
-  "summary": "Essays on Old Testament History and Religion by ALT (1966-02-28) (1833)",
+  "summary": "Essays on Old Testament History and Religion by Albrecht Alt (1833)",
+  "originallanguage": ["German"],
+  "originallanguage_codeA": ["ger"],
   "ddc": {
     "code": ["230"],
     "wording": ["Christian doctrinal theology",
     "Christianity, Christian theology",
     "Religions"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "BS1188 .A433"
+  },
+  "subject": [["Bible. O.T"],
+  ["Jews",
+  "History"],
+  ["Jews",
+  "History",
+  "To 70 A.D"],
+  ["Jews",
+  "history"]],
   "source": "amazon.com books",
-  "workcode": "25673027",
+  "workcode": "1542424",
   "entrydate": "2021-09-30",
   "format": [{
     "code": "1.1.2",
@@ -110113,7 +110101,8 @@
   "entrydate": "2021-10-22",
   "copies": "1",
   "volumes": "1"
-},"207478602": {
+},
+"207478602": {
   "books_id": "207478602",
   "title": "Holy persons and holy days: paragraphs to accompany the calendar of An Australian prayer book",
   "sortcharacter": "1",
@@ -110145,8 +110134,7 @@
   "entrydate": "2021-10-22",
   "copies": "1",
   "volumes": "1"
-},
-"208019290": {
+},"208019290": {
   "books_id": "208019290",
   "title": "Thinking Orthodox: Understanding and Acquiring the Orthodox Christian Mind",
   "sortcharacter": "1",
@@ -116014,7 +116002,8 @@
   "dimensions": "8.50392 x 5.5118 x 1.2562967 inches",
   "weight": "1.56307743758 pounds",
   "pages": "564 "
-},"208505832": {
+},
+"208505832": {
   "books_id": "208505832",
   "title": "The Study of Liturgy",
   "sortcharacter": "5",
@@ -116066,8 +116055,7 @@
     "text": "Paperback"
   }],
   "copies": "1"
-},
-"208505836": {
+},"208505836": {
   "books_id": "208505836",
   "title": "Mystical Languages of Unsaying",
   "sortcharacter": "1",
@@ -120187,13 +120175,13 @@
   "lcc": {
     "code": "PS3618.O8685 W57"
   },
-  "series": ["Cr\u00f2nica de l'Assass\u00ed de Reis",
+  "series": ["De Kronieken van Kvothe",
   "Cr\u00f3nica del asesino de Reyes",
-  "De Kronieken van Kvothe",
+  "Cr\u00f2nica de l'Assass\u00ed de Reis",
   "Le cronache dell'assassino del re",
-  "The Kingkiller Chronicle",
+  "Chronique du tueur de roi",
   "Die K\u00f6nigsm\u00f6rder-Chronik",
-  "Chronique du tueur de roi"],
+  "The Kingkiller Chronicle"],
   "originaltitle": "The Wise Man's Fear",
   "awards": ["New York Times bestseller",
   "Amazon.com Best Books",
@@ -121667,7 +121655,8 @@
   "dimensions": "5.19684 x 7.79526 x 1.10236 inches",
   "weight": "0.7275254646 pounds",
   "pages": "432 "
-},"210189679": {
+},
+"210189679": {
   "books_id": "210189679",
   "title": "The Best of Greg Egan (S.F. MASTERWORKS)",
   "sortcharacter": "5",
@@ -121724,8 +121713,7 @@
   "length": "7.874 inches",
   "dimensions": "1.5748 x 7.874 x 5.5118 inches",
   "pages": "736 "
-},
-"210189710": {
+},"210189710": {
   "books_id": "210189710",
   "title": "Galaxias",
   "sortcharacter": "1",
@@ -123403,20 +123391,20 @@
   "Il Signore degli Anelli",
   "Gy\u0171r\u0171k Ura",
   "El Se\u00f1or de los Anillos",
-  "Le seigneur des anneaux",
-  "Ringenes herre",
   "Sagan om Ringen",
+  "Ringenes herre",
+  "Le seigneur des anneaux",
   "Der Herr der Ringe",
   "O Senhor dos An\u00e9is",
-  "Ringenes herre",
-  "El Senyor dels Anells",
+  "Gospodar prstenova",
   "P\u00e1n Prsten\u016f",
   "P\u00e1n prsten\u016f",
-  "In de ban van de ring",
-  "In de Ban van de Ring",
+  "El Senyor dels Anells",
+  "Ringenes herre",
   "Taru sormusten herrasta",
   "Taru Sormusten Herrasta",
-  "Gospodar prstenova",
+  "In de ban van de ring",
+  "In de Ban van de Ring",
   "W\u0142adca Pier\u015bcieni",
   "The Lord of the Rings",
   "\u015ar\u00f3dziemie",
@@ -124702,19 +124690,20 @@
     "Fiction"],
     "13": ["fantasy fiction"]
   },
-  "series": ["\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
+  "series": ["\u015awiat Dysku",
   "Lumea Disc",
-  "Discworld",
+  "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Plochozem",
   "Kettamaailm",
   "Disksvijet",
   "Disksvet",
   "\u0414\u0438\u0441\u043a\u0441\u0432\u0435\u0442",
-  "Scheibenwelt",
   "\ub514\uc2a4\ud06c\uc6d4\ub4dc",
+  "Scheibenwelt",
+  "Discworld",
   "Korongvil\u00e1g",
-  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
-  "\u015awiat Dysku",
+  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
+  "\u0639\u0627\u0644\u0645 \u0627\u0644\u0642\u0631\u0635",
   "Skiveverdenen",
   "\u30c7\u30a3\u30b9\u30af\u30ef\u30fc\u30eb\u30c9",
   "Kiekkomaailma",
@@ -124722,25 +124711,24 @@
   "Mundodisco",
   "Disque-monde",
   "Les Annales du Disque-Monde",
-  "Disgfyd",
   "Schijfwereld",
+  "\u0421\u0432\u0435\u0442\u044a\u0442 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430",
   "Skivv\u00e4rlden",
+  "Disgfyd",
   "\u0394\u03b9\u03c3\u03ba\u03cc\u03ba\u03bf\u03c3\u03bc\u03bf\u03c2",
+  "Mondo Disco",
   "Zem\u011bplocha",
   "\u00da\u017easn\u00e1 Zem\u011bplocha",
   "P\u0159\u00edb\u011bh ze Zem\u011bplochy",
-  "Mondo Disco",
   "Diskverden",
-  "\u05e2\u05d5\u05dc\u05dd \u05d4\u05d3\u05d9\u05e1\u05e7",
-  "\u041f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
   "Biblioteca Terry Pratchett",
   "Mundodisco : Los Magos",
   "Tiffany Aching",
   "Ein M\u00e4rchen von der Scheibenwelt",
   "Discworld: Tiffany Aching",
-  "Roman du Disque-Monde",
+  "Discworld: Young Adult",
   "Mundodisco: Juvenil",
-  "Discworld: Young Adult"],
+  "Roman du Disque-Monde"],
   "originaltitle": "The Wee Free Men",
   "awards": ["ALA Notable Children's Book",
   "Locus",
@@ -126851,10 +126839,10 @@
   "lcc": {
     "code": "PR6023.E926 A6"
   },
-  "series": ["\u5225\u4e16\u754c\u7269\u8a9e",
-  "Space Trilogy",
-  "Trilog\u00eda C\u00f3smica",
+  "series": ["Space Trilogy",
+  "\u5225\u4e16\u754c\u7269\u8a9e",
   "Kosmin\u0117 trilogija",
+  "Trilog\u00eda C\u00f3smica",
   "La trilogie cosmique"],
   "originaltitle": "The Cosmic Trilogy: Out of the Silent Planet; Perelandra; That Hideous Strength",
   "awards": ["NPR's Top 100 Science-Fiction, Fantasy Books"],
@@ -127431,11 +127419,11 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
-  "series": ["Xenog\u00e9nesis",
-  "Xenogenesis-Trilogie",
+  "series": ["Xenogenesis",
   "Saga Xenog\u00e8nesi",
   "Xenog\u00e8nesi",
-  "Xenogenesis"],
+  "Xenogenesis-Trilogie",
+  "Xenog\u00e9nesis"],
   "originaltitle": "Imago",
   "awards": ["Locus Nominee"],
   "genre": ["Fiction",
@@ -127497,11 +127485,11 @@
     "3": ["Science fiction"],
     "5": ["science fiction"]
   },
-  "series": ["Xenog\u00e9nesis",
-  "Xenogenesis-Trilogie",
+  "series": ["Xenogenesis",
   "Saga Xenog\u00e8nesi",
   "Xenog\u00e8nesi",
-  "Xenogenesis"],
+  "Xenogenesis-Trilogie",
+  "Xenog\u00e9nesis"],
   "originaltitle": "Adulthood Rites",
   "awards": ["Locus Nominee"],
   "genre": ["Fiction",
@@ -127853,10 +127841,10 @@
   "Ast\u00e9rix",
   "Asterix",
   "\u0391\u03c3\u03c4\u03b5\u03c1\u03af\u03be",
-  "Asterix",
-  "Asterix",
+  "Asterix seikkailee",
   "Asteriks",
-  "Asterix seikkailee"],
+  "Asterix",
+  "Asterix"],
   "genre": ["Comics"],
   "genre_id": ["4778"],
   "source": "amazon.com books",
@@ -127874,7 +127862,8 @@
   "dimensions": "11.25 x 8.625 x 0.5 inches",
   "weight": "1.4550509292 pounds",
   "pages": "152 "
-},"217717930": {
+},
+"217717930": {
   "books_id": "217717930",
   "title": "Asterix Omnibus 4: Asterix The Legionary, Asterix and The Chieftain's Shield, Asterix at The Olympic Games",
   "sortcharacter": "1",
@@ -127913,12 +127902,12 @@
   },
   "lcc": [],
   "series": ["Asterix",
-  "Asterix seikkailee",
-  "Asteriks",
   "Asterix",
   "Ast\u00e9rix",
   "Asterix",
   "\u0391\u03c3\u03c4\u03b5\u03c1\u03af\u03be",
+  "Asterix seikkailee",
+  "Asteriks",
   "Asterix",
   "Asterix"],
   "genre": ["Comics"],
@@ -127938,8 +127927,7 @@
   "dimensions": "11.625 x 8.775 x 0.625 inches",
   "weight": "1.4550509292 pounds",
   "pages": "152 "
-},
-"217717932": {
+},"217717932": {
   "books_id": "217717932",
   "title": "(Omnibus 3: Asterix and the Big Fight, Asterix in Britain, Asterix and the Normans) [By: Goscinny, Rene] [Feb, 2012]",
   "sortcharacter": "2",
@@ -135455,7 +135443,8 @@
   "dimensions": "2.1 x 8.5 x 5.5 inches",
   "weight": "1.90920318892 pounds",
   "pages": "672 "
-},"222266648": {
+},
+"222266648": {
   "books_id": "222266648",
   "title": "Dictionary of Ecclesiastical Latin",
   "sortcharacter": "1",
@@ -135532,8 +135521,7 @@
   "dimensions": "8.9 x 6.1 x 1.1 inches",
   "weight": "1.763698096 pounds",
   "pages": "352 "
-},
-"222266649": {
+},"222266649": {
   "books_id": "222266649",
   "title": "Early Modern England 1485-1714: A Narrative History",
   "sortcharacter": "1",
@@ -141266,7 +141254,8 @@
     "text": "Paperback"
   }],
   "copies": "1"
-},"229652364": {
+},
+"229652364": {
   "books_id": "229652364",
   "title": "Learning for Ministry: Making the Most of Study and Training",
   "sortcharacter": "1",
@@ -141305,10 +141294,6 @@
   "lcc": {
     "code": "BV4020"
   },
-  "genre": ["Nonfiction",
-  "Religion & Spirituality"],
-  "genre_id": ["20275895",
-  "1944"],
   "source": "amazon.com books",
   "workcode": "2097704",
   "entrydate": "2022-11-18",
@@ -141323,8 +141308,7 @@
   "dimensions": "9.13 x 6.06 x 0.55 inches",
   "weight": "3.79 pounds",
   "pages": "192 "
-},
-"229652372": {
+},"229652372": {
   "books_id": "229652372",
   "title": "How Your Church Family Works: Understanding Congregations As Emotional Systems (Church Leader's Core Library)",
   "sortcharacter": "1",
@@ -147327,7 +147311,8 @@
   "dimensions": "7.75589 x 5.1181 x 1.41732 inches",
   "weight": "0.80689187892 pounds",
   "pages": "416 "
-},"236101352": {
+},
+"236101352": {
   "books_id": "236101352",
   "title": "Growing Up Disabled in Australia",
   "sortcharacter": "1",
@@ -147366,6 +147351,10 @@
   "lcc": {
     "code": "PR9614.P46 .G769"
   },
+  "genre": ["Nonfiction",
+  "Biography & Memoir"],
+  "genre_id": ["20275895",
+  "1240"],
   "source": "amazon.com books",
   "workcode": "24609196",
   "entrydate": "2023-03-04",
@@ -147380,8 +147369,7 @@
   "length": "5.51 inches",
   "dimensions": "8.5 x 5.51 x 0.67 inches",
   "pages": "322 "
-},
-"236101358": {
+},"236101358": {
   "books_id": "236101358",
   "title": "Maroons: A Grievers Novel (Black Dawn)",
   "sortcharacter": "1",
