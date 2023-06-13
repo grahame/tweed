@@ -135,16 +135,17 @@ A5.26 220.66         9780800627980     Trible, Phyllis               1995 Rhetor
 A5.27 220.83067      9781909697836     Myles, Robert J.              2015 Sexuality, ideology and the Bible : Antipodean engagements
 A5.28 220.8412       9781592446926     Barr, James, 1924-2006        2004 The semantics of Biblical language
 A5.29 220.8577       9781841270845     Habel, Norman C. [Editor]     2000 Readings from the perspective of Earth
-A5.30 220.92081      9781570755347     Rohr, Richard                 2004 Soul brothers : men in the Bible speak to men today
-A5.31 221            9780691166247     Buber, Martin, 1878-1965      2015 The prophetic faith
-A5.32 221            9780334017943     Rad, Gerhard von, 1901-197    2012 Wisdom in Israel
-A5.33 221            9781506425481     Yee, Gale A., 1949-           2018 The Hebrew Bible : feminist and intersectional perspectives
-A5.34 221.044        9789653011885     Jerusalem, Koren Publisher    2009 Koren Illustrated Five Megillot, Hebrew/English
-A5.35 221.06                           Westermann, Claus (ed.)       1963 Essays on Old Testament interpretation / edited by Claus Wes
-A5.36 221.15         9780800632878     Brueggemann, Walter           2001 The prophetic imagination
-A5.37 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
-A5.38 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
-A5.39 221.447        9781589835320     Burnett, Joel S., 1968-       2001 A reassessment of biblical Elohim
+A5.30 220.9          334015340         Mayes, A.D.H.                 1983 Story of Israel Between Settlement and Exile: A Redactional 
+A5.31 220.92081      9781570755347     Rohr, Richard                 2004 Soul brothers : men in the Bible speak to men today
+A5.32 221            9780691166247     Buber, Martin, 1878-1965      2015 The prophetic faith
+A5.33 221            9780334017943     Rad, Gerhard von, 1901-197    2012 Wisdom in Israel
+A5.34 221            9781506425481     Yee, Gale A., 1949-           2018 The Hebrew Bible : feminist and intersectional perspectives
+A5.35 221.044        9789653011885     Jerusalem, Koren Publisher    2009 Koren Illustrated Five Megillot, Hebrew/English
+A5.36 221.06                           Westermann, Claus (ed.)       1963 Essays on Old Testament interpretation / edited by Claus Wes
+A5.37 221.15         9780800632878     Brueggemann, Walter           2001 The prophetic imagination
+A5.38 221.15         9780631154907     Clements, R. E. (Ronald Er    1975 Prophecy and tradition
+A5.39 221.44         9780801859441     Kugel, James L.               1998 The idea of biblical poetry : parallelism and its history
+A5.40 221.447        9781589835320     Burnett, Joel S., 1968-       2001 A reassessment of biblical Elohim
 A6.01 221.6          9780582025615     Anderson, Bernhard W.         1988 The living world of the Old Testament
 A6.02 221.6          9781592645381     Berman, Joshua, 1964-         2020 Ani maamin : biblical criticism, historical truth, and the t
 A6.03 221.6          9783110135053     Boorer, Suzanne, 1954-        1992 The promise of the land as oath : a key to the formation of 
@@ -206,30 +207,29 @@ B2.02 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
 B2.03 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
 B2.04 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
 B2.05 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
-B2.06 222.14077      9780334015345     Noth, Martin, 1902-1968       1983 Numbers : a commentary
-B2.07 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
-B2.08 222.2077       9780849902062     Butler, Trent C.              1983 Word Biblical Commentary Vol. 7, Joshua (butler), 350pp
-B2.09 222.3506       9780334059837     Havea, Jione, 1965-           2021 Losing ground : reading Ruth in the Pacific
-B2.10 222.407                          Hertzberg, H. W.              1965 H W Hertzberg / First and Second Samuel A Commentary 1965
-B2.11 222.40924      9780907459125     Rost, Leonhard, 1896-1979     1982 The succession to the throne of David
-B2.12 222.43         9780385067607     McCarter, P. Kyle             1980 I Samuel, Vol. 8 (The Anchor Bible)
-B2.13 222.44077      9780385068086     Kyle McCarter, Jr. P.         1984 II Samuel (The Anchor Bible, Vol. 9) (1st)
-B2.14 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
-B2.15 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
-B2.16 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
-B2.17 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
-B2.18 223.1          9780300140750     Pope, Marvin H.               1965 Job
-B2.19 223.1          9781592446599     Terrien, Samuel L., 1911-2    2004 Job: poet of existence
-B2.20 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
-B2.21 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
-B2.22 223.106        9780883445525     Gutiérrez, Gustavo, 1928-     1987 On Job : God-talk and the suffering of the innocent
-B2.23 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
-B2.24 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
-B2.25 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
-B2.26 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
-B2.27 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
-B2.28 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
-B2.29 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
+B2.06 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
+B2.07 222.2077       9780849902062     Butler, Trent C.              1983 Word Biblical Commentary Vol. 7, Joshua (butler), 350pp
+B2.08 222.3506       9780334059837     Havea, Jione, 1965-           2021 Losing ground : reading Ruth in the Pacific
+B2.09 222.407                          Hertzberg, H. W.              1965 H W Hertzberg / First and Second Samuel A Commentary 1965
+B2.10 222.40924      9780907459125     Rost, Leonhard, 1896-1979     1982 The succession to the throne of David
+B2.11 222.43         9780385067607     McCarter, P. Kyle             1980 I Samuel, Vol. 8 (The Anchor Bible)
+B2.12 222.44077      9780385068086     Kyle McCarter, Jr. P.         1984 II Samuel (The Anchor Bible, Vol. 9) (1st)
+B2.13 222.8067       9780953036936     Poggo, Anthony                2013 Come Let Us Rebuild
+B2.14 223.06         9780664234591     Crenshaw, James L.            2010 Old Testament wisdom : an introduction
+B2.15 223.066        9780465022564     Alter, Robert                 2011 The art of Biblical poetry
+B2.16 223.1          9780195396287     Newsom, Carol A. (Carol An    2009 The book of Job : a contest of moral imaginations
+B2.17 223.1          9780300140750     Pope, Marvin H.               1965 Job
+B2.18 223.1          9781592446599     Terrien, Samuel L., 1911-2    2004 Job: poet of existence
+B2.19 223.106        9780567082251     Eaton, J. H. (John Herbert    2004 Job
+B2.20 223.106        9780804717854     Good, Edwin M. (Edwin Mars    1990 In turns of tempest : a reading of Job, with a translation
+B2.21 223.106        9780883445525     Gutiérrez, Gustavo, 1928-     1987 On Job : God-talk and the suffering of the innocent
+B2.22 223.106        9780802848291     Janzen, J. Gerald, 1932-      2009 At the scent of water : the ground of hope in the book of Jo
+B2.23 223.106        9780691150475     Jung, C. G. (Carl Gustav),    2010 Answer to Job
+B2.24 223.106        9780334027126     Wolde, Ellen van              2012 Mr and Mrs Job
+B2.25 223.1066       9780664251321     Penchansky, David             1990 The betrayal of God : ideological conflict in Job
+B2.26 223.107        9780310521938     Clines, David J. A.           2015 Job 21-37, Volume 18A (18) (Word Biblical Commentary)
+B2.27 223.107        9780310522003     Clines, David J. A.           2012 Job 38-42, Volume 18B (Word Biblical Commentary)
+B2.28 223.107        9780310521907     Clines, David J. A.           2015 Job : 1-20
 B3.01 266.394                          Cottier, J & J                None Missionary Memories
 B3.02 223.107        9780664222185     Habel, Norman C.              1985 The Book of Job, a commentary
 B3.03 223.107        9780664238773     Janzen, J. Gerald, 1932-      2012 Job

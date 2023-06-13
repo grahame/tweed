@@ -105825,11 +105825,8 @@
   }],
   "collections_idA": [1],
   "collections": ["Your library"],
-  "originalisbn": "0334015340",
-  "isbn": {
-    "0": "0334015340",
-    "2": "9780334015345"
-  },
+  "originalisbn": "334015340",
+  "isbn": ["334015340"],
   "asin": "0334015340",
   "ean": ["0334015340"],
   "publication": "SCM-Canterbury Press Ltd (1983), 256 pages",
