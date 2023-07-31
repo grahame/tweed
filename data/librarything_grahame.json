@@ -152211,4 +152211,1537 @@
   "dimensions": "9 x 6 x 0.88 inches",
   "weight": "0.72091159674 pounds",
   "pages": "352 "
+},
+"245393498": {
+  "books_id": "245393498",
+  "title": "Romantic Comedy",
+  "sortcharacter": "1",
+  "public": "true",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0857527509",
+  "isbn": {
+    "0": "0857527509",
+    "2": "9780857527509"
+  },
+  "asin": "0857527509",
+  "ean": ["0857527509"],
+  "summary": "Romantic Comedy",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6000"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3619.I94 R66"
+  },
+  "source": "amazon.com books",
+  "workcode": "29071632",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9.06 inches",
+  "height": "9.0551 inches",
+  "thickness": "0.98425 inches",
+  "length": "5.9055 inches",
+  "dimensions": "9.0551 x 5.9055 x 0.98425 inches"
+},
+"245393509": {
+  "books_id": "245393509",
+  "title": "How Long 'til Black Future Month?",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Jemisin, N. K.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Jemisin, N. K.",
+    "fl": "N. K. Jemisin",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0356512541",
+  "isbn": {
+    "0": "0356512541",
+    "2": "9780356512549"
+  },
+  "asin": "0356512541",
+  "ean": ["0356512541"],
+  "publication": "Orbit (2018), 432 pages",
+  "date": "2018",
+  "summary": "How Long 'til Black Future Month? by N. K. Jemisin (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3610.E46 A6"
+  },
+  "awards": ["Alex Award",
+  "Locus",
+  "British Fantasy Award Nominee",
+  "Brooklyn Public Library Literary Prize Shortlist",
+  "LibraryReads"],
+  "genre": ["Fiction",
+  "Science Fiction"],
+  "genre_id": ["17160326",
+  "281"],
+  "source": "amazon.com books",
+  "workcode": "22196075",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "432 p.; 7.72 inches",
+  "height": "7.71652 inches",
+  "thickness": "1.33858 inches",
+  "length": "4.96062 inches",
+  "dimensions": "7.71652 x 4.96062 x 1.33858 inches",
+  "weight": "0.661386786 pounds",
+  "pages": "432 "
+},
+"245393524": {
+  "books_id": "245393524",
+  "title": "Every Version of You",
+  "sortcharacter": "1",
+  "public": "true",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1922806013",
+  "isbn": {
+    "0": "1922806013",
+    "2": "9781922806017"
+  },
+  "asin": "1922806013",
+  "ean": ["1922806013"],
+  "publication": "Affirm Press",
+  "summary": "Every Version of You",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "28775929",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9.21 inches",
+  "height": "9.21258 inches",
+  "thickness": "0.94488 inches",
+  "length": "6.10235 inches",
+  "dimensions": "9.21258 x 6.10235 x 0.94488 inches"
+},
+"245393563": {
+  "books_id": "245393563",
+  "title": "I Heard the Owl Call My Name",
+  "sortcharacter": "3",
+  "public": "true",
+  "primaryauthor": "Craven, Margaret",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Craven, Margaret",
+    "fl": "Margaret Craven",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0330247654",
+  "isbn": {
+    "0": "0330247654",
+    "2": "9780330247658"
+  },
+  "asin": "0330247654",
+  "ean": ["0330247654"],
+  "publication": "Picador (1980), Edition: Reprints, 144 pages",
+  "date": "1980",
+  "summary": "I Heard the Owl Call My Name by Margaret Craven (1980)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3553.R277 I2"
+  },
+  "subject": {
+    "0": ["Adventure stories"],
+    "2": ["British Columbia",
+    "Fiction"],
+    "4": ["Fiction in English"],
+    "6": ["Historical Fiction"],
+    "7": ["Historical fiction"],
+    "8": ["Kwakiutl Indians",
+    "Fiction"],
+    "10": ["Large Type Books"],
+    "11": ["Large type books"],
+    "12": ["Priests",
+    "Fiction"],
+    "14": ["adventure stories"],
+    "16": ["fiction in English"],
+    "18": ["historical fiction"]
+  },
+  "series": ["Owl Calls"],
+  "originaltitle": "I Heard the Owl Call My Name",
+  "awards": ["New York Times bestseller",
+  "ALA Best Books for Young Adults",
+  "ALA Popular Paperbacks for Young Adults",
+  "GLCA New Writers Award",
+  "500 Great Books by Women"],
+  "genre": ["Fiction",
+  "General Fiction",
+  "Teen",
+  "Young Adult"],
+  "genre_id": ["17160326",
+  "2",
+  "631218",
+  "1879"],
+  "source": "amazon.com all media",
+  "workcode": "85693",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "144 p.; 7.76 x 5.12 inches",
+  "height": "5.118110231 inches",
+  "thickness": "0.393700787 inches",
+  "length": "7.7559055039 inches",
+  "dimensions": "5.118110231 x 7.7559055039 x 0.393700787 inches",
+  "weight": "0.24030386558 pounds",
+  "pages": "144 "
+},
+"245393578": {
+  "books_id": "245393578",
+  "title": "At The Gates: Disability, Justice and the Churches",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Lawson-Jacobs, Naomi",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lawson-Jacobs, Naomi",
+    "fl": "Naomi Lawson-Jacobs",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1913657183",
+  "isbn": {
+    "0": "1913657183",
+    "2": "9781913657185"
+  },
+  "asin": "1913657183",
+  "ean": ["1913657183"],
+  "publication": "Darton Longman & Todd Ltd (2022), 240 pages",
+  "date": "2022",
+  "summary": "At The Gates: Disability, Justice and the Churches by Naomi Lawson-Jacobs (2022)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["261.8324"],
+    "wording": ["Christian church and church work",
+    "Christianity and socioeconomic problems",
+    "Church and the world; Social theology and interreligious relations and attitudes",
+    "Poverty & Social Justice",
+    "Religions",
+    "Social Teaching"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "28608280",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "240 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.9 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.9 inches",
+  "weight": "0.95 pounds",
+  "pages": "240 "
+},
+"245393583": {
+  "books_id": "245393583",
+  "title": "Translation State",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Leckie, Ann",
+  "primaryauthorrole": "Autor",
+  "authors": [{
+    "lf": "Leckie, Ann",
+    "fl": "Ann Leckie",
+    "role": "Autor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0356517926",
+  "isbn": {
+    "0": "0356517926",
+    "2": "9780356517926"
+  },
+  "asin": "0356517926",
+  "ean": ["0356517926"],
+  "publication": "Little, Brown Book Group (2023), Edition: 1, 432 pages",
+  "date": "2023",
+  "summary": "Translation State by Ann Leckie (2023)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3612.E3353 T73"
+  },
+  "series": ["Imperial Radch",
+  "Les chroniques du Radch"],
+  "genre": ["Fiction",
+  "Science Fiction"],
+  "genre_id": ["17160326",
+  "281"],
+  "source": "amazon.com books",
+  "workcode": "29191933",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "432 p.; 9.13 inches",
+  "height": "9.13384 inches",
+  "thickness": "1.25984 inches",
+  "length": "5.98424 inches",
+  "dimensions": "9.13384 x 5.98424 x 1.25984 inches",
+  "pages": "432 "
+},
+"245393599": {
+  "books_id": "245393599",
+  "title": "Y/N: A novel",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Yi, Esther",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Yi, Esther",
+    "fl": "Esther Yi",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1787704416",
+  "isbn": {
+    "0": "1787704416",
+    "2": "9781787704411"
+  },
+  "asin": "1787704416",
+  "ean": ["1787704416"],
+  "publication": "Europa Editions (2023), 196 pages",
+  "date": "2023",
+  "summary": "Y/N: A novel by Esther Yi (2023)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3625.I4 Y6"
+  },
+  "source": "amazon.com books",
+  "workcode": "28701786",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "196 p.; 8.07 inches",
+  "height": "8.07085 inches",
+  "thickness": "0.62992 inches",
+  "length": "5.1181 inches",
+  "dimensions": "8.07085 x 5.1181 x 0.62992 inches",
+  "pages": "196 "
+},
+"245393612": {
+  "books_id": "245393612",
+  "title": "Australian Anglicans Remember",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Sherlock, Charles",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Sherlock, Charles",
+    "fl": "Charles Sherlock",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0975086650",
+  "isbn": {
+    "0": "0975086650",
+    "2": "9780975086650"
+  },
+  "asin": "0975086650",
+  "ean": ["0975086650"],
+  "publication": "Broughton Publishing Pty Ltd (2015), 112 pages",
+  "date": "2015",
+  "summary": "Australian Anglicans Remember by Charles Sherlock (2015)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["264.031"],
+    "wording": ["Anglican and American P. E. ritual",
+    "Calendar; Festivals and fasts",
+    "Christian church and church work",
+    "Public Worship; Ritual",
+    "Public worship; ritual",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BX5716 S547"
+  },
+  "source": "amazon.com books",
+  "workcode": "17167295",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "112 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.27 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.27 inches",
+  "weight": "0.39021820374 pounds",
+  "pages": "112 "
+},
+"245393613": {
+  "books_id": "245393613",
+  "title": "Divinization: Becoming Icons of Christ through the Liturgy",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Andrew Hofer OP",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Andrew Hofer OP",
+    "fl": "Andrew Hofer OP",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1595250417",
+  "isbn": {
+    "0": "1595250417",
+    "2": "9781595250414"
+  },
+  "asin": "1595250417",
+  "ean": ["1595250417"],
+  "publication": "Hillenbrand (2015), Edition: First Edition, 164 pages",
+  "date": "2015",
+  "summary": "Divinization: Becoming Icons of Christ through the Liturgy by Andrew Hofer OP (2015)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["234.8"],
+    "wording": ["Christian doctrinal theology",
+    "Religions",
+    "Salvation; Soteriology",
+    "Sanctification"]
+  },
+  "lcc": {
+    "code": "BT767.8 .D585"
+  },
+  "source": "amazon.com books",
+  "workcode": "19460887",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "164 p.",
+  "weight": "0.65 pounds",
+  "pages": "164 "
+},
+"245393616": {
+  "books_id": "245393616",
+  "title": "Who Killed the Curate?",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Coggin, Joan",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Coggin, Joan",
+    "fl": "Joan Coggin",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0915230445",
+  "isbn": {
+    "0": "0915230445",
+    "2": "9780915230440"
+  },
+  "asin": "0915230445",
+  "ean": ["0915230445"],
+  "publication": "Rue Morgue (2001), Edition: First Edition, 157 pages",
+  "date": "2001",
+  "summary": "Who Killed the Curate? by Joan Coggin (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813"],
+    "wording": ["American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PR6005.O23"
+  },
+  "series": ["Lady Lupin Mystery"],
+  "genre": ["Fiction",
+  "Mystery"],
+  "genre_id": ["17160326",
+  "46"],
+  "source": "amazon.com books",
+  "workcode": "1160251",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "157 p.; 8.75 inches",
+  "height": "8.75 inches",
+  "thickness": "0.5 inches",
+  "length": "6 inches",
+  "dimensions": "8.75 x 6 x 0.5 inches",
+  "weight": "0.59 pounds",
+  "pages": "157 "
+},
+"245393650": {
+  "books_id": "245393650",
+  "title": "The Consuming Fire: The Complete Priestly Source, from Creation to the Promised Land (World Literature in Translation)",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Feldman, Liane",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Feldman, Liane",
+    "fl": "Liane Feldman",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0520383656",
+  "isbn": {
+    "0": "0520383656",
+    "2": "9780520383654"
+  },
+  "asin": "0520383656",
+  "ean": ["0520383656"],
+  "publication": "University of California Press (2023), Edition: First Edition, 296 pages",
+  "date": "2023",
+  "summary": "The Consuming Fire: The Complete Priestly Source, from Creation to the Promised Land (World Literature in Translation) by Liane Feldman (2023)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["222.1066"],
+    "wording": ["Bible",
+    "Historical Books ",
+    "Pentateuch",
+    "Religions"]
+  },
+  "lcc": {
+    "code": "BS1181.6 .F44513"
+  },
+  "source": "amazon.com books",
+  "workcode": "30251131",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "296 p.; 7.75 inches",
+  "height": "7.75 inches",
+  "thickness": "0.9 inches",
+  "length": "5 inches",
+  "dimensions": "7.75 x 5 x 0.9 inches",
+  "weight": "0.59965735264 pounds",
+  "pages": "296 "
+},
+"245393653": {
+  "books_id": "245393653",
+  "title": "Chilling Effect: Captain Eva Innocente, Book 1",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Valdes, Valerie",
+  "primaryauthorrole": "Autor",
+  "authors": [{
+    "lf": "Valdes, Valerie",
+    "fl": "Valerie Valdes",
+    "role": "Autor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0356514420",
+  "isbn": {
+    "0": "0356514420",
+    "2": "9780356514420"
+  },
+  "asin": "0356514420",
+  "ean": ["0356514420"],
+  "publication": "Orbit (2020), 464 pages",
+  "date": "2020",
+  "summary": "Chilling Effect: Captain Eva Innocente, Book 1 by Valerie Valdes (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3622.A42515"
+  },
+  "series": ["Chilling Effect"],
+  "awards": ["Arthur C. Clarke Award Shortlist"],
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Teen",
+  "Young Adult"],
+  "genre_id": ["17160326",
+  "281",
+  "631218",
+  "1879"],
+  "source": "amazon.com books",
+  "workcode": "22290395",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "464 p.; 7.72 inches",
+  "height": "7.71652 inches",
+  "thickness": "1.25984 inches",
+  "length": "4.96062 inches",
+  "dimensions": "7.71652 x 4.96062 x 1.25984 inches",
+  "pages": "464 "
+},
+"245393742": {
+  "books_id": "245393742",
+  "title": "The Rachel incident",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "O'Donoghue, Caroline",
+  "authors": [{
+    "lf": "O'Donoghue, Caroline",
+    "fl": "Caroline O'Donoghue"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780349013541",
+  "isbn": ["9780349013541",
+  "0349013543"],
+  "summary": "The Rachel incident by Caroline O'Donoghue",
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PR6115.D659 R33"
+  },
+  "source": "manual entry",
+  "workcode": "29653015",
+  "entrydate": "2023-07-31",
+  "copies": "1",
+  "volumes": "1"
+},
+"245393751": {
+  "books_id": "245393751",
+  "title": "Hijab Butch Blues: A Memoir",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "H, Lamya",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "H, Lamya",
+    "fl": "Lamya H",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1785788493",
+  "isbn": {
+    "0": "1785788493",
+    "2": "9781785788499"
+  },
+  "asin": "1785788493",
+  "ean": ["1785788493"],
+  "publication": "Icon Books (2023), 304 pages",
+  "date": "2023",
+  "summary": "Hijab Butch Blues: A Memoir by Lamya H (2023)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["306.76"],
+    "wording": ["Culture and Institutions",
+    "Relations between the sexes, sexualities, love",
+    "Sexual orientation, gender identity",
+    "Social Sciences; Sociology and anthropology",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "HQ75.4 .H15 H536"
+  },
+  "source": "amazon.com books",
+  "workcode": "29343599",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "304 p.; 8.74 inches",
+  "height": "8.74014 inches",
+  "thickness": "1.14173 inches",
+  "length": "5.66928 inches",
+  "dimensions": "8.74014 x 5.66928 x 1.14173 inches",
+  "pages": "304 "
+},
+"245393777": {
+  "books_id": "245393777",
+  "title": "Jesus Sophia: Returning to Woman Wisdom in the Bible, Practice, and Prayer",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Douglas, Sally",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Douglas, Sally",
+    "fl": "Sally Douglas",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1666735795",
+  "isbn": {
+    "0": "1666735795",
+    "2": "9781666735796"
+  },
+  "asin": "1666735795",
+  "ean": ["1666735795"],
+  "publication": "Cascade Books (2023), 168 pages",
+  "date": "2023",
+  "summary": "Jesus Sophia: Returning to Woman Wisdom in the Bible, Practice, and Prayer by Sally Douglas (2023)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": {
+    "code": "BT153.M6 D68"
+  },
+  "source": "amazon.com books",
+  "workcode": "30201607",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "168 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.34 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.34 inches",
+  "weight": "0.55 pounds",
+  "pages": "168 "
+},
+"245393791": {
+  "books_id": "245393791",
+  "title": "Father Horse: A Novel of Roman Britain",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Lewis, William",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lewis, William",
+    "fl": "William Lewis",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1666771791",
+  "isbn": {
+    "0": "1666771791",
+    "2": "9781666771794"
+  },
+  "asin": "1666771791",
+  "ean": ["1666771791"],
+  "publication": "Resource Publications (2023), 182 pages",
+  "date": "2023",
+  "summary": "Father Horse: A Novel of Roman Britain by William Lewis (2023)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "30673445",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "182 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.41 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.41 inches",
+  "weight": "0.55997414548 pounds",
+  "pages": "182 "
+},"245393792": {
+  "books_id": "245393792",
+  "title": "Wild: A Journey from Lost to Found",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Strayed, Cheryl",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Strayed, Cheryl",
+    "fl": "Cheryl Strayed",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9781782394860",
+  "isbn": ["9781782394860",
+  "1782394869"],
+  "asin": "1782394869",
+  "ean": ["1782394869"],
+  "publication": "Atlantic Books (2015), Edition: Main - Film Tie-in, 336 pages",
+  "date": "2015",
+  "summary": "Wild: A Journey from Lost to Found by Cheryl Strayed (2015)",
+  "language": ["English",
+  "French"],
+  "language_codeA": ["eng",
+  "fre"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng",
+  "fre"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3619.T744 Z46"
+  },
+  "awards": ["Oprah's Book Club 2.0",
+  "Time Magazine's Best Books of the Year",
+  "Goodreads Choice Awards",
+  "Academy Award for Writing Adapted Screenplay Nominee",
+  "Amelia Bloomer List",
+  "Indies Choice Book Award",
+  "Oregon Book Award Finalist",
+  "Pacific Northwest Booksellers Association Award",
+  "100 Best Books of 2010-2015 by The Oyster Editors"],
+  "genre": ["Nonfiction",
+  "Biography & Memoir",
+  "General Nonfiction",
+  "Sports and Leisure",
+  "Travel"],
+  "genre_id": ["20275895",
+  "1240",
+  "1247",
+  "34184",
+  "3578"],
+  "source": "amazon.com books",
+  "workcode": "11594851",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "336 p.; 7.83 inches",
+  "height": "7.83463 inches",
+  "thickness": "0.94488 inches",
+  "length": "5.03936 inches",
+  "dimensions": "7.83463 x 5.03936 x 0.94488 inches",
+  "weight": "0.52249556094 pounds",
+  "pages": "336 "
+},
+"245393806": {
+  "books_id": "245393806",
+  "title": "Planetary Politics: A Manifesto (Theory Redux)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Marsili, Lorenzo",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Marsili, Lorenzo",
+    "fl": "Lorenzo Marsili",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1509544771",
+  "isbn": {
+    "0": "1509544771",
+    "2": "9781509544776"
+  },
+  "asin": "1509544771",
+  "ean": ["1509544771"],
+  "publication": "Polity (2021), Edition: 1, 140 pages",
+  "date": "2021",
+  "summary": "Planetary Politics: A Manifesto (Theory Redux) by Lorenzo Marsili (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["320"],
+    "wording": ["Political Science ",
+    "Political Science ",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "JA71"
+  },
+  "source": "amazon.com books",
+  "workcode": "28201000",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "140 p.; 7.3 inches",
+  "height": "7.299198 inches",
+  "thickness": "0.499999 inches",
+  "length": "4.799203 inches",
+  "dimensions": "7.299198 x 4.799203 x 0.499999 inches",
+  "weight": "0.2866009406 pounds",
+  "pages": "140 "
+},
+"245393823": {
+  "books_id": "245393823",
+  "title": "Terra Nullius",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Coleman, Claire G.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Coleman, Claire G.",
+    "fl": "Claire G. Coleman",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "073364192X",
+  "isbn": {
+    "0": "073364192X",
+    "2": "9780733641923"
+  },
+  "asin": "073364192X",
+  "ean": ["073364192X"],
+  "publication": "Hachette Australia (2019), 304 pages",
+  "date": "2019",
+  "summary": "Terra Nullius by Claire G. Coleman (2019)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR9619.C64 T47"
+  },
+  "awards": ["Stella Prize Shortlist",
+  "Aurealis Award Finalist",
+  "Australian Book Industry Awards Shortlist",
+  "The Indie Book Award Longlist"],
+  "genre": ["Fiction",
+  "General Fiction",
+  "Science Fiction"],
+  "genre_id": ["17160326",
+  "2",
+  "281"],
+  "source": "amazon.com books",
+  "workcode": "20147450",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"245393841": {
+  "books_id": "245393841",
+  "title": "Zennor in Darkness: From the Women\u2019s Prize-Winning Author of A Spell of Winter",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Dunmore, Helen",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Dunmore, Helen",
+    "fl": "Helen Dunmore",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0241988551",
+  "isbn": {
+    "0": "0241988551",
+    "2": "9780241988558"
+  },
+  "asin": "0241988551",
+  "ean": ["0241988551"],
+  "publication": "Penguin (2021), Edition: 3",
+  "date": "2021",
+  "summary": "Zennor in Darkness: From the Women\u2019s Prize-Winning Author of A Spell of Winter by Helen Dunmore (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813"],
+    "wording": ["American fiction",
+    "English (North America)",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PR6054.U528 Z46"
+  },
+  "originaltitle": "Zennor In Darkness",
+  "awards": ["McKitterick Prize"],
+  "genre": ["Fiction",
+  "General Fiction",
+  "Historical Fiction"],
+  "genre_id": ["17160326",
+  "2",
+  "41890"],
+  "source": "amazon.com books",
+  "workcode": "195366",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "7.87 inches",
+  "height": "7.874 inches",
+  "thickness": "0.7874 inches",
+  "length": "5.1181 inches",
+  "dimensions": "7.874 x 5.1181 x 0.7874 inches",
+  "weight": "0.49163084426 pounds"
+},
+"245393860": {
+  "books_id": "245393860",
+  "title": "Decolonial Ecology: Thinking from the Caribbean World (Critical South)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Ferdinand, Malcom",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ferdinand, Malcom",
+    "fl": "Malcom Ferdinand",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1509546235",
+  "isbn": {
+    "0": "1509546235",
+    "2": "9781509546237"
+  },
+  "asin": "1509546235",
+  "ean": ["1509546235"],
+  "publication": "Polity (2022), Edition: 1, 300 pages",
+  "date": "2022",
+  "summary": "Decolonial Ecology: Thinking from the Caribbean World (Critical South) by Malcom Ferdinand (2022)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["304.209729"],
+    "wording": ["Factors affecting social behavior",
+    "Human ecology",
+    "Social Sciences; Sociology and anthropology",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "GF13.C27 F4713"
+  },
+  "source": "amazon.com books",
+  "workcode": "27610516",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "300 p.; 8.5 inches",
+  "height": "8.499983 inches",
+  "thickness": "0.799211 inches",
+  "length": "5.401564 inches",
+  "dimensions": "8.499983 x 5.401564 x 0.799211 inches",
+  "weight": "0.9000151383888 pounds",
+  "pages": "300 "
+},
+"245393891": {
+  "books_id": "245393891",
+  "title": "There is Nothing So Whole as a Broken Heart: Mending the World as Jewish Anarchists",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Milstein, Cindy",
+  "primaryauthorrole": "Editor",
+  "authors": [{
+    "lf": "Milstein, Cindy",
+    "fl": "Cindy Milstein",
+    "role": "Editor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1849353999",
+  "isbn": {
+    "0": "1849353999",
+    "2": "9781849353991"
+  },
+  "asin": "1849353999",
+  "ean": ["1849353999"],
+  "publication": "AK Press (2021), 224 pages",
+  "date": "2021",
+  "summary": "There is Nothing So Whole as a Broken Heart: Mending the World as Jewish Anarchists by Cindy Milstein (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["335.83089924"],
+    "wording": ["Anarchism",
+    "Economics",
+    "Other systems",
+    "Social sciences",
+    "Socialism and related systems"]
+  },
+  "lcc": {
+    "code": "HX826 .T54"
+  },
+  "source": "amazon.com books",
+  "workcode": "25940085",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "224 p.; 8.25 inches",
+  "height": "8.25 inches",
+  "thickness": "1 inch",
+  "length": "5.75 inches",
+  "dimensions": "8.25 x 5.75 x 1 inches",
+  "weight": "1.2 pounds",
+  "pages": "224 "
+},
+"245393901": {
+  "books_id": "245393901",
+  "title": "Bodies in Doubt: An American History of Intersex",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Reis, Elizabeth",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Reis, Elizabeth",
+    "fl": "Elizabeth Reis",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1421441845",
+  "isbn": {
+    "0": "1421441845",
+    "2": "9781421441849"
+  },
+  "asin": "1421441845",
+  "ean": ["1421441845"],
+  "publication": "Johns Hopkins University Press (2021), Edition: 2nd edition, 288 pages",
+  "date": "2021",
+  "summary": "Bodies in Doubt: An American History of Intersex by Elizabeth Reis (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["362.196"],
+    "wording": ["Diseases",
+    "People with physical illnesses",
+    "Services to people with specific conditions",
+    "Social problems and services; associations",
+    "Social problems of & services to groups of people",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "RC883 .R45"
+  },
+  "source": "amazon.com books",
+  "workcode": "6528564",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "288 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.65 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.65 inches",
+  "weight": "0.89948602896 pounds",
+  "pages": "288 "
+},
+"245393915": {
+  "books_id": "245393915",
+  "title": "Heterosexual Histories (NYU Series in Social and Cultural Analysis)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Davis, Rebecca L.",
+  "primaryauthorrole": "Editor",
+  "authors": [{
+    "lf": "Davis, Rebecca L.",
+    "fl": "Rebecca L. Davis",
+    "role": "Editor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "147980228X",
+  "isbn": {
+    "0": "147980228X",
+    "2": "9781479802289"
+  },
+  "asin": "147980228X",
+  "ean": ["147980228X"],
+  "publication": "NYU Press (2021), 424 pages",
+  "date": "2021",
+  "summary": "Heterosexual Histories (NYU Series in Social and Cultural Analysis) by Rebecca L. Davis (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["306.76609"],
+    "wording": ["Biography And History",
+    "Culture and Institutions",
+    "Homosexuality",
+    "Relations between the sexes, sexualities, love",
+    "Sexual orientation, gender identity",
+    "Social Sciences; Sociology and anthropology",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "HQ23.D385"
+  },
+  "source": "amazon.com books",
+  "workcode": "26136798",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "424 p.; 9 inches",
+  "height": "8.999982 inches",
+  "thickness": "1.06 inches",
+  "length": "5.999988 inches",
+  "dimensions": "8.999982 x 5.999988 x 1.06 inches",
+  "weight": "1.3 pounds",
+  "pages": "424 "
+},
+"245393924": {
+  "books_id": "245393924",
+  "title": "The Deportation Express: A History of America through Forced Removal (Volume 61) (American Crossroads)",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Blue, Ethan",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Blue, Ethan",
+    "fl": "Ethan Blue",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0520304446",
+  "isbn": {
+    "0": "0520304446",
+    "2": "9780520304444"
+  },
+  "asin": "0520304446",
+  "ean": ["0520304446"],
+  "publication": "University of California Press (2021), Edition: First, 448 pages",
+  "date": "2021",
+  "summary": "The Deportation Express: A History of America through Forced Removal (Volume 61) (American Crossroads) by Ethan Blue (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["364.6"],
+    "wording": ["Criminology",
+    "Punishment",
+    "Social problems and services; associations",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "JV6483 .B59"
+  },
+  "source": "amazon.com books",
+  "workcode": "26677802",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "448 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "1.5 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 1.5 inches",
+  "weight": "1.79897205792 pounds",
+  "pages": "448 "
+},
+"245393934": {
+  "books_id": "245393934",
+  "title": "Public. Open. Space.",
+  "sortcharacter": "1",
+  "public": "true",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "176099216X",
+  "isbn": {
+    "0": "176099216X",
+    "2": "9781760992163"
+  },
+  "asin": "176099216X",
+  "ean": ["176099216X"],
+  "summary": "Public. Open. Space.",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "30599462",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "8.11 inches",
+  "height": "8.11022 inches",
+  "thickness": "0.35433 inches",
+  "length": "5.55117 inches",
+  "dimensions": "8.11022 x 5.55117 x 0.35433 inches",
+  "weight": "0.26896395964 pounds"
+},
+"245393940": {
+  "books_id": "245393940",
+  "title": "Some Desperate Glory",
+  "sortcharacter": "1",
+  "public": "true",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0356521826",
+  "isbn": {
+    "0": "0356521826",
+    "2": "9780356521824"
+  },
+  "asin": "0356521826",
+  "ean": ["0356521826"],
+  "summary": "Some Desperate Glory",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.00"],
+    "wording": ["By Type",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "30317088",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9.13 inches",
+  "height": "9.13384 inches",
+  "thickness": "1.41732 inches",
+  "length": "5.98424 inches",
+  "dimensions": "9.13384 x 5.98424 x 1.41732 inches"
+},
+"245393949": {
+  "books_id": "245393949",
+  "title": "We Didn't Think It Through",
+  "sortcharacter": "1",
+  "public": "true",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1760526932",
+  "isbn": {
+    "0": "1760526932",
+    "2": "9781760526931"
+  },
+  "asin": "1760526932",
+  "ean": ["1760526932"],
+  "summary": "We Didn't Think It Through",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "30565340",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"245393953": {
+  "books_id": "245393953",
+  "title": "Blood: First Nations Classics",
+  "sortcharacter": "1",
+  "public": "true",
+  "authors": [[]],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0702265985",
+  "isbn": {
+    "0": "0702265985",
+    "2": "9780702265983"
+  },
+  "asin": "0702265985",
+  "ean": ["0702265985"],
+  "summary": "Blood: First Nations Classics",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR9619.B535 B56"
+  },
+  "awards": ["Miles Franklin Award Shortlist",
+  "Melbourne Prize Best Writing Award Finalist"],
+  "genre": ["Fiction",
+  "General Fiction"],
+  "genre_id": ["17160326",
+  "2"],
+  "source": "amazon.com books",
+  "workcode": "11977459",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "7.68 inches",
+  "height": "7.67715 inches",
+  "thickness": "0.86614 inches",
+  "length": "5.1181 inches",
+  "dimensions": "7.67715 x 5.1181 x 0.86614 inches",
+  "weight": "0.58642961692 pounds"
 }}

@@ -51,7 +51,7 @@
 
                 { "bookshelf": "E", "shelf": 1, "first_book": { "isbn": "978-1925208368" } },
                 { "bookshelf": "E", "shelf": 2, "first_book": { "isbn": "9780334022077" } },
-                { "bookshelf": "E", "shelf": 3, "first_book": { "isbn": "9780140137637" } },
+                { "bookshelf": "E", "shelf": 3, "first_book": { "isbn": "9780883443446" } },
 
                 { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "9780809122950" } },
                 { "bookshelf": "F", "shelf": 2, "first_book": { "isbn": "9780715155516" } },
