@@ -152217,7 +152217,11 @@
   "title": "Romantic Comedy",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Sittenfield, Curtis",
+  "authors": [{
+    "lf": "Sittenfield, Curtis",
+    "fl": "Curtis Sittenfield"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0857527509",
@@ -152227,7 +152231,7 @@
   },
   "asin": "0857527509",
   "ean": ["0857527509"],
-  "summary": "Romantic Comedy",
+  "summary": "Romantic Comedy by Curtis Sittenfield",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
@@ -152324,7 +152328,11 @@
   "title": "Every Version of You",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Chan, Grace",
+  "authors": [{
+    "lf": "Chan, Grace",
+    "fl": "Grace Chan"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1922806013",
@@ -152335,13 +152343,21 @@
   "asin": "1922806013",
   "ean": ["1922806013"],
   "publication": "Affirm Press",
-  "summary": "Every Version of You",
+  "summary": "Every Version of You by Grace Chan",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature",
+    "Modern Period"]
+  },
   "lcc": [],
   "source": "amazon.com books",
-  "workcode": "28775929",
+  "workcode": "28816513",
   "entrydate": "2023-07-31",
   "format": [{
     "code": "1.1.1",
@@ -153001,6 +153017,12 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["232"],
+    "wording": ["Christ; Christology",
+    "Christian doctrinal theology",
+    "Religions"]
+  },
   "lcc": {
     "code": "BT153.M6 D68"
   },
@@ -153048,6 +153070,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature",
+    "Modern Period"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30673445",
@@ -153590,7 +153620,11 @@
   "title": "Public. Open. Space.",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Larsen, Kate",
+  "authors": [{
+    "lf": "Larsen, Kate",
+    "fl": "Kate Larsen"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "176099216X",
@@ -153600,11 +153634,19 @@
   },
   "asin": "176099216X",
   "ean": ["176099216X"],
-  "summary": "Public. Open. Space.",
+  "summary": "Public. Open. Space. by Kate Larsen",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["819.13"],
+    "wording": ["American literature in English outside the USA (optional)",
+    "Canadian fiction",
+    "English (North America)",
+    "English literature from Canada",
+    "Literature"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30599462",
@@ -153626,7 +153668,11 @@
   "title": "Some Desperate Glory",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Tesh, Emily",
+  "authors": [{
+    "lf": "Tesh, Emily",
+    "fl": "Emily Tesh"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0356521826",
@@ -153636,21 +153682,24 @@
   },
   "asin": "0356521826",
   "ean": ["0356521826"],
-  "summary": "Some Desperate Glory",
+  "summary": "Some Desperate Glory by Emily Tesh",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["823.00"],
-    "wording": ["By Type",
+    "code": ["823.92"],
+    "wording": ["2000-",
     "English & Old English literatures",
     "English fiction",
-    "Literature"]
+    "Literature",
+    "Modern Period"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PR6120.E84 S66"
+  },
   "source": "amazon.com books",
-  "workcode": "30317088",
+  "workcode": "26911573",
   "entrydate": "2023-07-31",
   "format": [{
     "code": "1.1.1",
@@ -153668,7 +153717,11 @@
   "title": "We Didn't Think It Through",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Lonesborough, Gary",
+  "authors": [{
+    "lf": "Lonesborough, Gary",
+    "fl": "Gary Lonesborough"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1760526932",
@@ -153678,11 +153731,19 @@
   },
   "asin": "1760526932",
   "ean": ["1760526932"],
-  "summary": "We Didn't Think It Through",
+  "summary": "We Didn't Think It Through by Gary Lonesborough",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature",
+    "Modern Period"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30565340",
@@ -153698,7 +153759,11 @@
   "title": "Blood: First Nations Classics",
   "sortcharacter": "1",
   "public": "true",
-  "authors": [[]],
+  "primaryauthor": "Birch, Tony",
+  "authors": [{
+    "lf": "Birch, Tony",
+    "fl": "Tony Birch"
+  }],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0702265985",
@@ -153708,7 +153773,7 @@
   },
   "asin": "0702265985",
   "ean": ["0702265985"],
-  "summary": "Blood: First Nations Classics",
+  "summary": "Blood: First Nations Classics by Tony Birch",
   "language": ["English"],
   "language_codeA": ["eng"],
   "originallanguage": ["English"],

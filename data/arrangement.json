@@ -121,8 +121,13 @@
 
         { "isbn": "9780646480947", "bookshelf": "F", "shelf": 3 },
 
-        { "isbn": "9784770030085", "bookshelf": "F", "shelf": 3},
+        { "isbn": "9781741315400", "bookshelf": "F", "shelf": 6 },
+
         { "isbn": "9781851777372", "bookshelf": "G", "shelf": 3},
+        { "isbn": "9780714824611", "bookshelf": "G", "shelf": 3},
+        { "isbn": "9780975016893", "bookshelf": "G", "shelf": 3},
+        { "isbn": "978-0-9751947-5-1", "bookshelf": "G", "shelf": 3},
+        { "isbn": "9781592535156", "bookshelf": "G", "shelf": 3},
 
         { "isbn": "9781617291395", "bookshelf": "T", "shelf": 1},
         { "isbn": "9781698853574", "bookshelf": "W", "shelf": 1},
