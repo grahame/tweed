@@ -55776,8 +55776,8 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["942"],
-    "wording": ["England and Wales",
+    "code": ["941"],
+    "wording": ["British Isles",
     "Europe",
     "History and Geography"]
   },
@@ -153809,4 +153809,48 @@
   "length": "5.1181 inches",
   "dimensions": "7.67715 x 5.1181 x 0.86614 inches",
   "weight": "0.58642961692 pounds"
+},
+"245401523": {
+  "books_id": "245401523",
+  "title": "Why We Are Here",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Doyle, Briohny",
+  "authors": [{
+    "lf": "Doyle, Briohny",
+    "fl": "Briohny Doyle"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1760899631",
+  "isbn": {
+    "0": "1760899631",
+    "2": "9781760899639"
+  },
+  "asin": "1760899631",
+  "ean": ["1760899631"],
+  "summary": "Why We Are Here by Briohny Doyle",
+  "ddc": {
+    "code": ["823.92"],
+    "wording": ["2000-",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "30556840",
+  "entrydate": "2023-07-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "9.17 inches",
+  "height": "9.17321 inches",
+  "thickness": "1.37795 inches",
+  "length": "6.06298 inches",
+  "dimensions": "9.17321 x 6.06298 x 1.37795 inches",
+  "weight": "0.98767093376 pounds"
 }}
