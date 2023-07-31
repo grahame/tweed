@@ -483,8 +483,9 @@ C3.27 231.044        9780521558266     Coakley, Sarah, 1951-         2013 God, s
 C3.28 231.044        9780198712138     Emery, Gilles                 2014 The Oxford handbook of the trinity
 C3.29 231.044        9780310517092     Los Angeles Theology Confe    2014 Advancing Trinitarian theology : explorations in constructiv
 C3.30 231.044        9780334023685     Moltmann, Jürgen              1981 The Trinity and the kingdom : the doctrine of God
-C3.31 231.044        9781138554542     Tonstad, Linn Marie, 1978-    2017 God and difference : the Trinity, sexuality, and the transfo
-C3.32 231.044        9780567087034     Torrance, Thomas F. (Thoma    2000 Trinitarian perspectives : toward doctrinal agreement
+C3.31 231.044        9781666733686     O'Donnell, Eleanor            2023 The Relational Power of God: Considering the Rebel Voice
+C3.32 231.044        9781138554542     Tonstad, Linn Marie, 1978-    2017 God and difference : the Trinity, sexuality, and the transfo
+C3.33 231.044        9780567087034     Torrance, Thomas F. (Thoma    2000 Trinitarian perspectives : toward doctrinal agreement
 C4.01 231.3          9780334023371     Moltmann, Jürgen              1992 The Spirit of life : a universal affirmation
 C4.02 231.3          9780334029694     Taylor, John V. (John Vern    2004 The go-between God : the Holy Spirit and the Christian missi
 C4.03 231.4          9780824513764     Johnson, Elizabeth A., 194    1993 She who is : the mystery of God in feminist theological disc
@@ -589,23 +590,24 @@ C6.23 233.5          9780281079759     Williams, Rowan, 1950-        2018 Being 
 C6.24 233.6          9781032191348     Capper, Christy               2022 The Theological Imperative to Authenticity
 C6.25 234            9780722085189     Aumann, Jordan                1980 Spiritual theology
 C6.26 234            9780521426169     Ford, David F., 1948-         1999 Self and salvation : being transformed
-C6.27 234            9780830853229     Lindsay, Mark R., 1971-       2020 God has chosen : the doctrine of election through Christian 
-C6.28 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
-C6.29 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
-C6.30 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
-C6.31 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
-C6.32 234.163        9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
-C6.33 234.163        9780232512984     Voillaume, René               1976 Source of life : the Eucharist and Christian living
-C6.34 234.163        9780567326607     Zizioulas, Jean, 1931-        2011 The eucharistic communion and the world
-C6.35 234.1630902    9780814660539     Macy, Gary                    1999 Treasures from the storeroom : medieval religion and the Euc
-C6.36 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
-C6.37 234.2          9780060937133     Tillich, Paul, 1886-1965      2009 Dynamics of faith
-C6.38 234.23         9780232529531     Ashby, Roland                 2012 A faith to live by : what an intelligent, compassionate and 
-C6.39 234.5          9780819217349     Countryman, Louis William,    1998 Forgiven and forgiving
-C6.40 234.509015     9780879076061     Ward, Benedicta, 1933-2022    1987 Harlots of the desert : a study of repentance in early monas
-C6.41 234.7          9780980573213     Moore, Richard K. (Richard    None Justification : God's way of bringing us into a right relati
-C6.42 235.3          9780809148967     McKenna, Megan M.             2015 Angels unawares
-C6.43 235.4          9781505126334     Gonzaga, St. Aloysius         2022 Meditations on the Holy Angels
+C6.27 234            9780300258486     Hart, David Bentley           2021 That All Shall Be Saved: Heaven, Hell, and Universal Salvati
+C6.28 234            9780830853229     Lindsay, Mark R., 1971-       2020 God has chosen : the doctrine of election through Christian 
+C6.29 234.16         9780334024538     Béguerie, Ph. (Philippe)      1991 How to understand the sacraments
+C6.30 234.16         9780814652275     Martos, Joseph, 1943-         1983 The Catholic sacraments
+C6.31 234.161        9780913836101     Shmeman, Aleksandr, 1921-1    1997 Of water and the spirit : a liturgical study of baptism
+C6.32 234.163        9781556125614     Hellwig, Monika               1992 The Eucharist and the hunger of the world
+C6.33 234.163        9781120872524     Ratramnus Monk Of Corbie      2010 The Book Of Bertram, Monk Of Corbie, A.D. 840: On The Body A
+C6.34 234.163        9780232512984     Voillaume, René               1976 Source of life : the Eucharist and Christian living
+C6.35 234.163        9780567326607     Zizioulas, Jean, 1931-        2011 The eucharistic communion and the world
+C6.36 234.1630902    9780814660539     Macy, Gary                    1999 Treasures from the storeroom : medieval religion and the Euc
+C6.37 234.2          9780060628666     Fowler, James W., 1940-       1995 Stages of faith : the psychology of human development and th
+C6.38 234.2          9780060937133     Tillich, Paul, 1886-1965      2009 Dynamics of faith
+C6.39 234.23         9780232529531     Ashby, Roland                 2012 A faith to live by : what an intelligent, compassionate and 
+C6.40 234.5          9780819217349     Countryman, Louis William,    1998 Forgiven and forgiving
+C6.41 234.509015     9780879076061     Ward, Benedicta, 1933-2022    1987 Harlots of the desert : a study of repentance in early monas
+C6.42 234.7          9780980573213     Moore, Richard K. (Richard    None Justification : God's way of bringing us into a right relati
+C6.43 235.3          9780809148967     McKenna, Megan M.             2015 Angels unawares
+C6.44 235.4          9781505126334     Gonzaga, St. Aloysius         2022 Meditations on the Holy Angels
 D1.01 236            9780813215167     Benedict XVI, Pope, 1927-     2007 Eschatology, death and eternal life
 D1.02 236            9781608994724     Cullmann, Oscar               2000 Immortality of the soul ; or, Resurrection of the dead? : th
 D1.03 236            9780800628246     Moltmann, Jürgen              1993 Theology of hope : on the ground and the implications of a C
@@ -636,23 +638,22 @@ D1.27 242            9780232515213     Câmara, Hélder, 1909-1999     1981 A th
 D1.28 242            9780340979945     Foster, Richard J.            2010 Longing for God : seven paths of Christian devotion
 D1.29 242            9781663208682     Fox, Matthew                  2020 Julian of Norwich: Wisdom in a Time of Pandemic-And Beyond
 D1.30 242            9780486836089     Julian of Norwich             2019 Revelations of Divine Love
-D1.31 242            9781505128062     Kempis, Thomas A              2023 Meditations on Death: Preparing for Eternity
-D1.32 242                              Kempis, Thomas A              2018 The Imitation of Christ (Translated by William Benham)
-D1.33 242            9780374513252     Merton, Thomas                1999 Thoughts In Solitude
-D1.34 242            9780281059737     Newman, John Henry, 1801-1    2007 John Henry Newman : prayers, poems and meditations
-D1.35 242            9781620327722     Ringma, Charles               2013 Hear the ancient wisdom : a meditational reader for the whol
-D1.36 242            9780819281227     Taize, Brother Jean Marc o    2005 Seeds of Trust: Reflecting on the Bible in silence and song
-D1.37 242                              The Taizé Community           1966 The Taize Office
-D1.38 242            9780819213143     Underhill, Evelyn, 1875-19    1989 The fruits of the spirit
-D1.39 242.19         9781888212266     Hester, David                 2001 The Jesus Prayer: A Gift from the Fathers
-D1.40 242.2                            Hilton, Mary C.               None The Parish as a Center of Prayer
-D1.41 242.2          9780232525502     Julian, of Norwich, 1343-     2004 Enfolded in love : daily readings with Julian of Norwich
-D1.42 242.2          9780826494078     Law, Philip                   2006 Seasons of devotion : 365 Bible readings and prayers to guid
-D1.43 242.3          9781853112492     Atwell, Robert                1999 Celebrating the seasons : daily spiritual readings for the C
-D1.44 242.34         9781472978257     Cherry, Stephen               2021 Thy will be done : the 2021 Lent book
-D1.45 242.34         9781627850445     Dear, John                    2015 Walking the Way: Following Jesus on the Lenten Journey of Go
-D1.46 242.34         9780809149667     Leonard, Richard, 1963-       2015 What are we hoping for? : reflections on Lent and Easter
-D1.47 242.34         9780860122319     Mansel, Philip                1994 Witnesses: Meditations on the Way of the Cross
+D1.31 242                              Kempis, Thomas A              2018 The Imitation of Christ (Translated by William Benham)
+D1.32 242            9780374513252     Merton, Thomas                1999 Thoughts In Solitude
+D1.33 242            9780281059737     Newman, John Henry, 1801-1    2007 John Henry Newman : prayers, poems and meditations
+D1.34 242            9781620327722     Ringma, Charles               2013 Hear the ancient wisdom : a meditational reader for the whol
+D1.35 242            9780819281227     Taize, Brother Jean Marc o    2005 Seeds of Trust: Reflecting on the Bible in silence and song
+D1.36 242                              The Taizé Community           1966 The Taize Office
+D1.37 242            9780819213143     Underhill, Evelyn, 1875-19    1989 The fruits of the spirit
+D1.38 242.19         9781888212266     Hester, David                 2001 The Jesus Prayer: A Gift from the Fathers
+D1.39 242.2                            Hilton, Mary C.               None The Parish as a Center of Prayer
+D1.40 242.2          9780232525502     Julian, of Norwich, 1343-     2004 Enfolded in love : daily readings with Julian of Norwich
+D1.41 242.2          9780826494078     Law, Philip                   2006 Seasons of devotion : 365 Bible readings and prayers to guid
+D1.42 242.3          9781853112492     Atwell, Robert                1999 Celebrating the seasons : daily spiritual readings for the C
+D1.43 242.34         9781472978257     Cherry, Stephen               2021 Thy will be done : the 2021 Lent book
+D1.44 242.34         9781627850445     Dear, John                    2015 Walking the Way: Following Jesus on the Lenten Journey of Go
+D1.45 242.34         9780809149667     Leonard, Richard, 1963-       2015 What are we hoping for? : reflections on Lent and Easter
+D1.46 242.34         9780860122319     Mansel, Philip                1994 Witnesses: Meditations on the Way of the Cross
 D2.01 242.34         9780826499561     Radcliffe, Timothy            2009 Why go to church? : the drama of the Eucharist
 D2.02 242.34         9780281085170     Steele, Hannah                2020 Living his story : revealing the extraordinary love of God i
 D2.03 242.34         9781472954817     Williams, Jane, 1957-         2019 The merciful humility of God : the 2019 Lent book
@@ -769,13 +770,14 @@ D4.26 248.483        9780281076628     Williams, Rowan, 1950-        2016 Being 
 D4.27 248.487        9780687188871     Jones, G. William (George     1969 The innovator and other modern parables
 D4.28 248.4896       9780340735213     Foster, Richard J.            1998 Celebration of discipline : the path to spiritual growth
 D4.29 248.842        9780849944383     Dalbey, Gordon, 1944-         2003 Healing the masculine soul : how God restores men to real ma
-D4.30 248.861        9781587435454     Kenny, Amy, 1987-             2022 My body is not a prayer request : disability justice in the 
-D4.31 248.8629       9781616361570     Rohr, Richard                 2011 Breathing under water : spirituality and the twelve steps
-D4.32 248.864        9781481316941     Raffety, Erin                 2022 From Inclusion to Justice: Disability, Ministry, and Congreg
-D4.33 248.89         9780345463357     Nouwen, Henri J. M            2003 The way of the heart : desert spirituality and contemporary 
-D4.34 248.894        9780879070670     Casey, Michael, 1942-         2021 Coenobium : reflections on monastic community
-D4.35 248.9          9780875084190     Nee, Watchman                 1964 Sit, walk, stand
-D4.36 250                              Kimball, Dan                  2003 The Emerging Church: Vintage Christianity for New Generation
+D4.30 248.86         9781505128062     Kempis, Thomas A              2023 Meditations on Death: Preparing for Eternity
+D4.31 248.861        9781587435454     Kenny, Amy, 1987-             2022 My body is not a prayer request : disability justice in the 
+D4.32 248.8629       9781616361570     Rohr, Richard                 2011 Breathing under water : spirituality and the twelve steps
+D4.33 248.864        9781481316941     Raffety, Erin                 2022 From Inclusion to Justice: Disability, Ministry, and Congreg
+D4.34 248.89         9780345463357     Nouwen, Henri J. M            2003 The way of the heart : desert spirituality and contemporary 
+D4.35 248.894        9780879070670     Casey, Michael, 1942-         2021 Coenobium : reflections on monastic community
+D4.36 248.9          9780875084190     Nee, Watchman                 1964 Sit, walk, stand
+D4.37 250                              Kimball, Dan                  2003 The Emerging Church: Vintage Christianity for New Generation
 D5.01 250            9781850787921     Male, David                   2008 Church Unplugged: Remodelling Church Without Losing your Sou
 D5.02 251            9780664251581     Barth, Karl, 1886-1968        1991 Homiletics
 D5.03 251            9780281049677     Coggan, Donald, 1909-2000     1996 A new day for preaching : the sacrament of the word
@@ -1355,28 +1357,30 @@ G5.06 811.6          9781784744618     Gorman, Amanda, 1998-         2021 HILL W
 G5.07 811.6          9781925713886     Headley, Maria Dahvana, 19    None Beowulf : a new translation
 G5.08 811.6080353    9781635863864     Crews, James, 1980-           2021 How to love the world : poems of gratitude and hope
 G5.09 812.6          9780571211012     Guirgis, Stephen Adly         2005 The last days of Judas Iscariot
-G5.10 813            9780141346090     Green, John, 1977-            2012 An abundance of Katherines
-G5.11 813            9780008433802     Kim, Bo Young                 None I'm waiting for you : and other stories
-G5.12 813            9780571376476     Kingsolver, Barbara           2022 DEMON COPPERHEAD
-G5.13 813.00         9780702266164                                   None A Minor Chorus
-G5.14 813.08508      9780141349176     Green, John, 1977-            2013 Let it snow
-G5.15 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
-G5.16 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
-G5.17 813.0876208377 9781648411304     Blue, Elly                    2023 Bicycles & Broomsticks: Fantastical Feminist Stories about W
-G5.18 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
-G5.19 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
-G5.20 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
-G5.21 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
-G5.22 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
-G5.23 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
-G5.24 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
-G5.25 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
-G5.26 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
-G5.27 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
-G5.28 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
-G5.29 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
-G5.30 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-G5.31 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+G5.10 813            9780732911997     Birmingham, John              2004 Weapons of Choice: World War 2 . 1
+G5.11 813            9780141346090     Green, John, 1977-            2012 An abundance of Katherines
+G5.12 813            9780008433802     Kim, Bo Young                 None I'm waiting for you : and other stories
+G5.13 813            9780571376476     Kingsolver, Barbara           2022 DEMON COPPERHEAD
+G5.14 813.00         9780702266164     Belcourt, Billy-Ray           None A Minor Chorus
+G5.15 813.0000       9780349437187     Hoffs, Susanna                2023 This Bird Has Flown
+G5.16 813.08508      9780141349176     Green, John, 1977-            2013 Let it snow
+G5.17 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
+G5.18 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
+G5.19 813.0876208377 9781648411304     Blue, Elly                    2023 Bicycles & Broomsticks: Fantastical Feminist Stories about W
+G5.20 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
+G5.21 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
+G5.22 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
+G5.23 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
+G5.24 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
+G5.25 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
+G5.26 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
+G5.27 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
+G5.28 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
+G5.29 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
+G5.30 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
+G5.31 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
+G5.32 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+G5.33 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
 G6.01 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
 G6.02 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
 G6.03 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
@@ -1740,21 +1744,22 @@ I6.08 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm 
 I6.09 823.92         9780575079076     Robson, Justina               2006 Keeping it real
 I6.10 823.92         9781408883358     Shannon, Samantha, 1991-      2020 The priory of the orange tree
 I6.11 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
-I6.12 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
-I6.13 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
-I6.14 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
-I6.15 823.92         9780356511108     Stross, Charles               None The labyrinth index
-I6.16 823.92         9780356511368     Thompson, Tade                2018 Rosewater
-I6.17 823.92         9781526639554     Watson, Tom                   None Metronome
-I6.18 823.92         9781922400277     Williams, Pip, 1969-          2021 The dictionary of lost words : a novel
-I6.19 823.9200       9781250863461     Pin, Cecile                   2023 Wandering Souls: A Novel
-I6.20 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
-I6.21 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
-I6.22 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
-I6.23 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
-I6.24 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
-I6.25 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
-I6.26 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
+I6.12 823.92         9781982187057     Stronach, Sascha              2022 The Dawnhounds: Volume 1 (Endsong, The)
+I6.13 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
+I6.14 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
+I6.15 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
+I6.16 823.92         9780356511108     Stross, Charles               None The labyrinth index
+I6.17 823.92         9780356511368     Thompson, Tade                2018 Rosewater
+I6.18 823.92         9781526639554     Watson, Tom                   None Metronome
+I6.19 823.92         9781922400277     Williams, Pip, 1969-          2021 The dictionary of lost words : a novel
+I6.20 823.9200       9781250863461     Pin, Cecile                   2023 Wandering Souls: A Novel
+I6.21 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
+I6.22 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
+I6.23 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
+I6.24 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
+I6.25 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
+I6.26 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
+I6.27 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
 J1.01 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
 J1.02 833.912        9780099283621     Hesse, Hermann, 1877-1962     2000 The glass bead game (Magister Ludi)
 J1.03 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
@@ -1796,16 +1801,17 @@ J2.09 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War an
 J2.10 891.7342       9781838850586     Zami︠a︡tin, Evgeniĭ Ivanov    2020 We
 J2.11 891.7344       9780575093133     Strugat︠s︡kiĭ, Arkadiĭ, 19    2001 Roadside picnic
 J2.12 891.7344       9781612194325     Strugat︠s︡kiĭ, Arkadiĭ, 19    2015 The Dead Mountaineer's Inn : (one more last rite for the det
-J2.13 892.1          9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
-J2.14 892.736        9781801107266     Khartash, Fayṣal              2022 Roundabout of death
-J2.15 892.736        9780857423498     Zaqṭān, Ghassān               2016 Describing the past
-J2.16 895.130108     9781250768919     Chen, Yu                      2022 The Way Spring Arrives and Other Stories: A Collection of Ch
-J2.17 895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
-J2.18 895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
-J2.19 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
-J2.20 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
-J2.21 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
-J2.22 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
+J2.13 891.8537       9780571311576     Lem, Stanislaw                2016 Solaris
+J2.14 892.1          9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
+J2.15 892.736        9781801107266     Khartash, Fayṣal              2022 Roundabout of death
+J2.16 892.736        9780857423498     Zaqṭān, Ghassān               2016 Describing the past
+J2.17 895.130108     9781250768919     Chen, Yu                      2022 The Way Spring Arrives and Other Stories: A Collection of Ch
+J2.18 895.1352       9781784971571     Liu, Cixin                    2015 The three-body problem
+J2.19 895.61008      9780752221656     Dunn-Mascetti, Manuela [Ed    1997 Haiku : the poetry of Zen
+J2.20 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
+J2.21 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
+J2.22 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
+J2.23 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
 J3.01 895.635        9780099458326     Murakami, Haruki              2005 Kafka on the shore
 J3.02 895.635        9781846558337     Murakami, Haruki, (1949- )    2014 Colorless Tsukuru Tazaki and his years of pilgrimage : a nov
 J3.03 895.635        9780099578079     Murakami, Haruki, 1949-       2012 1Q84
@@ -1831,15 +1837,16 @@ J3.22 907.2094       9780522851281     Macintyre, Stuart, 1947-      2004 The hi
 J3.23 909.07         9780823285563     Albin, Andrew [Editor; Oth    2019 Whose Middle Ages? : teachable moments for an ill-used past
 J3.24 909.07         9780300101287     Riley-Smith, Jonathan, 193    2005 The Crusades : a short history
 J3.25 909.08         9780391005419     Mandrou, Robert               1979 From humanism to science, 1480-1700
-J3.26 909.09821      9780300164299     Hart, David Bentley           2010 Atheist delusions : the Christian revolution and its fashion
-J3.27 910.41         9781742707266     Hendrie, Doug                 2014 Amalga-nations : how globalisation is good
-J3.28 910.410922     9780316729697     McGregor, Ewan, 1971-         2004 Long way round : chasing shadows across the world
-J3.29 910.94                           Parry, J. H.                  1982 The Age of Reconnaissance : Discovery, Exploration, and Sett
-J3.30 914.031        9780140210019     Wolff, Philippe               1969 The cultural awakening
-J3.31 919.89         9781869405830     Meduna, Veronika              2012 Science on ice : discovering the secrets of Antarctica
-J3.32 920.71         9780143003540     Facey, A. B. (Albert Barne    2005 A fortunate life
-J3.33 933            9780890515495     Josephus, Flavius             2008 The complete works of Flavius Josephus, the Jewish historian
-J3.34 933            9780199646029     Josephus, Flavius             2017 The Jewish war
+J3.26 909.097671                       Brockelmann, Carl             1960 History of the Islamic peoples (Capricorn books)
+J3.27 909.09821      9780300164299     Hart, David Bentley           2010 Atheist delusions : the Christian revolution and its fashion
+J3.28 910.41         9781742707266     Hendrie, Doug                 2014 Amalga-nations : how globalisation is good
+J3.29 910.410922     9780316729697     McGregor, Ewan, 1971-         2004 Long way round : chasing shadows across the world
+J3.30 910.94                           Parry, J. H.                  1982 The Age of Reconnaissance : Discovery, Exploration, and Sett
+J3.31 914.031        9780140210019     Wolff, Philippe               1969 The cultural awakening
+J3.32 919.89         9781869405830     Meduna, Veronika              2012 Science on ice : discovering the secrets of Antarctica
+J3.33 920.71         9780143003540     Facey, A. B. (Albert Barne    2005 A fortunate life
+J3.34 933            9780890515495     Josephus, Flavius             2008 The complete works of Flavius Josephus, the Jewish historian
+J3.35 933            9780199646029     Josephus, Flavius             2017 The Jewish war
 J4.01 933                              Noth, Martin                  1960 The History of Israel
 J4.02 937.6          9780521793919     Bradley, Pamela (Writer on    2000 Ancient Rome : using evidence
 J4.03 937.7          9780642902108     Ward-Perkins, J. B. (John     1980 Pompeii A.D. 79 : treasures from the National Archaeological
@@ -1863,8 +1870,8 @@ J4.20 942.021        9780520003484     Douglas, David C              1964 Willia
 J4.21 942.03         9780140202342     Myers, A. R. (Alec Reginal    1952 England in the late Middle Ages,
 J4.22 942.05         9780142001257     Brigden, Susan, 1951-         2002 New worlds, lost worlds : the rule of the Tudors, 1485-1603
 J4.23 942.05         9781118532225     Bucholz, R. O., 1958-         2019 Early modern England, 1485-1714 : a narrative history
-J4.24 942.052092     9780241952337     MacCulloch, Diarmaid          2019 Thomas Cromwell : a life
-J4.25 942.0520924                      Scarisbrick, J. J.            2011 Henry VIII (The English Monarchs Series)
+J4.24 942.05                           Scarisbrick, J. J.            2011 Henry VIII (The English Monarchs Series)
+J4.25 942.052092     9780241952337     MacCulloch, Diarmaid          2019 Thomas Cromwell : a life
 J4.26 942.053        9780141985077     MacCulloch, Diarmaid          2017 Tudor church militant : Edward VI and the Protestant Reforma
 J4.27 942.0550924    9781861054548     Erickson, Carolly, 1943-      2001 The first Elizabeth
 J5.01 942.062        9780906224625     Manning, Brian, 1927-2004     1991 The English people and the English revolution
@@ -1879,20 +1886,19 @@ J5.09 949.5          9780299809263     Vasilʹev, A. A. (Aleksandr    1958 Histo
 J5.10 949.502        9780691179452     Betancourt, Roland            2020 Byzantine intersectionality : sexuality, gender, and race in
 J5.11 951.93         9781847922359     Cha, Victor D., 1961-         2012 The impossible state : North Korea, past and future
 J5.12 952            9780140204759     Storry, Richard, 1913-1982    1960 A history of modern Japan
-J5.13 953                              Brockelmann, Carl             1960 History of the Islamic peoples (Capricorn books)
-J5.14 958.103        9781408831595     Dalrymple, William            2014 The return of a king : the battle for Afghanistan, 1839-42
-J5.15 958.1047092    9781405039130     Joya, Malalai                 None Raising my voice : the extraordinary story of the Afghan wom
-J5.16 967.6104       9781760875121     Achan, Alice                  None The school of restoration : the story of one Ugandan woman w
-J5.17 968.064092     9780349106533     Mandela, Nelson, 1918-2013    1995 Long walk to freedom : the autobiography of Nelson Mandela
-J5.18 972.910630924  9780241465097     Guevara, Ernesto Che          2021 Reminiscences of the Cuban revolutionary war
-J5.19 973            9780226583990     Niebuhr, Reinhold 1892-197    2008 The irony of American history
-J5.20 973            9780060838652     Zinn, Howard 1922-2010        2005 A people's history of the United States
-J5.21 973.0496073009 9781847673510     Obama, President Barack       2008 Dreams from My Father: A Story of Race and Inheritance
-J5.22 973.929092     9780091795276     Clinton, Bill, 1946-          2004 My life
-J5.23 978.1033       9780805077742     Frank, Thomas, 1965-          2005 What's the matter with Kansas? : how conservatives won the h
-J5.24 994            9780143005056     Clark, C. M. H. (Charles M    2007 A short history of Australia
-J5.25 994.004924     9780521612852     Rutland, Suzanne D.           2006 The Jews in Australia
-J5.26 994.06         9780140700794     Whitlam, Gough, 1916-2014     1979 The truth of the matter
+J5.13 958.103        9781408831595     Dalrymple, William            2014 The return of a king : the battle for Afghanistan, 1839-42
+J5.14 958.1047092    9781405039130     Joya, Malalai                 None Raising my voice : the extraordinary story of the Afghan wom
+J5.15 967.6104       9781760875121     Achan, Alice                  None The school of restoration : the story of one Ugandan woman w
+J5.16 968.064092     9780349106533     Mandela, Nelson, 1918-2013    1995 Long walk to freedom : the autobiography of Nelson Mandela
+J5.17 972.910630924  9780241465097     Guevara, Ernesto Che          2021 Reminiscences of the Cuban revolutionary war
+J5.18 973            9780226583990     Niebuhr, Reinhold 1892-197    2008 The irony of American history
+J5.19 973            9780060838652     Zinn, Howard 1922-2010        2005 A people's history of the United States
+J5.20 973.0496073009 9781847673510     Obama, President Barack       2008 Dreams from My Father: A Story of Race and Inheritance
+J5.21 973.929092     9780091795276     Clinton, Bill, 1946-          2004 My life
+J5.22 978.1033       9780805077742     Frank, Thomas, 1965-          2005 What's the matter with Kansas? : how conservatives won the h
+J5.23 994            9780143005056     Clark, C. M. H. (Charles M    2007 A short history of Australia
+J5.24 994.004924     9780521612852     Rutland, Suzanne D.           2006 The Jews in Australia
+J5.25 994.06         9780140700794     Whitlam, Gough, 1916-2014     1979 The truth of the matter
 J6.01 994.062        9781922310248     Hocking, Jenny                None The palace letters : the Queen, the governor-general, and th
 J6.02 994.063092     9781863304900     Hawke, Bob, 1929-2019         1996 The Hawke memoirs
 J6.03 994.065092     9781760111625     O'Brien, Kerry                2016 Keating
@@ -2222,8 +2228,9 @@ U2.47 823.92         9781473228863     Baxter, Stephen               None Galaxi
 U2.48 823.92         9780246137067     Baxter, Stephen               1991 Raft
 U2.49 823.92         9780552166058     Pratchett, Terry              2012 I shall wear midnight
 U2.50 823.92         9780552574471     Pratchett, Terry              2016 The Shepherd's crown
-U2.51 829.3          9780007590094     Tolkien, J. R. R. (John Ro    2016 Beowulf : a translation and commentary : together with Selli
-U2.52 914.1150486    9780099460275     Banks, Iain, 1954-2013        2004 Raw spirit : in search of the perfect dram
+U2.51 828.91208      9780008465827     Tolkien, J. R. R.             2023 The Battle of Maldon: together with The Homecoming of Beorht
+U2.52 829.3          9780007590094     Tolkien, J. R. R. (John Ro    2016 Beowulf : a translation and commentary : together with Selli
+U2.53 914.1150486    9780099460275     Banks, Iain, 1954-2013        2004 Raw spirit : in search of the perfect dram
 W1.01 629.40973      9781698853574     United States. National Ae    2019 National Aeronautics and Space Administration Graphics Stand
 W1.02 590            9781579656232     Stewart, Tracey (Organizat    2015 Do unto animals : a friendly guide to how animals live, and 
 W1.03 591.5          9780199291151     Dawkins, Richard, 1941-       2006 The selfish gene
