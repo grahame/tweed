@@ -684,21 +684,22 @@ D2.24 248            9781570758584     Talbot, John Michael          2010 The wo
 D2.25 248.2          9780809124473     Gregory Palamas, Saint, 12    1982 The triads
 D2.26 248.2          9781666708448     Moses of Aghel                2021 The Fable of Joseph and Aseneth: A Mystical Parable of the S
 D2.27 248.2          9780645139440     Nixon, Fr Osb Robert          2021 Four Egyptian Martyrs
-D2.28 248.2          9781735071336     Poor, Matthew the             2021 Sojourners: Monastic Letters and Spiritual Teachings from th
-D2.29 248.2          9781505128260     St. Ambrose of Milan          2022 A Tale of Death and Glory: The Acts of St. Sebastian and His
-D2.30 248.2          9781914166235     V, Pope St Celestine          2023 Imperatrix Æterna: Magical Stories of the Queen of Heaven
-D2.31 248.209        9781561010479     Williams, Rowan, 1950-        2003 The wound of knowledge : Christian spirituality from the New
-D2.32 248.22         9780486824277     Author of The cloud of unk    2018 The cloud of unknowing
-D2.33 248.22         9781590306222     Butcher, Carmen Acevedo       2009 The cloud of unknowing : with the book of privy counsel
-D2.34 248.22         9780809122332     Catherine, of Siena, Saint    1980 The dialogue
-D2.35 248.22         9780809123704     Eckhart, Meister, -1327       1981 Meister Eckhart, the essential sermons, commentaries, treati
-D2.36 248.22         9780824525170     Eckhart, Meister, -1327       2010 The complete mystical works of Meister Eckhart
-D2.37 248.22         9780809131303     Hildegard, Saint, 1098-117    1990 Scivias
-D2.38 248.22         9780938060451     Hopkins, Jasper               1988 Nicholas of Cusa's dialectical mysticism : text, translation
-D2.39 248.22         9780809128396     Jean de la Croix (saint ;     1987 John of the Cross : selected writings
-D2.40 248.22         9781573229746     Jean de la Croix, saint, 1    2003 Dark night of the soul
-D2.41 248.22         9780385030977     Johnston, William, 1925-20    1996 The cloud of unknowing and the book of privy counseling
-D2.42 248.22         9780812974218     McGinn, Bernard, 1937-        2006 The essential writings of Christian mysticism
+D2.28 248.2          9781565480476     Obbard, Elizabeth Ruth        1995 Introducing Julian Woman of Norwich
+D2.29 248.2          9781735071336     Poor, Matthew the             2021 Sojourners: Monastic Letters and Spiritual Teachings from th
+D2.30 248.2          9781505128260     St. Ambrose of Milan          2022 A Tale of Death and Glory: The Acts of St. Sebastian and His
+D2.31 248.2          9781914166235     V, Pope St Celestine          2023 Imperatrix Æterna: Magical Stories of the Queen of Heaven
+D2.32 248.209        9781561010479     Williams, Rowan, 1950-        2003 The wound of knowledge : Christian spirituality from the New
+D2.33 248.22         9780486824277     Author of The cloud of unk    2018 The cloud of unknowing
+D2.34 248.22         9781590306222     Butcher, Carmen Acevedo       2009 The cloud of unknowing : with the book of privy counsel
+D2.35 248.22         9780809122332     Catherine, of Siena, Saint    1980 The dialogue
+D2.36 248.22         9780809123704     Eckhart, Meister, -1327       1981 Meister Eckhart, the essential sermons, commentaries, treati
+D2.37 248.22         9780824525170     Eckhart, Meister, -1327       2010 The complete mystical works of Meister Eckhart
+D2.38 248.22         9780809131303     Hildegard, Saint, 1098-117    1990 Scivias
+D2.39 248.22         9780938060451     Hopkins, Jasper               1988 Nicholas of Cusa's dialectical mysticism : text, translation
+D2.40 248.22         9780809128396     Jean de la Croix (saint ;     1987 John of the Cross : selected writings
+D2.41 248.22         9781573229746     Jean de la Croix, saint, 1    2003 Dark night of the soul
+D2.42 248.22         9780385030977     Johnston, William, 1925-20    1996 The cloud of unknowing and the book of privy counseling
+D2.43 248.22         9780812974218     McGinn, Bernard, 1937-        2006 The essential writings of Christian mysticism
 D3.01 248.22         9780809137763     Mechthild, of Magdeburg, a    1997 The flowing light of the Godhead
 D3.02 248.22         9781602063266     Nicholas, of Cusa, Cardina    2007 The vision of God
 D3.03 248.22         9780486422381     Underhill, Evelyn, 1875-19    2002 Mysticism : a study in the nature and development of spiritu
@@ -1174,29 +1175,30 @@ F6.08 305.8991509411 9781760800321     Cook, Denise                  None That w
 F6.09 306.01         9780241954294     Wilkinson, Richard G.         2010 The spirit level : why greater equality makes societies stro
 F6.10 306.02         9780525555216     Green, John, 1977-            2021 The Anthropocene reviewed
 F6.11 306.0956       9780547134666     Shadid, Anthony               2012 House of stone : a memoir of home, family, and a lost Middle
-F6.12 306.361        9780141983479     Graeber, David                2019 Bullshit jobs
-F6.13 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
-F6.14 306.6          9780801846328     Asad, Talal                   1993 Genealogies of religion : discipline and reasons of power in
-F6.15 306.6          9780199540129     Durkheim, Émile, 1858-1917    2008 The elementary forms of the religious life
-F6.16 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
-F6.17 306.6          9781725257160     Rieger, Joerg [Editor]        2020 Faith, class, and labor : intersectional approaches in a glo
-F6.18 306.6          9780415254069     Weber, Max (1864-1920)        2001 The Protestant ethic and the spirit of capitalism
-F6.19 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
-F6.20 306.76         9781785788499     H, Lamya                      2023 Hijab Butch Blues: A Memoir
-F6.21 306.76         9781479851553     Ward, Elizabeth Jane          2020 The tragedy of heterosexuality
-F6.22 306.7609       9781743798348     Mcelhinney, Hannah            2023 Rainbow History Class: Your Guide Through Queer and Trans Hi
-F6.23 306.76609      9781479802289     Davis, Rebecca L.             2021 Heterosexual Histories (NYU Series in Social and Cultural An
-F6.24 306.766094     9780226345222     Boswell, John, 1947-1994      2015 Christianity, Social Tolerance, and Homosexuality : Gay Peop
-F6.25 306.7685094    9780231195515     DeVun, Leah                   2021 The shape of sex : nonbinary gender from genesis to the rena
-F6.26 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
-F6.27 306.8109       9780143036678     Coontz, Stephanie             2006 Marriage, a history : from obedience to intimacy or how love
-F6.28 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
-F6.29 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
-F6.30 307.140994     9780643103771     Tomlinson, Richard, 1952-     2013 Australia's unintended cities : the impact of housing on urb
-F6.31 307.1416209146 9780643095335     Green, Ray (Raymond James)    None Coastal towns in transition : local perceptions of landscape
-F6.32 307.760994     9780643094192     Newton, P. W. (Peter Wesle    2008 Transitions : Pathways Towards Sustainable Urban Development
-F6.33 319.41                                                         None Western Australia Statistical Register
-F6.34 320            9781509544776     Marsili, Lorenzo              2021 Planetary Politics: A Manifesto (Theory Redux)
+F6.12 306.3          9781512823660     Barker, Hannah                2022 That Most Precious Merchandise: The Mediterranean Trade in B
+F6.13 306.361        9780141983479     Graeber, David                2019 Bullshit jobs
+F6.14 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
+F6.15 306.6          9780801846328     Asad, Talal                   1993 Genealogies of religion : discipline and reasons of power in
+F6.16 306.6          9780199540129     Durkheim, Émile, 1858-1917    2008 The elementary forms of the religious life
+F6.17 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
+F6.18 306.6          9781725257160     Rieger, Joerg [Editor]        2020 Faith, class, and labor : intersectional approaches in a glo
+F6.19 306.6          9780415254069     Weber, Max (1864-1920)        2001 The Protestant ethic and the spirit of capitalism
+F6.20 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
+F6.21 306.76         9781785788499     H, Lamya                      2023 Hijab Butch Blues: A Memoir
+F6.22 306.76         9781479851553     Ward, Elizabeth Jane          2020 The tragedy of heterosexuality
+F6.23 306.7609       9781743798348     Mcelhinney, Hannah            2023 Rainbow History Class: Your Guide Through Queer and Trans Hi
+F6.24 306.76609      9781479802289     Davis, Rebecca L.             2021 Heterosexual Histories (NYU Series in Social and Cultural An
+F6.25 306.766094     9780226345222     Boswell, John, 1947-1994      2015 Christianity, Social Tolerance, and Homosexuality : Gay Peop
+F6.26 306.7685094    9780231195515     DeVun, Leah                   2021 The shape of sex : nonbinary gender from genesis to the rena
+F6.27 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
+F6.28 306.8109       9780143036678     Coontz, Stephanie             2006 Marriage, a history : from obedience to intimacy or how love
+F6.29 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
+F6.30 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
+F6.31 307.140994     9780643103771     Tomlinson, Richard, 1952-     2013 Australia's unintended cities : the impact of housing on urb
+F6.32 307.1416209146 9780643095335     Green, Ray (Raymond James)    None Coastal towns in transition : local perceptions of landscape
+F6.33 307.760994     9780643094192     Newton, P. W. (Peter Wesle    2008 Transitions : Pathways Towards Sustainable Urban Development
+F6.34 319.41                                                         None Western Australia Statistical Register
+F6.35 320            9781509544776     Marsili, Lorenzo              2021 Planetary Politics: A Manifesto (Theory Redux)
 G1.01 320.011        9780140444216     Aristotle                     1981 The Politics (Penguin Classics)
 G1.02 320.0902       9780140207781     Ullmann, Walter, 1910-1983    1970 A history of political thought : the middle ages
 G1.03 320.1          9780143566465     Machiavelli, Niccolò, 1469    None The prince
@@ -1522,9 +1524,10 @@ H4.22 813.6          9781529405712     Jones, Robert, Jr., 1971-     None The pr
 H4.23 813.6          9781982121525     Joukhadar, Zeyn               2021 The thirty names of night : a novel
 H4.24 813.6          9780765378385     Kowal, Mary Robinette, 196    2018 The calculating stars
 H4.25 813.6          9780008501822     Kuang, R. F.                  2022 Babel
-H4.26 813.6          9780356502403     Leckie, Ann                   2013 Ancillary justice
-H4.27 813.6          9780356502427     Leckie, Ann                   2015 Ancillary mercy
-H4.28 813.6          9780356502410     Leckie, Ann                   2014 Ancillary sword
+H4.26 813.6          9780008600303     Kuang, R. F.                  2023 Yellowface
+H4.27 813.6          9780356502403     Leckie, Ann                   2013 Ancillary justice
+H4.28 813.6          9780356502427     Leckie, Ann                   2015 Ancillary mercy
+H4.29 813.6          9780356502410     Leckie, Ann                   2014 Ancillary sword
 H5.01 813.6          9780356506982     Leckie, Ann                   2018 Provenance
 H5.02 813.6          9780356517926     Leckie, Ann                   2023 Translation State
 H5.03 813.6          9781534414594     Leicht, Stina                 2021 Persephone Station
@@ -1542,16 +1545,17 @@ H5.14 813.6          9781529346664     Roanhorse, Rebecca            2019 Trail 
 H5.15 813.6          9780008192204     Roth, Veronica                2018 The fates divide
 H5.16 813.6          9780575081437     Rothfuss, Patrick, 1973-      2015 The wise man's fear
 H5.17 813.6          9781509883356     Ruff, Matt                    2019 Lovecraft Country : a novel
-H5.18 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
-H5.19 813.6          9780441014156     Stross, Charles               2006 Accelerando
-H5.20 813.6          9780441012961     Stross, Charles               2005 Iron sunrise
-H5.21 813.6          9781841493343     Stross, Charles               2005 Singularity sky
-H5.22 813.6          9781406384765     Thomas, Angie                 None The hate u give
-H5.23 813.6          9780356514420     Valdes, Valerie               2020 Chilling Effect: Captain Eva Innocente, Book 1
-H5.24 813.6          9781529100624     Weir, Andy                    2021 Project Hail Mary : a novel
-H5.25 813.6          9780553418026     Weir, Andy                    2014 The Martian : a novel
-H5.26 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
-H5.27 813.6          9781787704411     Yi, Esther                    2023 Y/N: A novel
+H5.18 813.6          9781838957223     Santorella, Tony              2024 Bored Gay Werewolf
+H5.19 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
+H5.20 813.6          9780441014156     Stross, Charles               2006 Accelerando
+H5.21 813.6          9780441012961     Stross, Charles               2005 Iron sunrise
+H5.22 813.6          9781841493343     Stross, Charles               2005 Singularity sky
+H5.23 813.6          9781406384765     Thomas, Angie                 None The hate u give
+H5.24 813.6          9780356514420     Valdes, Valerie               2020 Chilling Effect: Captain Eva Innocente, Book 1
+H5.25 813.6          9781529100624     Weir, Andy                    2021 Project Hail Mary : a novel
+H5.26 813.6          9780553418026     Weir, Andy                    2014 The Martian : a novel
+H5.27 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
+H5.28 813.6          9781787704411     Yi, Esther                    2023 Y/N: A novel
 H6.01 813.6          9781529101478     Zahn, Timothy                 2021 Greater good
 H6.02 813.6          9781784744656     Zevin, Gabrielle              None Tomorrow, and tomorrow, and tomorrow : a novel
 H6.03 813.6000       9780857527509     Sittenfield, Curtis           None Romantic Comedy
@@ -1728,80 +1732,86 @@ I5.10 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damasc
 I5.11 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
 I5.12 823.914        9780732265694     Williams, Sean, 1967-         1964 The prodigal sun
 I5.13 823.92         9780575097582     Aaronovitch, Ben, 1964-       2011 Rivers of London
-I5.14 823.92         9780007362622     Adichie, Chimamanda Ngozi,    2013 Americanah
-I5.15 823.92         9781894063302     Bedford, K. A. (K. Adrian)    2005 Eclipse
-I5.16 823.92         9781894063203     Bedford, K. A. (K. Adrian)    2007 Hydrogen steel
-I5.17 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
-I5.18 823.92         9788129113726     Bhagat, Chetan                2008 The 3 mistakes of my life : a story about business, cricket,
-I5.19 823.92         9780702265983     Birch, Tony                   None Blood: First Nations Classics
-I5.20 823.92         9781912917457     Brown, Carly                  None All the Orphans in the Galaxy
-I5.21 823.92         9781399701549     Burgess, Melvin               2022 Loki
-I5.22 823.92         9781922806017     Chan, Grace                   None Every Version of You
-I5.23 823.92         9781922790156     Christian, Claire             None It's Been A Pleasure, Noni Blake
-I5.24 823.92         9781399711586     Chupeco, Rin                  None Silver Under Nightfall
-I5.25 823.92         9780733641923     Coleman, Claire G.            2019 Terra Nullius
-I5.26 823.92         9780141042138     Colfer, Eoin                  2010 And another thing-- : Douglas Adams's Hitchhiker's guide to 
-I5.27 823.92                           Curtis, Grace                 2023 Frontier
-I5.28 823.92         9781760899639     Doyle, Briohny                None Why We Are Here
-I5.29 823.92         9781473232297     Egan, Greg, 1961-             2021 The best of Greg Egan
+I5.14 823.92         9780008544508     Adegoke, Yomi                 None The List
+I5.15 823.92         9780007362622     Adichie, Chimamanda Ngozi,    2013 Americanah
+I5.16 823.92         9781894063302     Bedford, K. A. (K. Adrian)    2005 Eclipse
+I5.17 823.92         9781894063203     Bedford, K. A. (K. Adrian)    2007 Hydrogen steel
+I5.18 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
+I5.19 823.92         9788129113726     Bhagat, Chetan                2008 The 3 mistakes of my life : a story about business, cricket,
+I5.20 823.92         9780702265983     Birch, Tony                   None Blood: First Nations Classics
+I5.21 823.92         9781912917457     Brown, Carly                  None All the Orphans in the Galaxy
+I5.22 823.92         9781399701549     Burgess, Melvin               2022 Loki
+I5.23 823.92         9781922806017     Chan, Grace                   None Every Version of You
+I5.24 823.92         9781922790156     Christian, Claire             None It's Been A Pleasure, Noni Blake
+I5.25 823.92         9781399711586     Chupeco, Rin                  None Silver Under Nightfall
+I5.26 823.92         9780733641923     Coleman, Claire G.            2019 Terra Nullius
+I5.27 823.92         9780141042138     Colfer, Eoin                  2010 And another thing-- : Douglas Adams's Hitchhiker's guide to 
+I5.28 823.92                           Curtis, Grace                 2023 Frontier
+I5.29 823.92         9780733634796     Davis, Brooke                 None Lost & Found
+I5.30 823.92         9781760899639     Doyle, Briohny                None Why We Are Here
+I5.31 823.92         9781473232297     Egan, Greg, 1961-             2021 The best of Greg Egan
 I6.01 823.92         9780571372676     Emezi, Akwaeke                None You made a fool of death with your beauty : a novel
 I6.02 823.92         9780241993620     Evaristo, Bernardine, 1959    2022 Manifesto
 I6.03 823.92         9780241990100     French, Tana,                 2021 The searcher
-I6.04 823.92         9781444791747     Gooder, Paula                 2019 Phoebe : a story
-I6.05 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
-I6.06 823.92         9781509842049     Hadlow, Janice                2020 The other Bennet sister : a novel
-I6.07 823.92         9781786892720     Haig, Matt                    2020 The midnight library
-I6.08 823.92         9781728265285     Hall, Alexis J.               2023 Glitterland
-I6.09 823.92         9781787334076     Hammad, Isabella              None Enter Ghost
-I6.10 823.92         9780732281229     Harding, Traci                2009 Being of the field
-I6.11 823.92         9781405954921     Holton, India                 2022 The League of Gentlewomen Witches: The swoon-worthy TikTok s
-I6.12 823.92         9781405954969     Holton, India                 2023 The Secret Service of Tea and Treason: Dangerous Damsels ser
-I6.13 823.92         9781405954938     Holton, India                 2022 The Wisteria Society of Lady Scoundrels: Bridgerton meets Pe
-I6.14 823.92         9781529074468     Hughes, Rian                  2023 The black locomotive : a novel, graphic
-I6.15 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
-I6.16 823.92         9781913547271     Lambert, Charles, 1953-       2022 BONE FLOWER
-I6.17 823.92         9781666771794     Lewis, William                2023 Father Horse: A Novel of Roman Britain
-I6.18 823.92         9781760526931     Lonesborough, Gary            None We Didn't Think It Through
-I6.19 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
-I6.20 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
-I6.21 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
-I6.22 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
-I6.23 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
-I6.24 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
-I6.25 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
-I6.26 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
-I6.27 823.92         9780575079076     Robson, Justina               2006 Keeping it real
-I6.28 823.92         9781408883358     Shannon, Samantha, 1991-      2020 The priory of the orange tree
+I6.04 823.92         9781761152177     Gamieldien, Zeynab            2023 The Scope of Permissibility
+I6.05 823.92         9781444791747     Gooder, Paula                 2019 Phoebe : a story
+I6.06 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
+I6.07 823.92         9781509842049     Hadlow, Janice                2020 The other Bennet sister : a novel
+I6.08 823.92         9781786892720     Haig, Matt                    2020 The midnight library
+I6.09 823.92         9781728265285     Hall, Alexis J.               2023 Glitterland
+I6.10 823.92         9781787334076     Hammad, Isabella              None Enter Ghost
+I6.11 823.92         9780732281229     Harding, Traci                2009 Being of the field
+I6.12 823.92         9781460761984     Harrison, Jane                2023 The Visitors
+I6.13 823.92         9781405954921     Holton, India                 2022 The League of Gentlewomen Witches: The swoon-worthy TikTok s
+I6.14 823.92         9781405954969     Holton, India                 2023 The Secret Service of Tea and Treason: Dangerous Damsels ser
+I6.15 823.92         9781405954938     Holton, India                 2022 The Wisteria Society of Lady Scoundrels: Bridgerton meets Pe
+I6.16 823.92         9781529074468     Hughes, Rian                  2023 The black locomotive : a novel, graphic
+I6.17 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
+I6.18 823.92         9781913547271     Lambert, Charles, 1953-       2022 BONE FLOWER
+I6.19 823.92         9781666771794     Lewis, William                2023 Father Horse: A Novel of Roman Britain
+I6.20 823.92         9781760526931     Lonesborough, Gary            None We Didn't Think It Through
+I6.21 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
+I6.22 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
+I6.23 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
+I6.24 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
+I6.25 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
+I6.26 823.92         9781529043440     Parker-Chan, Shelley          None He Who Drowned the World
+I6.27 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
+I6.28 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
+I6.29 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
+I6.30 823.92         9780575079076     Robson, Justina               2006 Keeping it real
+I6.31 823.92         9781408883358     Shannon, Samantha, 1991-      2020 The priory of the orange tree
 J1.01 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
-J1.02 823.92         9781982187057     Stronach, Sascha              2022 The Dawnhounds: Volume 1 (Endsong, The)
-J1.03 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
-J1.04 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
-J1.05 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
-J1.06 823.92         9780356511108     Stross, Charles               None The labyrinth index
-J1.07 823.92         9780356521824     Tesh, Emily                   None Some Desperate Glory
-J1.08 823.92         9780356511368     Thompson, Tade                2018 Rosewater
-J1.09 823.92         9781526639554     Watson, Tom                   None Metronome
-J1.10 823.92         9781922400277     Williams, Pip, 1969-          2021 The dictionary of lost words : a novel
-J1.11 823.9200       9781250863461     Pin, Cecile                   2023 Wandering Souls: A Novel
-J1.12 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
-J1.13 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
-J1.14 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
-J1.15 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
-J1.16 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
-J1.17 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
-J1.18 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
-J1.19 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
-J1.20 833.912        9780099283621     Hesse, Hermann, 1877-1962     2000 The glass bead game (Magister Ludi)
-J1.21 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
-J1.22 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
-J1.23 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
-J1.24 838.91209      9780674052291     Benjamin, Walter, 1892-194    2016 One-way street
-J1.25 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
-J1.26 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
-J1.27 839.82374      9780374253844     Gaarder, Jostein, 1952-       1998 That same flower : Floria Aemilia's letter to Saint Augustin
-J1.28 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
-J1.29 842.91         9780571244591     Beckett, Samuel, 1906-1989    2010 Waiting for Godot : tragicomedy in 2 acts
-J1.30 843.7          9780804901505     Dumas, Alexandre, 1802-187    1978 The man in the iron mask
+J1.02 823.92         9781761151743     Smith, Sarah                  None Twelve Steps to a Long and Fulfilling Death
+J1.03 823.92         9781982187057     Stronach, Sascha              2022 The Dawnhounds: Volume 1 (Endsong, The)
+J1.04 823.92         9781937007461     Stross, Charles               2012 The apocalypse codex
+J1.05 823.92         9781841497709     Stross, Charles               2010 The Fuller memorandum
+J1.06 823.92         9781841495705     Stross, Charles               2007 The Jennifer morgue
+J1.07 823.92         9780356511108     Stross, Charles               None The labyrinth index
+J1.08 823.92         9780356521824     Tesh, Emily                   None Some Desperate Glory
+J1.09 823.92         9780356511368     Thompson, Tade                2018 Rosewater
+J1.10 823.92         9781526639554     Watson, Tom                   None Metronome
+J1.11 823.92         9781922400277     Williams, Pip, 1969-          2021 The dictionary of lost words : a novel
+J1.12 823.9200       9781250863461     Pin, Cecile                   2023 Wandering Souls: A Novel
+J1.13 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
+J1.14 827.0080994    9780646958590     Frankie Magazine              2016 Something to say : stories to make you laugh awkwardly in pu
+J1.15 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
+J1.16 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
+J1.17 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
+J1.18 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
+J1.19 829.3          9780393938371     Donoghue, Daniel, 1956- [E    2019 Beowulf : a verse translation : authoritative text, contexts
+J1.20 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
+J1.21 833.912        9780099283621     Hesse, Hermann, 1877-1962     2000 The glass bead game (Magister Ludi)
+J1.22 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
+J1.23 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
+J1.24 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
+J1.25 838.91209      9780674052291     Benjamin, Walter, 1892-194    2016 One-way street
+J1.26 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
+J1.27 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
+J1.28 839.82374      9780374253844     Gaarder, Jostein, 1952-       1998 That same flower : Floria Aemilia's letter to Saint Augustin
+J1.29 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
+J1.30 842.91         9780571244591     Beckett, Samuel, 1906-1989    2010 Waiting for Godot : tragicomedy in 2 acts
+J1.31 843.7          9780804901505     Dumas, Alexandre, 1802-187    1978 The man in the iron mask
 J2.01 843.8          9780141045153     Flaubert, Gustave, 1821-18    2009 Madame Bovary
 J2.02 843.8          9780460871662     Verne, Jules                  1992 Twenty thousand leagues under the sea
 J2.03 843.914        9780802144478     Beckett, Samuel, 1906-1989    2009 Three novels

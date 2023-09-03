@@ -65,8 +65,12 @@ def oclc_scrape(isbn):
     cache_fname = os.path.join("cache", "oclc_scrape_{}.html".format(isbn))
     tmp_fname = cache_fname + ".tmp"
     if not os.access(cache_fname, os.R_OK):
+        # anti-scrape protection is now in place
+        return None
+        print("OCLC scrape: {}".format(url))
         r = requests.get(url)
-        assert(r.status_code == 200)
+        if (r.status_code != 200):
+            return None
         with open(tmp_fname, "wb") as f:
             f.write(r.content)
         os.rename(tmp_fname, cache_fname)
