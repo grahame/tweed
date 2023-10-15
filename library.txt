@@ -162,20 +162,21 @@ A6.13 221.6          9780664224080     Rad, Gerhard von, 1901-197    2001 Old Te
 A6.14 221.6          9780718892289     Rowley, H. H. (Harold Henr    2011 The re-discovery of the Old Testament
 A6.15 221.6          9780800604646     Trible, Phyllis               1986 God and the rhetoric of sexuality
 A6.16 221.6                            Vriezen, Theodorus Christi    1962 An outline of Old Testament theology
-A6.17 221.609034     9780718822354     Clements, R. E. (Ronald Er    1976 A century of Old Testament study
-A6.18 221.61         9780809126316     Boadt, Lawrence               1984 Reading the Old Testament : an introduction
-A6.19 221.61         9780334020578     Charpentier, Etienne          1982 How to read the Old Testament
-A6.20 221.61         9781451472943     Collins, John J. (John Jos    2014 A short introduction to the Hebrew Bible
-A6.21 221.61         9781506445984     Collins, John J. (John Jos    2018 Introduction to the Hebrew Bible
-A6.22 221.66         9780465022557     Alter, Robert                 2011 The art of Biblical narrative
-A6.23 221.66         9780631149200     Kaiser, Otto, 1924-2017       1975 Introduction to the Old Testament : a presentation of its re
-A6.24 221.67         9780800628895     Overholt, Thomas W., 1935-    1992 Cultural anthropology and the Old Testament
-A6.25 221.67         9780800601775     Tucker, Gene M.               1971 Form criticism of the Old Testament
-A6.26 221.88         9780907459057     Good, Edwin M. (Edwin Mars    1981 Irony in the Old Testament,
-A6.27 221.9          9780713605884     Noth, Martin, 1902-1968       1966 The Old Testament world
-A6.28 221.92         9781606087718     Rad, Gerhard von, 1901-197    2011 Moses
-A6.29 221.922        9780800615376     Trible, Phyllis               1984 Texts of terror : literary-feminist readings of Biblical nar
-A6.30 221.922        9780671541347     Wiesel, Elie, 1928-2016       1985 Messengers of God : Biblical portraits and legends
+A6.17 221.601        9780664223151     Stuart, Dr Douglas            2001 Old Testament Exegesis (T
+A6.18 221.609034     9780718822354     Clements, R. E. (Ronald Er    1976 A century of Old Testament study
+A6.19 221.61         9780809126316     Boadt, Lawrence               1984 Reading the Old Testament : an introduction
+A6.20 221.61         9780334020578     Charpentier, Etienne          1982 How to read the Old Testament
+A6.21 221.61         9781451472943     Collins, John J. (John Jos    2014 A short introduction to the Hebrew Bible
+A6.22 221.61         9781506445984     Collins, John J. (John Jos    2018 Introduction to the Hebrew Bible
+A6.23 221.66         9780465022557     Alter, Robert                 2011 The art of Biblical narrative
+A6.24 221.66         9780631149200     Kaiser, Otto, 1924-2017       1975 Introduction to the Old Testament : a presentation of its re
+A6.25 221.67         9780800628895     Overholt, Thomas W., 1935-    1992 Cultural anthropology and the Old Testament
+A6.26 221.67         9780800601775     Tucker, Gene M.               1971 Form criticism of the Old Testament
+A6.27 221.88         9780907459057     Good, Edwin M. (Edwin Mars    1981 Irony in the Old Testament,
+A6.28 221.9          9780713605884     Noth, Martin, 1902-1968       1966 The Old Testament world
+A6.29 221.92         9781606087718     Rad, Gerhard von, 1901-197    2011 Moses
+A6.30 221.922        9780800615376     Trible, Phyllis               1984 Texts of terror : literary-feminist readings of Biblical nar
+A6.31 221.922        9780671541347     Wiesel, Elie, 1928-2016       1985 Messengers of God : Biblical portraits and legends
 B1.01 221.93         9780691002002     Pritchard, James B. (James    1973 The ancient Near East : an anthology of texts and pictures
 B1.02 221.95         9780334004035     Ackroyd, Peter R.             1972 Exile and restoration : a study of Hebrew thought of the six
 B1.03 221.95         9780664212919     Hayes, John H. (John Haral    1977 Israelite and Judaean history
@@ -1176,29 +1177,30 @@ F6.09 306.01         9780241954294     Wilkinson, Richard G.         2010 The sp
 F6.10 306.02         9780525555216     Green, John, 1977-            2021 The Anthropocene reviewed
 F6.11 306.0956       9780547134666     Shadid, Anthony               2012 House of stone : a memoir of home, family, and a lost Middle
 F6.12 306.3          9781512823660     Barker, Hannah                2022 That Most Precious Merchandise: The Mediterranean Trade in B
-F6.13 306.361        9780141983479     Graeber, David                2019 Bullshit jobs
-F6.14 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
-F6.15 306.6          9780801846328     Asad, Talal                   1993 Genealogies of religion : discipline and reasons of power in
-F6.16 306.6          9780199540129     Durkheim, Émile, 1858-1917    2008 The elementary forms of the religious life
-F6.17 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
-F6.18 306.6          9781725257160     Rieger, Joerg [Editor]        2020 Faith, class, and labor : intersectional approaches in a glo
-F6.19 306.6          9780415254069     Weber, Max (1864-1920)        2001 The Protestant ethic and the spirit of capitalism
-F6.20 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
-F6.21 306.76         9781785788499     H, Lamya                      2023 Hijab Butch Blues: A Memoir
-F6.22 306.76         9781479851553     Ward, Elizabeth Jane          2020 The tragedy of heterosexuality
-F6.23 306.7609       9781743798348     Mcelhinney, Hannah            2023 Rainbow History Class: Your Guide Through Queer and Trans Hi
-F6.24 306.76609      9781479802289     Davis, Rebecca L.             2021 Heterosexual Histories (NYU Series in Social and Cultural An
-F6.25 306.766094     9780226345222     Boswell, John, 1947-1994      2015 Christianity, Social Tolerance, and Homosexuality : Gay Peop
-F6.26 306.7685094    9780231195515     DeVun, Leah                   2021 The shape of sex : nonbinary gender from genesis to the rena
-F6.27 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
-F6.28 306.8109       9780143036678     Coontz, Stephanie             2006 Marriage, a history : from obedience to intimacy or how love
-F6.29 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
-F6.30 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
-F6.31 307.140994     9780643103771     Tomlinson, Richard, 1952-     2013 Australia's unintended cities : the impact of housing on urb
-F6.32 307.1416209146 9780643095335     Green, Ray (Raymond James)    None Coastal towns in transition : local perceptions of landscape
-F6.33 307.760994     9780643094192     Newton, P. W. (Peter Wesle    2008 Transitions : Pathways Towards Sustainable Urban Development
-F6.34 319.41                                                         None Western Australia Statistical Register
-F6.35 320            9781509544776     Marsili, Lorenzo              2021 Planetary Politics: A Manifesto (Theory Redux)
+F6.13 306.3          9780674987081     Jonsson, Fredrik Albritton    2023 Scarcity: A History from the Origins of Capitalism to the Cl
+F6.14 306.361        9780141983479     Graeber, David                2019 Bullshit jobs
+F6.15 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
+F6.16 306.6          9780801846328     Asad, Talal                   1993 Genealogies of religion : discipline and reasons of power in
+F6.17 306.6          9780199540129     Durkheim, Émile, 1858-1917    2008 The elementary forms of the religious life
+F6.18 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
+F6.19 306.6          9781725257160     Rieger, Joerg [Editor]        2020 Faith, class, and labor : intersectional approaches in a glo
+F6.20 306.6          9780415254069     Weber, Max (1864-1920)        2001 The Protestant ethic and the spirit of capitalism
+F6.21 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
+F6.22 306.76         9781785788499     H, Lamya                      2023 Hijab Butch Blues: A Memoir
+F6.23 306.76         9781479851553     Ward, Elizabeth Jane          2020 The tragedy of heterosexuality
+F6.24 306.7609       9781743798348     Mcelhinney, Hannah            2023 Rainbow History Class: Your Guide Through Queer and Trans Hi
+F6.25 306.76609      9781479802289     Davis, Rebecca L.             2021 Heterosexual Histories (NYU Series in Social and Cultural An
+F6.26 306.766094     9780226345222     Boswell, John, 1947-1994      2015 Christianity, Social Tolerance, and Homosexuality : Gay Peop
+F6.27 306.7685094    9780231195515     DeVun, Leah                   2021 The shape of sex : nonbinary gender from genesis to the rena
+F6.28 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
+F6.29 306.8109       9780143036678     Coontz, Stephanie             2006 Marriage, a history : from obedience to intimacy or how love
+F6.30 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
+F6.31 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
+F6.32 307.140994     9780643103771     Tomlinson, Richard, 1952-     2013 Australia's unintended cities : the impact of housing on urb
+F6.33 307.1416209146 9780643095335     Green, Ray (Raymond James)    None Coastal towns in transition : local perceptions of landscape
+F6.34 307.760994     9780643094192     Newton, P. W. (Peter Wesle    2008 Transitions : Pathways Towards Sustainable Urban Development
+F6.35 319.41                                                         None Western Australia Statistical Register
+F6.36 320            9781509544776     Marsili, Lorenzo              2021 Planetary Politics: A Manifesto (Theory Redux)
 G1.01 320.011        9780140444216     Aristotle                     1981 The Politics (Penguin Classics)
 G1.02 320.0902       9780140207781     Ullmann, Walter, 1910-1983    1970 A history of political thought : the middle ages
 G1.03 320.1          9780143566465     Machiavelli, Niccolò, 1469    None The prince
@@ -1376,37 +1378,39 @@ G5.34 813            9780915230440     Coggin, Joan                  2001 Who Ki
 G5.35 813            9780141346090     Green, John, 1977-            2012 An abundance of Katherines
 G5.36 813            9780008433802     Kim, Bo Young                 None I'm waiting for you : and other stories
 G5.37 813            9780571376476     Kingsolver, Barbara           2022 DEMON COPPERHEAD
-G5.38 813.00         9780702266164     Belcourt, Billy-Ray           None A Minor Chorus
-G6.01 813.0000       9780349437187     Hoffs, Susanna                2023 This Bird Has Flown
-G6.02 813.08508      9780141349176     Green, John, 1977-            2013 Let it snow
-G6.03 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
-G6.04 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
-G6.05 813.0876208377 9781648411304     Blue, Elly                    2023 Bicycles & Broomsticks: Fantastical Feminist Stories about W
-G6.06 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
-G6.07 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
-G6.08 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
-G6.09 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
-G6.10 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
-G6.11 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
-G6.12 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
-G6.13 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
-G6.14 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
-G6.15 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
-G6.16 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
-G6.17 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
-G6.18 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-G6.19 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-G6.20 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
-G6.21 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
-G6.22 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
-G6.23 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
-G6.24 813.54         9780340769614     Bova, Ben, 1932-              2001 The precipice
-G6.25 813.54         9780671022075     Bradbury, Ray, 1920-2012      1998 Driving blind
-G6.26 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahrenheit 451
-G6.27 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
-G6.28 813.54         9780345324481     Bradbury, Ray, 1920-2012      1985 The October country
-G6.29 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
-G6.30 813.54         9781857233858     Brin, David                   1996 Brightness reef
+G5.38 813            9781399607803     Pohl, Frederik                2022 Gateway: The Best of the SF Masterworks
+G5.39 813.00         9780702266164     Belcourt, Billy-Ray           None A Minor Chorus
+G6.01 813.0000       9781787334618     Enright, Anne                 2023 The Wren, The Wren: ‘Might just be her best yet’ Louise Kenn
+G6.02 813.0000       9780349437187     Hoffs, Susanna                2023 This Bird Has Flown
+G6.03 813.08508      9780141349176     Green, John, 1977-            2013 Let it snow
+G6.04 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
+G6.05 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
+G6.06 813.0876208377 9781648411304     Blue, Elly                    2023 Bicycles & Broomsticks: Fantastical Feminist Stories about W
+G6.07 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
+G6.08 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
+G6.09 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
+G6.10 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
+G6.11 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
+G6.12 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
+G6.13 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
+G6.14 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
+G6.15 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
+G6.16 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
+G6.17 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
+G6.18 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
+G6.19 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+G6.20 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+G6.21 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
+G6.22 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
+G6.23 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
+G6.24 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
+G6.25 813.54         9780340769614     Bova, Ben, 1932-              2001 The precipice
+G6.26 813.54         9780671022075     Bradbury, Ray, 1920-2012      1998 Driving blind
+G6.27 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahrenheit 451
+G6.28 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
+G6.29 813.54         9780345324481     Bradbury, Ray, 1920-2012      1985 The October country
+G6.30 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
+G6.31 813.54         9781857233858     Brin, David                   1996 Brightness reef
 H1.01 813.54         9780812524581     Card, Orson Scott             1986 Ender's Game
 H1.02 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
 H1.03 813.54         9780425120279     Clancy, Tom, 1947-2013        1990 The hunt for Red October
@@ -1545,55 +1549,55 @@ H5.14 813.6          9781529346664     Roanhorse, Rebecca            2019 Trail 
 H5.15 813.6          9780008192204     Roth, Veronica                2018 The fates divide
 H5.16 813.6          9780575081437     Rothfuss, Patrick, 1973-      2015 The wise man's fear
 H5.17 813.6          9781509883356     Ruff, Matt                    2019 Lovecraft Country : a novel
-H5.18 813.6          9781838957223     Santorella, Tony              2024 Bored Gay Werewolf
-H5.19 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
-H5.20 813.6          9780441014156     Stross, Charles               2006 Accelerando
-H5.21 813.6          9780441012961     Stross, Charles               2005 Iron sunrise
-H5.22 813.6          9781841493343     Stross, Charles               2005 Singularity sky
-H5.23 813.6          9781406384765     Thomas, Angie                 None The hate u give
+H5.18 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
+H5.19 813.6          9780441014156     Stross, Charles               2006 Accelerando
+H5.20 813.6          9780441012961     Stross, Charles               2005 Iron sunrise
+H5.21 813.6          9781841493343     Stross, Charles               2005 Singularity sky
+H5.22 813.6          9781406384765     Thomas, Angie                 None The hate u give
+H5.23 813.6          9781803361512     Turnbull, Cadwell             2022 No Gods, No Monsters
 H5.24 813.6          9780356514420     Valdes, Valerie               2020 Chilling Effect: Captain Eva Innocente, Book 1
 H5.25 813.6          9781529100624     Weir, Andy                    2021 Project Hail Mary : a novel
 H5.26 813.6          9780553418026     Weir, Andy                    2014 The Martian : a novel
-H5.27 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
-H5.28 813.6          9781787704411     Yi, Esther                    2023 Y/N: A novel
-H6.01 813.6          9781529101478     Zahn, Timothy                 2021 Greater good
-H6.02 813.6          9781784744656     Zevin, Gabrielle              None Tomorrow, and tomorrow, and tomorrow : a novel
-H6.03 813.6000       9780857527509     Sittenfield, Curtis           None Romantic Comedy
-H6.04 814.54         9780241339725     Lorde, Audre                  2018 The master's tools will never dismantle the master's house
-H6.05 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
-H6.06 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
-H6.07 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
-H6.08 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
-H6.09 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
-H6.10 818.608        9781849354509     brown, adrienne maree         2022 Fables and Spells: Collected and New Short Fiction and Poetr
-H6.11 819.13         9789392494048     Chen, Luoyang                 2022 Flow
-H6.12 819.13         9781760992163     Larsen, Kate                  None Public. Open. Space.
-H6.13 819.13         9780980526943     Yasbincek, Morgan             None White Camel
-H6.14 820.8          9780195016574     Kermode, Frank                1973 The Oxford Anthology of English Literature: Volume I: The Mi
-H6.15 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
-H6.16 820.8092087    9781760641436     Findlay, Carly                2021 Growing up disabled in Australia
-H6.17 821.008        9780956688446     Hodges, David                 None Deep Unto Deep
-H6.18 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
-H6.19 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
-H6.20 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
-H6.21 821.1          9780199599028     Chaucer, Geoffrey, -1400      2011 The Canterbury tales
-H6.22 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
-H6.23 821.3          9780141392042     Herbert, George, (1593-163    2015 The complete poetry
-H6.24 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
-H6.25 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
-H6.26 821.4          9781760801182     Rhook, Nadia,                 None Boots
-H6.27 821.408        9780140420388     Gardner, Helen, 1908-1986     1960 The metaphysical poets;
-H6.28 821.8          9780141192789     Carroll, Lewis Dichter, Gr    2014 Jabberwocky and other nonsense : collected poems
-H6.29 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
-H6.30 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
-H6.31 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
-H6.32 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
-H6.33 821.914        9781800171619     Tóibín, Colm, 1955-           2022 Vinegar Hill
-H6.34 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
-H6.35 821.92         9781760991654     Bateman, Bron, 1964-          2022 BLUE WREN
-H6.36 821.92         9781925735215     Harkin, Natalie,              2019 Archival-poetics
-H6.37 821.92         9781922613738     Papertalk Green, Charmaine    2022 Art
-H6.38 821.92         9781800171091     WILLIAMS, ROWAN               None COLLECTED POEMS
+H6.01 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
+H6.02 813.6          9781787704411     Yi, Esther                    2023 Y/N: A novel
+H6.03 813.6          9781529101478     Zahn, Timothy                 2021 Greater good
+H6.04 813.6          9781784744656     Zevin, Gabrielle              None Tomorrow, and tomorrow, and tomorrow : a novel
+H6.05 813.6000       9780857527509     Sittenfield, Curtis           None Romantic Comedy
+H6.06 814.54         9780241339725     Lorde, Audre                  2018 The master's tools will never dismantle the master's house
+H6.07 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
+H6.08 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
+H6.09 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
+H6.10 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
+H6.11 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
+H6.12 818.608        9781849354509     brown, adrienne maree         2022 Fables and Spells: Collected and New Short Fiction and Poetr
+H6.13 819.13         9789392494048     Chen, Luoyang                 2022 Flow
+H6.14 819.13         9781760992163     Larsen, Kate                  None Public. Open. Space.
+H6.15 819.13         9780980526943     Yasbincek, Morgan             None White Camel
+H6.16 820.8          9780195016574     Kermode, Frank                1973 The Oxford Anthology of English Literature: Volume I: The Mi
+H6.17 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
+H6.18 820.8092087    9781760641436     Findlay, Carly                2021 Growing up disabled in Australia
+H6.19 821.008        9780956688446     Hodges, David                 None Deep Unto Deep
+H6.20 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
+H6.21 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
+H6.22 821.009382     9780232522679     Countryman, Louis William,    1999 The poetic imagination : an Anglican tradition
+H6.23 821.1          9780199599028     Chaucer, Geoffrey, -1400      2011 The Canterbury tales
+H6.24 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
+H6.25 821.3          9780141392042     Herbert, George, (1593-163    2015 The complete poetry
+H6.26 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
+H6.27 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
+H6.28 821.4          9781760801182     Rhook, Nadia,                 None Boots
+H6.29 821.408        9780140420388     Gardner, Helen, 1908-1986     1960 The metaphysical poets;
+H6.30 821.8          9780141192789     Carroll, Lewis Dichter, Gr    2014 Jabberwocky and other nonsense : collected poems
+H6.31 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
+H6.32 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
+H6.33 821.914        9780140504231     Dahl, Roald, 1916-1990        1984 Roald Dahl's Revolting rhymes
+H6.34 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
+H6.35 821.914        9781800171619     Tóibín, Colm, 1955-           2022 Vinegar Hill
+H6.36 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
+H6.37 821.92         9781760991654     Bateman, Bron, 1964-          2022 BLUE WREN
+H6.38 821.92         9781925735215     Harkin, Natalie,              2019 Archival-poetics
+H6.39 821.92         9781922613738     Papertalk Green, Charmaine    2022 Art
+H6.40 821.92         9781800171091     WILLIAMS, ROWAN               None COLLECTED POEMS
 I1.01 821.9208       9781788542845     Copus, Julia, 1969-           2020 Life support : 100 poems to reach for on dark nights
 I1.02 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
 I1.03 822.912                          Eliot, T. S.                  2021 Murder in the Cathedral
@@ -1767,20 +1771,24 @@ I6.14 823.92         9781405954969     Holton, India                 2023 The Se
 I6.15 823.92         9781405954938     Holton, India                 2022 The Wisteria Society of Lady Scoundrels: Bridgerton meets Pe
 I6.16 823.92         9781529074468     Hughes, Rian                  2023 The black locomotive : a novel, graphic
 I6.17 823.92         9780731810499     Irvine, Ian, 1950-            2003 Terminator gene
-I6.18 823.92         9781913547271     Lambert, Charles, 1953-       2022 BONE FLOWER
-I6.19 823.92         9781666771794     Lewis, William                2023 Father Horse: A Novel of Roman Britain
-I6.20 823.92         9781760526931     Lonesborough, Gary            None We Didn't Think It Through
-I6.21 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
-I6.22 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
-I6.23 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
-I6.24 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
-I6.25 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
-I6.26 823.92         9781529043440     Parker-Chan, Shelley          None He Who Drowned the World
-I6.27 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
-I6.28 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
-I6.29 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
-I6.30 823.92         9780575079076     Robson, Justina               2006 Keeping it real
-I6.31 823.92         9781408883358     Shannon, Samantha, 1991-      2020 The priory of the orange tree
+I6.18 823.92                           Keetch, Sophie                2023 Morgan Is My Name
+I6.19 823.92         9781913547271     Lambert, Charles, 1953-       2022 BONE FLOWER
+I6.20 823.92         9781666771794     Lewis, William                2023 Father Horse: A Novel of Roman Britain
+I6.21 823.92         9781760526931     Lonesborough, Gary            None We Didn't Think It Through
+I6.22 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
+I6.23 823.92         9781925849530     McKay, Laura Jean             None The animals in that country
+I6.24 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
+I6.25 823.92         9781922790378     Morrissey, John               None Firelight
+I6.26 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
+I6.27 823.92         9781841499451     Palmer, Philip, 1960-         2011 Artemis
+I6.28 823.92         9781529043440     Parker-Chan, Shelley          None He Who Drowned the World
+I6.29 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
+I6.30 823.92         9780575076914     Reynolds, Alastair, 1966-     2005 Century rain
+I6.31 823.92         9780575073654     Reynolds, Alastair, 1966-     2002 Chasm City
+I6.32 823.92         9781760802615     Ritchie, Brendan              None Eta Draconis
+I6.33 823.92         9780575079076     Robson, Justina               2006 Keeping it real
+I6.34 823.92         9781838957223     Santorella, Tony              2024 Bored Gay Werewolf
+I6.35 823.92         9781408883358     Shannon, Samantha, 1991-      2020 The priory of the orange tree
 J1.01 823.92         9780575094116     Smith, Gavin G., 1968-        2011 Veteran
 J1.02 823.92         9781761151743     Smith, Sarah                  None Twelve Steps to a Long and Fulfilling Death
 J1.03 823.92         9781982187057     Stronach, Sascha              2022 The Dawnhounds: Volume 1 (Endsong, The)
@@ -2336,15 +2344,16 @@ W1.62 646.78         9780802473158     Chapman, Gary D., 1938-       2010 The 5 
 W1.63 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
 W1.64 658.3          9781107664852     Teicher, Julian               2013 Australian workplace relations
 W1.65 658.827        9780006530404     Klein, Naomi, Ph. D.          2010 No space, no choice, no jobs, no logo : taking aim at the br
-Y1.01 259.8          9780551017795     Perry, Michael, 1933- [Edi    1997 The Dramatised Bible
-Y1.02 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
-Y1.03 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
-Y1.04 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
-Y1.05 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
-Y1.06 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
-Y1.07 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
-Y1.08 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
-Y1.09 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
+Y1.01 242.843        9780819229441     Geitz, Elizabeth Rankin       2013 Women's Uncommon Prayers: Our Lives Revealed, Nurtured, Cele
+Y1.02 259.8          9780551017795     Perry, Michael, 1933- [Edi    1997 The Dramatised Bible
+Y1.03 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
+Y1.04 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
+Y1.05 492.482421     9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
+Y1.06 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
+Y1.07 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
+Y1.08 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
+Y1.09 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
+Y1.10 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
 Y2.01 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
 Y2.02 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
 Y2.03 220            9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
