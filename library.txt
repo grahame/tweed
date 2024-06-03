@@ -1463,40 +1463,41 @@ G5.40 813            9780571376476     Kingsolver, Barbara           2022 DEMON 
 G5.41 813            9781399607803     Pohl, Frederik                2022 Gateway: The Best of the SF Masterworks
 G5.42 813            9781399618540     Pulley, Natasha               2024 The Mars House
 G5.43 813.00         9781787334342     Harvey, Samantha              2023 Orbital: ‘Awe-inspiring’ Max Porter
-G5.44 813.08508      9780141349176     Green, John, 1977-            2013 Let it snow
-G5.45 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
-G5.46 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
-G5.47 813.0876208377 9781648411304     Blue, Elly                    2023 Bicycles & Broomsticks: Fantastical Feminist Stories about W
-G5.48 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
-G5.49 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
-G5.50 813.3          9780141195049     Poe, Edgar Allan              None Pit and the Pendulum
-G5.51 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
-G5.52 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
-G5.53 813.4          9780451529589     Twain, Mark                   2004 A Connecticut Yankee in King Arthur's Court
-G5.54 813.4          9780486280615     Twain, Mark                   1994 Adventures of Huckleberry Finn (Dover Thrift Editions: Class
-G5.55 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
-G5.56 813.52         9780141195117     Fitzgerald, F. Scott          2010 The Curious Case of Benjamin Button
-G5.57 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
-G5.58 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
-G5.59 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
-G5.60 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
-G5.61 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
-G5.62 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
-G5.63 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
-G5.64 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-G5.65 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-G5.66 813.52         9780141185071     Steinbeck, Mr John            2000 East of Eden
-G5.67 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
-G5.68 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
-G5.69 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
-G5.70 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
-G5.71 813.54         9780340769614     Bova, Ben, 1932-              2001 The precipice
-G5.72 813.54         9780671022075     Bradbury, Ray, 1920-2012      1998 Driving blind
-G5.73 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahrenheit 451
-G5.74 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
-G5.75 813.54         9780345324481     Bradbury, Ray, 1920-2012      1985 The October country
-G5.76 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
-G5.77 813.54         9781857233858     Brin, David                   1996 Brightness reef
+G5.44 813.00         9781529431261     Lemming, Kimberly             2023 That Time I Got Drunk And Yeeted A Love Potion At A Werewolf
+G5.45 813.08508      9780141349176     Green, John, 1977-            2013 Let it snow
+G5.46 813.087        9781781086384     Das, Indrapramit (19..-...    2019 New suns : original speculative fiction by people of color
+G5.47 813.08760806   9781607012252     Kowal, Mary Robinette, 196    2010 The Hugo Award showcase : 2010 volume
+G5.48 813.0876208377 9781648411304     Blue, Elly                    2023 Bicycles & Broomsticks: Fantastical Feminist Stories about W
+G5.49 813.0876208896 9781839647123     Ross, Tia                     2021 Black sci-fi short stories : anthology of new & classic tale
+G5.50 813.0876608    9780732282943     Dozois, Gardner R.            2007 The new space opera
+G5.51 813.3          9780141195049     Poe, Edgar Allan              None Pit and the Pendulum
+G5.52 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
+G5.53 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
+G5.54 813.4          9780451529589     Twain, Mark                   2004 A Connecticut Yankee in King Arthur's Court
+G5.55 813.4          9780486280615     Twain, Mark                   1994 Adventures of Huckleberry Finn (Dover Thrift Editions: Class
+G5.56 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
+G5.57 813.52         9780141195117     Fitzgerald, F. Scott          2010 The Curious Case of Benjamin Button
+G5.58 813.52         9780007925353     Fitzgerald, F. Scott (Fran    2013 The beautiful and damned
+G5.59 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
+G5.60 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
+G5.61 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
+G5.62 813.52         9780141354934     L'Engle, Madeleine            2014 A wrinkle in time
+G5.63 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
+G5.64 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
+G5.65 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+G5.66 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+G5.67 813.52         9780141185071     Steinbeck, Mr John            2000 East of Eden
+G5.68 813.54         9781784874117     Atwood, Margaret, 1939-       2018 Freedom
+G5.69 813.54         9780099563143     Atwood, Margaret, 1939-       2011 The handmaid's tale
+G5.70 813.54         9781784742324     Atwood, Margaret, 1939-       2019 The testaments
+G5.71 813.54         9780349117621     Barry, Max, 1973-             2004 Jennifer Government : a novel
+G5.72 813.54         9780340769614     Bova, Ben, 1932-              2001 The precipice
+G5.73 813.54         9780671022075     Bradbury, Ray, 1920-2012      1998 Driving blind
+G5.74 813.54         9780007181704     Bradbury, Ray, 1920-2012      2004 Fahrenheit 451
+G5.75 813.54         9780671017897     Bradbury, Ray, 1920-2012      1998 I sing the body electric!
+G5.76 813.54         9780345324481     Bradbury, Ray, 1920-2012      1985 The October country
+G5.77 813.54         9780747525479     Brewer, Gene                  1996 K-PAX : a novel
+G5.78 813.54         9781857233858     Brin, David                   1996 Brightness reef
 G6.01 823.914        9781787334618     Enright, Anne                 2023 The Wren, The Wren: ‘Might just be her best yet’ Louise Kenn
 G6.02 823.914        9780241984994     Evaristo, Bernardine, 1959    2020 Girl, woman, other
 G6.03 823.914        9781473227835     Gaiman, Neil                  2019 Good omens : the nice and accurate prophecies of Agnes Nutte
@@ -1603,17 +1604,18 @@ H3.19 813.6          9781838954475     Bryan, Washington             2023 Family
 H3.20 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
 H3.21 813.6          9780063002906     Byrne, Monica                 2022 The Actual Star: A Novel
 H3.22 813.6          9781789097528     Cadigan, Pat, 1953-           2021 Alien 3
-H3.23 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
-H3.24 813.6          9781250236234     Chambers, Becky               2022 A prayer for the Crown-Shy
-H3.25 813.6          9781250236210     Chambers, Becky               2021 A psalm for the wild-built
-H3.26 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
-H3.27 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
-H3.28 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
-H3.29 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
-H3.30 813.6          9781787302693     Chang, K-Ming                 2022 Gods of want : stories
-H3.31 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
-H3.32 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
-H3.33 813.6          9781942436515     Cochrane, Neil                2022 The Story of the Hundred Promises
+H3.23 813.6          9781250821546     Candon, Emma Mieko            2023 The Archive Undying (The Downworld Sequence, 1)
+H3.24 813.6          9781473621473     Chambers, Becky               2017 A closed and common orbit
+H3.25 813.6          9781250236234     Chambers, Becky               2022 A prayer for the Crown-Shy
+H3.26 813.6          9781250236210     Chambers, Becky               2021 A psalm for the wild-built
+H3.27 813.6          9781473647640     Chambers, Becky               2019 Record of a spaceborn few
+H3.28 813.6          9781473647671     Chambers, Becky               2021 The Galaxy, and the Ground Within: Wayfarers 4
+H3.29 813.6          9781473619814     Chambers, Becky               2001 The long way to a small, angry planet
+H3.30 813.6          9781473697164     Chambers, Becky               None To be taught, if fortunate
+H3.31 813.6          9781787302693     Chang, K-Ming                 2022 Gods of want : stories
+H3.32 813.6          9781447289234     Chiang, Ted                   None Stories of your life and others
+H3.33 813.6          9781846059377     Cline, Ernest                 2011 Ready player one
+H3.34 813.6          9781942436515     Cochrane, Neil                2022 The Story of the Hundred Promises
 H4.01 813.6          9781982191139     Cochrun, Alison               2022 Kiss Her Once for Me: A Novel
 H4.02 813.6          9781982170714     Cochrun, Alison               2021 The charm offensive : a novel
 H4.03 813.6          9781398508552     Conklin, Lydia, 1983-         2022 Rainbow rainbow : stories
