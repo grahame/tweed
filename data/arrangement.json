@@ -12,7 +12,7 @@
             ]
         },
         "bedroom": {
-            "matches": [{"author": "r:.*(Pratchett, Terry|Tolkien).*"}, {"title": "r:.*Tolkien.*"}, {"author": "r:.*Stephenson, Neal.*"}, {"author": "r:.*Banks, Iain.*"}, {"author": "r:.*Corey, James.*"}, {"author": "r:.*Ballard.*"}, {"author": "r:.*Asimov,.*"}, {"title": "r:.*Asimov.*"}, {"author": "r:.*Baxter, Stephen.*"}, {"author": "r:.*Robinson, Kim Stanley.*"}, {"author": "r:.*Clarke, Arthur.*"}, {"author": "r:Butler, Octavia"}, {"author": "r:Le Guin, Ursula"}, {"author": "r:.*Dick, Philip.*"}, {"title": "r:.*Philip K. Dick"}, {"author": "Vonnegut, Kurt"}, {"author": "r:.*Mandel, Emily.*"}],
+            "matches": [{"author": "r:.*(Pratchett, Terry|Tolkien).*"}, {"title": "r:.*Tolkien.*"}, {"author": "r:.*Stephenson, Neal.*"}, {"author": "r:.*Banks, Iain.*"}, {"author": "r:.*Corey, James.*"}, {"author": "r:.*Ballard.*"}, {"author": "r:.*Asimov,.*"}, {"title": "r:.*Asimov.*"}, {"author": "r:.*Baxter, Stephen.*"}, {"author": "r:.*Robinson, Kim Stanley.*"}, {"author": "r:.*Clarke, Arthur.*"}, {"author": "r:Butler, Octavia"}, {"author": "r:Le Guin, Ursula"}, {"author": "r:Guin, Ursula.*"}, {"author": "r:.*Dick, Philip.*"}, {"title": "r:.*Philip K. Dick"}, {"author": "Vonnegut, Kurt"}, {"author": "r:.*Mandel, Emily.*"}],
             "shelves": [
                 { "bookshelf": "U", "shelf": 1, "first_book": { "isbn": "9780008484446" } },
                 { "bookshelf": "U", "shelf": 2, "first_book": { "isbn": "9780552551441" } }
