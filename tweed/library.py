@@ -59,193 +59,6 @@ def query_matches(query, book):
         match &= match_string(query["author"], book.author)
     return match
 
-
-def oclc_scrape(isbn):
-    url = 'http://classify.oclc.org/classify2/ClassifyDemo?search-standnum-txt={}&startRec=0'.format(isbn)
-    cache_fname = os.path.join("cache", "oclc_scrape_{}.html".format(isbn))
-    tmp_fname = cache_fname + ".tmp"
-    if not os.access(cache_fname, os.R_OK):
-        # anti-scrape protection is now in place
-        return None
-        print("OCLC scrape: {}".format(url))
-        r = requests.get(url)
-        if (r.status_code != 200):
-            return None
-        with open(tmp_fname, "wb") as f:
-            f.write(r.content)
-        os.rename(tmp_fname, cache_fname)
-
-    et = etree.parse(cache_fname, parser=etree.HTMLParser())
-    codes = et.xpath("//td/text()[normalize-space(.)='Most Frequent']/../following-sibling::td[1]/text()")
-    codes = [t for t in codes if ddc_re.match(t)]
-    if len(codes) == 0:
-        return None
-    return codes[0]
-
-
-class OCLC:
-    ISBN_WID_OVERRIDES = {
-        "9780232525274": "54781379",
-        "9780241339725": "1031083726",
-        "9781782275909": "1119766390",
-        "9780300139495": "185739559",
-        "9780334010999": "24322",
-        "9780198261681": "16538526",
-    }
-    ISBN_DISABLE = [
-        "9780334015345",
-        "9781612182377",
-        "9780281045556",
-        "9780664218300",
-        "9780553401653",
-        "9780648228202",
-        "9788129115546",
-        "9780721412634",
-        "9780938819806",
-        "9780486442136",
-        "9780664223083",
-        "9780664223090",
-        "9780664223083",
-        "9780664223090",
-        "9780310521938",
-        "9780310522003",
-        "9780415267670",
-        "9780140444216",
-        "9781473647671",
-        "9780140441147",
-        "9781565484467",
-        "9780199537822",
-        "9780199540631",
-        "9780486836089",
-        "9781405954938"
-    ]
-
-    def __init__(self):
-        self.session = requests.Session()
-
-    def recursive_lookup(self, **kwargs):
-        """
-        recursive lookup; may return more than one <work/> document
-        """
-
-        params = list(kwargs.items())
-        params.append(("summary", False))
-        params.sort()
-        url = "http://classify.oclc.org/classify2/Classify?" + urllib.parse.urlencode(
-            params
-        )
-        url_hash = sha256(url.encode("utf8")).hexdigest()
-        cache_fname = os.path.join("cache", "oclc_lookup_{}.xml".format(url_hash))
-        if not os.access(cache_fname, os.R_OK):
-            # they nuked free access to the API; to avoid a massive re-sort, we don't
-            # want to break previously cached results. However, we can relatively safely
-            # scrape for those books we had no previous results for.
-            return "SCRAPE_HACK"
-
-        et = etree.parse(cache_fname)
-        def x(q):
-            return et.xpath(q, namespaces={"c": "http://classify.oclc.org"})
-        responses = x("/c:classify/c:response/@code")
-        assert len(responses) == 1
-
-        if responses[0] == "2":
-            return [cache_fname]
-        elif responses[0] == "4":
-            wis = x("//c:work/@wi")
-            isbn = kwargs.get("isbn")
-            if isbn in self.ISBN_WID_OVERRIDES:
-                wis = [self.ISBN_WID_OVERRIDES[isbn]]
-            return list(
-                functools.reduce(
-                    lambda a, b: a + b, (self.recursive_lookup(wi=wi) for wi in wis)
-                )
-            )
-        elif responses[0] == "101":
-            raise Exception("invalid data: {}".format(kwargs))
-        elif responses[0] == "102":
-            return None
-        else:
-            raise Exception(responses[0])
-
-    def lookup(self, isbn):
-        if isbn in self.ISBN_DISABLE:
-            return
-        results = self.recursive_lookup(isbn=isbn)
-        if results is None:
-            return
-        if results == 'SCRAPE_HACK':
-            ddc = oclc_scrape(isbn)
-            if ddc is None:
-                return
-            return Book(isbn=isbn, ddc=ddc, author=None, title=None, date=None, books_id=None)
-
-        def work_to_book(fname):
-            et = etree.parse(fname)
-
-            def x(q):
-                return et.xpath(q, namespaces={"c": "http://classify.oclc.org"})
-            work = one(x("/c:classify/c:work"))
-
-            def get_author():
-                author = work.get("author")
-                if author is None:
-                    return
-                return author.split("|", 1)[0].strip()
-
-            def get_ddc(title, attr):
-                ddcs = x("/c:classify/c:recommendations/c:ddc/c:{}".format(title))
-                if len(ddcs) == 0:
-                    return None, None
-                return int(ddcs[0].get("holdings", 0)), ddcs[0].get(attr)
-
-            candidate_ddcs = [
-                (h, d)
-                for (h, d) in [
-                    get_ddc("mostPopular", "nsfa"),
-                    get_ddc("mostPopular", "sfa"),
-                    get_ddc("mostRecent", "nsfa"),
-                    get_ddc("mostRecent", "sfa"),
-                ]
-                if is_ddc(d)
-            ]
-            if not candidate_ddcs:
-                return None, None
-            holdings, ddc = candidate_ddcs[0]
-
-            # rank by overall holdings for this work, not just the particular
-            # classification
-            return int(work.get("holdings")), Book(
-                ddc, he(get_author()), he(work.get("title")), isbn, None, None
-            )
-
-        def fill_blanks(a, b):
-            if not a:
-                return b
-            return a
-
-        def merge_book(a, b):
-            return Book(
-                fill_blanks(a.ddc, b.ddc),
-                fill_blanks(a.author, b.author),
-                fill_blanks(a.title, b.title),
-                fill_blanks(a.isbn, b.isbn),
-                fill_blanks(a.date, b.date),
-                fill_blanks(a.books_id, b.books_id),
-            )
-
-        books = [
-            (h, b)
-            for (h, b) in (work_to_book(fname) for fname in results)
-            if h is not None
-        ]
-        if not books:
-            return None
-        books.sort(reverse=True, key=lambda x: x[0])
-        books = [t[1] for t in books]
-        reduced = functools.reduce(merge_book, books)
-        return reduced
-
-
 class LibraryThing:
     def __init__(self, fname="data/librarything_grahame.json"):
         with open(fname, "r") as fd:
@@ -310,41 +123,23 @@ class LibraryThing:
 
 class LibraryMetadata:
     """
-    responsible for providing a merged view of LibraryThing
-    (authoritative for the books that I own) and OCLC (often much better metadata)
+    responsible for providing a merged view of LibraryThing with overriden metadata
     """
 
     def __init__(self):
         self.lt = LibraryThing()
-        self.oclc = OCLC()
-
-    def lookup_lt_in_oclc(self, book):
-        if not book.isbn:
-            return None
-        return self.oclc.lookup(isbn=book.isbn)
+        with open('data/isbn_overrides.json') as fd:
+            self.isbn_overrides = json.load(fd)
 
     def __iter__(self):
-
+        keys = ["ddc", "author", "title", "isbn", "date", "books_id"]
         for lt_book in self.lt:
-            oclc_book = self.lookup_lt_in_oclc(lt_book)
-            if oclc_book is None:
-                yield lt_book
-                continue
-            assert oclc_book.isbn == lt_book.isbn
-            def best_attr(x):
-                a = getattr(oclc_book, x)
-                b = getattr(lt_book, x)
-                if a is not None and len(a) > 0:
-                    return a
-                return b
-            yield Book(
-                best_attr("ddc"),
-                best_attr("author"),
-                best_attr("title"),
-                best_attr("isbn"),
-                best_attr("date"),
-                best_attr("books_id"),
-            )
+            attrs = {k: getattr(lt_book, k) for k in keys}
+            attrs.update(self.isbn_overrides.get(lt_book.isbn, {}))
+            book = Book(**attrs)
+            yield book
+        with open("data/isbn_overrides.json", "w") as fd:
+            json.dump(self.isbn_overrides, fd, indent=4)
 
 
 class Library:
