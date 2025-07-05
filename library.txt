@@ -755,8 +755,8 @@ D3.04 248.220902     9780521645614     Turner, Denys, 1942-          1998 The da
 D3.05 248.22092      9780199686643     Kempe, Margery, approximat    None The book of Margery Kempe : fourteen hundred & thirty-six
 D3.06 248.27         9780879079598     Ward, Benedicta, 1933-2022    1984 The sayings of the Desert Fathers : the alphabetical collect
 D3.07 248.3          9780892438914     Casey, Michael, 1942-         1996 Sacred reading : the ancient art of lectio divina
-D3.08 248.3          9780486486048     Ignatius, of Loyola, Saint    2011 The spiritual exercises of Saint Ignatius of Loyola
-D3.09 248.3          9780140433852     Ignatius, of Loyola, Saint    1996 The spiritual exercises of St. Ignatius
+D3.08 248.3          9780140433852     Ignatius of Loyola            1996 Personal Writings (Penguin Classics)
+D3.09 248.3          9780486486048     Ignatius, of Loyola, Saint    2011 The spiritual exercises of Saint Ignatius of Loyola
 D3.10 248.3          9780829435351     Manney, Jim                   2011 A simple, life-changing prayer : discovering the power of St
 D3.11 248.3          9780829435771     O'Brien, Kevin F.             2011 The Ignatian adventure : experiencing the spiritual exercise
 D3.12 248.3          9780871930521     Van Breemen, Peter G., 192    1976 As bread that is broken
