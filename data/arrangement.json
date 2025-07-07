@@ -143,8 +143,10 @@
             "sort": "author",
             "code": "SPEC",
             "matches": [
+                {"author": "r:.*Adams, Douglas,.*"},
                 {"author": "r:.*Asimov,.*"},
                 {"title": "r:.*Asimov.*"},
+                {"author": "r:.*Aaronovitch, Ben.*"},
                 {"author": "r:.*Atwood, Margaret.*"},
                 {"author": "r:.*Ballard.*"},
                 {"author": "r:.*Banks, Iain.*"},
