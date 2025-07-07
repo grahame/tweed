@@ -52,6 +52,7 @@ function BookTable(props: React.PropsWithChildren<BookProp>) {
         <Table dark striped>
             <thead>
                 <tr>
+                    <th>/</th>
                     <th>#</th>
                     <th>DDC</th>
                     <th>Author</th>

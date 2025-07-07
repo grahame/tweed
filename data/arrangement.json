@@ -1,7 +1,7 @@
 {
     "rewrite": [
         [ "author", "^Guin, Ursula.*", "Le Guin, Ursula"],
-        [ "author", "^Le Guin, Ursula.*", "Le Guin, Urusla"]
+        [ "author", "^Le Guin, Ursula.*", "Le Guin, Ursula"]
     ],
     "zones": {
         "cookbooks": {
@@ -154,8 +154,8 @@
                 {"author": "r:.*Baxter, Stephen.*"},
                 {"author": "r:.*Robinson, Kim Stanley.*"},
                 {"author": "r:.*Clarke, Arthur.*"},
-                {"author": "r:Butler, Octavia"},
-                {"author": "r:Le Guin, Ursula"},
+                {"author": "r:Butler, Octavia.*"},
+                {"author": "r:Le Guin, Ursula.*"},
                 {"author": "r:.*Dick, Philip.*"},
                 {"title": "r:.*Philip K. Dick"},
                 {"author": "Vonnegut, Kurt"},
