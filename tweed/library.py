@@ -294,19 +294,13 @@ class Library:
             if get_override(book):
                 continue
             # default to the current shelf
+            assert(current_shelf != None)
+            print(book)
             place_book(current_shelf, book)
         return placed
 
     def arrange(self):
         books = list(self.meta)
-        books.sort(
-            key=lambda book: (
-                book.ddc is None,
-                book.ddc,
-                book.author.lower(),
-                book.title.lower(),
-            )
-        )
 
         # allocate to shelves
         with open("data/arrangement.json") as fd:
@@ -330,6 +324,25 @@ class Library:
         placed = []
         overrides = arrangement["overrides"]
         for zone, subbooks in zone_books.items():
+            sort_method = zones[zone]['sort']
+            if sort_method == 'ddc':
+                subbooks.sort(
+                    key=lambda book: (
+                        book.ddc is None,
+                        book.ddc,
+                        book.author.lower(),
+                        book.title.lower(),
+                    )
+                )
+            elif sort_method == 'author':
+                subbooks.sort(
+                    key=lambda book: (
+                        book.author.lower(),
+                        book.title.lower(),
+                    )
+                )
+            else:
+                raise Exception("unknown sort method: {}".format(sort_method))
             shelves = zones[zone]["shelves"]
             placed += self.subarrange(indexes, subbooks, shelves, overrides)
 
