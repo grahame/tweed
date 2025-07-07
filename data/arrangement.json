@@ -1,4 +1,8 @@
 {
+    "rewrite": [
+        [ "author", "^Guin, Ursula.*", "Le Guin, Ursula"],
+        [ "author", "^Le Guin, Ursula.*", "Le Guin, Urusla"]
+    ],
     "zones": {
         "cookbooks": {
             "sort": "author",
@@ -7,9 +11,9 @@
                 {"@isbnfile": "data/cookbooks.txt"}
             ],
             "shelves": [
-                { "bookshelf": "Z", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "Z", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "Z", "shelf": 3, "first_book": { "isbn": "" } }
+                { "bookshelf": "COOK1", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "COOK1", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "COOK1", "shelf": 3, "first_book": { "isbn": "" } }
             ]
         },
         "liturgy": {
@@ -19,9 +23,9 @@
                 {"@isbnfile": "data/liturgy.txt"}
             ],
             "shelves": [
-                { "bookshelf": "Y", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "Y", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "Y", "shelf": 3, "first_book": { "isbn": "" } }
+                { "bookshelf": "LIT1", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "LIT1", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "LIT1", "shelf": 3, "first_book": { "isbn": "" } }
             ]
         },
         "tech": {
@@ -29,18 +33,19 @@
             "code": "TECH",
             "matches": [{"ddc": "^[056]"}],
             "shelves": [
-                { "bookshelf": "T", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
-                { "bookshelf": "T", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
-                { "bookshelf": "T", "shelf": 3, "first_book": { "isbn": "9780534217983" } },
+                { "bookshelf": "TECH1", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
+                { "bookshelf": "TECH1", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
+                { "bookshelf": "TECH1", "shelf": 3, "first_book": { "isbn": "9780534217983" } },
 
-                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781579656232" } },
-                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781594203084" } }
+                { "bookshelf": "TECH2", "shelf": 1, "first_book": { "isbn": "9781579656232" } },
+                { "bookshelf": "TECH2", "shelf": 2, "first_book": { "isbn": "9781594203084" } },
+                { "bookshelf": "TECH3", "shelf": 3, "first_book": { "isbn": "" } }
             ]
         },
-        "theology-and-all-the-other-ologies": {
+        "philosophy-theology": {
             "sort": "ddc",
             "code": "THEOL",
-            "matches": [{"ddc": "^[123479]"}],
+            "matches": [{"ddc": "^[12]"}],
             "shelves": [
                 { "bookshelf": "A", "shelf": 1, "first_book": { "isbn": "9780415693165" } },
                 { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9780872206335" } },
@@ -85,6 +90,23 @@
 
             ]
         },
+        "other-ology": {
+            "sort": "ddc",
+            "code": "OLOGY",
+            "matches": [{"ddc": "^[3479]"}],
+            "shelves": [
+                { "bookshelf": "F", "shelf": 6, "first_book": { "isbn": "" } },
+                { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "9781781251324" } },
+                { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "9780826428486" } },
+                { "bookshelf": "G", "shelf": 3, "first_book": { "isbn": "9781787334618" } },
+                { "bookshelf": "G", "shelf": 4, "first_book": { "isbn": "9780812524581" } },
+                { "bookshelf": "G", "shelf": 5, "first_book": { "isbn": "9780099283928" } },
+                { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9780812566628" } },
+                { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "" } }
+            ]
+        },
         "poetry-and-epic-myth": {
             "sort": "author",
             "code": "POET",
@@ -92,17 +114,18 @@
                 {"@isbnfile": "data/poetry-and-epic-myth.txt"}
             ],
             "shelves": [
-                { "bookshelf": "F", "shelf": 6, "first_book": { "isbn": "" } }
+                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } },
+                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "" } }
             ]
         },
-        "romance": {
+        "romance-and-wry-social-commentary": {
             "sort": "author",
             "code": "ROM",
             "matches": [
                 {"@isbnfile": "data/romance.txt"}
             ],
             "shelves": [
-                { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "" } }
+                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "" } }
             ]
         },
         "crime": {
@@ -112,7 +135,8 @@
                 {"@isbnfile": "data/crime.txt"}
             ],
             "shelves": [
-                { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "" } }
+                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "" } }
             ]
         },
         "speculative-fiction": {
@@ -132,7 +156,6 @@
                 {"author": "r:.*Clarke, Arthur.*"},
                 {"author": "r:Butler, Octavia"},
                 {"author": "r:Le Guin, Ursula"},
-                {"author": "r:Guin, Ursula.*"},
                 {"author": "r:.*Dick, Philip.*"},
                 {"title": "r:.*Philip K. Dick"},
                 {"author": "Vonnegut, Kurt"},
@@ -140,16 +163,27 @@
                 {"@isbnfile": "data/speculative-fiction.txt"}
             ],
             "shelves": [
-                { "bookshelf": "G", "shelf": 4, "first_book": { "isbn": "9781781251324" } },
-                { "bookshelf": "G", "shelf": 5, "first_book": { "isbn": "9780826428486" } },
-                { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9781787334618" } },
+                { "bookshelf": "M", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "M", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "M", "shelf": 3, "first_book": { "isbn": "" } },
 
-                { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "9780812524581" } },
-                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9780099283928" } },
-                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9780812566628" } },
-                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "9781982191139" } },
-                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780356506982" } },
-                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9780708899427" } }
+                { "bookshelf": "N", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "N", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "N", "shelf": 3, "first_book": { "isbn": "" } },
+
+                { "bookshelf": "O", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "O", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "O", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "O", "shelf": 4, "first_book": { "isbn": "" } },
+                { "bookshelf": "O", "shelf": 5, "first_book": { "isbn": "" } },
+                { "bookshelf": "O", "shelf": 6, "first_book": { "isbn": "" } },
+
+                { "bookshelf": "P", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "P", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "P", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "P", "shelf": 4, "first_book": { "isbn": "" } },
+                { "bookshelf": "P", "shelf": 5, "first_book": { "isbn": "" } },
+                { "bookshelf": "P", "shelf": 6, "first_book": { "isbn": "" } }
             ]
         },
         "other-fiction": {
@@ -157,19 +191,22 @@
             "code": "",
             "matches": [{"ddc": "^[8]"}, {"ddc": ""}],
             "shelves": [
-                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9781788542845" } },
-                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "9780992378301" } },
-                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "9780486452814" } },
-                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "9780586044438" } },
-                { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "9780140111057" } },
-                { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "9780571372676" } },
+                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "" } },
 
-                { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "9780575094116" } },
-                { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "9780141045153" } },
-                { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "9781838850586" } },
-                { "bookshelf": "J", "shelf": 4, "first_book": { "isbn": "9780226495552" } },
-                { "bookshelf": "J", "shelf": 5, "first_book": { "isbn": "9780795330421" } },
-                { "bookshelf": "J", "shelf": 6, "first_book": { "isbn": "9781405039130" } }
+                { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "" } },
+
+                { "bookshelf": "K", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "K", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "K", "shelf": 3, "first_book": { "isbn": "" } },
+
+                { "bookshelf": "L", "shelf": 4, "first_book": { "isbn": "" } },
+                { "bookshelf": "L", "shelf": 5, "first_book": { "isbn": "" } },
+                { "bookshelf": "L", "shelf": 6, "first_book": { "isbn": "" } }
             ]
         }
     },

@@ -74,7 +74,7 @@ function App() {
 
     React.useEffect(() => {
         const filterBook = (book: (typeof Books.books)[0], re: RegExp) => {
-            return re.test(book.author) || re.test(book.title) || re.test(book.loc);
+            return re.test(book.author) || re.test(book.title) || re.test(book.loc) || re.test(book.zone);
         };
         const safeRe = () => {
             return new RegExp("^.*$", "i");

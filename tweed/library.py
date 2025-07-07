@@ -304,14 +304,22 @@ class Library:
             assert(current_shelf != None)
             place_book(zone, current_shelf, book)
         return placed
+    
+    def rewrite(self, books, arrangement):
+        nb = []
+        for book in books:
+            up = book._asdict()
+            # apply replacements
+            for attr, match_re, subst_re in arrangement["rewrite"]:
+                up[attr] = re.sub(match_re, subst_re, up.get(attr, ""))
+            nb.append(Book(**up))
+        return nb
 
     def arrange(self):
-        books = list(self.meta)
-
         # allocate to shelves
         with open("data/arrangement.json") as fd:
             arrangement = json.load(fd)
-
+        books = self.rewrite(list(self.meta), arrangement)
         # routing
         zones = arrangement["zones"]
         zone_books = {zone: [] for zone in zones}
