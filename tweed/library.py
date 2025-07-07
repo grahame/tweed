@@ -353,15 +353,16 @@ class Library:
             cache_key = str(book.books_id)
             if cache_key in sort_keys and sort_keys[cache_key]["_rev"] == 1:
                 continue
+            print("reindexing book {}".format(book.books_id))
             sort_keys[cache_key] = {
                 "_rev": 1,
-                "ddc": (
+                "ddc": [
                     book.ddc is None,
                     book.ddc,
                     book.author.lower(),
                     book.title.lower(),
-                ),
-                "author": (book.author.lower(), book.title.lower()),
+                ],
+                "author": [book.author.lower(), book.title.lower()],
             }
 
         with open("data/sort_keys.json", "w") as fd:
