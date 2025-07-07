@@ -13,7 +13,7 @@ from lxml import etree
 from hashlib import sha256
 
 Book = namedtuple("Book", ("ddc", "author", "title", "isbn", "date", "books_id"))
-BookPlacement = namedtuple("BookPlacement", ("book", "location"))
+BookPlacement = namedtuple("BookPlacement", ("book", "location", "zone"))
 
 # https://docs.python.org/3/library/itertools.html
 def pairwise(iterable):
@@ -162,6 +162,7 @@ class Library:
             for bp in self.arrangement:
                 book_obj = (
                     ("loc", bp.location),
+                    ("zone", bp.zone),
                     ("ddc", bp.book.ddc),
                     ("isbn", bp.book.isbn),
                     ("author", bp.book.author),
@@ -265,7 +266,7 @@ class Library:
         os.rename("library.txt.new", "library.txt")
 
     @staticmethod
-    def subarrange(indexes, books, shelves, overrides):
+    def subarrange(zone, indexes, books, shelves, overrides):
         def format_loc(shelf, index):
             return "{}{}.{:>02}".format(shelf["bookshelf"], shelf["shelf"], index)
 
@@ -276,17 +277,17 @@ class Library:
                 if query_matches(override, book):
                     return override
 
-        def place_book(placed_on, book):
+        def place_book(zone, placed_on, book):
             index_key = (placed_on["bookshelf"], placed_on["shelf"])
             index = indexes[index_key]
             indexes[index_key] += 1
-            placed.append(BookPlacement(book, format_loc(placed_on, index)))
+            placed.append(BookPlacement(book, format_loc(placed_on, index), zone))
 
         # overriden books go to the start of their shelf
         for book in books:
             placed_on = get_override(book)
             if placed_on is not None:
-                place_book(placed_on, book)
+                place_book(zone, placed_on, book)
 
         # place everything else linearly across available shelf space, starting at the first shelf mentioned
         current_shelf = shelves[0]
@@ -300,9 +301,8 @@ class Library:
             if get_override(book):
                 continue
             # default to the current shelf
-            print(current_shelf, book)
             assert(current_shelf != None)
-            place_book(current_shelf, book)
+            place_book(zone, current_shelf, book)
         return placed
 
     def arrange(self):
@@ -352,7 +352,7 @@ class Library:
                 raise Exception("unknown sort method: {}".format(sort_method))
             shelves = zones[zone]["shelves"]
             print("arranging zone {} with {} shelves and {} books".format(zone, len(shelves), len(subbooks)))
-            placed += self.subarrange(indexes, subbooks, shelves, overrides)
+            placed += self.subarrange(zones[zone]['code'], indexes, subbooks, shelves, overrides)
 
         sort_re = re.compile(r"^([A-Z]+)(\d+)\.(\d+)$")
 

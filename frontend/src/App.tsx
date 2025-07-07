@@ -37,6 +37,7 @@ function BookTable(props: React.PropsWithChildren<BookProp>) {
             const match = realMatches.has(book.books_id);
             return (
                 <tr key={book.books_id} className={match ? "matchRow" : ""}>
+                    <td>{book.zone}</td>
                     <td>{book.loc}</td>
                     <td>{book.ddc}</td>
                     <td>{book.author}</td>
@@ -72,8 +73,8 @@ function App() {
     const [error, setError] = useState<string | null>();
 
     React.useEffect(() => {
-        const filterBook = (book: typeof Books.books[0], re: RegExp) => {
-            return re.test(book.author) || re.test(book.title);
+        const filterBook = (book: (typeof Books.books)[0], re: RegExp) => {
+            return re.test(book.author) || re.test(book.title) || re.test(book.loc);
         };
         const safeRe = () => {
             return new RegExp("^.*$", "i");
