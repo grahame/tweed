@@ -107,6 +107,18 @@
                 { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "" } }
             ]
         },
+        "crime": {
+            "sort": "author",
+            "code": "CRIM",
+            "matches": [
+                {"author": "r:Christie, Agatha.*"},
+                {"author": "r:Mortimer, John.*"},
+                {"@isbnfile": "data/crime.txt"}
+            ],
+            "shelves": [
+                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } }
+            ]
+        },
         "poetry-and-epic-myth": {
             "sort": "author",
             "code": "POET",
@@ -115,28 +127,23 @@
             ],
             "shelves": [
                 { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "" } }
+                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "" } },
+                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "" } }
             ]
         },
         "romance-and-wry-social-commentary": {
             "sort": "author",
             "code": "ROM",
             "matches": [
+                {"author": "r:.*Austen, Jane.*"},
+                {"author": "r:.*Blake, Ashley Herring.*"},
                 {"@isbnfile": "data/romance.txt"}
             ],
             "shelves": [
-                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "" } }
-            ]
-        },
-        "crime": {
-            "sort": "author",
-            "code": "CRIM",
-            "matches": [
-                {"@isbnfile": "data/crime.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "" } }
+                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } }
             ]
         },
         "speculative-fiction": {
@@ -147,22 +154,30 @@
                 {"author": "r:.*Asimov,.*"},
                 {"title": "r:.*Asimov.*"},
                 {"author": "r:.*Aaronovitch, Ben.*"},
+                {"author": "r:.*Anders, Charlie.*"},
                 {"author": "r:.*Atwood, Margaret.*"},
                 {"author": "r:.*Ballard.*"},
                 {"author": "r:.*Banks, Iain.*"},
                 {"author": "r:.*Baxter, Stephen.*"},
                 {"author": "r:Bradbury, Ray.*"},
+                {"author": "r:brown, adrienne maree.*"},
                 {"author": "r:Butler, Octavia.*"},
+                {"author": "r:.*Chambers, Becky.*"},
                 {"author": "r:.*Clarke, Arthur.*"},
                 {"author": "r:.*Corey, James.*"},
                 {"author": "r:.*Dick, Philip.*"},
+                {"author": "r:.*Gibson, William.*"},
                 {"author": "r:.*Heinlein, Robert.*"},
+                {"author": "r:.*Jemisin, N\\. K\\."},
                 {"author": "r:Le Guin, Ursula.*"},
+                {"author": "r:Leckie, Ann.*"},
                 {"author": "r:.*Mandel, Emily.*"},
                 {"author": "r:.*MacLeod, Ken.*"},
+                {"author": "r:.*Murakami, Haruki"},
                 {"title": "r:.*Philip K. Dick"},
                 {"author": "r:.*Pratchett, Terry.*"},
                 {"author": "r:.*Robinson, Kim Stanley.*"},
+                {"author": "r:.*Stross, Charles.*"},
                 {"author": "r:.*Stephenson, Neal.*"},
                 {"author": "r:.*Tolkien.*"},
                 {"title": "r:.*Tolkien.*"},
@@ -199,8 +214,6 @@
             "code": "",
             "matches": [{"ddc": "^[8]"}, {"ddc": ""}],
             "shelves": [
-                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } },
                 { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "" } },
                 { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "" } },
 
