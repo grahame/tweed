@@ -157,6 +157,7 @@
                 {"author": "r:.*Heinlein, Robert.*"},
                 {"author": "r:Le Guin, Ursula.*"},
                 {"author": "r:.*Mandel, Emily.*"},
+                {"author": "r:.*MacLeod, Ken.*"},
                 {"title": "r:.*Philip K. Dick"},
                 {"author": "r:.*Pratchett, Terry.*"},
                 {"author": "r:.*Robinson, Kim Stanley.*"},
