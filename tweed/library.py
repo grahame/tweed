@@ -1,16 +1,11 @@
 import os
 import json
 import datetime
-import requests
-import functools
 import html
 from itertools import tee
-import urllib.parse
 import re
 import sys
-from collections import namedtuple, Counter, defaultdict
-from lxml import etree
-from hashlib import sha256
+from collections import namedtuple, defaultdict
 
 Book = namedtuple("Book", ("ddc", "author", "title", "isbn", "date", "books_id"))
 BookPlacement = namedtuple("BookPlacement", ("book", "location", "zone"))
@@ -306,7 +301,7 @@ class Library:
             if get_override(book):
                 continue
             # default to the current shelf
-            assert current_shelf != None
+            assert current_shelf is not None
             place_book(zone, current_shelf, book)
         return placed
 
