@@ -46,7 +46,7 @@ def match_string(query, s):
         return re.match(query[2:], s) is not None
     return query == s
 
-
+isbnfilecache = {}
 def query_matches(query, book):
     match = True
     if "ddc" in query:
@@ -57,6 +57,12 @@ def query_matches(query, book):
         match &= match_string(query["title"], book.title)
     if "author" in query:
         match &= match_string(query["author"], book.author)
+    if "@isbnfile" in query:
+        isbnf = query["@isbnfile"]
+        if isbnf not in isbnfilecache:
+            with open(isbnf, "r") as fd:
+                isbnfilecache[isbnf] = set(line.strip() for line in fd)
+        match &= book.isbn in isbnfilecache[isbnf]
     return match
 
 class LibraryThing:
@@ -294,8 +300,8 @@ class Library:
             if get_override(book):
                 continue
             # default to the current shelf
+            print(current_shelf, book)
             assert(current_shelf != None)
-            print(book)
             place_book(current_shelf, book)
         return placed
 
@@ -344,6 +350,7 @@ class Library:
             else:
                 raise Exception("unknown sort method: {}".format(sort_method))
             shelves = zones[zone]["shelves"]
+            print("arranging zone {} with {} shelves and {} books".format(zone, len(shelves), len(subbooks)))
             placed += self.subarrange(indexes, subbooks, shelves, overrides)
 
         sort_re = re.compile(r"^([A-Z]+)(\d+)\.(\d+)$")
