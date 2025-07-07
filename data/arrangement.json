@@ -146,6 +146,16 @@
                 { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } }
             ]
         },
+        "first-nations": {
+            "sort": "author",
+            "code": "FIRST",
+            "matches": [
+                {"@isbnfile": "data/first-nations.txt"}
+            ],
+            "shelves": [
+                { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "" } }
+            ]
+        },
         "speculative-fiction": {
             "sort": "author",
             "code": "SPEC",
@@ -192,6 +202,9 @@
                 {"@isbnfile": "data/speculative-fiction.txt"}
             ],
             "shelves": [
+                { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "L", "shelf": 3, "first_book": { "isbn": "" } },
+
                 { "bookshelf": "M", "shelf": 1, "first_book": { "isbn": "" } },
                 { "bookshelf": "M", "shelf": 2, "first_book": { "isbn": "" } },
                 { "bookshelf": "M", "shelf": 3, "first_book": { "isbn": "" } },
@@ -231,9 +244,7 @@
                 { "bookshelf": "K", "shelf": 2, "first_book": { "isbn": "" } },
                 { "bookshelf": "K", "shelf": 3, "first_book": { "isbn": "" } },
 
-                { "bookshelf": "L", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "L", "shelf": 5, "first_book": { "isbn": "" } },
-                { "bookshelf": "L", "shelf": 6, "first_book": { "isbn": "" } }
+                { "bookshelf": "L", "shelf": 1, "first_book": { "isbn": "" } }
             ]
         }
     },
