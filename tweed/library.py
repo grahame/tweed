@@ -15,6 +15,7 @@ from hashlib import sha256
 Book = namedtuple("Book", ("ddc", "author", "title", "isbn", "date", "books_id"))
 BookPlacement = namedtuple("BookPlacement", ("book", "location", "zone"))
 
+
 # https://docs.python.org/3/library/itertools.html
 def pairwise(iterable):
     "s -> (s0,s1), (s1,s2), (s2, s3), ..."
@@ -46,7 +47,10 @@ def match_string(query, s):
         return re.match(query[2:], s) is not None
     return query == s
 
+
 isbnfilecache = {}
+
+
 def query_matches(query, book):
     match = True
     if "ddc" in query:
@@ -64,6 +68,7 @@ def query_matches(query, book):
                 isbnfilecache[isbnf] = set(line.strip() for line in fd)
         match &= book.isbn in isbnfilecache[isbnf]
     return match
+
 
 class LibraryThing:
     def __init__(self, fname="data/librarything_grahame.json"):
@@ -134,7 +139,7 @@ class LibraryMetadata:
 
     def __init__(self):
         self.lt = LibraryThing()
-        with open('data/isbn_overrides.json') as fd:
+        with open("data/isbn_overrides.json") as fd:
             self.isbn_overrides = json.load(fd)
 
     def __iter__(self):
@@ -145,7 +150,7 @@ class LibraryMetadata:
             book = Book(**attrs)
             yield book
         with open("data/isbn_overrides.json", "w") as fd:
-            json.dump(self.isbn_overrides, fd, indent=4)
+            json.dump(self.isbn_overrides, fd, indent=4, ensure_ascii=False)
 
 
 class Library:
@@ -232,7 +237,7 @@ class Library:
                     return
                 print("{:>1} {}".format(s, describe(book)))
 
-            for (tpl, op, book_before, book, book_after) in instructions:
+            for tpl, op, book_before, book, book_after in instructions:
                 book_msg("", book_before)
                 book_msg(op, book)
                 book_msg("", book_after)
@@ -247,7 +252,7 @@ class Library:
         report(old_state["books"], new_state["books"])
 
         with open("frontend/src/books.json", "w") as fd:
-            json.dump(new_state, fd)
+            json.dump(new_state, fd, ensure_ascii=False)
 
     def write_index_txt(self):
         with open("library.txt.new", "w") as fd:
@@ -301,10 +306,10 @@ class Library:
             if get_override(book):
                 continue
             # default to the current shelf
-            assert(current_shelf != None)
+            assert current_shelf != None
             place_book(zone, current_shelf, book)
         return placed
-    
+
     def rewrite(self, books, arrangement):
         nb = []
         for book in books:
@@ -338,29 +343,42 @@ class Library:
         indexes = defaultdict(lambda: 1)
         placed = []
         overrides = arrangement["overrides"]
+
+        # we want to keep sort-keys stable, unless we want to reindex manually, so that
+        # changes in upstream datasets don't randomly move our books around
+        with open("data/sort_keys.json") as fd:
+            sort_keys = json.load(fd)
+
+        for book in books:
+            cache_key = str(book.books_id)
+            if cache_key in sort_keys and sort_keys[cache_key]["_rev"] == 1:
+                continue
+            sort_keys[cache_key] = {
+                "_rev": 1,
+                "ddc": (
+                    book.ddc is None,
+                    book.ddc,
+                    book.author.lower(),
+                    book.title.lower(),
+                ),
+                "author": (book.author.lower(), book.title.lower()),
+            }
+
+        with open("data/sort_keys.json", "w") as fd:
+            json.dump(sort_keys, fd, indent=4, ensure_ascii=False)
+
         for zone, subbooks in zone_books.items():
-            sort_method = zones[zone]['sort']
-            if sort_method == 'ddc':
-                subbooks.sort(
-                    key=lambda book: (
-                        book.ddc is None,
-                        book.ddc,
-                        book.author.lower(),
-                        book.title.lower(),
-                    )
-                )
-            elif sort_method == 'author':
-                subbooks.sort(
-                    key=lambda book: (
-                        book.author.lower(),
-                        book.title.lower(),
-                    )
-                )
-            else:
-                raise Exception("unknown sort method: {}".format(sort_method))
+            sort_method = zones[zone]["sort"]
+            subbooks.sort(key=lambda book: sort_keys[str(book.books_id)][sort_method])
             shelves = zones[zone]["shelves"]
-            print("arranging zone {} with {} shelves and {} books".format(zone, len(shelves), len(subbooks)))
-            placed += self.subarrange(zones[zone]['code'], indexes, subbooks, shelves, overrides)
+            print(
+                "arranging zone {} with {} shelves and {} books".format(
+                    zone, len(shelves), len(subbooks)
+                )
+            )
+            placed += self.subarrange(
+                zones[zone]["code"], indexes, subbooks, shelves, overrides
+            )
 
         sort_re = re.compile(r"^([A-Z]+)(\d+)\.(\d+)$")
 
