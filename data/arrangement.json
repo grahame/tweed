@@ -1,8 +1,42 @@
 {
     "zones": {
+        "cookbooks": {
+            "sort": "author",
+            "matches": [
+                {"@isbnfile": "data/cookbooks.txt"}
+            ],
+            "shelves": [
+                { "bookshelf": "Z", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "Z", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "Z", "shelf": 3, "first_book": { "isbn": "" } }
+            ]
+        },
+        "liturgy": {
+            "sort": "author",
+            "matches": [
+                {"@isbnfile": "data/liturgy.txt"}
+            ],
+            "shelves": [
+                { "bookshelf": "Y", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "Y", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "Y", "shelf": 3, "first_book": { "isbn": "" } }
+            ]
+        },
+        "tech": {
+            "sort": "ddc",
+            "matches": [{"ddc": "^[056]"}],
+            "shelves": [
+                { "bookshelf": "T", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
+                { "bookshelf": "T", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
+                { "bookshelf": "T", "shelf": 3, "first_book": { "isbn": "9780534217983" } },
+
+                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781579656232" } },
+                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781594203084" } }
+            ]
+        },
         "theology-and-all-the-other-ologies": {
             "sort": "ddc",
-            "matches": [{"ddc": "^[12349]$"}],
+            "matches": [{"ddc": "^[123479]"}],
             "shelves": [
                 { "bookshelf": "A", "shelf": 1, "first_book": { "isbn": "9780415693165" } },
                 { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9780872206335" } },
@@ -42,46 +76,9 @@
                 { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "9780809122950" } },
                 { "bookshelf": "F", "shelf": 2, "first_book": { "isbn": "9780715155516" } },
                 { "bookshelf": "F", "shelf": 3, "first_book": { "isbn": "9780340954256" } },
+                { "bookshelf": "F", "shelf": 4, "first_book": { "isbn": "" } },
+                { "bookshelf": "F", "shelf": 5, "first_book": { "isbn": "" } }
 
-                { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "9780140444216" } },
-                { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "9781583334270" } },
-                { "bookshelf": "G", "shelf": 3, "first_book": { "isbn": "9781875989218" } },
-                { "bookshelf": "G", "shelf": 4, "first_book": { "isbn": "9781781251324" } },
-                { "bookshelf": "G", "shelf": 5, "first_book": { "isbn": "9780826428486" } },
-                { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9781787334618" } },
-
-                { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "9780812524581" } },
-                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9780099283928" } },
-                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9780812566628" } },
-                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "9781982191139" } },
-                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780356506982" } },
-                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9780708899427" } },
-
-                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9781788542845" } },
-                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "9780992378301" } },
-                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "9780486452814" } },
-                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "9780586044438" } },
-                { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "9780140111057" } },
-                { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "9780571372676" } },
-
-                { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "9780575094116" } },
-                { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "9780141045153" } },
-                { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "9781838850586" } },
-                { "bookshelf": "J", "shelf": 4, "first_book": { "isbn": "9780226495552" } },
-                { "bookshelf": "J", "shelf": 5, "first_book": { "isbn": "9780795330421" } },
-                { "bookshelf": "J", "shelf": 6, "first_book": { "isbn": "9781405039130" } }
-            ]
-        },
-        "tech": {
-            "sort": "ddc",
-            "matches": [{"ddc": "^[056]"}],
-            "shelves": [
-                { "bookshelf": "T", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
-                { "bookshelf": "T", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
-                { "bookshelf": "T", "shelf": 3, "first_book": { "isbn": "9780534217983" } },
-
-                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781579656232" } },
-                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781594203084" } }
             ]
         },
         "poetry-and-epic-myth": {
@@ -90,7 +87,7 @@
                 {"@isbnfile": "data/poetry-and-epic-myth.txt"}
             ],
             "shelves": [
-                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781594203084" } }
+                { "bookshelf": "F", "shelf": 6, "first_book": { "isbn": "" } }
             ]
         },
         "romance": {
@@ -99,7 +96,7 @@
                 {"@isbnfile": "data/romance.txt"}
             ],
             "shelves": [
-                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781594203084" } }
+                { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "" } }
             ]
         },
         "crime": {
@@ -108,7 +105,7 @@
                 {"@isbnfile": "data/crime.txt"}
             ],
             "shelves": [
-                { "bookshelf": "W", "shelf": 1, "first_book": { "isbn": "9781594203084" } }
+                { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "" } }
             ]
         },
         "speculative-fiction": {
@@ -135,38 +132,35 @@
                 {"@isbnfile": "data/speculative-fiction.txt"}
             ],
             "shelves": [
-                { "bookshelf": "U", "shelf": 1, "first_book": { "isbn": "9780008484446" } },
-                { "bookshelf": "U", "shelf": 2, "first_book": { "isbn": "9780552551441" } }
+                { "bookshelf": "G", "shelf": 4, "first_book": { "isbn": "9781781251324" } },
+                { "bookshelf": "G", "shelf": 5, "first_book": { "isbn": "9780826428486" } },
+                { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9781787334618" } },
+
+                { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "9780812524581" } },
+                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9780099283928" } },
+                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9780812566628" } },
+                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "9781982191139" } },
+                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780356506982" } },
+                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9780708899427" } }
             ]
         },
         "other-fiction": {
             "sort": "author",
-            "matches": [{"ddc": "^[8]"}],
+            "matches": [{"ddc": "^[8]"}, {"ddc": ""}],
             "shelves": [
-                { "bookshelf": "U", "shelf": 1, "first_book": { "isbn": "9780008484446" } },
-                { "bookshelf": "U", "shelf": 2, "first_book": { "isbn": "9780552551441" } }
-            ]
-        },
-        "cookbooks": {
-            "sort": "author",
-            "matches": [
-                {"@isbnfile": "data/cookbooks.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "Z", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "Z", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "Z", "shelf": 3, "first_book": { "isbn": "" } }
-            ]
-        },
-        "liturgy": {
-            "sort": "author",
-            "matches": [
-                {"@isbnfile": "data/liturgy.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "Y", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "Y", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "Y", "shelf": 3, "first_book": { "isbn": "" } }
+                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9781788542845" } },
+                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "9780992378301" } },
+                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "9780486452814" } },
+                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "9780586044438" } },
+                { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "9780140111057" } },
+                { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "9780571372676" } },
+
+                { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "9780575094116" } },
+                { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "9780141045153" } },
+                { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "9781838850586" } },
+                { "bookshelf": "J", "shelf": 4, "first_book": { "isbn": "9780226495552" } },
+                { "bookshelf": "J", "shelf": 5, "first_book": { "isbn": "9780795330421" } },
+                { "bookshelf": "J", "shelf": 6, "first_book": { "isbn": "9781405039130" } }
             ]
         }
     },

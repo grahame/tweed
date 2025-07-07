@@ -288,8 +288,8 @@ class Library:
             if placed_on is not None:
                 place_book(placed_on, book)
 
-        # place everything else linearly across available shelf space
-        current_shelf = None
+        # place everything else linearly across available shelf space, starting at the first shelf mentioned
+        current_shelf = shelves[0]
         for book in books:
             # check if we are at the start of another shelf
             for shelf in shelves:
@@ -324,7 +324,8 @@ class Library:
                     matched = True
                     zone_books[zone].append(book)
                     break
-            assert matched
+            if not matched:
+                raise Exception("no match for book: {}".format(book))
 
         indexes = defaultdict(lambda: 1)
         placed = []
