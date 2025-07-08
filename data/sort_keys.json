@@ -34149,5 +34149,135 @@
             "corey, james s. a.",
             "the mercy of gods"
         ]
+    },
+    "273003870": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "895.63",
+            "ishida, syou",
+            "we'll prescribe you a cat"
+        ],
+        "author": [
+            "ishida, syou",
+            "we'll prescribe you a cat"
+        ]
+    },
+    "273003884": {
+        "_rev": 1,
+        "ddc": [
+            true,
+            null,
+            "fudge, thomas a",
+            "darkness: the conversion of anglican armidale, 1960-2019"
+        ],
+        "author": [
+            "fudge, thomas a",
+            "darkness: the conversion of anglican armidale, 1960-2019"
+        ]
+    },
+    "289707757": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "813",
+            "gilman, charlotte",
+            "the yellow wallpaper and other stories: the yellow wallpaper; when i was a witch; turned; making a change; if i were a man (penguin classics 60s s.)"
+        ],
+        "author": [
+            "gilman, charlotte",
+            "the yellow wallpaper and other stories: the yellow wallpaper; when i was a witch; turned; making a change; if i were a man (penguin classics 60s s.)"
+        ]
+    },
+    "289707808": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "813",
+            "xueqin, cao",
+            "the dream of the red chamber"
+        ],
+        "author": [
+            "xueqin, cao",
+            "the dream of the red chamber"
+        ]
+    },
+    "289707826": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "813.4",
+            "twain, mark",
+            "the man that corrupted hadleyburg (classic, 60s)"
+        ],
+        "author": [
+            "twain, mark",
+            "the man that corrupted hadleyburg (classic, 60s)"
+        ]
+    },
+    "289707835": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "811",
+            "homer",
+            "the rage of achilles (classic, 60s)"
+        ],
+        "author": [
+            "homer",
+            "the rage of achilles (classic, 60s)"
+        ]
+    },
+    "289707848": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "900",
+            "castiglione, baldesar",
+            "etiquette for renaissance gentlemen"
+        ],
+        "author": [
+            "castiglione, baldesar",
+            "etiquette for renaissance gentlemen"
+        ]
+    },
+    "289707851": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "818.303",
+            "thoreau, henry david.",
+            "civil disobedience"
+        ],
+        "author": [
+            "thoreau, henry david.",
+            "civil disobedience"
+        ]
+    },
+    "289952299": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "398",
+            "scott, kim",
+            "dwoort baal kaat (wirlomin noongar language and stories project)"
+        ],
+        "author": [
+            "scott, kim",
+            "dwoort baal kaat (wirlomin noongar language and stories project)"
+        ]
+    },
+    "289952302": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "398.2099414",
+            "scott, kim",
+            "ngaawily nop (5) (wirlomin noongar language and stories project)"
+        ],
+        "author": [
+            "scott, kim",
+            "ngaawily nop (5) (wirlomin noongar language and stories project)"
+        ]
     }
 }

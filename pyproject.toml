@@ -8,6 +8,7 @@ authors = ["Grahame Bowland <grahame@oreamnos.com.au>"]
 python = "^3.8"
 requests = "^2.25.0"
 lxml = "^4.6.1"
+isbnlib = "^3.10.14"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^20.8b1", allow-prereleases = true}
