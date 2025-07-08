@@ -240,7 +240,7 @@ class Library:
                     if book_index < len(new) - 1:
                         book_after = new[book_index + 1]
                     case, shelf, offset = re.match(
-                        r"^([A-Z]+)(\d+)\.(\d+)", book["loc"]
+                        r"^([A-Z\-]+)(\d+)\.(\d+)", book["loc"]
                     ).groups()
                     r.append(
                         (
@@ -293,16 +293,28 @@ class Library:
             json.dump(new_state, fd, ensure_ascii=False)
 
     def write_index_txt(self):
+        isbn_count = Counter()
         with open("library.txt.new", "w") as fd:
             for bp in self.arrangement:
+                warnings = []
+                if bp.book.isbn:
+                    isbn_count[bp.book.isbn] += 1
+                    if isbn_count[bp.book.isbn] > 1:
+                        warnings.append("duplicate")
+                if not bp.book.ddc:
+                    warnings.append("no-dewey")
+                warnings = ", ".join(warnings)
+                if warnings:
+                    warnings = " !! [" + warnings + "]"
                 print(
-                    "{:4} {:14} {:16}  {:28}  {:4} {}".format(
+                    "{:4} {:14} {:16}  {:28}  {:4} {}{}".format(
                         bp.location,
                         (bp.book.ddc or "")[:14],
                         (bp.book.isbn or "")[:16],
                         bp.book.author[:26],
                         str(bp.book.date)[:4],
                         bp.book.title[:60],
+                        warnings,
                     ),
                     file=fd,
                 )
@@ -415,7 +427,7 @@ class Library:
             subbooks.sort(key=lambda book: sort_keys[str(book.books_id)][sort_method])
             shelves = zones[zone]["shelves"]
             print(
-                "arranging zone {} with {} shelves and {} books".format(
+                "zone {} has {} shelves and {} books".format(
                     zone, len(shelves), len(subbooks)
                 )
             )
