@@ -1439,15 +1439,14 @@ F6.149 394.12         9781408812181     Pollan, Michael               2011 The o
 F6.150 398.20994      9780702206221     Lawrie, Margaret              1970 Myths and Legends of Torres Strait
 F6.151 398.2089924    9780385195744     Sadeh, Pinḥas                 1989 Jewish folktales
 F6.152 398.2093802    9781787333697     Higgins, Charlotte, 1972-     None Greek myths : a new retelling
-F6.153 398.22         9781626864634     Malory, Thomas                2015 Le Morte d'Arthur: King Arthur and the Knights of the Round 
-F6.154 398.2452       9780007902125     Aesop                         2011 Aesop's fables
-F6.155 400            9780141037653     Pinker, Steven, 1954-         2008 The language instinct
-F6.156 427.994        9781740512787     Watson, Don, 1949-            2004 Death sentence : the decay of public language
-F6.157 477            9780813206677     Collins, John F., 1937-200    1988 A primer of ecclesiastical Latin
-F6.158 477            9781565631311     Stelten, Leo F., 1925-2018    1995 Dictionary of ecclesiastical Latin : with an appendix of Lat
-F6.159 478            9780813214696     Dunlap, John R., 1945-        2006 An answer key to A primer of ecclesiastical Latin : a supple
-F6.160 478.2421       9780385413398     Hendricks, Rhoda A.           1992 Latin made simple
-F6.161 483            9780342684861     Liddell, Henry George, 181    2018 A lexicon abridged from Liddell and Scott's Greek-English le
+F6.153 398.2452       9780007902125     Aesop                         2011 Aesop's fables
+F6.154 400            9780141037653     Pinker, Steven, 1954-         2008 The language instinct
+F6.155 427.994        9781740512787     Watson, Don, 1949-            2004 Death sentence : the decay of public language
+F6.156 477            9780813206677     Collins, John F., 1937-200    1988 A primer of ecclesiastical Latin
+F6.157 477            9781565631311     Stelten, Leo F., 1925-2018    1995 Dictionary of ecclesiastical Latin : with an appendix of Lat
+F6.158 478            9780813214696     Dunlap, John R., 1945-        2006 An answer key to A primer of ecclesiastical Latin : a supple
+F6.159 478.2421       9780385413398     Hendricks, Rhoda A.           1992 Latin made simple
+F6.160 483            9780342684861     Liddell, Henry George, 181    2018 A lexicon abridged from Liddell and Scott's Greek-English le
 G1.01 487.1          9781781251324     Fox, Margalit                 None The riddle of the labyrinth : the quest to crack an ancient 
 G1.02 487.4          9780334011392     Barclay, William, 1907-197    2012 New Testament words
 G1.03 487.4          9780802867339     Croy, N. Clayton              2011 A primer of Biblical Greek
@@ -1638,67 +1637,70 @@ H4.44 821.912        9780571136803     Durrell, Lawrence             1985 Collec
 H4.45 822.912                          Eliot, T. S.                  2021 Murder in the Cathedral
 H4.46 810.803628     9780141012704     Foer, Jonathan Safran, 197    2007 A convergence of birds : original fiction and poetry inspire
 H4.47 811.52         9780030120602     Frost, Robert                 1963 Selected Poems of Robert Frost
-H4.48 891.6631       9780140443226     Gantz, Jeffrey                1976 The Mabinogion
-H4.49 821.408        9780140420388     Gardner, Helen, 1908-1986     1960 The metaphysical poets;
-H4.50 813.54         9780679723110     Gardner, John                 1989 Grendel
-H4.51 892.191        9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
-H4.52 813            9780146001703     Gilman, Charlotte             1995 The Yellow Wallpaper And Other Stories: The Yellow Wallpaper
-H4.53 811.6          9781784744618     Gorman, Amanda, 1998-         2021 HILL WE CLIMB AND OTHER POEMS
-H4.54 811.54         9780811217118     Grossman, Allen R., 1932-2    2007 Descartes' loneliness
-H4.55 821.92         9781925735215     Harkin, Natalie,              2019 Archival-poetics
-H4.56 811.6          9781925713886     Headley, Maria Dahvana, 19    None Beowulf : a new translation
-H4.57 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
-H4.58 821.914        9780374526788     Heaney, Seamus                1999 Opened Ground
-H4.59 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
-H4.60 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
-H4.61 821.3          9780141392042     Herbert, George, (1593-163    2015 The complete poetry
-H4.62 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
-H4.63 821.008        9780956688446     Hodges, David                 None Deep Unto Deep
-H4.64 883.01         9780140275360     Homer                         1998 The Iliad
-H4.65 883.01         9781324001805     Homer                         2023 The Iliad
-H4.66 883.01         9780140268867     Homer                         1999 The Odyssey
-H4.67 811            9780146001963     Homer                         1996 The Rage of Achilles (Classic, 60s)
-H4.68 883.01         9780393356250     Homer,                        2018 The Odyssey
-H4.69 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
-H4.70 808.819382     9781842930540     Jacobs, Alan                  2002 Poetry for the spirit : an original anthology of insightful 
-H4.71 891.5511       9780062509598     Jalāl al-Dīn Rūmī, Maulana    1997 The essential Rumi
-H4.72 823.912        9781853260483     Joyce, James, 1882-1941       1999 Dubliners
-H4.73 823.912        9780199535675     Joyce, James, 1882-1941       2008 Ulysses
-H4.74 891.4          9780486433585     Kabir, active 15th century    2004 Songs of Kabir
-H4.75 808.02         9781786898555     Lamott, Anne                  None Bird by bird : some instructions on writing and life
-H4.76 819.13         9781760992163     Larsen, Kate                  None Public. Open. Space.
-H4.77 821.2          9780732299392     Lawson, Henry                 None Henry Lawson Poems
-H4.78 813.6          9781408891384     Madeline, Miller              2017 The Song Of Achilles
-H4.79 823.92         9781742589107     McCooey, David                2016 Star Struck
-H4.80 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
-H4.81 813.6          9781408890042     Miller, Madeline              2019 Circe: The stunning new anniversary edition from the author 
-H4.82 813.6          9781526652065     Miller, Madeline              2022 Galatea: The instant Sunday Times bestseller
-H4.83 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
-H4.84 821.4          9780645247930     Mitchell, Scott-Patrick       2022 Clean
-H4.85 808.81         9781863710213     Murray, Les                   1986 Anthology of Australian religious poetry
-H4.86 813.6          9780997063325     Nagel, Margaret               2016 The adventures of Brother Arcadius and Pangur Ban : 11 tales
-H4.87 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
-H4.88 811.54         9780802134523     O'Hara, Frank, 1926-1966      1996 Meditations in an emergency
-H4.89 873.01         9780143134237     Ovid                          2023 Metamorphoses: (Penguin Classics Deluxe Edition)
-H4.90 821.92         9781922613738     Papertalk Green, Charmaine    2022 Art
-H4.91 809            9780199683611     Pickstock, Catherine          2014 Repetition and identity
-H4.92 821.4          9781760801182     Rhook, Nadia,                 None Boots
-H4.93 822.33         9780862881467     Shakespeare, William          1980 Complete Works of William Shakespeare
-H4.94 305.89915      9781925768947     Shiosaki, Elfie               None Homecoming
-H4.95 808.8193538    9780932112972     Shomer, Enid [Editor]         2018 All we know of pleasure : poetic erotica by women
-H4.96 821.92         9780646888132     Sun, Emily                    None hello ❤️ keanu!
-H4.97 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
-H4.98 818.303        9780146001956     Thoreau, Henry David.         1996 Civil Disobedience
-H4.99 819.13         9781907598784     Towers, Katharine             2019 Ten Poems about Trees
-H4.100 813.4          9780146001864     Twain, Mark                   1996 The Man that Corrupted Hadleyburg (Classic, 60s)
-H4.101 821.914        9781800171619     Tóibín, Colm, 1955-           2022 Vinegar Hill
-H4.102 871            9781725273030     Urban VIII, Pope, 1568-164    2020 Pope Urban VIII and Pope Alexander VII : selected poety : ly
-H4.103 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
-H4.104 811.3          9780486456768     Whitman, Walt, 1819-1892      2007 Leaves of grass
-H4.105 821.92         9781800171091     WILLIAMS, ROWAN               None COLLECTED POEMS
-H4.106 813            9780146001765     Xueqin, Cao                   1996 The Dream of the Red Chamber
-H4.107 819.13         9781923099005     Yasbincek, Morgan             2023 Coming to Nothing
-H4.108 819.13         9780980526943     Yasbincek, Morgan             None White Camel
+H4.48 821.92         9780645920970     Fyfe, Alan                    None G-d, Sleep, and Chaos
+H4.49 891.6631       9780140443226     Gantz, Jeffrey                1976 The Mabinogion
+H4.50 821.408        9780140420388     Gardner, Helen, 1908-1986     1960 The metaphysical poets;
+H4.51 813.54         9780679723110     Gardner, John                 1989 Grendel
+H4.52 892.191        9780140449198     George, A. R.                 2003 The epic of Gilgamesh : the Babylonian epic poem and other t
+H4.53 813            9780146001703     Gilman, Charlotte             1995 The Yellow Wallpaper And Other Stories: The Yellow Wallpaper
+H4.54 811.6          9781784744618     Gorman, Amanda, 1998-         2021 HILL WE CLIMB AND OTHER POEMS
+H4.55 811.54         9780811217118     Grossman, Allen R., 1932-2    2007 Descartes' loneliness
+H4.56 821.92         9781925735215     Harkin, Natalie,              2019 Archival-poetics
+H4.57 811.6          9781925713886     Headley, Maria Dahvana, 19    None Beowulf : a new translation
+H4.58 821.914        9780571347155     HEANEY, SEAMUS                2019 100 poems
+H4.59 821.914        9780374526788     Heaney, Seamus                1999 Opened Ground
+H4.60 821.009        9781911187912     Hebron, Malcolm               2018 How to read a poem
+H4.61 828.3          9781857152043     Herbert, George (1593-1633    1995 The complete English works
+H4.62 821.3          9780141392042     Herbert, George, (1593-163    2015 The complete poetry
+H4.63 821.3          9780241303078     Herbert, George, 1593-1633    2018 The temple : 1633
+H4.64 821.008        9780956688446     Hodges, David                 None Deep Unto Deep
+H4.65 883.01         9780140275360     Homer                         1998 The Iliad
+H4.66 883.01         9781324001805     Homer                         2023 The Iliad
+H4.67 883.01         9780140268867     Homer                         1999 The Odyssey
+H4.68 811            9780146001963     Homer                         1996 The Rage of Achilles (Classic, 60s)
+H4.69 883.01         9780393356250     Homer,                        2018 The Odyssey
+H4.70 821.8          9780199538850     Hopkins, Gerard Manley, 18    2009 The major works
+H4.71 808.819382     9781842930540     Jacobs, Alan                  2002 Poetry for the spirit : an original anthology of insightful 
+H4.72 891.5511       9780062509598     Jalāl al-Dīn Rūmī, Maulana    1997 The essential Rumi
+H4.73 823.912        9781853260483     Joyce, James, 1882-1941       1999 Dubliners
+H4.74 823.912        9780199535675     Joyce, James, 1882-1941       2008 Ulysses
+H4.75 891.4          9780486433585     Kabir, active 15th century    2004 Songs of Kabir
+H4.76 808.02         9781786898555     Lamott, Anne                  None Bird by bird : some instructions on writing and life
+H4.77 819.13         9781760992163     Larsen, Kate                  None Public. Open. Space.
+H4.78 821.2          9780732299392     Lawson, Henry                 None Henry Lawson Poems
+H4.79 813.6          9781408891384     Madeline, Miller              2017 The Song Of Achilles
+H4.80 398.22         9781626864634     Malory, Thomas                2015 Le Morte d'Arthur: King Arthur and the Knights of the Round 
+H4.81 823.92         9781742589107     McCooey, David                2016 Star Struck
+H4.82 818.3          9780706421187     Melville, Herman              1984 Herman Melville; [stories, poems, and letters]
+H4.83 813.6          9781408890042     Miller, Madeline              2019 Circe: The stunning new anniversary edition from the author 
+H4.84 813.6          9781526652065     Miller, Madeline              2022 Galatea: The instant Sunday Times bestseller
+H4.85 821.4          9780099529460     Milton, John                  2009 Paradise lost, and other poems
+H4.86 821.4          9780645247930     Mitchell, Scott-Patrick       2022 Clean
+H4.87 808.81         9781863710213     Murray, Les                   1986 Anthology of Australian religious poetry
+H4.88 813.6          9780997063325     Nagel, Margaret               2016 The adventures of Brother Arcadius and Pangur Ban : 11 tales
+H4.89 821.9208       9781786277152     National Poetry Library       2020 Instagram poetry for every day
+H4.90 811.54         9780802134523     O'Hara, Frank, 1926-1966      1996 Meditations in an emergency
+H4.91 819.13         9781760802981     Ortiz, Kaya                   2025 Past and Parallel Lives
+H4.92 873.01         9780143134237     Ovid                          2023 Metamorphoses: (Penguin Classics Deluxe Edition)
+H4.93 821.92         9781922613738     Papertalk Green, Charmaine    2022 Art
+H4.94 809            9780199683611     Pickstock, Catherine          2014 Repetition and identity
+H4.95 821.4          9781760801182     Rhook, Nadia,                 None Boots
+H4.96 822.33         9780862881467     Shakespeare, William          1980 Complete Works of William Shakespeare
+H4.97 305.89915      9781925768947     Shiosaki, Elfie               None Homecoming
+H4.98 808.8193538    9780932112972     Shomer, Enid [Editor]         2018 All we know of pleasure : poetic erotica by women
+H4.99 821.92         9780646888132     Sun, Emily                    None hello ❤️ keanu!
+H4.100 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
+H4.101 818.303        9780146001956     Thoreau, Henry David.         1996 Civil Disobedience
+H4.102 819.13         9781907598784     Towers, Katharine             2019 Ten Poems about Trees
+H4.103 813.4          9780146001864     Twain, Mark                   1996 The Man that Corrupted Hadleyburg (Classic, 60s)
+H4.104 821.914        9781800171619     Tóibín, Colm, 1955-           2022 Vinegar Hill
+H4.105 871            9781725273030     Urban VIII, Pope, 1568-164    2020 Pope Urban VIII and Pope Alexander VII : selected poety : ly
+H4.106 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
+H4.107 811.3          9780486456768     Whitman, Walt, 1819-1892      2007 Leaves of grass
+H4.108 821.92         9781800171091     WILLIAMS, ROWAN               None COLLECTED POEMS
+H4.109 813            9780146001765     Xueqin, Cao                   1996 The Dream of the Red Chamber
+H4.110 819.13         9781923099005     Yasbincek, Morgan             2023 Coming to Nothing
+H4.111 819.13         9780980526943     Yasbincek, Morgan             None White Camel
 I3.01 823.92         9780008544508     Adegoke, Yomi                 None The List
 I3.02 823.7          9780141199078     Austen, Jane, 1775-1817       2012 Pride and prejudice
 I3.03 823.7          9780099589334     Austen, Jane, 1775-1817       2014 Pride and prejudice
@@ -1804,164 +1806,162 @@ I5.58 823.912        9780140119398     Forester, C. S                2005 The yo
 I5.59 823.912        9780140119404     Forester, C. S. (Cecil Sco    1990 Admiral Hornblower
 I5.60 823.912        9780140432589     Forster, E. M. (Edward Mor    1985 A passage to India
 I5.61 813.6                            Fowler, Therese               2011 Souvenir by Therese Fowler
-I5.62 821.92         9780645920970     Fyfe, Alan                    None G-d, Sleep, and Chaos
-I5.63 839.82374      9781474605823     Gaarder, Jostein              2019 An Unreliable Man
-I5.64 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
-I5.65 839.82374      9780374253844     Gaarder, Jostein, 1952-       1998 That same flower : Floria Aemilia's letter to Saint Augustin
-I5.66 823.914        9781473227835     Gaiman, Neil                  2019 Good omens : the nice and accurate prophecies of Agnes Nutte
-I5.67 823.914        9788172236137     Ghosh, Amitav                 2008 The hungry tide
-I5.68 823.92         9781399807548     Gilbert, Claire               2024 I, Julian: The fictional autobiography of Julian of Norwich
-I5.69 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
-I5.70 823.01089162   9781800249691     Gleeson, Sinéad               None The art of the glimpse : 100 Irish short stories
-I5.71 823.6          9780140431599     Goldsmith, Oliver, 1730?-1    1982 The vicar of Wakefield : a tale supposed to be written by hi
-I5.72 823.8          9780007902279     Grahame, Kenneth              2011 Wind in the Willows (Collins Classics)
-I5.73 823.912        9780679724773     Graves, Robert                1989 I, Claudius From the Autobiography of Tiberius Claudius Born
-I5.74 813            9780141346090     Green, John, 1977-            2012 An abundance of Katherines
-I5.75 813.54         9780007523160     Green, John, 1977-            2013 Looking for Alaska
-I5.76 813.6          9780732289003     Green, John, 1977-            2009 Paper towns
-I5.77 813.6          9780143567592     Green, John, 1977-            2012 The fault in our stars
-I5.78 813.6          9780525555377     Green, John, 1977-            2019 Turtles all the way down
-I5.79 823.912        9780099478478     Greene, Graham, 1904-1991     2004 Brighton rock
-I5.80 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
-I5.81 812.6          9780571211012     Guirgis, Stephen Adly         2005 The last days of Judas Iscariot
-I5.82 823.91         9780141185897     Hamilton, Patrick, 1904 Ma    2001 Hangover Square : a story of darkest Earl's Court
-I5.83 823.914        9781405088817     Hamilton, Peter F.            2007 The dreaming void
-I5.84 895.73         9780241997062     Han, Kang                     2024 Greek Lessons: Winner of the 2024 Nobel Prize in Literature
-I5.85 895.735        9781846276033     Han, Kang                     2015 The Vegetarian: Winner of the 2024 Nobel Prize in Literature
-I5.86 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
-I5.87 823.8          9780333168776     Hardy, Thomas                 1974 Under the greenwood tree : a rural painting of the Dutch sch
-I5.88 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
-I5.89 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
-I5.90 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
-I5.91 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
-I5.92 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
-I5.93 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
-I5.94 813.54         9780241485729     Hoban, Russell                2021 The Medusa frequency
-I5.95 813.6          9781408728611     Hoffman, KT                   2024 The Prospects: The gorgeous, queer enemies-to-lovers romance
-I5.96 823.914        9780141037356     Hornby, Nick                  2008 High fidelity
-I5.97 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
-I5.98 823            9780140700862     Ireland, David, 1927-         1980 The flesheaters
-I5.99 895.63         9781529936711     Ishida, Syou                  2024 We'll Prescribe You a Cat
-I5.100 891.730876     9780020226505     Jacobson, H. S.               1981 New Soviet science fiction
-I5.101 823.914        9780571342211     James, P. D.                  2018 The children of men
-I5.102 833.912        9780140015720     Kafka, Franz                  1988 Metamorphosis (and Other Stories Modern Classics)
-I5.103 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
-I5.104 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
-I5.105 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
-I5.106 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
-I5.107 895.636        9781529029581     Kawaguchi, Toshikazu, 1971    2019 Before the coffee gets cold : a novel
-I5.108 895.636        9781529050868     Kawaguchi, Toshikazu, 1971    2020 Before the coffee gets cold : tales from the cafe
-I5.109 890.00         9781803512983     Kawakami, Hiromi              2025 Under the Eye of the Big Bird: Shortlisted for the Internati
-I5.110 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
-I5.111 895.636        9781846275104     Kawakami, Hiromi, 1958-       2014 Strange weather in Tokyo : a novel
-I5.112 895.636        9781529054224     Kawakami, Mieko, 1976-        2020 Breasts and eggs
-I5.113 823.914        9781864710014     Keneally, Thomas              2002 An Angel in Australia
-I5.114 813.54         9780141184883     Kerouac, Jack 1922-1969       2000 The Dharma bums
-I5.115 813.6          9781517917234     Kerr, Conor                   2024 Prairie Edge
-I5.116 813.54         9780141187884     Kesey, Ken                    2005 One flew over the cuckoo's nest : a novel
-I5.117 813.6          9781474605731     KEYES, DANIEL                 2017 Flowers for Algernon
-I5.118 892.736        9781801107266     Khartash, Fayṣal              2022 Roundabout of death
-I5.119 813            9780571376476     Kingsolver, Barbara           2022 DEMON COPPERHEAD
-I5.120 823.8          9780199538614     Kipling, Rudyard, 1865-193    2009 Plain tales from the hills
-I5.121 823.914        9780571209293     Kureishi, Hanif, 1954-        2002 Gabriel's gift : a novel
-I5.122 823.92         9781913547271     Lambert, Charles, 1953-       2022 BONE FLOWER
-I5.123 823.912        9780141037424     Lawrence, D. H. (David Her    2008 John Thomas and Lady Jane
-I5.124 823.912        9780099540755     Lawrence, D. H. (David Her    2011 Sons and lovers
-I5.125 823.912        9780679734932     Lawrence, D. H. (David Her    1992 The plumed serpent : [Quetzalcoatl]
-I5.126 823.912        9780099512080     Lawrence, D. H. (David Her    2008 Women in love
-I5.127 820.8          9780702268366     Leane, Jeanine                2025 Shapeshifting: First Nations Lyric Nonfiction
-I5.128 813.54         9780434020485     Lee, Harper, 1926-            2010 To kill a mockingbird
-I5.129 813.54         9781982171902     Lee, Helen Elaine             2024 Pomegranate: A Novel
-I5.130 823.914        9781857988901     Levy, Roger, 1955-            2001 Reckless sleep
-I5.131 823.912        9780007528417     Lewis, C. S. (Clive Staple    2013 Space trilogy
-I5.132 809.02         9781107604704     Lewis, C. S. (Clive Staple    2012 The discarded image; : an introduction to medieval and Renai
-I5.133 823.91         9780486452814     Lindsay, Norman, 1879-1969    2006 The magic pudding
-I5.134 823.914        9780563207733     Lynn, Jonathan                1989 The Complete Yes Prime Minister : the diaries of the right H
-I5.135 813.54         9780099283928     MacLeod, Alistair             2006 No great mischief
-I5.136 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
-I5.137 823.914        9780007230204     Mantel, Hilary                2010 Wolf Hall : a novel
-I5.138 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
-I5.139 895.636        9781782275909     Matayoshi, Naoki, 1980-       2020 Spark
-I5.140 813            9780241694701     Matsumoto, Seichō             2024 Inspector Imanishi Investigates: From the bestselling author
-I5.141 823.914        9780721412634     McEwan, Ian                   2007 Atonement
-I5.142 823.4          9780992378301     McPhee, Anscar                None Señor Pilich the Monastery Cat and the Sinister Mr Dreggs
-I5.143 823.4          9780975198063     McPhee, Anscar                None Señor Pilich the Monastery Cat in Wartime Kalumburu
-I5.144 812.52         9780141182551     Miller, Arthur                2000 The Crucible: A Play in Four Acts (Penguin Modern Classics)
-I5.145 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
-I5.146 823.912        9781933184500     Nichols, Aidan                2009 G.K. Chesterton, theologian
-I5.147 823.92         9781761471315     Norrington, Leonie            2025 A piece of red cloth : a novel from Arnhem Land
-I5.148 813.54         9780544309760     O'Brien, Tim                  2009 The Things They Carried
-I5.149 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
-I5.150 823.912        9780141187914     O'Connor, Frank, 1903-1966    2005 An only child ; : and, My father's son : an autobiography
-I5.151 819.13         9781760802981     Ortiz, Kaya                   2025 Past and Parallel Lives
-I5.152 824.912        9780141036618     Orwell, George                2008 Books v. Cigarettes: George Orwell
-I5.153 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
-I5.154 823.92         9780645525472     Park, Tania                   2024 A Tangle of Yarns: An anthology of short stories
-I5.155 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
-I5.156 813.54         9781785033780     Piercy, Marge                 2016 Woman on the edge of time
-I5.157 823.914        9780310269120     Plass, Adrian                 2005 The sacred diary of Adrian Plass aged 37 3/4
-I5.158 813.3          9780141195049     Poe, Edgar Allan              None Pit and the Pendulum
-I5.159 863.64         9780008663308     Portero, Alana S.             2024 Bad Habit
-I5.160 813.54         9780141190563     Potok, Chaim                  2009 My name is Asher Lev
-I5.161 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
-I5.162 813.54         9781400095414     Potok, Chaim                  2011 The promise
-I5.163 823            9780330235006     Power, Richard, 1928-1970     1973 The hungry grass
-I5.164 823.92         9781922930255     Price, Ernest                 None The Pyramid of Needs
-I5.165 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
-I5.166 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
-I5.167 823.92         9781529154191     Reilly, Rebecca K             2024 Greta and Valdin: Shortlisted for The Waterstones Debut Fict
-I5.168 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
-I5.169 813.54         9780224078696     Roth, Philip                  2006 Everyman
-I5.170 813.54         9780099422693     Roth, Philip                  2004 The Dying Animal [Lingua inglese]: Philip Roth
-I5.171 813.6          9780008192204     Roth, Veronica                2018 The fates divide
-I5.172 813.6          9780575081437     Rothfuss, Patrick, 1973-      2015 The wise man's fear
-I5.173 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
-I5.174 823.91                           Russell, Bertrand             1953 Satan in the Suburbs and Other Stories
-I5.175 823            9781922711038     Sakr, Omar                    2021 Son of Sin
-I5.176 813.54         9780140237498     Salinger, J. D. (Jerome Da    1994 The catcher in the rye
-I5.177 843.914        9780141185491     Sartre, Jean-Paul; Transla    2000 Nausea
-I5.178 813.6          9781914198861     Sax, Sam                      2024 Yr Dead
-I5.179 813            9781472146885     Scanlan, Padraic X.           2024 The Irish Question: Famine, Work and Freedom in the Nineteen
-I5.180 823.7          9781343336766     Scott, Walter                 2015 The Heart Of Mid-lothian
-I5.181 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
-I5.182 813.54                           Selby, Hubert, Jr.            2001 Last Exit To Brooklyn
-I5.183 813.54         9780141195667     Selby, Hubert, Jr., 1928-2    2012 Requiem for a dream : a novel
-I5.184 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
-I5.185 823.7          9780938819806     Shelley, Mary Wollstonecra    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
-I5.186 823.912        9780099530268     Shute, Nevil, 1899-1960       2009 A town like Alice
-I5.187 823.912        9780008669461     Sibley, Brian                 2024 The Maps of Middle-earth: From Númenor and Beleriand to Wild
-I5.188 811.6          9781784745738     Smith, Danez                  2024 Bluff: A powerful new collection reckoning with America, pro
-I5.189 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
-I5.190 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-I5.191 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-I5.192 813.52         9780141185071     Steinbeck, Mr John            2000 East of Eden
-I5.193 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
-I5.194 895.635        9781788739887     Suzuki, Izumi, 1949-1986      2021 Terminal boredom : stories
-I5.195 809.1033       9780674296084     Taylor, Charles               2024 Cosmic Connections: Poetry in the Age of Disenchantment
-I5.196 813.54         9781250769848     Tolmie, Sarah                 2020 The fourth island
-I5.197 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
-I5.198 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
-I5.199 853.914        9780099512158     Tomasi di Lampedusa, Giuse    2007 The Leopard: Discover the breath-taking historical classic
-I5.200 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damascus
-I5.201 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
-I5.202 823.92         9781761426698     Walton, Tasma                 2025 I Am Nannertgarrook
-I5.203 843.914        9780860682295     Ward Jouve, Nicole            1981 Shades of grey
-I5.204 823.912        9780141037233     Waugh, Evelyn, 1903-1966      2008 A handful of dust
-I5.205 823.912        9780141045627     Waugh, Evelyn, 1903-1966      2012 Brideshead revisited : the sacred and profane memories of Ca
-I5.206 823.912        9780141184029     Waugh, Evelyn, 1903-1966      2000 Scoop
-I5.207 823.9          9781742756882     White, Patrick, 1912-1990     None Voss : a novel
-I5.208 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
-I5.209 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
-I5.210 823.8          9780007351053     Wilde, Oscar, 1854-1900       2010 The picture of Dorian Gray
-I5.211 823.92         9781922400277     Williams, Pip, 1969-          2021 The dictionary of lost words : a novel
-I5.212 813.54         9780812566628     Wilson, Robert Charles, 19    1999 Darwinia
-I5.213 823.912        9781841591056     Wodehouse, P. G.              2000 Stiff Upper Lip, Jeeves (Everyman's Library P G WODEHOUSE)
-I5.214 823.912        9780393345995     Wodehouse, P. G.              2013 Thank You, Jeeves (Bertie Wooster & Jeeves)
-I5.215 823.912        9781784878085     Woolf, Virginia               None Mrs Dalloway
-I5.216 823.912        9781853260919     Woolf, Virginia               1999 To the lighthouse
-I5.217 823.912        9780586044438     Woolf, Virginia, 1882-1941    1978 Between the acts
-I5.218 823.0876       9781905834846     Wright, T M                   2006 I Am The Bird
-I5.219 823.3          9780552773898     Zusak, Markus                 2007 Tou shu zei = : The book thief
+I5.62 839.82374      9781474605823     Gaarder, Jostein              2019 An Unreliable Man
+I5.63 839.82374      9781857992915     Gaarder, Jostein, 1952-       1996 Sophie's world : a novel about the history of philosophy
+I5.64 839.82374      9780374253844     Gaarder, Jostein, 1952-       1998 That same flower : Floria Aemilia's letter to Saint Augustin
+I5.65 823.914        9781473227835     Gaiman, Neil                  2019 Good omens : the nice and accurate prophecies of Agnes Nutte
+I5.66 823.914        9788172236137     Ghosh, Amitav                 2008 The hungry tide
+I5.67 823.92         9781399807548     Gilbert, Claire               2024 I, Julian: The fictional autobiography of Julian of Norwich
+I5.68 813.4          9780199538843     Gilman, Charlotte Perkins     2009 The yellow wall-paper, and other stories
+I5.69 823.01089162   9781800249691     Gleeson, Sinéad               None The art of the glimpse : 100 Irish short stories
+I5.70 823.6          9780140431599     Goldsmith, Oliver, 1730?-1    1982 The vicar of Wakefield : a tale supposed to be written by hi
+I5.71 823.8          9780007902279     Grahame, Kenneth              2011 Wind in the Willows (Collins Classics)
+I5.72 823.912        9780679724773     Graves, Robert                1989 I, Claudius From the Autobiography of Tiberius Claudius Born
+I5.73 813            9780141346090     Green, John, 1977-            2012 An abundance of Katherines
+I5.74 813.54         9780007523160     Green, John, 1977-            2013 Looking for Alaska
+I5.75 813.6          9780732289003     Green, John, 1977-            2009 Paper towns
+I5.76 813.6          9780143567592     Green, John, 1977-            2012 The fault in our stars
+I5.77 813.6          9780525555377     Green, John, 1977-            2019 Turtles all the way down
+I5.78 823.912        9780099478478     Greene, Graham, 1904-1991     2004 Brighton rock
+I5.79 823.92         9781925589252     Grundy, Alice                 None Stories of Perth
+I5.80 812.6          9780571211012     Guirgis, Stephen Adly         2005 The last days of Judas Iscariot
+I5.81 823.91         9780141185897     Hamilton, Patrick, 1904 Ma    2001 Hangover Square : a story of darkest Earl's Court
+I5.82 823.914        9781405088817     Hamilton, Peter F.            2007 The dreaming void
+I5.83 895.73         9780241997062     Han, Kang                     2024 Greek Lessons: Winner of the 2024 Nobel Prize in Literature
+I5.84 895.735        9781846276033     Han, Kang                     2015 The Vegetarian: Winner of the 2024 Nobel Prize in Literature
+I5.85 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
+I5.86 823.8          9780333168776     Hardy, Thomas                 1974 Under the greenwood tree : a rural painting of the Dutch sch
+I5.87 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
+I5.88 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
+I5.89 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
+I5.90 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
+I5.91 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
+I5.92 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
+I5.93 813.54         9780241485729     Hoban, Russell                2021 The Medusa frequency
+I5.94 813.6          9781408728611     Hoffman, KT                   2024 The Prospects: The gorgeous, queer enemies-to-lovers romance
+I5.95 823.914        9780141037356     Hornby, Nick                  2008 High fidelity
+I5.96 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
+I5.97 823            9780140700862     Ireland, David, 1927-         1980 The flesheaters
+I5.98 895.63         9781529936711     Ishida, Syou                  2024 We'll Prescribe You a Cat
+I5.99 891.730876     9780020226505     Jacobson, H. S.               1981 New Soviet science fiction
+I5.100 823.914        9780571342211     James, P. D.                  2018 The children of men
+I5.101 833.912        9780140015720     Kafka, Franz                  1988 Metamorphosis (and Other Stories Modern Classics)
+I5.102 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
+I5.103 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
+I5.104 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
+I5.105 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
+I5.106 895.636        9781529029581     Kawaguchi, Toshikazu, 1971    2019 Before the coffee gets cold : a novel
+I5.107 895.636        9781529050868     Kawaguchi, Toshikazu, 1971    2020 Before the coffee gets cold : tales from the cafe
+I5.108 890.00         9781803512983     Kawakami, Hiromi              2025 Under the Eye of the Big Bird: Shortlisted for the Internati
+I5.109 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
+I5.110 895.636        9781846275104     Kawakami, Hiromi, 1958-       2014 Strange weather in Tokyo : a novel
+I5.111 895.636        9781529054224     Kawakami, Mieko, 1976-        2020 Breasts and eggs
+I5.112 823.914        9781864710014     Keneally, Thomas              2002 An Angel in Australia
+I5.113 813.54         9780141184883     Kerouac, Jack 1922-1969       2000 The Dharma bums
+I5.114 813.6          9781517917234     Kerr, Conor                   2024 Prairie Edge
+I5.115 813.54         9780141187884     Kesey, Ken                    2005 One flew over the cuckoo's nest : a novel
+I5.116 813.6          9781474605731     KEYES, DANIEL                 2017 Flowers for Algernon
+I5.117 892.736        9781801107266     Khartash, Fayṣal              2022 Roundabout of death
+I5.118 813            9780571376476     Kingsolver, Barbara           2022 DEMON COPPERHEAD
+I5.119 823.8          9780199538614     Kipling, Rudyard, 1865-193    2009 Plain tales from the hills
+I5.120 823.914        9780571209293     Kureishi, Hanif, 1954-        2002 Gabriel's gift : a novel
+I5.121 823.92         9781913547271     Lambert, Charles, 1953-       2022 BONE FLOWER
+I5.122 823.912        9780141037424     Lawrence, D. H. (David Her    2008 John Thomas and Lady Jane
+I5.123 823.912        9780099540755     Lawrence, D. H. (David Her    2011 Sons and lovers
+I5.124 823.912        9780679734932     Lawrence, D. H. (David Her    1992 The plumed serpent : [Quetzalcoatl]
+I5.125 823.912        9780099512080     Lawrence, D. H. (David Her    2008 Women in love
+I5.126 820.8          9780702268366     Leane, Jeanine                2025 Shapeshifting: First Nations Lyric Nonfiction
+I5.127 813.54         9780434020485     Lee, Harper, 1926-            2010 To kill a mockingbird
+I5.128 813.54         9781982171902     Lee, Helen Elaine             2024 Pomegranate: A Novel
+I5.129 823.914        9781857988901     Levy, Roger, 1955-            2001 Reckless sleep
+I5.130 823.912        9780007528417     Lewis, C. S. (Clive Staple    2013 Space trilogy
+I5.131 809.02         9781107604704     Lewis, C. S. (Clive Staple    2012 The discarded image; : an introduction to medieval and Renai
+I5.132 823.91         9780486452814     Lindsay, Norman, 1879-1969    2006 The magic pudding
+I5.133 823.914        9780563207733     Lynn, Jonathan                1989 The Complete Yes Prime Minister : the diaries of the right H
+I5.134 813.54         9780099283928     MacLeod, Alistair             2006 No great mischief
+I5.135 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
+I5.136 823.914        9780007230204     Mantel, Hilary                2010 Wolf Hall : a novel
+I5.137 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
+I5.138 895.636        9781782275909     Matayoshi, Naoki, 1980-       2020 Spark
+I5.139 813            9780241694701     Matsumoto, Seichō             2024 Inspector Imanishi Investigates: From the bestselling author
+I5.140 823.914        9780721412634     McEwan, Ian                   2007 Atonement
+I5.141 823.4          9780992378301     McPhee, Anscar                None Señor Pilich the Monastery Cat and the Sinister Mr Dreggs
+I5.142 823.4          9780975198063     McPhee, Anscar                None Señor Pilich the Monastery Cat in Wartime Kalumburu
+I5.143 812.52         9780141182551     Miller, Arthur                2000 The Crucible: A Play in Four Acts (Penguin Modern Classics)
+I5.144 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
+I5.145 823.912        9781933184500     Nichols, Aidan                2009 G.K. Chesterton, theologian
+I5.146 823.92         9781761471315     Norrington, Leonie            2025 A piece of red cloth : a novel from Arnhem Land
+I5.147 813.54         9780544309760     O'Brien, Tim                  2009 The Things They Carried
+I5.148 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
+I5.149 823.912        9780141187914     O'Connor, Frank, 1903-1966    2005 An only child ; : and, My father's son : an autobiography
+I5.150 824.912        9780141036618     Orwell, George                2008 Books v. Cigarettes: George Orwell
+I5.151 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
+I5.152 823.92         9780645525472     Park, Tania                   2024 A Tangle of Yarns: An anthology of short stories
+I5.153 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
+I5.154 813.54         9781785033780     Piercy, Marge                 2016 Woman on the edge of time
+I5.155 823.914        9780310269120     Plass, Adrian                 2005 The sacred diary of Adrian Plass aged 37 3/4
+I5.156 813.3          9780141195049     Poe, Edgar Allan              None Pit and the Pendulum
+I5.157 863.64         9780008663308     Portero, Alana S.             2024 Bad Habit
+I5.158 813.54         9780141190563     Potok, Chaim                  2009 My name is Asher Lev
+I5.159 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
+I5.160 813.54         9781400095414     Potok, Chaim                  2011 The promise
+I5.161 823            9780330235006     Power, Richard, 1928-1970     1973 The hungry grass
+I5.162 823.92         9781922930255     Price, Ernest                 None The Pyramid of Needs
+I5.163 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
+I5.164 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
+I5.165 823.92         9781529154191     Reilly, Rebecca K             2024 Greta and Valdin: Shortlisted for The Waterstones Debut Fict
+I5.166 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
+I5.167 813.54         9780224078696     Roth, Philip                  2006 Everyman
+I5.168 813.54         9780099422693     Roth, Philip                  2004 The Dying Animal [Lingua inglese]: Philip Roth
+I5.169 813.6          9780008192204     Roth, Veronica                2018 The fates divide
+I5.170 813.6          9780575081437     Rothfuss, Patrick, 1973-      2015 The wise man's fear
+I5.171 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
+I5.172 823.91                           Russell, Bertrand             1953 Satan in the Suburbs and Other Stories
+I5.173 823            9781922711038     Sakr, Omar                    2021 Son of Sin
+I5.174 813.54         9780140237498     Salinger, J. D. (Jerome Da    1994 The catcher in the rye
+I5.175 843.914        9780141185491     Sartre, Jean-Paul; Transla    2000 Nausea
+I5.176 813.6          9781914198861     Sax, Sam                      2024 Yr Dead
+I5.177 813            9781472146885     Scanlan, Padraic X.           2024 The Irish Question: Famine, Work and Freedom in the Nineteen
+I5.178 823.7          9781343336766     Scott, Walter                 2015 The Heart Of Mid-lothian
+I5.179 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
+I5.180 813.54                           Selby, Hubert, Jr.            2001 Last Exit To Brooklyn
+I5.181 813.54         9780141195667     Selby, Hubert, Jr., 1928-2    2012 Requiem for a dream : a novel
+I5.182 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
+I5.183 823.7          9780938819806     Shelley, Mary Wollstonecra    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
+I5.184 823.912        9780099530268     Shute, Nevil, 1899-1960       2009 A town like Alice
+I5.185 823.912        9780008669461     Sibley, Brian                 2024 The Maps of Middle-earth: From Númenor and Beleriand to Wild
+I5.186 811.6          9781784745738     Smith, Danez                  2024 Bluff: A powerful new collection reckoning with America, pro
+I5.187 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
+I5.188 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+I5.189 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+I5.190 813.52         9780141185071     Steinbeck, Mr John            2000 East of Eden
+I5.191 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
+I5.192 895.635        9781788739887     Suzuki, Izumi, 1949-1986      2021 Terminal boredom : stories
+I5.193 809.1033       9780674296084     Taylor, Charles               2024 Cosmic Connections: Poetry in the Age of Disenchantment
+I5.194 813.54         9781250769848     Tolmie, Sarah                 2020 The fourth island
+I5.195 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
+I5.196 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
+I5.197 853.914        9780099512158     Tomasi di Lampedusa, Giuse    2007 The Leopard: Discover the breath-taking historical classic
+I5.198 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damascus
+I5.199 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
+I5.200 823.92         9781761426698     Walton, Tasma                 2025 I Am Nannertgarrook
+I5.201 843.914        9780860682295     Ward Jouve, Nicole            1981 Shades of grey
+I5.202 823.912        9780141037233     Waugh, Evelyn, 1903-1966      2008 A handful of dust
+I5.203 823.912        9780141045627     Waugh, Evelyn, 1903-1966      2012 Brideshead revisited : the sacred and profane memories of Ca
+I5.204 823.912        9780141184029     Waugh, Evelyn, 1903-1966      2000 Scoop
+I5.205 823.9          9781742756882     White, Patrick, 1912-1990     None Voss : a novel
+I5.206 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
+I5.207 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
+I5.208 823.8          9780007351053     Wilde, Oscar, 1854-1900       2010 The picture of Dorian Gray
+I5.209 823.92         9781922400277     Williams, Pip, 1969-          2021 The dictionary of lost words : a novel
+I5.210 813.54         9780812566628     Wilson, Robert Charles, 19    1999 Darwinia
+I5.211 823.912        9781841591056     Wodehouse, P. G.              2000 Stiff Upper Lip, Jeeves (Everyman's Library P G WODEHOUSE)
+I5.212 823.912        9780393345995     Wodehouse, P. G.              2013 Thank You, Jeeves (Bertie Wooster & Jeeves)
+I5.213 823.912        9781784878085     Woolf, Virginia               None Mrs Dalloway
+I5.214 823.912        9781853260919     Woolf, Virginia               1999 To the lighthouse
+I5.215 823.912        9780586044438     Woolf, Virginia, 1882-1941    1978 Between the acts
+I5.216 823.0876       9781905834846     Wright, T M                   2006 I Am The Bird
+I5.217 823.3          9780552773898     Zusak, Markus                 2007 Tou shu zei = : The book thief
 L2.01 823            9780733640865     Coleman, Claire G.            None Enclave
 L2.02 823.9          9781760802295     Janson, Julie                 None Madukka the River Serpent
 L2.03 811.54         9780645428230     Whittaker, Alison             None NANGAMAY dream MANA gather DJURALI grow
