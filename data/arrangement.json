@@ -20,7 +20,8 @@
             "sort": "author",
             "code": "POET",
             "matches": [
-                {"@isbnfile": "data/poetry-and-epic-myth.txt"}
+                {"@isbnfile": "data/poetry-and-epic-myth.txt"},
+                {"title": "Murder in the Cathedral"}
             ],
             "shelves": [
                 { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } },

@@ -34279,5 +34279,18 @@
             "scott, kim",
             "ngaawily nop (5) (wirlomin noongar language and stories project)"
         ]
+    },
+    "289953531": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "883.01",
+            "homer",
+            "the iliad"
+        ],
+        "author": [
+            "homer",
+            "the iliad"
+        ]
     }
 }
