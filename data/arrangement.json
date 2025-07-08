@@ -70,7 +70,8 @@
             "sort": "author",
             "code": "LIT",
             "matches": [
-                {"@isbnfile": "data/liturgy.txt"}
+                {"@isbnfile": "data/liturgy.txt"},
+                {"title": "A Book of Occasional Services"}
             ],
             "shelves": [
                 { "bookshelf": "LIT-", "shelf": 1, "first_book": { "isbn": "" } },

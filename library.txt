@@ -1046,46 +1046,44 @@ E2.11 264.02         9780898705263     Elliott, Peter J              1995 Ceremo
 E2.12 264.02         9780814660546     Kavanagh, Aidan               1990 Elements of rite : a handbook of liturgical style
 E2.13 265.62         9780819220882     Gatta, Julia                  2012 Go in Peace: The Art of Hearing Confessions
 E2.14 264.03         9780919891272                                   1983 Book of Alternative Services of the Anglican Church of Canad
-E2.15 264.03                           Anglican Church of Austral    1944 A Book of Occasional Services
-E2.16 264.03         9780281000043     Appleton, George              1963 Acts of Devotion
-E2.17 264.03         9780199645206     Church of England             2013 The book of common prayer : the texts of 1549, 1559, and 166
-E2.18 264.03         9781853119118     Compilers                     2008 The Book of Common Prayer as Proposed in 1928: Including the
-E2.19 264.03         9781110658169     Cracis, Aleuin Club           2009 A Directory of Ceremonial
-E2.20 264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
-E2.21 264.03         9780198803928     Cummings, Brian               2018 The Book of common prayer : a very short introduction
-E2.22 264.03                           Dearmer, Percy                2012 The Parson's Handbook, Containing Practical Directions Both 
-E2.23 264.03         9780898690811     Episcopal Church              2001 The book of common prayer and administration of the sacramen
-E2.24 264.03         9781440429958     Graham, Lawrence L.           2008 Peculiar Clothing: Episcopal Church Vestments: History, Illu
-E2.25 264.03         9780281007264     Lowther Clarke, W. K.         1932 Liturgy and Worship: A Companion to the Prayer Books of the 
-E2.26 264.03         9780819223241     Markham, Ian S.               2009 Liturgical life principles : how Episcopal worship can lead 
-E2.27 264.03         9780281044986     Perham, Michael               1991 Welcoming the Light of Christ: Commentary on "Promise of His
-E2.28 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
-E2.29 264.03         9780648265962     Sherlock, Charles             2020 Australian Anglicans Worship: peforming APBA
-E2.30 264.0300994    9780855741358     Anglican Church of Austral    1997 A prayer book for Australia : a practical commentary
-E2.31 264.0300994    9780908284504     Sherlock, Charles             2001 A pastoral handbook for Anglicans : guidelines for pastoral 
-E2.32 264.03034      9781640651623     Gafney, Wilda, 1966-          2021 A women's lectionary for the whole church
-E2.33 264.031        9780975086650     Sherlock, Charles             2015 Australian Anglicans Remember
-E2.34 264.036                          Dobson, H. W.                 1961 The Christian Year: The Prayer Book Collects, With Epistles 
-E2.35 264.039                          Vroom, F. W.                  1940 An Introduction to the Prayer Book
-E2.36 264.04135      9780806656182     America, Evangelical Luthe    2006 Evangelical Lutheran Worship: Pew Edition
-E2.37 264.1          9780571191659     Khariton, Hegumen, 1872-19    1997 The art of prayer : an Orthodox anthology
-E2.38 264.1                            Milner-White, E.              1962 After The Third Collect : Prayers and Thanksgivings for use 
-E2.39 264.13                           Barclay                       None Prayers for the Christian Year by Barclay, William [SCM Pres
-E2.40 264.3          9780717109173     Every, George                 1978 The Mass
-E2.41 264.36         9780281055883     Gordon-Taylor, Benjamin       2005 Celebrating the Eucharist - Alcuin Liturgy Guides
-E2.42 264.36         9780664245160     Heron, Alasdair I. C.         1983 Table and tradition
-E2.43 264.36         9780340642009     Stone, David                  1996 The communion service
-E2.44 265            9780225664997     Walsh, Liam G.                1988 The sacraments of initiation : baptism, confirmation, Euchar
-E2.45 265.12         9780227678558     Marcel, Pierre                1981 The biblical doctrine of infant baptism : sacrament of the c
-E2.46 265.3          9780804237482     Cullmann, Oscar               1958 Essays on the Lord's Supper
-E2.47 265.3          9780567661579     Dix, Gregory                  2015 The shape of the liturgy
-E2.48 265.3          9780615900353     Vonier, Anscar, 1875-1938     2013 A key to the doctrine of the Eucharist
-E2.49 265.6          9781625649256     Ross, Kenneth N.              2014 Hearing Confessions
-E2.50 265.85         9781853115141     Sheppy, Paul P. J.            2004 In sure and certain hope : liturgies, prayers, and readings 
-E2.51 265.9          9780281057245     Ward, Benedicta, 1933-2022    2005 In company with Christ : through Lent, Palm Sunday, Good Fri
-E2.52 266            9781514001547     Bevins, Winfield              2022 Liturgical Mission: The Work of the People for the Life of t
-E2.53 266            9780802808295     Newbigin, Lesslie             1995 The open secret : an introduction to the theology of mission
-E2.54 266.001        9780883447192     Bosch, David J., 1929-1992    1991 Transforming mission : paradigm shifts in theology of missio
+E2.15 264.03         9780281000043     Appleton, George              1963 Acts of Devotion
+E2.16 264.03         9780199645206     Church of England             2013 The book of common prayer : the texts of 1549, 1559, and 166
+E2.17 264.03         9781853119118     Compilers                     2008 The Book of Common Prayer as Proposed in 1928: Including the
+E2.18 264.03         9781110658169     Cracis, Aleuin Club           2009 A Directory of Ceremonial
+E2.19 264.03         9780333093887     Cuming, G. J.                 1969 A History of Anglican Liturgy
+E2.20 264.03         9780198803928     Cummings, Brian               2018 The Book of common prayer : a very short introduction
+E2.21 264.03                           Dearmer, Percy                2012 The Parson's Handbook, Containing Practical Directions Both 
+E2.22 264.03         9780898690811     Episcopal Church              2001 The book of common prayer and administration of the sacramen
+E2.23 264.03         9781440429958     Graham, Lawrence L.           2008 Peculiar Clothing: Episcopal Church Vestments: History, Illu
+E2.24 264.03         9780281007264     Lowther Clarke, W. K.         1932 Liturgy and Worship: A Companion to the Prayer Books of the 
+E2.25 264.03         9780819223241     Markham, Ian S.               2009 Liturgical life principles : how Episcopal worship can lead 
+E2.26 264.03         9780334046707     Platten, Stephen              2012 Comfortable words : polity and piety and the Book of common 
+E2.27 264.03         9780648265962     Sherlock, Charles             2020 Australian Anglicans Worship: peforming APBA
+E2.28 264.0300994    9780855741358     Anglican Church of Austral    1997 A prayer book for Australia : a practical commentary
+E2.29 264.0300994    9780908284504     Sherlock, Charles             2001 A pastoral handbook for Anglicans : guidelines for pastoral 
+E2.30 264.03034      9781640651623     Gafney, Wilda, 1966-          2021 A women's lectionary for the whole church
+E2.31 264.031        9780975086650     Sherlock, Charles             2015 Australian Anglicans Remember
+E2.32 264.036                          Dobson, H. W.                 1961 The Christian Year: The Prayer Book Collects, With Epistles 
+E2.33 264.039                          Vroom, F. W.                  1940 An Introduction to the Prayer Book
+E2.34 264.04135      9780806656182     America, Evangelical Luthe    2006 Evangelical Lutheran Worship: Pew Edition
+E2.35 264.1          9780571191659     Khariton, Hegumen, 1872-19    1997 The art of prayer : an Orthodox anthology
+E2.36 264.1                            Milner-White, E.              1962 After The Third Collect : Prayers and Thanksgivings for use 
+E2.37 264.13                           Barclay                       None Prayers for the Christian Year by Barclay, William [SCM Pres
+E2.38 264.3          9780717109173     Every, George                 1978 The Mass
+E2.39 264.36         9780281055883     Gordon-Taylor, Benjamin       2005 Celebrating the Eucharist - Alcuin Liturgy Guides
+E2.40 264.36         9780664245160     Heron, Alasdair I. C.         1983 Table and tradition
+E2.41 264.36         9780340642009     Stone, David                  1996 The communion service
+E2.42 265            9780225664997     Walsh, Liam G.                1988 The sacraments of initiation : baptism, confirmation, Euchar
+E2.43 265.12         9780227678558     Marcel, Pierre                1981 The biblical doctrine of infant baptism : sacrament of the c
+E2.44 265.3          9780804237482     Cullmann, Oscar               1958 Essays on the Lord's Supper
+E2.45 265.3          9780567661579     Dix, Gregory                  2015 The shape of the liturgy
+E2.46 265.3          9780615900353     Vonier, Anscar, 1875-1938     2013 A key to the doctrine of the Eucharist
+E2.47 265.6          9781625649256     Ross, Kenneth N.              2014 Hearing Confessions
+E2.48 265.85         9781853115141     Sheppy, Paul P. J.            2004 In sure and certain hope : liturgies, prayers, and readings 
+E2.49 265.9          9780281057245     Ward, Benedicta, 1933-2022    2005 In company with Christ : through Lent, Palm Sunday, Good Fri
+E2.50 266            9781514001547     Bevins, Winfield              2022 Liturgical Mission: The Work of the People for the Life of t
+E2.51 266            9780802808295     Newbigin, Lesslie             1995 The open secret : an introduction to the theology of mission
+E2.52 266.001        9780883447192     Bosch, David J., 1929-1992    1991 Transforming mission : paradigm shifts in theology of missio
 E3.01 266.001        9780883443446     Galilea, Segundo              1984 The Beatitudes : to evangelize as Jesus did
 E3.02 266.009        9780140137637     Neill, Stephen, 1900-1984     1991 A history of Christian missions
 E3.03 266.00994      9781743058657     Lydon, Jane, 1965-            2022 Remembering Bishop Hale
@@ -2505,74 +2503,75 @@ LIT-1.03 325.21         9780980593730     Ahmed, Safdar                 2021 Sti
 LIT-1.04 226.1          9783438054050     Aland, Kurt                   1993 Synopsis of the four gospels
 LIT-1.05 220            9783438051172     Aland, Kurt                   2014 The Greek New Testament;
 LIT-1.06 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
-LIT-1.07 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
-LIT-1.08 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
-LIT-1.09 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
-LIT-1.10 221.5208       9780199978465     Berlin, Adele                 2014 The Jewish Study Bible
-LIT-1.11 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
-LIT-1.12 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
-LIT-1.13 264.023        9780005997185     Catholic Church               1984 Sunday Missals Australian Edition
-LIT-1.14 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
-LIT-1.15 264.03         9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
-LIT-1.16 264.03         9780909827793     Church of England in Austr    1978 An Australian prayer book : for use together with the Book o
-LIT-1.17 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
-LIT-1.18 264.023        9781921472954     Church, Catholic              2012 St. Pauls weekday missal
-LIT-1.19 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
-LIT-1.20 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
-LIT-1.21 220.5205       9780529064844     Confraternity of Christian    1990 The New American Bible : translated from the original langua
-LIT-1.22 220.5203       9781435125391     Doré, Gustave, 1832-1883      2012 The Holy Bible : King James version
-LIT-1.23 487.4          9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
-LIT-1.24 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
-LIT-1.25 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
-LIT-1.26 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
-LIT-1.27 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
-LIT-1.28 741.5          9781401227999     Gaiman, Neil                  2010 The Sandman
-LIT-1.29 741.5          9780857680389     Gaiman, Neil                  2010 The Sandman
-LIT-1.30 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
-LIT-1.31 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
-LIT-1.32 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
-LIT-1.33 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
-LIT-1.34 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
-LIT-1.35 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes & nocturnes
-LIT-1.36 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
-LIT-1.37 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
-LIT-1.38 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
-LIT-1.39 741.5944       9781444004908     Goscinny, 1926-1977           2013 Asterix omnibus : 5,. Asterix and the cauldron, Asterix in S
-LIT-1.40 741.5944       9781444004243     Goscinny, 1926-1977           2011 Asterix omnibus : Asterix the Gladiator, Asterix and the Ban
-LIT-1.41 741.5944       9781444004878     Goscinny, 1926-1977           2012 Asterix omnibus : Asterix the legionary, Asterix and the Chi
-LIT-1.42 741.5944       9781444004236     Goscinny, 1926-1977           2011 Asterix Omnibus. Asterix the Gaul, Asterix and the golden si
-LIT-1.43 741.5944       9781444004755     Goscinny, René                None Asterix omnibus : Asterix and the big fight, Asterix in Brit
-LIT-1.44 225.5209       9780300186093     Hart, David Bentley           2017 The New Testament : a translation
-LIT-1.45 221.4403       9780802834133     Holladay, William Lee         1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
-LIT-1.46 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
-LIT-1.47 264.024        9780814637029     Johnson, Maxwell E., 1952-    2015 Benedictine daily prayer : a short breviary
-LIT-1.48 492.4          9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
-LIT-1.49 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
-LIT-1.50 229            9780190262488     Klawans, Jonathan             2020 The Jewish Annotated Apocrypha
-LIT-1.51 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
-LIT-1.52 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
-LIT-1.53 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
-LIT-1.54 248            9780899425658     Liturgy, International Com    1990 Shorter Book of Blessings
-LIT-1.55 299.16         9781899434060     Matthews, Caitlin             1996 Celtic Devotional: Daily Prayers and Blessings
-LIT-1.56 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
-LIT-1.57 220.520434     9780060786847     Meeks, Wayne A. [Editor]      2006 The HarperCollins study Bible : New Revised Standard Version
-LIT-1.58 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
-LIT-1.59 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
-LIT-1.60 268.4          9780857463050     Moore, Lucy, 1966-            2015 Messy family fun : a holiday club for all the family
-LIT-1.61 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
-LIT-1.62 248            9781701792012     Neale, John Mason             2019 The liturgies of SS. Mark, James, Clement, Chrysostom, Basil
-LIT-1.63 220.52043      9780190276096     Newsom, Carol A. (Carol An    2018 The new Oxford annotated Bible : New Revised Standard Versio
-LIT-1.64 741            9780756005184     North, Ryan                   2006 the best of Dinosaur Comics: 2003-2005 A.D.
-LIT-1.65 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
-LIT-1.66 259.8          9780551017795     Perry, Michael, 1933- [Edi    1997 The Dramatised Bible
-LIT-1.67 741.56973      9781472269058     Pyle, Nathan W.               2019 Strange planet
-LIT-1.68 297.122521     9789960792637     Saheeh International          1997 The Qurʼān : Arabic text with corresponding English meanings
-LIT-1.69 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
-LIT-1.70 242.8          9781856082815     Van de Weyer, Robert          1997 Celtic Prayers: A Book of Celtic Devotion, Daily Prayers and
-LIT-1.71 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
-LIT-1.72 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
-LIT-1.73 741.56973      9780740748479     Watterson, Bill               2005 Calvin and Hobbes
-LIT-1.74 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
+LIT-1.07 264.03                           Anglican Church of Austral    1944 A Book of Occasional Services
+LIT-1.08 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
+LIT-1.09 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
+LIT-1.10 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
+LIT-1.11 221.5208       9780199978465     Berlin, Adele                 2014 The Jewish Study Bible
+LIT-1.12 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
+LIT-1.13 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
+LIT-1.14 264.023        9780005997185     Catholic Church               1984 Sunday Missals Australian Edition
+LIT-1.15 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
+LIT-1.16 264.03         9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
+LIT-1.17 264.03         9780909827793     Church of England in Austr    1978 An Australian prayer book : for use together with the Book o
+LIT-1.18 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
+LIT-1.19 264.023        9781921472954     Church, Catholic              2012 St. Pauls weekday missal
+LIT-1.20 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
+LIT-1.21 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
+LIT-1.22 220.5205       9780529064844     Confraternity of Christian    1990 The New American Bible : translated from the original langua
+LIT-1.23 220.5203       9781435125391     Doré, Gustave, 1832-1883      2012 The Holy Bible : King James version
+LIT-1.24 487.4          9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
+LIT-1.25 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
+LIT-1.26 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
+LIT-1.27 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
+LIT-1.28 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
+LIT-1.29 741.5          9781401227999     Gaiman, Neil                  2010 The Sandman
+LIT-1.30 741.5          9780857680389     Gaiman, Neil                  2010 The Sandman
+LIT-1.31 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
+LIT-1.32 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
+LIT-1.33 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
+LIT-1.34 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
+LIT-1.35 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
+LIT-1.36 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes & nocturnes
+LIT-1.37 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
+LIT-1.38 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
+LIT-1.39 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
+LIT-1.40 741.5944       9781444004908     Goscinny, 1926-1977           2013 Asterix omnibus : 5,. Asterix and the cauldron, Asterix in S
+LIT-1.41 741.5944       9781444004243     Goscinny, 1926-1977           2011 Asterix omnibus : Asterix the Gladiator, Asterix and the Ban
+LIT-1.42 741.5944       9781444004878     Goscinny, 1926-1977           2012 Asterix omnibus : Asterix the legionary, Asterix and the Chi
+LIT-1.43 741.5944       9781444004236     Goscinny, 1926-1977           2011 Asterix Omnibus. Asterix the Gaul, Asterix and the golden si
+LIT-1.44 741.5944       9781444004755     Goscinny, René                None Asterix omnibus : Asterix and the big fight, Asterix in Brit
+LIT-1.45 225.5209       9780300186093     Hart, David Bentley           2017 The New Testament : a translation
+LIT-1.46 221.4403       9780802834133     Holladay, William Lee         1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
+LIT-1.47 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
+LIT-1.48 264.024        9780814637029     Johnson, Maxwell E., 1952-    2015 Benedictine daily prayer : a short breviary
+LIT-1.49 492.4          9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
+LIT-1.50 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
+LIT-1.51 229            9780190262488     Klawans, Jonathan             2020 The Jewish Annotated Apocrypha
+LIT-1.52 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
+LIT-1.53 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
+LIT-1.54 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
+LIT-1.55 248            9780899425658     Liturgy, International Com    1990 Shorter Book of Blessings
+LIT-1.56 299.16         9781899434060     Matthews, Caitlin             1996 Celtic Devotional: Daily Prayers and Blessings
+LIT-1.57 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
+LIT-1.58 220.520434     9780060786847     Meeks, Wayne A. [Editor]      2006 The HarperCollins study Bible : New Revised Standard Version
+LIT-1.59 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
+LIT-1.60 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
+LIT-1.61 268.4          9780857463050     Moore, Lucy, 1966-            2015 Messy family fun : a holiday club for all the family
+LIT-1.62 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
+LIT-1.63 248            9781701792012     Neale, John Mason             2019 The liturgies of SS. Mark, James, Clement, Chrysostom, Basil
+LIT-1.64 220.52043      9780190276096     Newsom, Carol A. (Carol An    2018 The new Oxford annotated Bible : New Revised Standard Versio
+LIT-1.65 741            9780756005184     North, Ryan                   2006 the best of Dinosaur Comics: 2003-2005 A.D.
+LIT-1.66 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
+LIT-1.67 259.8          9780551017795     Perry, Michael, 1933- [Edi    1997 The Dramatised Bible
+LIT-1.68 741.56973      9781472269058     Pyle, Nathan W.               2019 Strange planet
+LIT-1.69 297.122521     9789960792637     Saheeh International          1997 The Qurʼān : Arabic text with corresponding English meanings
+LIT-1.70 741.5973       9780030131615     Schulz, Charles M. (Charle    1975 The Snoopy festival
+LIT-1.71 242.8          9781856082815     Van de Weyer, Robert          1997 Celtic Prayers: A Book of Celtic Devotion, Daily Prayers and
+LIT-1.72 492.486421     9780310093350     Van Pelt, Miles V., 1969-     2020 Graded reader of Biblical Hebrew : a guide to reading the He
+LIT-1.73 492.482421     9780931464317     Waltke, Bruce K.              1990 An introduction to biblical Hebrew syntax
+LIT-1.74 741.56973      9780740748479     Watterson, Bill               2005 Calvin and Hobbes
+LIT-1.75 793.93         9780935696011     Wyatt, James, 1968-           1978 Player's handbook
 T1.01 910.285574     9781617291395     Obe, Regina O.                2015 PostGIS in action
 TA-1.01 001.642        9780914845461     Norton, Peter                 1985 The Peter Norton Programmer's guide to the IBM PC
 TA-1.02 001.9          9780099185727     White, Michael, 1959-2018     1996 The science of the X-files
