@@ -376,7 +376,7 @@ class Library:
                 zones[zone]["code"], indexes, subbooks, shelves, overrides
             )
 
-        sort_re = re.compile(r"^([A-Z]+)(\d+)\.(\d+)$")
+        sort_re = re.compile(r"^([A-Z\-]+)(\d+)\.(\d+)$")
 
         def sort_key(book):
             match = sort_re.match(book.location)

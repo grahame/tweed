@@ -4,6 +4,55 @@
         [ "author", "^Le Guin, Ursula.*", "Le Guin, Ursula"]
     ],
     "zones": {
+        "crime": {
+            "sort": "author",
+            "code": "CRIM",
+            "matches": [
+                {"author": "r:Christie, Agatha.*"},
+                {"author": "r:Mortimer, John.*"},
+                {"@isbnfile": "data/crime.txt"}
+            ],
+            "shelves": [
+                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } }
+            ]
+        },
+        "poetry-and-epic-myth": {
+            "sort": "author",
+            "code": "POET",
+            "matches": [
+                {"@isbnfile": "data/poetry-and-epic-myth.txt"}
+            ],
+            "shelves": [
+                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } },
+                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "" } },
+                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "" } }
+            ]
+        },
+        "romance-and-wry-social-commentary": {
+            "sort": "author",
+            "code": "ROM",
+            "matches": [
+                {"author": "r:.*Austen, Jane.*"},
+                {"author": "r:.*Blake, Ashley Herring.*"},
+                {"@isbnfile": "data/romance.txt"}
+            ],
+            "shelves": [
+                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } }
+            ]
+        },
+        "first-nations": {
+            "sort": "author",
+            "code": "FIRST",
+            "matches": [
+                {"@isbnfile": "data/first-nations.txt"}
+            ],
+            "shelves": [
+                { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "" } }
+            ]
+        },
         "cookbooks": {
             "sort": "author",
             "code": "CB",
@@ -11,9 +60,9 @@
                 {"@isbnfile": "data/cookbooks.txt"}
             ],
             "shelves": [
-                { "bookshelf": "COOK1", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "COOK1", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "COOK1", "shelf": 3, "first_book": { "isbn": "" } }
+                { "bookshelf": "CO-", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "CO-", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "CO-", "shelf": 3, "first_book": { "isbn": "" } }
             ]
         },
         "liturgy": {
@@ -23,9 +72,9 @@
                 {"@isbnfile": "data/liturgy.txt"}
             ],
             "shelves": [
-                { "bookshelf": "LIT1", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "LIT1", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "LIT1", "shelf": 3, "first_book": { "isbn": "" } }
+                { "bookshelf": "LIT-", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "LIT-", "shelf": 2, "first_book": { "isbn": "" } },
+                { "bookshelf": "LIT-", "shelf": 3, "first_book": { "isbn": "" } }
             ]
         },
         "tech": {
@@ -33,13 +82,13 @@
             "code": "TECH",
             "matches": [{"ddc": "^[056]"}],
             "shelves": [
-                { "bookshelf": "TECH1", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
-                { "bookshelf": "TECH1", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
-                { "bookshelf": "TECH1", "shelf": 3, "first_book": { "isbn": "9780534217983" } },
+                { "bookshelf": "TA-", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
+                { "bookshelf": "TA-", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
+                { "bookshelf": "TA-", "shelf": 3, "first_book": { "isbn": "9780534217983" } },
 
-                { "bookshelf": "TECH2", "shelf": 1, "first_book": { "isbn": "9781579656232" } },
-                { "bookshelf": "TECH2", "shelf": 2, "first_book": { "isbn": "9781594203084" } },
-                { "bookshelf": "TECH3", "shelf": 3, "first_book": { "isbn": "" } }
+                { "bookshelf": "TB-", "shelf": 1, "first_book": { "isbn": "9781579656232" } },
+                { "bookshelf": "TB-", "shelf": 2, "first_book": { "isbn": "9781594203084" } },
+                { "bookshelf": "TB-", "shelf": 3, "first_book": { "isbn": "" } }
             ]
         },
         "philosophy-theology": {
@@ -105,55 +154,6 @@
                 { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "" } },
                 { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "" } },
                 { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "" } }
-            ]
-        },
-        "crime": {
-            "sort": "author",
-            "code": "CRIM",
-            "matches": [
-                {"author": "r:Christie, Agatha.*"},
-                {"author": "r:Mortimer, John.*"},
-                {"@isbnfile": "data/crime.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } }
-            ]
-        },
-        "poetry-and-epic-myth": {
-            "sort": "author",
-            "code": "POET",
-            "matches": [
-                {"@isbnfile": "data/poetry-and-epic-myth.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "" } },
-                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "" } }
-            ]
-        },
-        "romance-and-wry-social-commentary": {
-            "sort": "author",
-            "code": "ROM",
-            "matches": [
-                {"author": "r:.*Austen, Jane.*"},
-                {"author": "r:.*Blake, Ashley Herring.*"},
-                {"@isbnfile": "data/romance.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } }
-            ]
-        },
-        "first-nations": {
-            "sort": "author",
-            "code": "FIRST",
-            "matches": [
-                {"@isbnfile": "data/first-nations.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "" } }
             ]
         },
         "speculative-fiction": {
