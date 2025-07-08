@@ -280,15 +280,16 @@ class Library:
                 book_msg("", book_after)
                 print()
 
+        OLD_BOOKS_JSON = "data/books-as-placed.json"
         BOOKS_JSON = "frontend/src/books.json"
-        with open(BOOKS_JSON) as fd:
+        with open(OLD_BOOKS_JSON) as fd:
             old_state = json.load(fd)
         new_state = get_state()
 
         # make a report for the librarian
         report(old_state["books"], new_state["books"])
 
-        with open("frontend/src/books.json", "w") as fd:
+        with open(BOOKS_JSON, "w") as fd:
             json.dump(new_state, fd, ensure_ascii=False)
 
     def write_index_txt(self):
