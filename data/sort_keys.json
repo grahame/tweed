@@ -34335,8 +34335,8 @@
     "289964497": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "291.1",
             "irdi, christian c.",
             "nature, grace, and secular culture: a comparative study of john milbank and joseph ratzinger"
         ],
@@ -34374,8 +34374,8 @@
     "289964899": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "823.92",
             "walton, tasma",
             "i am nannertgarrook"
         ],
@@ -34504,8 +34504,8 @@
     "289965355": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "819.13",
             "ortiz, kaya",
             "past and parallel lives"
         ],
@@ -34556,8 +34556,8 @@
     "289965487": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "823.92",
             "park, tania",
             "a tangle of yarns: an anthology of short stories"
         ],
@@ -34569,8 +34569,8 @@
     "289965531": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "823.92",
             "barton, murray",
             "a compendium of little mysteries"
         ],
@@ -34660,14 +34660,14 @@
     "289965725": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "230",
             "-",
-            "large print prayer book"
+            "large print rosary book"
         ],
         "author": [
             "-",
-            "large print prayer book"
+            "large print rosary book"
         ]
     },
     "289965817": {
@@ -34751,8 +34751,8 @@
     "289966163": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "232.954",
             "daughtry, stephen",
             "the imaginary doorway: stories and studies from the gospel of inclusion"
         ],
@@ -34868,21 +34868,21 @@
     "289966485": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
-            "cardinal armand jean du plessis duke ofrichelieu",
+            false,
+            "248.86",
+            "richelieu, cardinal",
             "the a treatise on perfection: saintly counsel on obtaining salvation"
         ],
         "author": [
-            "cardinal armand jean du plessis duke ofrichelieu",
+            "richelieu, cardinal",
             "the a treatise on perfection: saintly counsel on obtaining salvation"
         ]
     },
     "289966499": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "230.41",
             "lang, james",
             "the devil's bagpipe: the true life of martin luther"
         ],
@@ -34894,21 +34894,21 @@
     "289966518": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
-            "a'kempis, thomas",
+            false,
+            "248.86",
+            "kempis, thomas à",
             "the hospital of the poor"
         ],
         "author": [
-            "a'kempis, thomas",
+            "kempis, thomas à",
             "the hospital of the poor"
         ]
     },
     "289966532": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "248.86",
             "trithemius, johannes",
             "the magical amulets of the ancient sages and bibliotheca necromantica"
         ],
@@ -35076,8 +35076,8 @@
     "289967158": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "823.92",
             "norrington, leonie",
             "a piece of red cloth : a novel from arnhem land"
         ],
@@ -35089,8 +35089,8 @@
     "289967172": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "305.89915",
             "heiss, anita",
             "dirrayawadha"
         ],
@@ -35141,8 +35141,8 @@
     "289967222": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "200.866",
             "joseph, marchal a.",
             "trans biblical: new approaches to interpretation and embodiment in scripture"
         ],
@@ -35167,8 +35167,8 @@
     "289967278": {
         "_rev": 1,
         "ddc": [
-            true,
-            null,
+            false,
+            "813",
             "scanlan, padraic x.",
             "the irish question: famine, work and freedom in the nineteenth century"
         ],
@@ -35331,19 +35331,6 @@
         "author": [
             "van de weyer, robert",
             "celtic prayers: a book of celtic devotion, daily prayers and blessings"
-        ]
-    },
-    "289968448": {
-        "_rev": 1,
-        "ddc": [
-            true,
-            null,
-            "walton, tasma",
-            "i am nannertgarrook"
-        ],
-        "author": [
-            "walton, tasma",
-            "i am nannertgarrook"
         ]
     },
     "289968502": {
