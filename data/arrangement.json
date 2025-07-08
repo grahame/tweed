@@ -231,7 +231,7 @@
         },
         "other-fiction": {
             "sort": "author",
-            "code": "",
+            "code": "FIC",
             "matches": [{"ddc": "^[8]"}, {"ddc": ""}],
             "shelves": [
                 { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "" } },

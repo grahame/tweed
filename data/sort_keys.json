@@ -35787,5 +35787,57 @@
             "anglican church of australia",
             "a book of occasional services"
         ]
+    },
+    "289980704": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "248.8089",
+            "arthur riley, cole",
+            "black liturgies: prayers, poems, and meditations for staying human"
+        ],
+        "author": [
+            "arthur riley, cole",
+            "black liturgies: prayers, poems, and meditations for staying human"
+        ]
+    },
+    "289980743": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "296.1",
+            "epstein, perle",
+            "kabbalah: the way of the jewish mystic"
+        ],
+        "author": [
+            "epstein, perle",
+            "kabbalah: the way of the jewish mystic"
+        ]
+    },
+    "289980781": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "994.11",
+            "sanders, hugh",
+            "lesmurdie: a home in the hills"
+        ],
+        "author": [
+            "sanders, hugh",
+            "lesmurdie: a home in the hills"
+        ]
+    },
+    "289981002": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "994.11",
+            "beale, kim",
+            "the building of esperence stonehenge"
+        ],
+        "author": [
+            "beale, kim",
+            "the building of esperence stonehenge"
+        ]
     }
 }
