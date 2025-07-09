@@ -35631,5 +35631,187 @@
             "godfrey, madison",
             "dress rehearsals"
         ]
+    },
+    "164327423": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "238.2",
+            "finn, richard",
+            "faith matters : fundamentals of faith"
+        ],
+        "author": [
+            "finn, richard",
+            "faith matters : fundamentals of faith"
+        ]
+    },
+    "164329351": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "220.52081",
+            "niv bible",
+            "the holy bible : new international version with concise bible encyclopedia, concordance, dictionary, maps and other bible study resources"
+        ],
+        "author": [
+            "niv bible",
+            "the holy bible : new international version with concise bible encyclopedia, concordance, dictionary, maps and other bible study resources"
+        ]
+    },
+    "164355159": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "500.09415",
+            "de buitléar, eamon",
+            "wild ireland"
+        ],
+        "author": [
+            "de buitléar, eamon",
+            "wild ireland"
+        ]
+    },
+    "164360144": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "495.683421",
+            "collins",
+            "collins japanese phrasebook & dictionary"
+        ],
+        "author": [
+            "collins",
+            "collins japanese phrasebook & dictionary"
+        ]
+    },
+    "186391518": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "296.45",
+            "frishman, elyse d.",
+            "[mishkan tefilah] = mishkan t'filah : a progressive siddur : weekdays, shabbat, festivals and other occasions of worship"
+        ],
+        "author": [
+            "frishman, elyse d.",
+            "[mishkan tefilah] = mishkan t'filah : a progressive siddur : weekdays, shabbat, festivals and other occasions of worship"
+        ]
+    },
+    "190715274": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "222.13077",
+            "noth, martin",
+            "leviticus"
+        ],
+        "author": [
+            "noth, martin",
+            "leviticus"
+        ]
+    },
+    "192893575": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "261.55",
+            "gregory, david",
+            "messy church does science : 100 sizzling science-based ideas for messy churches"
+        ],
+        "author": [
+            "gregory, david",
+            "messy church does science : 100 sizzling science-based ideas for messy churches"
+        ]
+    },
+    "194870610": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "598.0723409412",
+            "klesch, maree",
+            "djerap : noongar birds"
+        ],
+        "author": [
+            "klesch, maree",
+            "djerap : noongar birds"
+        ]
+    },
+    "221332266": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "823",
+            "solid, coco",
+            "how to loiter in a turf war (a novel)"
+        ],
+        "author": [
+            "solid, coco",
+            "how to loiter in a turf war (a novel)"
+        ]
+    },
+    "227225414": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "500",
+            "munroe, randall",
+            "what if?2"
+        ],
+        "author": [
+            "munroe, randall",
+            "what if?2"
+        ]
+    },
+    "228937051": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "641.5952",
+            "murota, maori",
+            "japanese home cooking"
+        ],
+        "author": [
+            "murota, maori",
+            "japanese home cooking"
+        ]
+    },
+    "241613031": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "242.802",
+            "anselm, st",
+            "the prayers and meditations of saint anselm"
+        ],
+        "author": [
+            "anselm, st",
+            "the prayers and meditations of saint anselm"
+        ]
+    },
+    "260721621": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "264.03",
+            "anglican church of canada",
+            "book of alternative services of the anglican church of canada"
+        ],
+        "author": [
+            "anglican church of canada",
+            "book of alternative services of the anglican church of canada"
+        ]
+    },
+    "290041429": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "283.94",
+            "frame, tom",
+            "agendas for australian anglicanism : essays in honour of bruce kaye"
+        ],
+        "author": [
+            "frame, tom",
+            "agendas for australian anglicanism : essays in honour of bruce kaye"
+        ]
     }
 }

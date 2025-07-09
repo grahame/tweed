@@ -302,6 +302,8 @@ class Library:
                     isbn_count[bp.book.isbn] += 1
                     if isbn_count[bp.book.isbn] > 1:
                         warnings.append("duplicate")
+                if not bp.book.author:
+                    warnings.append("no-author")
                 if not bp.book.ddc:
                     warnings.append("no-dewey")
                 warnings = ", ".join(warnings)

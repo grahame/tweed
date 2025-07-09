@@ -234,7 +234,7 @@ B2.12 222.12077      9780664229689     Childs, Brevard S.            2004 The bo
 B2.13 222.12077      9780849902024     John, Durham                  2010 EXODUS VOL 3 HB: v. 3 (Word Biblical Commentary)
 B2.14 222.12077      9780521002912     Meyers, Carol L.              2005 Exodus
 B2.15 222.12077      9780334004295     Noth, Martin                  1962 Exodus (Old Testament Library)
-B2.16 222.13077                                                      1800 Leviticus (Old Testament Library) by Martin Noth (1965-01-03
+B2.16 222.13077                        Noth, Martin                  1800 Leviticus
 B2.17 222.14077      9780334011569     Noth, Martin, 1902-1968       1968 Numbers : a commentary
 B2.18 222.1507       9780664221874     Rad, Gerhard von, 1901-197    1966 Deuteronomy; : a commentary
 B2.19 222.2077       9780849902062     Butler, Trent C.              1983 Word Biblical Commentary Vol. 7, Joshua (butler), 350pp
@@ -690,8 +690,8 @@ D2.30 238.11         9781597528009     Barth, Karl                   2006 The Fa
 D2.31 238.11         9780061300561     Barth, Karl, 1886-1968        1959 Dogmatics in outline
 D2.32 238.11         9781921963179     Benedict XVI, Pope, 1927-     2012 I believe in one God : the creed explained
 D2.33 238.11         9780334028987     Lash, Nicholas                2003 Believing three ways in one God : a reading of the Apostles'
-D2.34 238.2          9780854397983                                   None Faith matters : fundamentals of faith
-D2.35 238.2          9780385479677     Catholic Church, U. S.        1995 Catechism of the Catholic Church: Complete and Updated
+D2.34 238.2          9780385479677     Catholic Church, U. S.        1995 Catechism of the Catholic Church: Complete and Updated
+D2.35 238.2          9780854397983     Finn, Richard                 None Faith matters : fundamentals of faith
 D2.36 238.2                            Gore, Bishop                  1939 Belief in God
 D2.37 238.41         9780800608255     Tappert, Theodore G.          1959 The Book of Concord: The Confessions of the Evangelical Luth
 D2.38 239            9780881410242     Bloom, Anthony, 1914-2003     1997 God and man
@@ -758,7 +758,7 @@ D4.08 242.8                            Murray, Linda                 2009 St Bri
 D4.09 242.8          9780281044542     Robertson, Jenny              1997 Praying with the English Mystics
 D4.10 242.8          9781911405177     Underhill, Evelyn             2016 'The Spiritual Life' and 'The Spiral Way': two classic books
 D4.11 242.8          9780281078738     Underhill, Evelyn, 1875-19    2018 Evelyn Underhill's prayer book
-D4.12 242.802                                                        None The Prayers and Meditations of Saint Anselm. Translated and 
+D4.12 242.802                          Anselm, St                    None The Prayers and Meditations of Saint Anselm
 D4.13 242.843        9780819229441     Geitz, Elizabeth Rankin       2013 Women's Uncommon Prayers: Our Lives Revealed, Nurtured, Cele
 D4.14 246.558        9780716402152     Huelin, Gordon                1972 The Cross in English life and devotion;
 D4.15 247            9780801479434     Miller, Maureen C.            2014 Clothing the Clergy: Virtue and Power in Medieval Europe, c.
@@ -963,7 +963,7 @@ E2.35 261.26         9780809139316     Boys, Mary C.                 2000 Has Go
 E2.36 261.26         9780061137785     Levine, Amy-Jill, 1956-       2007 The misunderstood Jew : the Church and the scandal of the Je
 E2.37 261.2609       9780618219087     Carroll, James, 1943-         2002 Constantine's sword : the church and the Jews : a history
 E2.38 261.2          9780879072476     Salenson, Christian           2012 Christian de Chergé : a theology of hope
-E2.39 261.55         9780857465795                                   None Messy church does science : 100 sizzling science-based ideas
+E2.39 261.55         9780857465795     Gregory, David                None Messy church does science : 100 sizzling science-based ideas
 E2.40 261.57         9780953575770     Brand, Hilary                 2014 Art and soul : signposts for Christians in the arts
 E2.41 261.6          9780061300035     Niebuhr, Helmut Richard 18    1975 Christ and culture
 E2.42 261.7                            Crossan, John Dominic         2009 God and Empire: Jesus Against Rome, Then and Now
@@ -1044,7 +1044,7 @@ E4.35 264.02         9780898708295     Elliott, Bishop Peter J.      2002 Ceremo
 E4.36 264.02         9780898705263     Elliott, Peter J              1995 Ceremonies of the Modern Roman Rite : The Eucharist and the 
 E5.01 264.02         9780814660546     Kavanagh, Aidan               1990 Elements of rite : a handbook of liturgical style
 E5.02 265.62         9780819220882     Gatta, Julia                  2012 Go in Peace: The Art of Hearing Confessions
-E5.03 264.03         9780919891272                                   1983 Book of Alternative Services of the Anglican Church of Canad
+E5.03 264.03         9780919891272     Anglican Church of Canada     1983 Book of Alternative Services of the Anglican Church of Canad
 E5.04 264.03         9780281000043     Appleton, George              1963 Acts of Devotion
 E5.05 264.03         9780199645206     Church of England             2013 The book of common prayer : the texts of 1549, 1559, and 166
 E5.06 264.03         9781853119118     Compilers                     2008 The Book of Common Prayer as Proposed in 1928: Including the
@@ -1211,8 +1211,8 @@ F3.16 283.0922       9780281083718     Williams, Rowan, 1950-        2020 Rowan 
 F3.17 283.0924       9780727009876     Witt, Howell, 1920-           1979 Bush bishop
 F3.18 283.42         9780671712921     De-la-Noy, Michael, 1934-2    1994 The Church of England : a portrait
 F3.19 283.42         9780232525274     Williams, Rowan, 1950-        2004 Anglican identities
-F3.20 283.94         9780859108607                                   1998 Agendas for Australian Anglicanism : essays in honour of Bru
-F3.21 283.94         9781863717557     Carnley, Peter                2004 Reflections in glass : trends and tensions in the contempora
+F3.20 283.94         9781863717557     Carnley, Peter                2004 Reflections in glass : trends and tensions in the contempora
+F3.21 283.94         9780859108607     Frame, Tom                    2007 Agendas for Australian Anglicanism : essays in honour of Bru
 F3.22 283.94                           Fudge, Thomas A               2024 Darkness: The Conversion of Anglican Armidale, 1960-2019
 F3.23 283.94         9781925612301     Kaye, Bruce                   2006 Wonderfully and Confessedly Strange: Australian Essays in An
 F3.24 283.94         9781666713480     Kaye, Bruce N.                2022 Frozen Institutions: Questions for the Church after Christen
@@ -1265,7 +1265,7 @@ F5.12 296.3878730933 9780802805287     Rad, Gerhard von              1996 Holy w
 F5.13 296.4          9780281064830     Barker, Margaret, 1944-       2011 Temple mysticism : an introduction
 F5.14 296.4          9780061173646     Diamant, Anita                2007 Living a Jewish life : Jewish traditions, customs, and value
 F5.15 296.437        9780670541874     Jews. Liturgy                 1974 A Passover Haggadah : the new Union Haggadah
-F5.16 296.45         9780881231199                                   None [Mishkan tefilah] = Mishkan t'filah : a progressive Siddur :
+F5.16 296.45         9780881231199     Frishman, Elyse D.            None [Mishkan tefilah] = Mishkan t'filah : a progressive Siddur :
 F5.17 296.491        9780281056347     Barker, Margaret, 1944-       2017 Temple theology : an introduction
 F5.18 296.65099451   9781876462383     Gräff, Werner                 2005 A time to keep : the story of Temple Beth Israel 1930 to 200
 F5.19 296.7          9780743234771     Kushner, Harold S.            2002 Who needs God
@@ -1458,7 +1458,7 @@ G5.32 491.628                          Ó Domhnalláin, Tomás          1967 Bun
 G5.33 492.1          9781606064474     Finkel, Irving L.             2015 Cuneiform
 G5.34 492.482421     9780232513691     Lambdin, Thomas O. (Thomas    1973 Introduction to Biblical Hebrew
 G5.35 495.682421     9784770030085     Kokusai Nihongo Fukyū Kyōk    2006 Japanese for busy people : I,. Romanized version
-G5.36 495.683421     9780007165995                                   2004 Collins Japanese phrasebook & dictionary
+G5.36 495.683421     9780007165995     Collins                       2004 Collins Japanese phrasebook & dictionary
 G5.37 499.1503                         Dewar, Jill                   None Yelakitj Koondarm Nyungar Language Project
 G5.38 305.8991509412 9781741312331     Rooney, Bernard, 1934-        None Nyoongar dictionary
 G5.39 925.30         9780099173311     Feynman, Richard P. (Richa    1992 "Surely you're joking, Mr. Feynman!" : adventures of a curio
@@ -1748,41 +1748,40 @@ I3.20 813.6000       9780857527509     Sittenfield, Curtis           None Romant
 I3.21 823.92         9781761151743     Smith, Sarah                  None Twelve Steps to a Long and Fulfilling Death
 I3.22 813.6          9781529426250     Taub, Melinda                 None The Scandalous Confessions of Lydia Bennet, Witch
 I3.23 813.6          9781787704411     Yi, Esther                    2023 Y/N: A novel
-I4.01 823            9780143778585                                   None How to Loiter In a Turf War (A Novel)
-I4.02 863            9780140145588     Allende, Isabel               1992 The stories of Eva Luna
-I4.03 828.99353      9780143028574     Roy                           2002 The God of Small Things
-I4.04 843.912        9781784878467     Beauvoir, Simone de           2023 The Inseparables
-I4.05 843.914        9780802144478     Beckett, Samuel, 1906-1989    2009 Three novels
-I4.06 842.91         9780571244591     Beckett, Samuel, 1906-1989    2010 Waiting for Godot : tragicomedy in 2 acts
-I4.07 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
-I4.08 813.6          9780702266164     Belcourt, Billy-Ray           None A Minor Chorus
-I4.09 838.91209      9780674052291     Benjamin, Walter, 1892-194    2016 One-way street
-I4.10 823.92         9780733651472     Buist, Anne                   2024 The Glass House
-I4.11 823.087624     9780141037226     Burgess, Anthony              2008 A Clockwork Orange (Popular Penguins)
-I4.12 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
-I4.13 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
-I4.14 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
-I4.15 823.8          9781853262289     Butler, Samuel                1998 The Way of All Flesh (Wordsworth Classics)
-I4.16 813.6          9781789097528     Cadigan, Pat, 1953-           2021 Alien 3
-I4.17 843.914        9780141185132     Camus, Albert                 2002 The plague
-I4.18 843.914        9780241458884     Camus, Albert, 1913-1960      2020 The fall
-I4.19 843.914        9780679720201     Camus, Albert, 1913-1960      1989 The stranger
-I4.20 813.087623     9780812524581     Card, Orson Scott             1986 Ender's Game
-I4.21 823            9780702230493     Carey, Peter (Peter Philip    1998 Jack Maggs
-I4.22 823            9780571153046     Carey, Peter, 1943-           1989 Oscar & Lucinda
-I4.23 863.3          9780099469698     Cervantes Saavedra, Miguel    2005 Don Quixote
-I4.24 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
-I4.25 891.73         9780140150353     Chekhov, Anton Pavlovich,     1979 The portable Chekhov
-I4.26 823.912        9780141441634     Conrad, Joseph                2007 Nostromo: A Tale of the Seaboard (Penguin Classics)
-I4.27 823.912        9780007420261     Conrad, Joseph, 1857-1924     2011 The secret agent, : a simple tale
-I4.28 813.54         9780330247658     Craven, Margaret              1980 I Heard the Owl Call My Name
-I4.29 823.914        9780140156829     Dahl, Roald                   1992 Boy : tales of childhood
-I4.30 823.914        9780141037578     Dahl, Roald, 1916-1990        2008 Roald Dahl's tales of the unexpected
-I4.31 823            9780958685658     Dedman, Stephen               1999 The Lady of Situations
-I4.32 823.5          9780140431490     Defoe, Daniel, 1661?-1731     1982 Roxana, the fortunate mistress, or, A history of the life an
-I4.33 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
-I4.34 823.83         9780141439563     Dickens, Charles, 1812-187    2002 Great expectations
-I4.35 823.8          9781853262487     Disraeli, Benjamin, 1804-1    1998 Sybil, or, The two nations
+I4.01 863            9780140145588     Allende, Isabel               1992 The stories of Eva Luna
+I4.02 828.99353      9780143028574     Roy, Arundhati                2002 The God of Small Things
+I4.03 843.912        9781784878467     Beauvoir, Simone de           2023 The Inseparables
+I4.04 843.914        9780802144478     Beckett, Samuel, 1906-1989    2009 Three novels
+I4.05 842.91         9780571244591     Beckett, Samuel, 1906-1989    2010 Waiting for Godot : tragicomedy in 2 acts
+I4.06 823.92         9781894063739     Bedford, K. A. (K. Adrian)    2011 Time machines repaired while-u-wait
+I4.07 813.6          9780702266164     Belcourt, Billy-Ray           None A Minor Chorus
+I4.08 838.91209      9780674052291     Benjamin, Walter, 1892-194    2016 One-way street
+I4.09 823.92         9780733651472     Buist, Anne                   2024 The Glass House
+I4.10 823.087624     9780141037226     Burgess, Anthony              2008 A Clockwork Orange (Popular Penguins)
+I4.11 813.4          9780064401883     Burnett, Frances Hodgson,     2010 The secret garden
+I4.12 813.52         9780199832484     Burns, Jennifer, 1975-        2011 Goddess of the market : Ayn Rand and the American Right
+I4.13 813.6          9780061997426     Butler, Blake                 2011 There Is No Year : a novel
+I4.14 823.8          9781853262289     Butler, Samuel                1998 The Way of All Flesh (Wordsworth Classics)
+I4.15 813.6          9781789097528     Cadigan, Pat, 1953-           2021 Alien 3
+I4.16 843.914        9780141185132     Camus, Albert                 2002 The plague
+I4.17 843.914        9780241458884     Camus, Albert, 1913-1960      2020 The fall
+I4.18 843.914        9780679720201     Camus, Albert, 1913-1960      1989 The stranger
+I4.19 813.087623     9780812524581     Card, Orson Scott             1986 Ender's Game
+I4.20 823            9780702230493     Carey, Peter (Peter Philip    1998 Jack Maggs
+I4.21 823            9780571153046     Carey, Peter, 1943-           1989 Oscar & Lucinda
+I4.22 863.3          9780099469698     Cervantes Saavedra, Miguel    2005 Don Quixote
+I4.23 813.54         9781841154930     Chabon, Michael               2001 The amazing adventures of Kavalier and Clay : a novel
+I4.24 891.73         9780140150353     Chekhov, Anton Pavlovich,     1979 The portable Chekhov
+I4.25 823.912        9780141441634     Conrad, Joseph                2007 Nostromo: A Tale of the Seaboard (Penguin Classics)
+I4.26 823.912        9780007420261     Conrad, Joseph, 1857-1924     2011 The secret agent, : a simple tale
+I4.27 813.54         9780330247658     Craven, Margaret              1980 I Heard the Owl Call My Name
+I4.28 823.914        9780140156829     Dahl, Roald                   1992 Boy : tales of childhood
+I4.29 823.914        9780141037578     Dahl, Roald, 1916-1990        2008 Roald Dahl's tales of the unexpected
+I4.30 823            9780958685658     Dedman, Stephen               1999 The Lady of Situations
+I4.31 823.5          9780140431490     Defoe, Daniel, 1661?-1731     1982 Roxana, the fortunate mistress, or, A history of the life an
+I4.32 813.54         9780571195718     Desai, Kiran, 1971-           1999 Hullabaloo in the guava orchard
+I4.33 823.83         9780141439563     Dickens, Charles, 1812-187    2002 Great expectations
+I4.34 823.8          9781853262487     Disraeli, Benjamin, 1804-1    1998 Sybil, or, The two nations
 I5.01 823.914        9781529093001     Donoghue, Emma, 1969-         2022 The wonder : a novel
 I5.02 891.733        9780141194868     Dostoyevsky, Fyodor           2010 Notes from Underground
 I5.03 891.733        9780140449242     Dostoyevsky, Fyodor, 1821-    2003 The brothers Karamazov
@@ -1913,35 +1912,36 @@ J2.31 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to
 J3.01 823.7          9780938819806     Shelley, Mary Wollstonecra    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
 J3.02 823.912        9780099530268     Shute, Nevil, 1899-1960       2009 A town like Alice
 J3.03 823.912        9780008669461     Sibley, Brian                 2024 The Maps of Middle-earth: From Númenor and Beleriand to Wild
-J3.04 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
-J3.05 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-J3.06 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-J3.07 813.52         9780141185071     Steinbeck, Mr John            2000 East of Eden
-J3.08 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
-J3.09 895.635        9781788739887     Suzuki, Izumi, 1949-1986      2021 Terminal boredom : stories
-J3.10 813.54         9781250769848     Tolmie, Sarah                 2020 The fourth island
-J3.11 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
-J3.12 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
-J3.13 853.914        9780099512158     Tomasi di Lampedusa, Giuse    2007 The Leopard: Discover the breath-taking historical classic
-J3.14 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damascus
-J3.15 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
-J3.16 843.914        9780860682295     Ward Jouve, Nicole            1981 Shades of grey
-J3.17 823.912        9780141037233     Waugh, Evelyn, 1903-1966      2008 A handful of dust
-J3.18 823.912        9780141045627     Waugh, Evelyn, 1903-1966      2012 Brideshead revisited : the sacred and profane memories of Ca
-J3.19 823.912        9780141184029     Waugh, Evelyn, 1903-1966      2000 Scoop
-J3.20 823.9          9781742756882     White, Patrick, 1912-1990     None Voss : a novel
-J3.21 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
-J3.22 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
-J3.23 823.8          9780007351053     Wilde, Oscar, 1854-1900       2010 The picture of Dorian Gray
-J3.24 823.92         9781922400277     Williams, Pip, 1969-          2021 The dictionary of lost words : a novel
-J3.25 813.54         9780812566628     Wilson, Robert Charles, 19    1999 Darwinia
-J3.26 823.912        9781841591056     Wodehouse, P. G.              2000 Stiff Upper Lip, Jeeves (Everyman's Library P G WODEHOUSE)
-J3.27 823.912        9780393345995     Wodehouse, P. G.              2013 Thank You, Jeeves (Bertie Wooster & Jeeves)
-J3.28 823.912        9781784878085     Woolf, Virginia               None Mrs Dalloway
-J3.29 823.912        9781853260919     Woolf, Virginia               1999 To the lighthouse
-J3.30 823.912        9780586044438     Woolf, Virginia, 1882-1941    1978 Between the acts
-J3.31 823.0876       9781905834846     Wright, T M                   2006 I Am The Bird
-J3.32 823.3          9780552773898     Zusak, Markus                 2007 Tou shu zei = : The book thief
+J3.04 823            9780143778585     Solid, Coco                   None How to Loiter In a Turf War (A Novel)
+J3.05 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
+J3.06 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+J3.07 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+J3.08 813.52         9780141185071     Steinbeck, Mr John            2000 East of Eden
+J3.09 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
+J3.10 895.635        9781788739887     Suzuki, Izumi, 1949-1986      2021 Terminal boredom : stories
+J3.11 813.54         9781250769848     Tolmie, Sarah                 2020 The fourth island
+J3.12 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
+J3.13 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
+J3.14 853.914        9780099512158     Tomasi di Lampedusa, Giuse    2007 The Leopard: Discover the breath-taking historical classic
+J3.15 823.914        9781760875091     Tsiolkas, Christos, 1965-     None Damascus
+J3.16 823.914        9781451688382     Tóibín, Colm                  2012 The testament of Mary
+J3.17 843.914        9780860682295     Ward Jouve, Nicole            1981 Shades of grey
+J3.18 823.912        9780141037233     Waugh, Evelyn, 1903-1966      2008 A handful of dust
+J3.19 823.912        9780141045627     Waugh, Evelyn, 1903-1966      2012 Brideshead revisited : the sacred and profane memories of Ca
+J3.20 823.912        9780141184029     Waugh, Evelyn, 1903-1966      2000 Scoop
+J3.21 823.9          9781742756882     White, Patrick, 1912-1990     None Voss : a novel
+J3.22 813.6          9780708899427     Whitehead, Colson, 1969-      2020 The nickel boys : a novel
+J3.23 842            9780805210538     Wiesel, Elie, 1928-2016       1995 The trial of God (as it was held on February 25, 1649, in Sh
+J3.24 823.8          9780007351053     Wilde, Oscar, 1854-1900       2010 The picture of Dorian Gray
+J3.25 823.92         9781922400277     Williams, Pip, 1969-          2021 The dictionary of lost words : a novel
+J3.26 813.54         9780812566628     Wilson, Robert Charles, 19    1999 Darwinia
+J3.27 823.912        9781841591056     Wodehouse, P. G.              2000 Stiff Upper Lip, Jeeves (Everyman's Library P G WODEHOUSE)
+J3.28 823.912        9780393345995     Wodehouse, P. G.              2013 Thank You, Jeeves (Bertie Wooster & Jeeves)
+J3.29 823.912        9781784878085     Woolf, Virginia               None Mrs Dalloway
+J3.30 823.912        9781853260919     Woolf, Virginia               1999 To the lighthouse
+J3.31 823.912        9780586044438     Woolf, Virginia, 1882-1941    1978 Between the acts
+J3.32 823.0876       9781905834846     Wright, T M                   2006 I Am The Bird
+J3.33 823.3          9780552773898     Zusak, Markus                 2007 Tou shu zei = : The book thief
 K1.01 305.486970994  9780857986177     Abdel-Magied, Yassmin, 199    2017 Yassmin's story
 K1.02 823.92         9780007362622     Adichie, Chimamanda Ngozi,    2013 Americanah
 K1.03 820.8089915    9781925972818     Ahmad, Michael Mohammed       None After Australia
@@ -2094,70 +2094,70 @@ L3.12 823.914        9780006511830     Baxter, Stephen               2001 Space
 L3.13 823.914        9781473205109     Baxter, Stephen               None The massacre of mankind : sequel to The war of the worlds
 L3.14 823.914        9780006511823     Baxter, Stephen               2000 Time
 L3.15 823.914        9780002246934     Baxter, Stephen               1998 Traces
-LIT-1.01 220.52081      9780647511176                                   2005 The Holy Bible : New International Version with concise bibl
-LIT-1.02 230            9781860822575     -                             2004 Large Print Rosary Book
-LIT-1.03 325.21         9780980593730     Ahmed, Safdar                 2021 Still Alive
-LIT-1.04 226.1          9783438054050     Aland, Kurt                   1993 Synopsis of the four gospels
-LIT-1.05 220            9783438051172     Aland, Kurt                   2014 The Greek New Testament;
-LIT-1.06 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
-LIT-1.07 264.03                           Anglican Church of Austral    1944 A Book of Occasional Services
-LIT-1.08 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
-LIT-1.09 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
-LIT-1.10 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
-LIT-1.11 221.5208       9780199978465     Berlin, Adele                 2014 The Jewish Study Bible
-LIT-1.12 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
-LIT-1.13 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
-LIT-1.14 264.023        9780005997185     Catholic Church               1984 Sunday Missals Australian Edition
-LIT-1.15 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
-LIT-1.16 264.03         9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
-LIT-1.17 264.03         9780909827793     Church of England in Austr    1978 An Australian prayer book : for use together with the Book o
-LIT-1.18 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
-LIT-1.19 264.023        9781921472954     Church, Catholic              2012 St. Pauls weekday missal
-LIT-1.20 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
-LIT-1.21 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
-LIT-1.22 220.5205       9780529064844     Confraternity of Christian    1990 The New American Bible : translated from the original langua
-LIT-1.23 220.5203       9781435125391     Doré, Gustave, 1832-1883      2012 The Holy Bible : King James version
-LIT-1.24 487.4          9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
-LIT-1.25 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
-LIT-1.26 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
-LIT-1.27 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
-LIT-1.28 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
-LIT-1.29 741.5          9781401227999     Gaiman, Neil                  2010 The Sandman
-LIT-1.30 741.5          9780857680389     Gaiman, Neil                  2010 The Sandman
-LIT-1.31 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
-LIT-1.32 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
-LIT-1.33 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
-LIT-1.34 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
-LIT-1.35 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
-LIT-1.36 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes & nocturnes
-LIT-1.37 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
-LIT-1.38 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
-LIT-1.39 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
-LIT-1.40 741.5944       9781444004908     Goscinny, 1926-1977           2013 Asterix omnibus : 5,. Asterix and the cauldron, Asterix in S
-LIT-1.41 741.5944       9781444004243     Goscinny, 1926-1977           2011 Asterix omnibus : Asterix the Gladiator, Asterix and the Ban
-LIT-1.42 741.5944       9781444004878     Goscinny, 1926-1977           2012 Asterix omnibus : Asterix the legionary, Asterix and the Chi
-LIT-1.43 741.5944       9781444004236     Goscinny, 1926-1977           2011 Asterix Omnibus. Asterix the Gaul, Asterix and the golden si
-LIT-1.44 741.5944       9781444004755     Goscinny, René                None Asterix omnibus : Asterix and the big fight, Asterix in Brit
-LIT-1.45 225.5209       9780300186093     Hart, David Bentley           2017 The New Testament : a translation
-LIT-1.46 221.4403       9780802834133     Holladay, William Lee         1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
-LIT-1.47 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
-LIT-1.48 264.024        9780814637029     Johnson, Maxwell E., 1952-    2015 Benedictine daily prayer : a short breviary
-LIT-1.49 492.4          9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
-LIT-1.50 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
-LIT-1.51 229            9780190262488     Klawans, Jonathan             2020 The Jewish Annotated Apocrypha
-LIT-1.52 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
-LIT-1.53 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
-LIT-1.54 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
-LIT-1.55 248            9780899425658     Liturgy, International Com    1990 Shorter Book of Blessings
-LIT-1.56 299.16         9781899434060     Matthews, Caitlin             1996 Celtic Devotional: Daily Prayers and Blessings
-LIT-1.57 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
-LIT-1.58 220.520434     9780060786847     Meeks, Wayne A. [Editor]      2006 The HarperCollins study Bible : New Revised Standard Version
-LIT-1.59 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
-LIT-1.60 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
-LIT-1.61 268.4          9780857463050     Moore, Lucy, 1966-            2015 Messy family fun : a holiday club for all the family
-LIT-1.62 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
-LIT-1.63 248            9781701792012     Neale, John Mason             2019 The liturgies of SS. Mark, James, Clement, Chrysostom, Basil
-LIT-1.64 220.52043      9780190276096     Newsom, Carol A. (Carol An    2018 The new Oxford annotated Bible : New Revised Standard Versio
+LIT-1.01 230            9781860822575     -                             2004 Large Print Rosary Book
+LIT-1.02 325.21         9780980593730     Ahmed, Safdar                 2021 Still Alive
+LIT-1.03 226.1          9783438054050     Aland, Kurt                   1993 Synopsis of the four gospels
+LIT-1.04 220            9783438051172     Aland, Kurt                   2014 The Greek New Testament;
+LIT-1.05 221.5209       9780393292497     Alter, Robert                 2018 The Hebrew Bible : a translation with commentary
+LIT-1.06 264.03                           Anglican Church of Austral    1944 A Book of Occasional Services
+LIT-1.07 264.0300994    9780855741662     Anglican Church of Austral    1995 A prayer book for Australia : for use together with the book
+LIT-1.08 783.952        9781863711500     Australian Hymn Book Co. P    1977 The Australian hymn book
+LIT-1.09 220            9780521714877     Baker Publishing Group        2007 NRSV Popular Text Edition with Apocrypha NR533:TA black Fren
+LIT-1.10 221.5208       9780199978465     Berlin, Adele                 2014 The Jewish Study Bible
+LIT-1.11 492.43         9781565632066     Brown, Francis, 1849-1916     1996 The Brown-Driver-Briggs Hebrew and English lexicon : with an
+LIT-1.12 741.59411      9780907606857     BUDDEN, Maud                  1990 Curly Wee and Gussie Goose
+LIT-1.13 264.023        9780005997185     Catholic Church               1984 Sunday Missals Australian Edition
+LIT-1.14 200            9780191306013     Church of England             2001 The book of common-prayer and administration of the sacramen
+LIT-1.15 264.03         9781376691238     Church of England             2018 The First and Second Prayer Books of Edward VI. Introd. by E
+LIT-1.16 264.03         9780909827793     Church of England in Austr    1978 An Australian prayer book : for use together with the Book o
+LIT-1.17 264.03         9780521612425     Church of England,            2004 The book of common prayer and administration of the sacramen
+LIT-1.18 264.023        9781921472954     Church, Catholic              2012 St. Pauls weekday missal
+LIT-1.19 783.952        9780907547518     Co., English Hymnal           1986 New English hymnal
+LIT-1.20 793.93         9781887990059     Cochran, Joseph, active 18    1997 The Babylon project : the roleplaying game based on Babylon 
+LIT-1.21 220.5205       9780529064844     Confraternity of Christian    1990 The New American Bible : translated from the original langua
+LIT-1.22 220.5203       9781435125391     Doré, Gustave, 1832-1883      2012 The Holy Bible : King James version
+LIT-1.23 487.4          9780521670807     Duff, Canon Dr Jeremy         2005 The Elements of New Testament Greek Paperback and Audio CD P
+LIT-1.24 264.03         9780195285253     Episcopal Church              2007 The Book of common prayer and administration of the sacramen
+LIT-1.25 225.9503       9780851119809     Evans, Craig A                2000 Dictionary of New Testament background
+LIT-1.26 741.56994      9780733334108     First Dog on the Moon,        2016 A treasury of cartoons
+LIT-1.27 741.5973       9780785142959     Fraction, Matt                2010 The invincible Iron Man : Book 1. World's most wanted
+LIT-1.28 741.5          9781401227999     Gaiman, Neil                  2010 The Sandman
+LIT-1.29 741.5          9780857680389     Gaiman, Neil                  2010 The Sandman
+LIT-1.30 741.5          9781401230425     Gaiman, Neil                  2011 The Sandman
+LIT-1.31 741.5          9781563891380     Gaiman, Neil                  1994 The Sandman
+LIT-1.32 741.5          9781563892059     Gaiman, Neil                  1996 The Sandman
+LIT-1.33 741.5973       9781852864781     Gaiman, Neil                  None The sandman : a game of you
+LIT-1.34 741.5973       9781852864972     Gaiman, Neil                  1994 The sandman : fables and reflections
+LIT-1.35 741.5          9781401225759     Gaiman, Neil                  2010 The sandman : preludes & nocturnes
+LIT-1.36 741.5          9781852868079     Gaiman, Neil                  1997 The Sandman : the wake
+LIT-1.37 741.5          9781852866099     Gaiman, Neil                  1995 The Sandman : world's end
+LIT-1.38 492.4          9780486443447     Gesenius, Wilhelm             2006 Gesenius' Hebrew grammar,
+LIT-1.39 741.5944       9781444004908     Goscinny, 1926-1977           2013 Asterix omnibus : 5,. Asterix and the cauldron, Asterix in S
+LIT-1.40 741.5944       9781444004243     Goscinny, 1926-1977           2011 Asterix omnibus : Asterix the Gladiator, Asterix and the Ban
+LIT-1.41 741.5944       9781444004878     Goscinny, 1926-1977           2012 Asterix omnibus : Asterix the legionary, Asterix and the Chi
+LIT-1.42 741.5944       9781444004236     Goscinny, 1926-1977           2011 Asterix Omnibus. Asterix the Gaul, Asterix and the golden si
+LIT-1.43 741.5944       9781444004755     Goscinny, René                None Asterix omnibus : Asterix and the big fight, Asterix in Brit
+LIT-1.44 225.5209       9780300186093     Hart, David Bentley           2017 The New Testament : a translation
+LIT-1.45 221.4403       9780802834133     Holladay, William Lee         1972 A concise Hebrew and Aramaic lexicon of the Old Testament : 
+LIT-1.46 221.52         9780827603660     Jewish Publication Society    1985 Tanakh = : [Tanakh] : a new translation of the Holy Scriptur
+LIT-1.47 264.024        9780814637029     Johnson, Maxwell E., 1952-    2015 Benedictine daily prayer : a short breviary
+LIT-1.48 492.4          9780300098631     Kittel, Bonnie Pedrotti       2004 Biblical Hebrew : a text and workbook
+LIT-1.49 492.482421     9780300222647     Kittel, Bonnie Pedrotti       2016 Biblical Hebrew : a text and workbook
+LIT-1.50 229            9780190262488     Klawans, Jonathan             2020 The Jewish Annotated Apocrypha
+LIT-1.51 741.5994       9780980450804     Kudelka, Jon                  2007 101 uses for a John Howard
+LIT-1.52 492.482421     9780802823823     La Sor, William Sanford       1979 Handbook of Biblical Hebrew : an inductive approach based on
+LIT-1.53 225.6          9780190461850     Levine, Amy-Jill, 1956-       2017 The Jewish annotated New Testament : New Revised Standard Ve
+LIT-1.54 248            9780899425658     Liturgy, International Com    1990 Shorter Book of Blessings
+LIT-1.55 299.16         9781899434060     Matthews, Caitlin             1996 Celtic Devotional: Daily Prayers and Blessings
+LIT-1.56 032.02         9780900424120     McWhirter, Norris, 1925-20    1972 The Guinness book of records. 19th ed
+LIT-1.57 220.520434     9780060786847     Meeks, Wayne A. [Editor]      2006 The HarperCollins study Bible : New Revised Standard Version
+LIT-1.58 741.5942       9780958578349     Moore, Alan, 1953-            2012 From hell : being a melodrama in sixteen parts
+LIT-1.59 741.5942       9780930289232     Moore, Alan, 1953-            1995 Watchmen
+LIT-1.60 268.4          9780857463050     Moore, Lucy, 1966-            2015 Messy family fun : a holiday club for all the family
+LIT-1.61 741.56973      9780615314464     Munroe, Randall               2010 xkcd : volume 0
+LIT-1.62 248            9781701792012     Neale, John Mason             2019 The liturgies of SS. Mark, James, Clement, Chrysostom, Basil
+LIT-1.63 220.52043      9780190276096     Newsom, Carol A. (Carol An    2018 The new Oxford annotated Bible : New Revised Standard Versio
+LIT-1.64 220.52081      9780647511176     NIV Bible                     2005 The Holy Bible : New International Version with concise bibl
 LIT-1.65 741            9780756005184     North, Ryan                   2006 the best of Dinosaur Comics: 2003-2005 A.D.
 LIT-1.66 741.5993       9780340129036     PATERSON, Alan Stuart         1974 The bull pen
 LIT-1.67 259.8          9780551017795     Perry, Michael, 1933- [Edi    1997 The Dramatised Bible
@@ -2614,9 +2614,9 @@ TA-2.14 070.92         9780732224189     Bowden, Tim, 1937-            1989 One 
 TA-2.15 070.92         9780007161232     Thompson, Hunter S.           2003 Fear and loathing in Las Vegas : a savage journey to the hea
 TA-2.16 070.924        9781862078246     Cameron, James, 1911-1985     2007 Point of departure: experiment in biography
 TA-2.17 081            9780944344033     Robbins, Vernon K. 1939- [    1990 Ancient quotes & anecdotes : from crib to crypt
-TA-2.18 500            9781473680630                                   None Munroe:What If?2
-TA-2.19 502.07         9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
-TA-2.20 500.09415      9780094172036                                   1984 Wild Ireland
+TA-2.18 502.07         9780544272996     Munroe, Randall               2014 What if? : serious scientific answers to absurd hypothetical
+TA-2.19 500            9781473680630     Munroe, Randall               None What If?2
+TA-2.20 500.09415      9780094172036     de Buitléar, Eamon            1984 Wild Ireland
 TA-2.21 500.2          9780316071369     Ferris, Timothy               1991 The World treasury of physics, astronomy, and mathematics
 TA-2.22 501            9780141026183     Dawkins, Richard, 1941-       2006 Unweaving the rainbow : science, delusion, and the appetite 
 TA-2.23 509            9780486281155     Hall, Marie Boas, 1919-200    2011 The scientific Renaissance, 1450-1630
@@ -2670,7 +2670,7 @@ TB-1.08 597.90994      9780643097216     Watharow, Simon, 1967-        2012 Livi
 TB-1.09 597.9099411    9781920843519     Bush, Brian                   2010 Field guide to reptiles & frogs of the Perth region
 TB-1.10 598            9781596915411     Birkhead, Tim                 2008 The wisdom of birds : an illustrated history of ornithology
 TB-1.11 598            9781486302925     Elphick, Jonathan             2014 The world of birds
-TB-1.12 598.0723409412 9781741312928                                   2014 Djerap : Noongar birds
+TB-1.12 598.0723409412 9781741312928     Klesch, Maree                 2014 Djerap : Noongar birds
 TB-1.13 598.07234994   9781486300181     Kaplan, Gisela T.             2015 Bird minds : cognition and behaviour of Australian native bi
 TB-1.14 598.094        9780749561352     Sterry, Paul [Editor]         2009 The complete guide to birds of Britain & Europe
 TB-1.15 598.0952       9780713674392     Shimba, Tadao                 2007 A photographic guide to the birds of Japan and North-East As
@@ -2721,7 +2721,7 @@ TB-2.25 641.3383       9780300151350     Freedman, Paul, 1949-         2009 Out 
 TB-2.26 641.5          9781846147500     Pollan, Michael               None Cooked : a natural history of transformation
 TB-2.27 641.56362      9780760372937     Claxton, Brianna              2022 Vegan Pasta Night: A Modern Guide to Italian-Style Cooking
 TB-2.28 641.56362      9781922417572     Kidd, Sara (Baker)            2022 The vegan cake bible : the definitive guide to baking, build
-TB-2.29 641.5952       9781922616289                                   None Japanese Home Cooking
+TB-2.29 641.5952       9781922616289     Murota, Maori                 None Japanese Home Cooking
 TB-2.30 641.815        9780399578847     Robertson, Chad               2021 Bread book : ideas and innovations from the future of grain,
 TB-2.31 646.78         9780802473158     Chapman, Gary D., 1938-       2010 The 5 love languages : the secret to love that lasts
 TB-2.32 658.00952      9781861977892     Murtagh, Niall                2009 The blue-eyed salaryman : from world traveller to lifer at M
