@@ -261,7 +261,8 @@ class Library:
             instructions.sort()
 
             def describe(book):
-                return "{:4} {:7} {:14} {:28}  {}".format(
+                return "{:6} {:10} {:7} {:14} {:28}  {}".format(
+                    book["zone"],
                     book["loc"],
                     (book["ddc"] or "")[:6],
                     (book["isbn"] or "")[:14],

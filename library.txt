@@ -969,7 +969,7 @@ D6.23 261.57         9780953575770     Brand, Hilary                 2014 Art an
 D6.24 261.6          9780061300035     Niebuhr, Helmut Richard 18    1975 Christ and culture
 D6.25 261.7                            Crossan, John Dominic         2009 God and Empire: Jesus Against Rome, Then and Now
 D6.26 261.70994      9780908284740     Edwards, Benjamin, 1978-      2008 Wasps, tykes and ecumaniacs : aspects of Australian sectaria
-D6.27 261.8          9780814622803     Anderson, Herbert             1880 Developmental Disabilities and Sacramental Access: New Parad
+D6.27 261.8          9780814622803     Foley, Edward                 1880 Developmental Disabilities and Sacramental Access: New Parad
 D6.28 261.8          9780715144404     Brown, Malcolm, 1954-         2014 Anglican social theology : renewing the vision today
 D6.29 261.8          9780664235161     Brueggemann, Walter           2010 Journey to the common good
 D6.30 261.8          9781999940744     Fiddes, Paul S.               2022 Loving the Planet: Interfaith Essays on Ecology. Love and Th
@@ -1319,130 +1319,129 @@ F6.33 306.0956       9780547134666     Shadid, Anthony               2012 House 
 F6.34 306.3          9781512823660     Barker, Hannah                2022 That Most Precious Merchandise: The Mediterranean Trade in B
 F6.35 306.3          9780674987081     Jonsson, Fredrik Albritton    2023 Scarcity: A History from the Origins of Capitalism to the Cl
 F6.36 306.361        9780141983479     Graeber, David                2019 Bullshit jobs
-F6.37 306.4          9781846276958     Han, Kang                     2018 The White Book: Winner of the 2024 Nobel Prize in Literature
-F6.38 306.42         9780140225686     Berger, Peter                 1984 Social Construction Of Reality
-F6.39 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
-F6.40 306.6          9780801846328     Asad, Talal                   1993 Genealogies of religion : discipline and reasons of power in
-F6.41 306.6          9780199540129     Durkheim, Émile, 1858-1917    2008 The elementary forms of the religious life
-F6.42 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
-F6.43 306.6          9781725257160     Rieger, Joerg [Editor]        2020 Faith, class, and labor : intersectional approaches in a glo
-F6.44 306.6          9780415254069     Weber, Max (1864-1920)        2001 The Protestant ethic and the spirit of capitalism
-F6.45 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
-F6.46 306.76         9780822316206     Rand, Erica                   1995 Barbie's Queer Accessories (Series Q)
-F6.47 306.76         9781479851553     Ward, Elizabeth Jane          2020 The tragedy of heterosexuality
-F6.48 306.7609       9781743798348     Mcelhinney, Hannah            2023 Rainbow History Class: Your Guide Through Queer and Trans Hi
-F6.49 306.76         9781479802289     Davis, Rebecca L.             2021 Heterosexual Histories (NYU Series in Social and Cultural An
-F6.50 306.766094     9780226345222     Boswell, John, 1947-1994      2015 Christianity, Social Tolerance, and Homosexuality : Gay Peop
-F6.51 306.768092     9781804292617     Wark, McKenzie                2023 Love and Money, Sex and Death
-F6.52 306.7685094    9780231195515     DeVun, Leah                   2021 The shape of sex : nonbinary gender from genesis to the rena
-F6.53 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
-F6.54 306.8109       9780143036678     Coontz, Stephanie             2006 Marriage, a history : from obedience to intimacy or how love
-F6.55 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
-F6.56 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
-F6.57 307.140994     9780643103771     Tomlinson, Richard, 1952-     2013 Australia's unintended cities : the impact of housing on urb
-F6.58 307.1416209146 9780643095335     Green, Ray (Raymond James)    None Coastal towns in transition : local perceptions of landscape
-F6.59 307.760994     9780643094192     Newton, P. W. (Peter Wesle    2008 Transitions : Pathways Towards Sustainable Urban Development
-F6.60 320            9781509544776     Marsili, Lorenzo              2021 Planetary Politics: A Manifesto (Theory Redux)
-F6.61 320.01         9780312468422     Rousseau, Jean Jacques        2010 Discourse on the Origin and Foundations of Inequality among 
-F6.62 320.011        9780140444216     Aristotle                     1981 The Politics (Penguin Classics)
-F6.63 320.0902       9780140207781     Ullmann, Walter, 1910-1983    1970 A history of political thought : the middle ages
-F6.64 320.1          9780143566465     Machiavelli, Niccolò, 1469    None The prince
-F6.65 320.15         9780061313103     Marsilius, of Padua, -1342    1967 Marsilius of Padua : : the defender of peace : Vol. 2. The d
-F6.66 320.157        9780226738895     Schmitt, Carl, 1888-1985      2006 Political theology : four chapters on the concept of soverei
-F6.67 320.5          9780140390155     Paine, Thomas                 1984 Rights of Man (Penguin American Library)
-F6.68 320.5130973    9781931498715     Lakoff, George                2004 Don't think of an elephant! : know your values and frame the
-F6.69 320.917        9780521438339     Ajami, Fouad                  1992 The Arab predicament : Arab political thought and practice s
-F6.70 320.9385       9780140444315     Aristote                      1984 The Athenian Constitution
-F6.71 320.94         9781844673247     Mair, Peter                   2013 Ruling the void : the hollowing of Western democracy
-F6.72 320.941        9780006862437     Letwin, Shirley Robin         1992 The anatomy of Thatcherism
-F6.73 320.94205      9780006333395     Loades, D. M.                 1974 Politics and the nation 1450-1660; : obedience, resistance a
-F6.74 320.994        9780992482589     Bridges, Scott David Edwar    2014 Kevern write a book : the best of @Rudd2000
-F6.75 320.994        9781863956727     Keating, Paul, 1944-          2014 The book of Paul : the wit & wisdom of Paul Keating
-F6.76 320.994        9780143574088     Kelly, Paul, 1947-            2017 The dismissal : in the queen's name
-F6.77 320.994        9780851791487     Whitington, Don               1971 Inside Canberra, : a guide to Australian federal politics
-F6.78 321.07         9780140455113     Plato                         2007 The republic
-F6.79 321.12         9780393092240     Service, Elman R. (Elman R    1975 Origins of the state and civilization : the process of cultu
-F6.80 322.10973      9780310267317     Boyd, Gregory A., 1957-       2007 The myth of a Christian nation : how the quest for political
-F6.81 323            9781921946356     Falzon, John                  2012 The language of the unheard
-F6.82 323            9780691114743     Ignatieff, Michael            2003 Human rights as politics and idolatry
-F6.83 323.092        9781849162623     Hodgson, Godfrey              2010 Martin Luther King
-F6.84 323.14         9781405129640     Moore, R. I. (Robert Ian),    2007 The formation of a persecuting society : power and deviance 
-F6.85 324.29405      9781863957915     Williams, Evan                None Australian leader eats raw onion whole : headlines from the 
-F6.86 324.2940987092 9781742707662     Brown, Bob, 1944-             2014 Optimism : reflections on a life of action
-F6.87 324.2940987092 9780702259814     Milne, Christine              2018 An activist life
-F6.88 325.210955     9780755649358     Boochani, Behrouz             None Freedom, Only Freedom
-F6.89 325.210955     9781760555382     Boochani, Behrouz             None No friend but the mountains : writing from Manus Prison
-F6.90 327.0903       9781605204703     Mattingly, Garrett, 1900-1    2009 Renaissance diplomacy
-F6.91 327.1          9780821408490     Kainz, Howard P.              1988 Philosophical Perspectives On Peace: Anthology Of Classical 
-F6.92 327.42                           Wernham, R. B                 1966 Before the Armada: The emergence of the English Nation, 1485
-F6.93 330            9781848139923     Keen, Steve                   2011 Debunking economics : the naked emperor dethroned?
-F6.94 330            9780060731328     Levitt, Steven D.             2005 Freakonomics : a rogue economist explores the hidden side of
-F6.95 330.192        9781621387312     Tawney, R. H. (Richard Hen    2021 Religion and the rise of capitalism : a historical study
-F6.96 330.942                          Hill, Christopher             2018 Reformation to Industrial Revolution: 1530-1780
-F6.97 330.942        9781565845619     Hobsbawm, Eric John,          1999 Industry and empire : from 1750 to the present day
-F6.98 330.9730931    9780670920365     McLean, Bethany               2011 All the devils are here : the hidden history of the financia
-F6.99 331.80994      9780522874853     McManus, Sally                2019 On fairness
-F6.100 331.8811371109 9781742234588     O'Brien, Michael J., 1930-    2016 The National Tertiary Education Union : the first twenty yea
-F6.101 332.024        9781583334270     Desjardins, Lisa              2011 Zombie economics : a guide to personal finance
-F6.102 335.4          9780674430006     Piketty, Thomas, 1971-        2014 Capital in the twenty-first century
-F6.103 332.0973       9781586486839     Soros, George                 2008 The new paradigm for financial markets : the credit crisis o
-F6.104 333.7          9781760640835     Ludlam, Scott                 None Full Circle; Power, Hope and the Return of Nature
-F6.105 333.790973     9780141011455     McLean, Bethany               2004 The smartest guys in the room : the amazing rise and scandal
-F6.106 333.790973     9780060520748     Smith, Rebecca (Reporter)     2004 24 days : how two Wall Street journal reporters uncovered th
-F6.107 333.95         9780643095786     Downton, Paul F.              2009 Ecopolis : architecture and cities for a changing climate
-F6.108 335            9780415254076     Weil, Simone 1909-1943        2001 Oppression and liberty
-F6.109 335.02         9780140441659     More, Thomas, Saint, 1478-    1965 Utopia
-F6.110 335.4                            Marx, Karl                    2009 Essential Writings of Karl Marx: Economic and Philosophic Ma
-F6.111 335.83089924   9781849353991     Milstein, Cindy               2021 There is Nothing So Whole as a Broken Heart: Mending the Wor
-F6.112 338.092                          Bower, Rod                    2006 Plan B Attitude
-F6.113 338.2092       9781742610979     Ferguson, Adele               2012 Gina Rinehart : the untold story of the richest person in Au
-F6.114 338.927        9780643100329     Gleeson, James,               2012 Reducing the impacts of development on wildlife
-F6.115 323.119915     9781741178869     Mayo, Thomas                  None The Voice to Parliament Handbook
-F6.116 343.730143     9780522854008     Sales, Leigh                  2007 Detainee 002 : the case of David Hicks
-F6.117 343.940998     9781742370385     Pearson, Mark, 1954-          2011 The journalist's guide to media law
-F6.118 344.0454       9780226077840     Brundage, James A.            1990 Law, sex, and Christian society in medieval Europe
-F6.119 345.440263     9780674766914     Davis, Natalie Zemon, 1928    1983 The return of Martin Guerre
-F6.120 352.23860973   9780143116424     Obama, Barack                 2009 The inaugural address, 2009
-F6.121 354.47                           Sloan, Pat                    1942 How the Soviet State is run
-F6.122 355.02         9780140439199     Sunzi, active 6th century     2003 The art of war
-F6.123 355.34340973   9780330435260     Ronson, Jon, 1967-            2004 The men who stare at goats
-F6.124 355.347        9781742233147     Strong, Rowan                 2012 Chaplains in the Royal Australian Navy : 1912 to the Vietnam
-F6.125 362.1966940097 9781421441849     Reis, Elizabeth               2021 Bodies in Doubt: An American History of Intersex
-F6.126 362.20941      9781786499875     Davies, James (James Peter    2022 Sedated : how modern capitalism created our mental health cr
-F6.127 362.82920994   9781760641405     Hill, Jess                    2019 See what you made me do : the dangers of domestic abuse that
-F6.128 362.849915     9780646913414     Gartland, Georgina            None In the absence of treaty
-F6.129 362.880820994  9781922464675     Fitz-Gibbon, Kate (Lecture    2021 Our national shame : violence against women
-F6.130 362.883        9781863956017     Krien, Anna                   2013 Night games : sex, power and sport
-F6.131 363.20973      9781784782924     Vitale, Alex S.               2018 The end of policing
-F6.132 363.3250994    9780522875492     Salusinszky, Imre, 1955-      2019 The Hilton bombing : Evan Pederick and the Ananda Marga
-F6.133 363.59350994   9781875989218     Birmingham, John, 1964-       2000 He died with a felafel in his hand
-F6.134 363.73874      9783319155050     Rauland, Vanessa              2015 Decarbonising cities : mainstreaming low carbon urban develo
-F6.135 364.1320973    9780704311404     Bernstein, Carl, 1944-        1974 All the President's men
-F6.136 364.152309762  9781926428468     Safran, John                  2013 Murder in Mississippi : the true story of how I met a white 
-F6.137 364.1523097814 9780141043081     Capote, Truman, 1924-1984     2010 In cold blood : a true account of a multiple murder and its 
-F6.138 364.15554      9781740660266     Porter, Muriel                2003 Sex, power & the clergy
-F6.139 364.168092     9780316037723     Mitnick, Kevin D. (Kevin D    2012 Ghost in the wires : my adventures as the world's most wante
-F6.140 364.1680973    9781416507789     Stoll, Clifford               2005 The cuckoo's egg : tracking a spy through the maze of comput
-F6.141 364.68         9780520304444     Blue, Ethan                   2021 The Deportation Express: A History of America through Forced
-F6.142 365            9780140137224     Foucault, Michel, 1926-198    1991 Discipline and punish : the birth of the prison
-F6.143 365.450924     9780299182441     Timerman, Jacobo, 1923-199    2002 Prisoner without a name, cell without a number
-F6.144 365.450947     9780006336426     Solzhenit︠s︡yn, Aleksandr     1973 The Gulag Archipelago, 1918-1956 : an experiment in literary
-F6.145 370.115        9780241301111     Freire, Paulo, 1921-1997      2017 Pedagogy of the oppressed
-F6.146 384.06541      9781846146046     Watson, Tom, 1967-            2012 Dial M for Murdoch : News Corporation and the corruption of 
-F6.147 388.4091733    9781844077403     Mees, Paul, 1961-             2009 Transport for suburbia : beyond the automobile age
-F6.148 394.1          9781684512553     Foley, Michael P.             2022 Drinking with the Saints (Deluxe): The Sinner's Guide to a H
-F6.149 394.12         9781408812181     Pollan, Michael               2011 The omnivore's dilemma : the search for a perfect meal in a 
-F6.150 398.20994      9780702206221     Lawrie, Margaret              1970 Myths and Legends of Torres Strait
-F6.151 398.2089924    9780385195744     Sadeh, Pinḥas                 1989 Jewish folktales
-F6.152 398.2093802    9781787333697     Higgins, Charlotte, 1972-     None Greek myths : a new retelling
-F6.153 398.2452       9780007902125     Aesop                         2011 Aesop's fables
-F6.154 400            9780141037653     Pinker, Steven, 1954-         2008 The language instinct
-F6.155 427.994        9781740512787     Watson, Don, 1949-            2004 Death sentence : the decay of public language
-F6.156 477            9780813206677     Collins, John F., 1937-200    1988 A primer of ecclesiastical Latin
-F6.157 477            9781565631311     Stelten, Leo F., 1925-2018    1995 Dictionary of ecclesiastical Latin : with an appendix of Lat
-F6.158 478            9780813214696     Dunlap, John R., 1945-        2006 An answer key to A primer of ecclesiastical Latin : a supple
-F6.159 478.2421       9780385413398     Hendricks, Rhoda A.           1992 Latin made simple
-F6.160 483            9780342684861     Liddell, Henry George, 181    2018 A lexicon abridged from Liddell and Scott's Greek-English le
+F6.37 306.42         9780140225686     Berger, Peter                 1984 Social Construction Of Reality
+F6.38 306.45         9780747563006     Pollan, Michael               2002 The botany of desire : a plant's eye view of the world
+F6.39 306.6          9780801846328     Asad, Talal                   1993 Genealogies of religion : discipline and reasons of power in
+F6.40 306.6          9780199540129     Durkheim, Émile, 1858-1917    2008 The elementary forms of the religious life
+F6.41 306.6          9783034313483     Jennings, Mark, 1977-         2014 Exaltation : ecstatic experience in Pentecostalism and popul
+F6.42 306.6          9781725257160     Rieger, Joerg [Editor]        2020 Faith, class, and labor : intersectional approaches in a glo
+F6.43 306.6          9780415254069     Weber, Max (1864-1920)        2001 The Protestant ethic and the spirit of capitalism
+F6.44 306.6090511    9780141024745     Micklethwait, John            2010 God is back : how the global revival of faith is changing th
+F6.45 306.76         9780822316206     Rand, Erica                   1995 Barbie's Queer Accessories (Series Q)
+F6.46 306.76         9781479851553     Ward, Elizabeth Jane          2020 The tragedy of heterosexuality
+F6.47 306.7609       9781743798348     Mcelhinney, Hannah            2023 Rainbow History Class: Your Guide Through Queer and Trans Hi
+F6.48 306.76         9781479802289     Davis, Rebecca L.             2021 Heterosexual Histories (NYU Series in Social and Cultural An
+F6.49 306.766094     9780226345222     Boswell, John, 1947-1994      2015 Christianity, Social Tolerance, and Homosexuality : Gay Peop
+F6.50 306.768092     9781804292617     Wark, McKenzie                2023 Love and Money, Sex and Death
+F6.51 306.7685094    9780231195515     DeVun, Leah                   2021 The shape of sex : nonbinary gender from genesis to the rena
+F6.52 306.772        9781890951337     Laqueur, Thomas Walter        2004 Solitary sex : a cultural history of masturbation
+F6.53 306.8109       9780143036678     Coontz, Stephanie             2006 Marriage, a history : from obedience to intimacy or how love
+F6.54 306.850942     9780195045642     Hanawalt, Barbara A., 1941    1988 The ties that bound : peasant families in medieval England
+F6.55 307.1216       9780643096424     Arthurson, Kathy, 1956-       2012 Social mix and the city : challenging the mixed communities 
+F6.56 307.140994     9780643103771     Tomlinson, Richard, 1952-     2013 Australia's unintended cities : the impact of housing on urb
+F6.57 307.1416209146 9780643095335     Green, Ray (Raymond James)    None Coastal towns in transition : local perceptions of landscape
+F6.58 307.760994     9780643094192     Newton, P. W. (Peter Wesle    2008 Transitions : Pathways Towards Sustainable Urban Development
+F6.59 320            9781509544776     Marsili, Lorenzo              2021 Planetary Politics: A Manifesto (Theory Redux)
+F6.60 320.01         9780312468422     Rousseau, Jean Jacques        2010 Discourse on the Origin and Foundations of Inequality among 
+F6.61 320.011        9780140444216     Aristotle                     1981 The Politics (Penguin Classics)
+F6.62 320.0902       9780140207781     Ullmann, Walter, 1910-1983    1970 A history of political thought : the middle ages
+F6.63 320.1          9780143566465     Machiavelli, Niccolò, 1469    None The prince
+F6.64 320.15         9780061313103     Marsilius, of Padua, -1342    1967 Marsilius of Padua : : the defender of peace : Vol. 2. The d
+F6.65 320.157        9780226738895     Schmitt, Carl, 1888-1985      2006 Political theology : four chapters on the concept of soverei
+F6.66 320.5          9780140390155     Paine, Thomas                 1984 Rights of Man (Penguin American Library)
+F6.67 320.5130973    9781931498715     Lakoff, George                2004 Don't think of an elephant! : know your values and frame the
+F6.68 320.917        9780521438339     Ajami, Fouad                  1992 The Arab predicament : Arab political thought and practice s
+F6.69 320.9385       9780140444315     Aristote                      1984 The Athenian Constitution
+F6.70 320.94         9781844673247     Mair, Peter                   2013 Ruling the void : the hollowing of Western democracy
+F6.71 320.941        9780006862437     Letwin, Shirley Robin         1992 The anatomy of Thatcherism
+F6.72 320.94205      9780006333395     Loades, D. M.                 1974 Politics and the nation 1450-1660; : obedience, resistance a
+F6.73 320.994        9780992482589     Bridges, Scott David Edwar    2014 Kevern write a book : the best of @Rudd2000
+F6.74 320.994        9781863956727     Keating, Paul, 1944-          2014 The book of Paul : the wit & wisdom of Paul Keating
+F6.75 320.994        9780143574088     Kelly, Paul, 1947-            2017 The dismissal : in the queen's name
+F6.76 320.994        9780851791487     Whitington, Don               1971 Inside Canberra, : a guide to Australian federal politics
+F6.77 321.07         9780140455113     Plato                         2007 The republic
+F6.78 321.12         9780393092240     Service, Elman R. (Elman R    1975 Origins of the state and civilization : the process of cultu
+F6.79 322.10973      9780310267317     Boyd, Gregory A., 1957-       2007 The myth of a Christian nation : how the quest for political
+F6.80 323            9781921946356     Falzon, John                  2012 The language of the unheard
+F6.81 323            9780691114743     Ignatieff, Michael            2003 Human rights as politics and idolatry
+F6.82 323.092        9781849162623     Hodgson, Godfrey              2010 Martin Luther King
+F6.83 323.14         9781405129640     Moore, R. I. (Robert Ian),    2007 The formation of a persecuting society : power and deviance 
+F6.84 324.29405      9781863957915     Williams, Evan                None Australian leader eats raw onion whole : headlines from the 
+F6.85 324.2940987092 9781742707662     Brown, Bob, 1944-             2014 Optimism : reflections on a life of action
+F6.86 324.2940987092 9780702259814     Milne, Christine              2018 An activist life
+F6.87 325.210955     9780755649358     Boochani, Behrouz             None Freedom, Only Freedom
+F6.88 325.210955     9781760555382     Boochani, Behrouz             None No friend but the mountains : writing from Manus Prison
+F6.89 327.0903       9781605204703     Mattingly, Garrett, 1900-1    2009 Renaissance diplomacy
+F6.90 327.1          9780821408490     Kainz, Howard P.              1988 Philosophical Perspectives On Peace: Anthology Of Classical 
+F6.91 327.42                           Wernham, R. B                 1966 Before the Armada: The emergence of the English Nation, 1485
+F6.92 330            9781848139923     Keen, Steve                   2011 Debunking economics : the naked emperor dethroned?
+F6.93 330            9780060731328     Levitt, Steven D.             2005 Freakonomics : a rogue economist explores the hidden side of
+F6.94 330.192        9781621387312     Tawney, R. H. (Richard Hen    2021 Religion and the rise of capitalism : a historical study
+F6.95 330.942                          Hill, Christopher             2018 Reformation to Industrial Revolution: 1530-1780
+F6.96 330.942        9781565845619     Hobsbawm, Eric John,          1999 Industry and empire : from 1750 to the present day
+F6.97 330.9730931    9780670920365     McLean, Bethany               2011 All the devils are here : the hidden history of the financia
+F6.98 331.80994      9780522874853     McManus, Sally                2019 On fairness
+F6.99 331.8811371109 9781742234588     O'Brien, Michael J., 1930-    2016 The National Tertiary Education Union : the first twenty yea
+F6.100 332.024        9781583334270     Desjardins, Lisa              2011 Zombie economics : a guide to personal finance
+F6.101 335.4          9780674430006     Piketty, Thomas, 1971-        2014 Capital in the twenty-first century
+F6.102 332.0973       9781586486839     Soros, George                 2008 The new paradigm for financial markets : the credit crisis o
+F6.103 333.7          9781760640835     Ludlam, Scott                 None Full Circle; Power, Hope and the Return of Nature
+F6.104 333.790973     9780141011455     McLean, Bethany               2004 The smartest guys in the room : the amazing rise and scandal
+F6.105 333.790973     9780060520748     Smith, Rebecca (Reporter)     2004 24 days : how two Wall Street journal reporters uncovered th
+F6.106 333.95         9780643095786     Downton, Paul F.              2009 Ecopolis : architecture and cities for a changing climate
+F6.107 335            9780415254076     Weil, Simone 1909-1943        2001 Oppression and liberty
+F6.108 335.02         9780140441659     More, Thomas, Saint, 1478-    1965 Utopia
+F6.109 335.4                            Marx, Karl                    2009 Essential Writings of Karl Marx: Economic and Philosophic Ma
+F6.110 335.83089924   9781849353991     Milstein, Cindy               2021 There is Nothing So Whole as a Broken Heart: Mending the Wor
+F6.111 338.092                          Bower, Rod                    2006 Plan B Attitude
+F6.112 338.2092       9781742610979     Ferguson, Adele               2012 Gina Rinehart : the untold story of the richest person in Au
+F6.113 338.927        9780643100329     Gleeson, James,               2012 Reducing the impacts of development on wildlife
+F6.114 323.119915     9781741178869     Mayo, Thomas                  None The Voice to Parliament Handbook
+F6.115 343.730143     9780522854008     Sales, Leigh                  2007 Detainee 002 : the case of David Hicks
+F6.116 343.940998     9781742370385     Pearson, Mark, 1954-          2011 The journalist's guide to media law
+F6.117 344.0454       9780226077840     Brundage, James A.            1990 Law, sex, and Christian society in medieval Europe
+F6.118 345.440263     9780674766914     Davis, Natalie Zemon, 1928    1983 The return of Martin Guerre
+F6.119 352.23860973   9780143116424     Obama, Barack                 2009 The inaugural address, 2009
+F6.120 354.47                           Sloan, Pat                    1942 How the Soviet State is run
+F6.121 355.02         9780140439199     Sunzi, active 6th century     2003 The art of war
+F6.122 355.34340973   9780330435260     Ronson, Jon, 1967-            2004 The men who stare at goats
+F6.123 355.347        9781742233147     Strong, Rowan                 2012 Chaplains in the Royal Australian Navy : 1912 to the Vietnam
+F6.124 362.1966940097 9781421441849     Reis, Elizabeth               2021 Bodies in Doubt: An American History of Intersex
+F6.125 362.20941      9781786499875     Davies, James (James Peter    2022 Sedated : how modern capitalism created our mental health cr
+F6.126 362.82920994   9781760641405     Hill, Jess                    2019 See what you made me do : the dangers of domestic abuse that
+F6.127 362.849915     9780646913414     Gartland, Georgina            None In the absence of treaty
+F6.128 362.880820994  9781922464675     Fitz-Gibbon, Kate (Lecture    2021 Our national shame : violence against women
+F6.129 362.883        9781863956017     Krien, Anna                   2013 Night games : sex, power and sport
+F6.130 363.20973      9781784782924     Vitale, Alex S.               2018 The end of policing
+F6.131 363.3250994    9780522875492     Salusinszky, Imre, 1955-      2019 The Hilton bombing : Evan Pederick and the Ananda Marga
+F6.132 363.59350994   9781875989218     Birmingham, John, 1964-       2000 He died with a felafel in his hand
+F6.133 363.73874      9783319155050     Rauland, Vanessa              2015 Decarbonising cities : mainstreaming low carbon urban develo
+F6.134 364.1320973    9780704311404     Bernstein, Carl, 1944-        1974 All the President's men
+F6.135 364.152309762  9781926428468     Safran, John                  2013 Murder in Mississippi : the true story of how I met a white 
+F6.136 364.1523097814 9780141043081     Capote, Truman, 1924-1984     2010 In cold blood : a true account of a multiple murder and its 
+F6.137 364.15554      9781740660266     Porter, Muriel                2003 Sex, power & the clergy
+F6.138 364.168092     9780316037723     Mitnick, Kevin D. (Kevin D    2012 Ghost in the wires : my adventures as the world's most wante
+F6.139 364.1680973    9781416507789     Stoll, Clifford               2005 The cuckoo's egg : tracking a spy through the maze of comput
+F6.140 364.68         9780520304444     Blue, Ethan                   2021 The Deportation Express: A History of America through Forced
+F6.141 365            9780140137224     Foucault, Michel, 1926-198    1991 Discipline and punish : the birth of the prison
+F6.142 365.450924     9780299182441     Timerman, Jacobo, 1923-199    2002 Prisoner without a name, cell without a number
+F6.143 365.450947     9780006336426     Solzhenit︠s︡yn, Aleksandr     1973 The Gulag Archipelago, 1918-1956 : an experiment in literary
+F6.144 370.115        9780241301111     Freire, Paulo, 1921-1997      2017 Pedagogy of the oppressed
+F6.145 384.06541      9781846146046     Watson, Tom, 1967-            2012 Dial M for Murdoch : News Corporation and the corruption of 
+F6.146 388.4091733    9781844077403     Mees, Paul, 1961-             2009 Transport for suburbia : beyond the automobile age
+F6.147 394.1          9781684512553     Foley, Michael P.             2022 Drinking with the Saints (Deluxe): The Sinner's Guide to a H
+F6.148 394.12         9781408812181     Pollan, Michael               2011 The omnivore's dilemma : the search for a perfect meal in a 
+F6.149 398.20994      9780702206221     Lawrie, Margaret              1970 Myths and Legends of Torres Strait
+F6.150 398.2089924    9780385195744     Sadeh, Pinḥas                 1989 Jewish folktales
+F6.151 398.2093802    9781787333697     Higgins, Charlotte, 1972-     None Greek myths : a new retelling
+F6.152 398.2452       9780007902125     Aesop                         2011 Aesop's fables
+F6.153 400            9780141037653     Pinker, Steven, 1954-         2008 The language instinct
+F6.154 427.994        9781740512787     Watson, Don, 1949-            2004 Death sentence : the decay of public language
+F6.155 477            9780813206677     Collins, John F., 1937-200    1988 A primer of ecclesiastical Latin
+F6.156 477            9781565631311     Stelten, Leo F., 1925-2018    1995 Dictionary of ecclesiastical Latin : with an appendix of Lat
+F6.157 478            9780813214696     Dunlap, John R., 1945-        2006 An answer key to A primer of ecclesiastical Latin : a supple
+F6.158 478.2421       9780385413398     Hendricks, Rhoda A.           1992 Latin made simple
+F6.159 483            9780342684861     Liddell, Henry George, 181    2018 A lexicon abridged from Liddell and Scott's Greek-English le
 G1.01 487.1          9781781251324     Fox, Margalit                 None The riddle of the labyrinth : the quest to crack an ancient 
 G1.02 487.4          9780334011392     Barclay, William, 1907-197    2012 New Testament words
 G1.03 487.4          9780802867339     Croy, N. Clayton              2011 A primer of Biblical Greek
@@ -1688,18 +1687,19 @@ H4.99 822.33         9780862881467     Shakespeare, William          1980 Comple
 H4.100 305.89915      9781925768947     Shiosaki, Elfie               None Homecoming
 H4.101 808.8193538    9780932112972     Shomer, Enid [Editor]         2018 All we know of pleasure : poetic erotica by women
 H4.102 821.92         9780646888132     Sun, Emily                    None hello ❤️ keanu!
-H4.103 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
-H4.104 818.303        9780146001956     Thoreau, Henry David.         1996 Civil Disobedience
-H4.105 819.13         9781907598784     Towers, Katharine             2019 Ten Poems about Trees
-H4.106 813.4          9780146001864     Twain, Mark                   1996 The Man that Corrupted Hadleyburg (Classic, 60s)
-H4.107 821.914        9781800171619     Tóibín, Colm, 1955-           2022 Vinegar Hill
-H4.108 871            9781725273030     Urban VIII, Pope, 1568-164    2020 Pope Urban VIII and Pope Alexander VII : selected poety : ly
-H4.109 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
-H4.110 811.3          9780486456768     Whitman, Walt, 1819-1892      2007 Leaves of grass
-H4.111 821.92         9781800171091     WILLIAMS, ROWAN               None COLLECTED POEMS
-H4.112 813            9780146001765     Xueqin, Cao                   1996 The Dream of the Red Chamber
-H4.113 819.13         9781923099005     Yasbincek, Morgan             2023 Coming to Nothing
-H4.114 819.13         9780980526943     Yasbincek, Morgan             None White Camel
+H4.103 809.1033       9780674296084     Taylor, Charles               2024 Cosmic Connections: Poetry in the Age of Disenchantment
+H4.104 821.8          9781853264146     Tennyson, Alfred Tennyson,    1998 The works of Alfred Lord Tennyson : with an introduction and
+H4.105 818.303        9780146001956     Thoreau, Henry David.         1996 Civil Disobedience
+H4.106 819.13         9781907598784     Towers, Katharine             2019 Ten Poems about Trees
+H4.107 813.4          9780146001864     Twain, Mark                   1996 The Man that Corrupted Hadleyburg (Classic, 60s)
+H4.108 821.914        9781800171619     Tóibín, Colm, 1955-           2022 Vinegar Hill
+H4.109 871            9781725273030     Urban VIII, Pope, 1568-164    2020 Pope Urban VIII and Pope Alexander VII : selected poety : ly
+H4.110 821.00809415   9780717126811     Various.                      1998 A pocket treasury of Irish verse
+H4.111 811.3          9780486456768     Whitman, Walt, 1819-1892      2007 Leaves of grass
+H4.112 821.92         9781800171091     WILLIAMS, ROWAN               None COLLECTED POEMS
+H4.113 813            9780146001765     Xueqin, Cao                   1996 The Dream of the Red Chamber
+H4.114 819.13         9781923099005     Yasbincek, Morgan             2023 Coming to Nothing
+H4.115 819.13         9780980526943     Yasbincek, Morgan             None White Camel
 I3.01 823.92         9780008544508     Adegoke, Yomi                 None The List
 I3.02 813.6          9781405966122     Alban, Emma R.                2024 More than a Best Friend: The Lesbian Bridgerton you didn’t k
 I3.03 823.7          9780141199078     Austen, Jane, 1775-1817       2012 Pride and prejudice
@@ -1826,105 +1826,105 @@ I5.72 823.91         9780141185897     Hamilton, Patrick, 1904 Ma    2001 Hangov
 I5.73 823.914        9781405088817     Hamilton, Peter F.            2007 The dreaming void
 I5.74 895.73         9780241997062     Han, Kang                     2024 Greek Lessons: Winner of the 2024 Nobel Prize in Literature
 I5.75 895.735        9781846276033     Han, Kang                     2015 The Vegetarian: Winner of the 2024 Nobel Prize in Literature
-I5.76 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
-I5.77 823.8          9780333168776     Hardy, Thomas                 1974 Under the greenwood tree : a rural painting of the Dutch sch
-I5.78 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
-I5.79 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
-I5.80 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
-I5.81 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
-I5.82 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
-I5.83 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
-I5.84 813.54         9780241485729     Hoban, Russell                2021 The Medusa frequency
-I5.85 823.914        9780141037356     Hornby, Nick                  2008 High fidelity
-I5.86 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
-I5.87 823            9780140700862     Ireland, David, 1927-         1980 The flesheaters
-I5.88 895.63         9781529936711     Ishida, Syou                  2024 We'll Prescribe You a Cat
-I5.89 891.730876     9780020226505     Jacobson, H. S.               1981 New Soviet science fiction
-I5.90 823.914        9780571342211     James, P. D.                  2018 The children of men
-I5.91 833.912        9780140015720     Kafka, Franz                  1988 Metamorphosis (and Other Stories Modern Classics)
-I5.92 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
-I5.93 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
-I5.94 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
-I5.95 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
-I5.96 895.636        9781529029581     Kawaguchi, Toshikazu, 1971    2019 Before the coffee gets cold : a novel
-I5.97 895.636        9781529050868     Kawaguchi, Toshikazu, 1971    2020 Before the coffee gets cold : tales from the cafe
-I5.98 890.00         9781803512983     Kawakami, Hiromi              2025 Under the Eye of the Big Bird: Shortlisted for the Internati
-I5.99 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
-I5.100 895.636        9781846275104     Kawakami, Hiromi, 1958-       2014 Strange weather in Tokyo : a novel
-I5.101 895.636        9781529054224     Kawakami, Mieko, 1976-        2020 Breasts and eggs
-I5.102 823.914        9781864710014     Keneally, Thomas              2002 An Angel in Australia
-I5.103 813.54         9780141184883     Kerouac, Jack 1922-1969       2000 The Dharma bums
-I5.104 813.54         9780141187884     Kesey, Ken                    2005 One flew over the cuckoo's nest : a novel
-I5.105 813.6          9781474605731     KEYES, DANIEL                 2017 Flowers for Algernon
-I5.106 892.736        9781801107266     Khartash, Fayṣal              2022 Roundabout of death
-I5.107 813            9780571376476     Kingsolver, Barbara           2022 DEMON COPPERHEAD
-I5.108 823.8          9780199538614     Kipling, Rudyard, 1865-193    2009 Plain tales from the hills
-I5.109 823.914        9780571209293     Kureishi, Hanif, 1954-        2002 Gabriel's gift : a novel
-I5.110 823.92         9781913547271     Lambert, Charles, 1953-       2022 BONE FLOWER
-I5.111 823.912        9780141037424     Lawrence, D. H. (David Her    2008 John Thomas and Lady Jane
-I5.112 823.912        9780099540755     Lawrence, D. H. (David Her    2011 Sons and lovers
-I5.113 823.912        9780679734932     Lawrence, D. H. (David Her    1992 The plumed serpent : [Quetzalcoatl]
-I5.114 823.912        9780099512080     Lawrence, D. H. (David Her    2008 Women in love
-I5.115 813.54         9780434020485     Lee, Harper, 1926-            2010 To kill a mockingbird
-I5.116 813.54         9781982171902     Lee, Helen Elaine             2024 Pomegranate: A Novel
-I5.117 823.914        9781857988901     Levy, Roger, 1955-            2001 Reckless sleep
-I5.118 823.912        9780007528417     Lewis, C. S. (Clive Staple    2013 Space trilogy
-I5.119 809.02         9781107604704     Lewis, C. S. (Clive Staple    2012 The discarded image; : an introduction to medieval and Renai
-I5.120 823.91         9780486452814     Lindsay, Norman, 1879-1969    2006 The magic pudding
-I5.121 823.914        9780563207733     Lynn, Jonathan                1989 The Complete Yes Prime Minister : the diaries of the right H
-I5.122 813.54         9780099283928     MacLeod, Alistair             2006 No great mischief
-I5.123 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
-I5.124 823.914        9780007230204     Mantel, Hilary                2010 Wolf Hall : a novel
-I5.125 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
-I5.126 895.636        9781782275909     Matayoshi, Naoki, 1980-       2020 Spark
-I5.127 823.914        9780721412634     McEwan, Ian                   2007 Atonement
-I5.128 823.4          9780992378301     McPhee, Anscar                None Señor Pilich the Monastery Cat and the Sinister Mr Dreggs
-I5.129 823.4          9780975198063     McPhee, Anscar                None Señor Pilich the Monastery Cat in Wartime Kalumburu
-I5.130 812.52         9780141182551     Miller, Arthur                2000 The Crucible: A Play in Four Acts (Penguin Modern Classics)
-I5.131 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
-I5.132 823.912        9781933184500     Nichols, Aidan                2009 G.K. Chesterton, theologian
-I5.133 813.54         9780544309760     O'Brien, Tim                  2009 The Things They Carried
-I5.134 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
-I5.135 823.912        9780141187914     O'Connor, Frank, 1903-1966    2005 An only child ; : and, My father's son : an autobiography
-I5.136 824.912        9780141036618     Orwell, George                2008 Books v. Cigarettes: George Orwell
-I5.137 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
-I5.138 823.92         9780645525472     Park, Tania                   2024 A Tangle of Yarns: An anthology of short stories
-I5.139 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
-I5.140 813.54         9781785033780     Piercy, Marge                 2016 Woman on the edge of time
-I5.141 823.914        9780310269120     Plass, Adrian                 2005 The sacred diary of Adrian Plass aged 37 3/4
-I5.142 813.3          9780141195049     Poe, Edgar Allan              None Pit and the Pendulum
-I5.143 813.54         9780141190563     Potok, Chaim                  2009 My name is Asher Lev
-I5.144 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
-I5.145 813.54         9781400095414     Potok, Chaim                  2011 The promise
-I5.146 823            9780330235006     Power, Richard, 1928-1970     1973 The hungry grass
-I5.147 823.92         9781922930255     Price, Ernest                 None The Pyramid of Needs
-I5.148 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
-I5.149 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
-I5.150 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
-I5.151 813.54         9780224078696     Roth, Philip                  2006 Everyman
-I5.152 813.54         9780099422693     Roth, Philip                  2004 The Dying Animal [Lingua inglese]: Philip Roth
-I5.153 813.6          9780008192204     Roth, Veronica                2018 The fates divide
-I5.154 813.6          9780575081437     Rothfuss, Patrick, 1973-      2015 The wise man's fear
-I5.155 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
-I5.156 823.91                           Russell, Bertrand             1953 Satan in the Suburbs and Other Stories
-I5.157 823            9781922711038     Sakr, Omar                    2021 Son of Sin
-I5.158 813.54         9780140237498     Salinger, J. D. (Jerome Da    1994 The catcher in the rye
-I5.159 843.914        9780141185491     Sartre, Jean-Paul; Transla    2000 Nausea
-I5.160 823.7          9781343336766     Scott, Walter                 2015 The Heart Of Mid-lothian
-I5.161 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
-I5.162 813.54                           Selby, Hubert, Jr.            2001 Last Exit To Brooklyn
-I5.163 813.54         9780141195667     Selby, Hubert, Jr., 1928-2    2012 Requiem for a dream : a novel
-I5.164 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
-I5.165 823.7          9780938819806     Shelley, Mary Wollstonecra    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
-I5.166 823.912        9780099530268     Shute, Nevil, 1899-1960       2009 A town like Alice
-I5.167 823.912        9780008669461     Sibley, Brian                 2024 The Maps of Middle-earth: From Númenor and Beleriand to Wild
-I5.168 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
-I5.169 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
-I5.170 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
-I5.171 813.52         9780141185071     Steinbeck, Mr John            2000 East of Eden
-I5.172 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
-I5.173 895.635        9781788739887     Suzuki, Izumi, 1949-1986      2021 Terminal boredom : stories
-I5.174 809.1033       9780674296084     Taylor, Charles               2024 Cosmic Connections: Poetry in the Age of Disenchantment
+I5.76 895.73         9781846276958     Han, Kang                     2018 The White Book: Winner of the 2024 Nobel Prize in Literature
+I5.77 826.408        9780670076093     Hardy, Marieke [Editor]       2011 Sincerely
+I5.78 823.8          9780333168776     Hardy, Thomas                 1974 Under the greenwood tree : a rural painting of the Dutch sch
+I5.79 813.52         9780099273974     Hemingway, Ernest, 1899-19    2003 A farewell to arms
+I5.80 818.5203       9780099285045     Hemingway, Ernest, 1899-19    2000 A moveable feast
+I5.81 813.52         9780099595533     Hemingway, Ernest, 1899-19    2014 For whom the bell tolls
+I5.82 813.52         9780099273967     Hemingway, Ernest, 1899-19    1999 The old man and the sea
+I5.83 831.91         9780141984612     Hesse, Hermann, 1877-1962     2017 Narcissus and Goldmund
+I5.84 895.635        9781447279402     Hiraide, Takashi, 1950-       2001 The Guest Cat
+I5.85 813.54         9780241485729     Hoban, Russell                2021 The Medusa frequency
+I5.86 823.914        9780141037356     Hornby, Nick                  2008 High fidelity
+I5.87 839.8226       9780413463401     Ibsen, Henrik, 1828-1906      1980 Plays
+I5.88 823            9780140700862     Ireland, David, 1927-         1980 The flesheaters
+I5.89 895.63         9781529936711     Ishida, Syou                  2024 We'll Prescribe You a Cat
+I5.90 891.730876     9780020226505     Jacobson, H. S.               1981 New Soviet science fiction
+I5.91 823.914        9780571342211     James, P. D.                  2018 The children of men
+I5.92 833.912        9780140015720     Kafka, Franz                  1988 Metamorphosis (and Other Stories Modern Classics)
+I5.93 833.912        9780241372593     Kafka, Franz, 1883-1924       2019 The burrow
+I5.94 833.912        9780241372579     Kafka, Franz, 1883-1924       2019 The castle
+I5.95 833.912        9780486470610     Kafka, Franz, 1883-1924       2009 The trial
+I5.96 895.63                           Kagawa, Toyohiko              1933 A Grain of Wheat
+I5.97 895.636        9781529029581     Kawaguchi, Toshikazu, 1971    2019 Before the coffee gets cold : a novel
+I5.98 895.636        9781529050868     Kawaguchi, Toshikazu, 1971    2020 Before the coffee gets cold : tales from the cafe
+I5.99 890.00         9781803512983     Kawakami, Hiromi              2025 Under the Eye of the Big Bird: Shortlisted for the Internati
+I5.100 895.635        9781846276989     Kawakami, Hiromi, 1958-       None People from my neighbourhood
+I5.101 895.636        9781846275104     Kawakami, Hiromi, 1958-       2014 Strange weather in Tokyo : a novel
+I5.102 895.636        9781529054224     Kawakami, Mieko, 1976-        2020 Breasts and eggs
+I5.103 823.914        9781864710014     Keneally, Thomas              2002 An Angel in Australia
+I5.104 813.54         9780141184883     Kerouac, Jack 1922-1969       2000 The Dharma bums
+I5.105 813.54         9780141187884     Kesey, Ken                    2005 One flew over the cuckoo's nest : a novel
+I5.106 813.6          9781474605731     KEYES, DANIEL                 2017 Flowers for Algernon
+I5.107 892.736        9781801107266     Khartash, Fayṣal              2022 Roundabout of death
+I5.108 813            9780571376476     Kingsolver, Barbara           2022 DEMON COPPERHEAD
+I5.109 823.8          9780199538614     Kipling, Rudyard, 1865-193    2009 Plain tales from the hills
+I5.110 823.914        9780571209293     Kureishi, Hanif, 1954-        2002 Gabriel's gift : a novel
+I5.111 823.92         9781913547271     Lambert, Charles, 1953-       2022 BONE FLOWER
+I5.112 823.912        9780141037424     Lawrence, D. H. (David Her    2008 John Thomas and Lady Jane
+I5.113 823.912        9780099540755     Lawrence, D. H. (David Her    2011 Sons and lovers
+I5.114 823.912        9780679734932     Lawrence, D. H. (David Her    1992 The plumed serpent : [Quetzalcoatl]
+I5.115 823.912        9780099512080     Lawrence, D. H. (David Her    2008 Women in love
+I5.116 813.54         9780434020485     Lee, Harper, 1926-            2010 To kill a mockingbird
+I5.117 813.54         9781982171902     Lee, Helen Elaine             2024 Pomegranate: A Novel
+I5.118 823.914        9781857988901     Levy, Roger, 1955-            2001 Reckless sleep
+I5.119 823.912        9780007528417     Lewis, C. S. (Clive Staple    2013 Space trilogy
+I5.120 809.02         9781107604704     Lewis, C. S. (Clive Staple    2012 The discarded image; : an introduction to medieval and Renai
+I5.121 823.91         9780486452814     Lindsay, Norman, 1879-1969    2006 The magic pudding
+I5.122 823.914        9780563207733     Lynn, Jonathan                1989 The Complete Yes Prime Minister : the diaries of the right H
+I5.123 813.54         9780099283928     MacLeod, Alistair             2006 No great mischief
+I5.124 827.91409      9781901784565     Macqueen, Adam                2011 Private eye : the first 50 years : an A-Z
+I5.125 823.914        9780007230204     Mantel, Hilary                2010 Wolf Hall : a novel
+I5.126 823.92         9780670916436     Matar, Hisham, 1970-          2006 In the country of men
+I5.127 895.636        9781782275909     Matayoshi, Naoki, 1980-       2020 Spark
+I5.128 823.914        9780721412634     McEwan, Ian                   2007 Atonement
+I5.129 823.4          9780992378301     McPhee, Anscar                None Señor Pilich the Monastery Cat and the Sinister Mr Dreggs
+I5.130 823.4          9780975198063     McPhee, Anscar                None Señor Pilich the Monastery Cat in Wartime Kalumburu
+I5.131 812.52         9780141182551     Miller, Arthur                2000 The Crucible: A Play in Four Acts (Penguin Modern Classics)
+I5.132 895.634        9780804832656     Natsume, Sōseki, 1867-1916    2001 I am a cat
+I5.133 823.912        9781933184500     Nichols, Aidan                2009 G.K. Chesterton, theologian
+I5.134 813.54         9780544309760     O'Brien, Tim                  2009 The Things They Carried
+I5.135 822.912        9780881840759     O'Casey, Sean, 1880-1964      1984 Autobiographies
+I5.136 823.912        9780141187914     O'Connor, Frank, 1903-1966    2005 An only child ; : and, My father's son : an autobiography
+I5.137 824.912        9780141036618     Orwell, George                2008 Books v. Cigarettes: George Orwell
+I5.138 823.92         9781921924705     Ouyang, Yu, 1955-             None Diary of a naked official
+I5.139 823.92         9780645525472     Park, Tania                   2024 A Tangle of Yarns: An anthology of short stories
+I5.140 823.92         9781529043402     Parker-Chan, Shelley          2022 She Who Became the Sun: The Number One Sunday Times Bestsell
+I5.141 813.54         9781785033780     Piercy, Marge                 2016 Woman on the edge of time
+I5.142 823.914        9780310269120     Plass, Adrian                 2005 The sacred diary of Adrian Plass aged 37 3/4
+I5.143 813.3          9780141195049     Poe, Edgar Allan              None Pit and the Pendulum
+I5.144 813.54         9780141190563     Potok, Chaim                  2009 My name is Asher Lev
+I5.145 813.54         9780141040776     Potok, Chaim                  2009 The chosen : a novel
+I5.146 813.54         9781400095414     Potok, Chaim                  2011 The promise
+I5.147 823            9780330235006     Power, Richard, 1928-1970     1973 The hungry grass
+I5.148 823.92         9781922930255     Price, Ernest                 None The Pyramid of Needs
+I5.149 813.52         9780141188935     Rand, Ayn                     2007 Atlas shrugged
+I5.150 813.52         9780141188621     Rand, Ayn                     2007 The fountainhead
+I5.151 813.54         9780375412011     Rice, Anne, 1941-             2005 Christ the Lord : out of Egypt : a novel
+I5.152 813.54         9780224078696     Roth, Philip                  2006 Everyman
+I5.153 813.54         9780099422693     Roth, Philip                  2004 The Dying Animal [Lingua inglese]: Philip Roth
+I5.154 813.6          9780008192204     Roth, Veronica                2018 The fates divide
+I5.155 813.6          9780575081437     Rothfuss, Patrick, 1973-      2015 The wise man's fear
+I5.156 828.9209       9780300260441     Roy, Sumana                   2021 How I became a tree
+I5.157 823.91                           Russell, Bertrand             1953 Satan in the Suburbs and Other Stories
+I5.158 823            9781922711038     Sakr, Omar                    2021 Son of Sin
+I5.159 813.54         9780140237498     Salinger, J. D. (Jerome Da    1994 The catcher in the rye
+I5.160 843.914        9780141185491     Sartre, Jean-Paul; Transla    2000 Nausea
+I5.161 823.7          9781343336766     Scott, Walter                 2015 The Heart Of Mid-lothian
+I5.162 814.54         9780349121635     Sedaris, David                2013 Let's explore diabetes with owls
+I5.163 813.54                           Selby, Hubert, Jr.            2001 Last Exit To Brooklyn
+I5.164 813.54         9780141195667     Selby, Hubert, Jr., 1928-2    2012 Requiem for a dream : a novel
+I5.165 814.6          9781788165723     Shafak, Elif, 1971-           2020 How to stay sane in an age of division
+I5.166 823.7          9780938819806     Shelley, Mary Wollstonecra    1988 Frankenstein, Or, the Modern Prometheus: With Supplementary 
+I5.167 823.912        9780099530268     Shute, Nevil, 1899-1960       2009 A town like Alice
+I5.168 823.912        9780008669461     Sibley, Brian                 2024 The Maps of Middle-earth: From Númenor and Beleriand to Wild
+I5.169 818.602        9780762444144     Stall, Sam                    2012 Dancing with Jesus : featuring a host of miraculous moves
+I5.170 813.52         9780140177398     Steinbeck, John               1993 Of mice and men
+I5.171 813.52         9780141185125     Steinbeck, John, 1902-1968    2011 The pearl
+I5.172 813.52         9780141185071     Steinbeck, Mr John            2000 East of Eden
+I5.173 813.6          9781782394860     Strayed, Cheryl               2015 Wild: A Journey from Lost to Found
+I5.174 895.635        9781788739887     Suzuki, Izumi, 1949-1986      2021 Terminal boredom : stories
 I5.175 813.54         9781250769848     Tolmie, Sarah                 2020 The fourth island
 I5.176 891.733        9781853262715     Tolstoy, Leo, graf, 1828-1    1997 Anna Karenina : a novel in eight parts
 I5.177 891.733        9781853260629     Tolstoy, Leo, graf, 1828-1    1997 War and peace
