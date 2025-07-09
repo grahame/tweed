@@ -421,10 +421,14 @@ class Library:
             }
 
         with open("data/sort_keys.json", "w") as fd:
-            # prune out anything with missing DDC, as that's a basic data entry problem
+            # prune out anything with missing DDC or author, as that's a basic data entry problem
             # we don't want hanging around forever
             json.dump(
-                {k: v for k, v in sort_keys.items() if not v["ddc"][0]},
+                {
+                    k: v
+                    for k, v in sort_keys.items()
+                    if not v["ddc"][0] and v["author"][0]
+                },
                 fd,
                 indent=4,
                 ensure_ascii=False,

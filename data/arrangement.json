@@ -52,7 +52,8 @@
                 {"@isbnfile": "data/first-nations.txt"}
             ],
             "shelves": [
-                { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "" } }
+                { "bookshelf": "K", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "K", "shelf": 2, "first_book": { "isbn": "9781760526931" } }
             ]
         },
         "cookbooks": {
@@ -206,30 +207,32 @@
                 {"@isbnfile": "data/speculative-fiction.txt"}
             ],
             "shelves": [
-                { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "L", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "K", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "L", "shelf": 1, "first_book": { "isbn": "9780583309868" } },
+                { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "9780099563143" } },
+                { "bookshelf": "L", "shelf": 3, "first_book": { "isbn": "9780349139203" } },
 
-                { "bookshelf": "M", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "M", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "M", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "M", "shelf": 1, "first_book": { "isbn": "9780006498124" } },
+                { "bookshelf": "M", "shelf": 2, "first_book": { "isbn": "9780671022075" } },
+                { "bookshelf": "M", "shelf": 3, "first_book": { "isbn": "9781473621473" } },
 
-                { "bookshelf": "N", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "N", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "N", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "N", "shelf": 1, "first_book": { "isbn": "9780356504292" } },
+                { "bookshelf": "N", "shelf": 2, "first_book": { "isbn": "9780679752981" } },
+                { "bookshelf": "N", "shelf": 3, "first_book": { "isbn": "9780747545187" } },
 
-                { "bookshelf": "O", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "O", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "O", "shelf": 3, "first_book": { "isbn": "" } },
-                { "bookshelf": "O", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "O", "shelf": 5, "first_book": { "isbn": "" } },
-                { "bookshelf": "O", "shelf": 6, "first_book": { "isbn": "" } },
+                { "bookshelf": "O", "shelf": 1, "first_book": { "isbn": "9780063418868" } },
+                { "bookshelf": "O", "shelf": 2, "first_book": { "isbn": "9781534414594" } },
+                { "bookshelf": "O", "shelf": 3, "first_book": { "isbn": "9781447268970" } },
+                { "bookshelf": "O", "shelf": 4, "first_book": { "isbn": "9780099540953" } },
+                { "bookshelf": "O", "shelf": 5, "first_book": { "isbn": "9780552167574" } },
+                { "bookshelf": "O", "shelf": 6, "first_book": { "isbn": "9781529150544" } },
 
-                { "bookshelf": "P", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "P", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "P", "shelf": 3, "first_book": { "isbn": "" } },
-                { "bookshelf": "P", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "P", "shelf": 5, "first_book": { "isbn": "" } },
-                { "bookshelf": "P", "shelf": 6, "first_book": { "isbn": "" } }
+                { "bookshelf": "P", "shelf": 1, "first_book": { "isbn": "9780356508849" } },
+                { "bookshelf": "P", "shelf": 2, "first_book": { "isbn": "9781843549161" } },
+                { "bookshelf": "P", "shelf": 3, "first_book": { "isbn": "9780670060597" } },
+                { "bookshelf": "P", "shelf": 4, "first_book": { "isbn": "9780008214227" } },
+                { "bookshelf": "P", "shelf": 5, "first_book": { "isbn": "9781761470011" } },
+                { "bookshelf": "P", "shelf": 6, "first_book": { "isbn": "9780099524083" } }
             ]
         },
         "other-fiction": {
@@ -237,13 +240,13 @@
             "code": "FIC",
             "matches": [{"ddc": "^[8]"}, {"ddc": ""}],
             "shelves": [
-                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "9781408728611" } },
-                { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "9781529093001" } },
+                { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "9781925589252" } },
 
-                { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "" } },
+                { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "9781864710014" } },
+                { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "9780881840759" } },
+                { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "9780938819806" } },
 
                 { "bookshelf": "K", "shelf": 1, "first_book": { "isbn": "" } },
                 { "bookshelf": "K", "shelf": 2, "first_book": { "isbn": "" } },
