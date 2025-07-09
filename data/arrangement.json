@@ -25,10 +25,10 @@
             ],
             "shelves": [
                 { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "" } },
-                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "" } }
+                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780992339340" } },
+                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9781911187912" } },
+                
+                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9780099529460" } }
             ]
         },
         "romance-and-wry-social-commentary": {
@@ -40,8 +40,9 @@
                 {"@isbnfile": "data/romance.txt"}
             ],
             "shelves": [
-                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } }
+                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
+                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "9788129113726" } },
+                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "9781408728611" } }
             ]
         },
         "first-nations": {
@@ -163,7 +164,7 @@
             "sort": "author",
             "code": "SPEC",
             "matches": [
-                {"author": "r:.*Adams, Douglas,.*"},
+                {"author": "r:.*Adams, Douglas.*"},
                 {"author": "r:.*Asimov,.*"},
                 {"title": "r:.*Asimov.*"},
                 {"author": "r:.*Aaronovitch, Ben.*"},
@@ -236,6 +237,7 @@
             "code": "FIC",
             "matches": [{"ddc": "^[8]"}, {"ddc": ""}],
             "shelves": [
+                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "9781408728611" } },
                 { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "" } },
                 { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "" } },
 
