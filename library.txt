@@ -101,25 +101,26 @@ A4.11 200.82         9780813365916     Young, Katherine K., 1944-    2003 Her vo
 A4.12 200.866        9781915412621     Bell, Charlie                 2024 Queer Redemption: How queerness changes everything we know a
 A4.13 200.866        9780008360054     Hunt, Ruth, 1980- [Author;    None The book of queer prophets : 24 writers on sexuality and rel
 A4.14 200.866        9780664268893     Joseph, Marchal A.            2025 Trans Biblical: New Approaches to Interpretation and Embodim
-A4.15 200.94         9780393047455     Wilson, A. N., 1950-          1999 God's funeral
-A4.16 200.994090511  9780521673891     Bouma, Gary D.                2007 Australian soul : religion and spirituality in the twenty-fi
-A4.17 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
-A4.18 201            9780691020631     Kierkegaard, Søren, 1813-1    1991 Training in Christianity : and, the Edifying discourse which
-A4.19 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
-A4.20 201            9780226803418     Tillich, Paul, 1886-1965      1964 Biblical religion and the search for ultimate reality
-A4.21 201.65         9780226478982     Harrison, Peter, 1955-        2017 The territories of science and religion
-A4.22 201.72         9781350116382     Guest, Mathew                 2022 NEOLIBERAL RELIGION : faith and power in the 21st century
-A4.23 201.72         9781400079131     Lilla, Mark                   2008 The stillborn God : religion, politics, and the modern West
-A4.24 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
-A4.25 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
-A4.26 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
-A4.27 205.677        9781846945465     Ogden, Steven                 2011 Love Upside Down: Life, Love and the Subversive Jesus
-A4.28 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
-A4.29 209.2          9780859220323     Watson, John                  None Holy persons and holy days : paragraphs to accompany the cal
-A4.30 210.1          9781666779417     Deutschmann, Barbara          2024 Reading the Bible in Australia
-A4.31 210.1          9781922235763     Hudson, Wayne                 2016 Australian religious thought
-A4.32 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
-A4.33 211            9780300209358     Hart, David Bentley           2014 The experience of God : being, consciousness, bliss
+A4.15 200.89         9781513807669     Moore, Osheta                 2021 Dear White Peacemakers: Dismantling Racism With Grit and Gra
+A4.16 200.94         9780393047455     Wilson, A. N., 1950-          1999 God's funeral
+A4.17 200.994090511  9780521673891     Bouma, Gary D.                2007 Australian soul : religion and spirituality in the twenty-fi
+A4.18 201            9780140444490     Kierkegaard, Søren, 1813-1    1986 Fear and trembling : Repetition
+A4.19 201            9780691020631     Kierkegaard, Søren, 1813-1    1991 Training in Christianity : and, the Edifying discourse which
+A4.20 201            9780195002102     Otto, Rudolf 1869-1937        1958 The idea of the holy : an inquiry into the non-rational fact
+A4.21 201            9780226803418     Tillich, Paul, 1886-1965      1964 Biblical religion and the search for ultimate reality
+A4.22 201.65         9780226478982     Harrison, Peter, 1955-        2017 The territories of science and religion
+A4.23 201.72         9781350116382     Guest, Mathew                 2022 NEOLIBERAL RELIGION : faith and power in the 21st century
+A4.24 201.72         9781400079131     Lilla, Mark                   2008 The stillborn God : religion, politics, and the modern West
+A4.25 201.76332      9780195385045     Cavanaugh, William T., 196    2009 The myth of religious violence : secular ideology and the ro
+A4.26 201.76332      9780805212686     Sacks, Jonathan, 1948-2020    2017 Not in God's name : confronting religious violence
+A4.27 204.4          9781922152596     Chittister, Joan              2012 The art of life : monastic wisdom for every day
+A4.28 205.677        9781846945465     Ogden, Steven                 2011 Love Upside Down: Life, Love and the Subversive Jesus
+A4.29 209            9780684815039     Johnson, Paul, 1928-          1979 A history of Christianity
+A4.30 209.2          9780859220323     Watson, John                  None Holy persons and holy days : paragraphs to accompany the cal
+A4.31 210.1          9781666779417     Deutschmann, Barbara          2024 Reading the Bible in Australia
+A4.32 210.1          9781922235763     Hudson, Wayne                 2016 Australian religious thought
+A4.33 211            9780099524038     Armstrong, Karen, 1944-       2010 The case for God
+A4.34 211            9780300209358     Hart, David Bentley           2014 The experience of God : being, consciousness, bliss
 A5.01 211.6          9781921410192     Frame, T. R. (Thomas R.),     2009 Losing my religion : unbelief in Australia
 A5.02 211.6          9781408837412     Grayling, A. C                2013 The God argument : the case against religion and for humanis
 A5.03 211.6          9780674986916     Taylor, Charles, 1931-        2018 A secular age
