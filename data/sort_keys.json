@@ -4315,19 +4315,6 @@
             "the new testament : a translation"
         ]
     },
-    "164329511": {
-        "_rev": 1,
-        "ddc": [
-            true,
-            null,
-            "baker publishing group",
-            "nrsv popular text edition with apocrypha nr533:ta black french morocco leather: anglicized edition (cambridge bibles)"
-        ],
-        "author": [
-            "baker publishing group",
-            "nrsv popular text edition with apocrypha nr533:ta black french morocco leather: anglicized edition (cambridge bibles)"
-        ]
-    },
     "164329614": {
         "_rev": 1,
         "ddc": [
@@ -29249,19 +29236,6 @@
             "emboldened : a vision for empowering women in ministry"
         ]
     },
-    "231524938": {
-        "_rev": 1,
-        "ddc": [
-            true,
-            null,
-            "gelling, peter",
-            "15053 - how to play ukulele - book/online video & audio"
-        ],
-        "author": [
-            "gelling, peter",
-            "15053 - how to play ukulele - book/online video & audio"
-        ]
-    },
     "231730532": {
         "_rev": 1,
         "ddc": [
@@ -34124,19 +34098,6 @@
             "a fisherman of the inland sea"
         ]
     },
-    "271728750": {
-        "_rev": 1,
-        "ddc": [
-            true,
-            null,
-            "le guin, ursula",
-            "five ways to forgiveness"
-        ],
-        "author": [
-            "le guin, ursula",
-            "five ways to forgiveness"
-        ]
-    },
     "271728787": {
         "_rev": 1,
         "ddc": [
@@ -34161,19 +34122,6 @@
         "author": [
             "ishida, syou",
             "we'll prescribe you a cat"
-        ]
-    },
-    "273003884": {
-        "_rev": 1,
-        "ddc": [
-            true,
-            null,
-            "fudge, thomas a",
-            "darkness: the conversion of anglican armidale, 1960-2019"
-        ],
-        "author": [
-            "fudge, thomas a",
-            "darkness: the conversion of anglican armidale, 1960-2019"
         ]
     },
     "289707757": {
@@ -35825,6 +35773,45 @@
         "author": [
             "beale, kim",
             "the building of esperence stonehenge"
+        ]
+    },
+    "164329511": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "220",
+            "baker publishing group",
+            "nrsv popular text edition with apocrypha nr533:ta black french morocco leather: anglicized edition (cambridge bibles)"
+        ],
+        "author": [
+            "baker publishing group",
+            "nrsv popular text edition with apocrypha nr533:ta black french morocco leather: anglicized edition (cambridge bibles)"
+        ]
+    },
+    "271728750": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "813.54",
+            "le guin, ursula",
+            "five ways to forgiveness"
+        ],
+        "author": [
+            "le guin, ursula",
+            "five ways to forgiveness"
+        ]
+    },
+    "273003884": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "283.94",
+            "fudge, thomas a",
+            "darkness: the conversion of anglican armidale, 1960-2019"
+        ],
+        "author": [
+            "fudge, thomas a",
+            "darkness: the conversion of anglican armidale, 1960-2019"
         ]
     }
 }

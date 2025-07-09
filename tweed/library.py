@@ -420,7 +420,14 @@ class Library:
             }
 
         with open("data/sort_keys.json", "w") as fd:
-            json.dump(sort_keys, fd, indent=4, ensure_ascii=False)
+            # prune out anything with missing DDC, as that's a basic data entry problem
+            # we don't want hanging around forever
+            json.dump(
+                {k: v for k, v in sort_keys.items() if not v["ddc"][0]},
+                fd,
+                indent=4,
+                ensure_ascii=False,
+            )
 
         for zone, subbooks in zone_books.items():
             sort_method = zones[zone]["sort"]
