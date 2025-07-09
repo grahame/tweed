@@ -1,0 +1,480 @@
+zone crime has 1 shelves and 12 books
+zone poetry-and-epic-myth has 5 shelves and 103 books
+zone romance-and-wry-social-commentary has 2 shelves and 51 books
+zone first-nations has 1 shelves and 66 books
+zone cookbooks has 3 shelves and 14 books
+zone liturgy has 3 shelves and 75 books
+zone tech has 6 shelves and 155 books
+zone philosophy-theology has 35 shelves and 1272 books
+zone other-ology has 10 shelves and 310 books
+zone speculative-fiction has 20 shelves and 483 books
+zone other-fiction has 9 shelves and 197 books
+data/first-nations.txt: ISBN not matched - 9780647530672
+  THEOL  A1.13      133.43  9781908011503  Wildoak, Peregin              By names and images : bringing the Golde
++ THEOL  A1.14      133.90  9780307451330  Tompkins, Ptolemy             The Divine Life of Animals: One Man's Qu
+  THEOL  A1.15      149.3   9781908388001  Underhill, Evelyn, 1875-19    Practical mysticism; : a little book for
+
+  THEOL  A4.01      199.94  9781876492083  Franklin, James, 1953-        Corrupting the youth : a history of phil
++ THEOL  A4.02      200     9781619708235  Brown, Harold O. J.           Heresies: Heresy and Orthodoxy in the Hi
+  THEOL  A4.03      200     9780141046310  De Botton, Alain              Religion for atheists : a non-believer's
+
+  THEOL  A4.08      200.1   9780521359665  Smart, Ninian, 1927-2001 [    Nineteenth century religious thought in 
++ THEOL  A4.09      200.1   9780334020035  Sutherland, Stewart R.        Faith and Ambiguity
+  THEOL  A4.10      200.7   9780567085344  King, Ursula                  Turning points in religious studies : es
+
+  THEOL  A4.13      200.86  9780008360054  Hunt, Ruth, 1980- [Author;    The book of queer prophets : 24 writers 
++ THEOL  A4.14      200.86  9780664268893  Joseph, Marchal A.            Trans Biblical: New Approaches to Interp
+  THEOL  A4.15      200.94  9780393047455  Wilson, A. N., 1950-          God's funeral
+
+  THEOL  A4.26      204.4   9781922152596  Chittister, Joan              The art of life : monastic wisdom for ev
++ THEOL  A4.27      205.67  9781846945465  Ogden, Steven                 Love Upside Down: Life, Love and the Sub
+  THEOL  A4.28      209     9780684815039  Johnson, Paul, 1928-          A history of Christianity
+
+  THEOL  A5.15      220.6   9780994470799  Habel, Norm                   Why on Earth Do You Still Read the Bible
++ THEOL  A5.16      220.6   9780281078158  Rohr, Richard                 The Divine Dance: The Trinity And Your T
+  THEOL  A5.17      220.6   9780867166590  Rohr, Richard                 Things hidden : scripture as spiritualit
+
+  THEOL  A5.35      220.92  9781570755347  Rohr, Richard                 Soul brothers : men in the Bible speak t
++ THEOL  A5.36      220.92  9781781402894  Gooder, Paula                 Women of Holy Week: An Easter Journey in
+  THEOL  A5.37      221     9780691166247  Buber, Martin, 1878-1965      The prophetic faith
+
+  THEOL  A6.01      221.6   9780582025615  Anderson, Bernhard W.         The living world of the Old Testament
++ THEOL  A6.02      221.6   9781575062198  Anderson, John E.             Jacob and the Divine Trickster: A Theolo
+  THEOL  A6.03      221.6   9781592645381  Berman, Joshua, 1964-         Ani maamin : biblical criticism, histori
+
+  THEOL  B1.18      222.11  9781555408855  Wevers, John William          Notes on the Greek text of Genesis
++ THEOL  B1.19      222.11  9780281081080  Warner, Meg                   Joseph: A Story of Resilience
+  THEOL  B1.20      222.11  9780664234379  Brueggemann, Walter           Genesis
+
+  THEOL  B2.08      222.35  9780334059837  Havea, Jione, 1965-           Losing ground : reading Ruth in the Paci
++ THEOL  B2.09      222.35  9781932792911  Holmstedt, Robert D.          Ruth: A Handbook on the Hebrew Text (Bay
+  THEOL  B2.10      222.40                 Hertzberg, H. W.              H W Hertzberg / First and Second Samuel 
+
+  THEOL  B4.08      225.48  9780310320500  Rienecker, Fritz              A linguistic key to the Greek New Testam
++ THEOL  B4.09      225.6   9780334020561  Charpentier, Etienne          How to Read the New Testament (How to S)
+  THEOL  B4.10      225.6   9780687054343  Craddock, Fred B.             The New Interpreter's® Bible New Testame
+
+  THEOL  B5.38      226.5   9781925208283  Lee, Dorothy A.               Hallowed in truth and love : spiritualit
++ THEOL  B5.39      226.5   9780814628638  SJ, Scott M. Lewis            Gospel According to John And the Johanni
+  THEOL  B6.01      226.50  9780300140156  Brown, Raymond Edward         An introduction to the Gospel of John
+
+  THEOL  C2.10      230.04  9780334041276  Moltmann, Jürgen              A broad place : an autobiography
++ THEOL  C2.11      230.04  9780800632670  Moltmann, Jürgen              Experiences in Theology
+  THEOL  C2.12      230.04  9781596270848  Brown, Delwin, 1935-          What does a progressive Christian believ
+
+  THEOL  C3.10      230.3                  Ramsey, Arthur Michael        From Gore to Temple
++ THEOL  C3.11      230.3   9781921577185  Stead, Michael R.             Christ died for our sins : essays on the
+  THEOL  C3.12      230.3   9780687014606  Sykes, Stephen                Unashamed Anglicanism
+
+  THEOL  C3.12      230.3   9780687014606  Sykes, Stephen                Unashamed Anglicanism
++ THEOL  C3.13      230.41  9781962639422  Lang, James                   The Devil's Bagpipe: The True Life of Ma
+  THEOL  C3.14      230.41  9780840771766  Luther, Martin                Martin Luther: The Best from All His Wor
+
+  THEOL  C5.42      232.92  9780060675295  Spong, John Shelby            Born of a woman : a bishop rethinks the 
++ THEOL  C5.43      232.95  9780648344476  Daughtry, Stephen             The Imaginary Doorway: Stories and Studi
+  THEOL  C5.44      232.95  9781915933355  Del Duca, Antonio             The Seven Principal Angels
+
+  THEOL  C5.43      232.95  9780648344476  Daughtry, Stephen             The Imaginary Doorway: Stories and Studi
++ THEOL  C5.44      232.95  9781915933355  Del Duca, Antonio             The Seven Principal Angels
+  THEOL  C6.01      232.95  9780141003603  Vermes, Geza, 1924-           The authentic gospel of Jesus
+
+  THEOL  C6.04      232.96  9781505127973  Anselm, St.                   The Passion of Christ Through the Eyes o
++ THEOL  C6.05      232.96  9780232516685  Appleton, George              Hour of Glory: Meditations on the Passio
+  THEOL  C6.06      232.96  9780060872601  Borg, Marcus J.               The last week : the day-by-day account o
+
+  THEOL  C6.06      232.96  9780060872601  Borg, Marcus J.               The last week : the day-by-day account o
++ THEOL  C6.07      232.96  9781848255715  Gooder, Paula                 Journey to the Empty Tomb: Exploring the
+  THEOL  C6.08      232.96  9780334016786  Bammel, Ernst [Editor]        The Trial of Jesus : Cambridge studies i
+
+  THEOL  C6.32      234.16  9780281063925  Davison, Dr Andrew            Why Sacraments?
++ THEOL  C6.33      234.16  9780809124114  Guzie, Tad                    The Book of Sacramental Basics
+  THEOL  C6.34      234.16  9782825408315  Kinnamon, Michael             Why It Matters: A Popular Introduction t
+
+  THEOL  C6.33      234.16  9780809124114  Guzie, Tad                    The Book of Sacramental Basics
++ THEOL  C6.34      234.16  9782825408315  Kinnamon, Michael             Why It Matters: A Popular Introduction t
+  THEOL  C6.35      234.16  9780814652275  Martos, Joseph, 1943-         The Catholic sacraments
+
+  THEOL  D1.29      241.52  9780908284702  Cowdell, Scott                The ten commandments and ethics today
++ THEOL  D1.30      241.66  9780241400937  MacCulloch, Diarmaid          Lower than the Angels: A History of Sex 
+  THEOL  D1.31      242     9780006253747  Appleton, George              Way of a Disciple
+
+  THEOL  D1.30      241.66  9780241400937  MacCulloch, Diarmaid          Lower than the Angels: A History of Sex 
++ THEOL  D1.31      242     9780006253747  Appleton, George              Way of a Disciple
+  THEOL  D1.32      242     9780232515213  Câmara, Hélder, 1909-1999     A thousand reasons for living
+
+  THEOL  D1.40      242     9781620327722  Ringma, Charles               Hear the ancient wisdom : a meditational
++ THEOL  D1.41      242     9780824523886  Rohr, Richard                 Contemplation in Action
+  THEOL  D1.42      242     9781642970364  Starr, Mirabai                Julian of Norwich: The Showings: Uncover
+
+  THEOL  D1.49      242.2   9780826494078  Law, Philip                   Seasons of devotion : 365 Bible readings
++ THEOL  D1.50      242.2   9781913657093  Upjohn, Sheila                All Shall Be Well: The Revelations of Di
+  THEOL  D1.51      242.3   9781853112492  Atwell, Robert                Celebrating the seasons : daily spiritua
+
+  THEOL  D2.01      242.34  9780826499561  Radcliffe, Timothy            Why go to church? : the drama of the Euc
++ THEOL  D2.02      242.34  9780551028180  Ssf, Brother Ramon            The Way of Love: Following Christ Throug
+  THEOL  D2.03      242.34  9780281085170  Steele, Hannah                Living his story : revealing the extraor
+
+  THEOL  D2.03      242.34  9780281085170  Steele, Hannah                Living his story : revealing the extraor
++ THEOL  D2.04      242.34  9780281074891  Warner, Meg                   Abraham: A Journey Through Lent
+  THEOL  D2.05      242.34  9781472954817  Williams, Jane, 1957-         The merciful humility of God : the 2019 
+
+  THEOL  D2.08      242.4   9780809137534  Fischer, Kathleen R., 1940    Facing discouragement
++ THEOL  D2.09      242.4   9780571290680  Lewis, C. S.                  A Grief Observed
+  THEOL  D2.10      242.72  9781800390874  Barrington-Ward, Simon        The Jesus prayer
+
+  THEOL  D2.16      242.72  9780061875687  Crossan, John Dominic         The greatest prayer : rediscovering the 
++ THEOL  D2.17      242.8   9780281035731  Appleton                      One Man's Prayers
+  THEOL  D2.18      242.8   9780199561230  Appleton, George, 1902-199    The Oxford book of prayer
+
+  THEOL  D2.19      242.8                  Murray, Linda                 St Brigid's College 80th Anniversary Pra
++ THEOL  D2.20      242.8   9780281044542  Robertson, Jenny              Praying with the English Mystics
+  THEOL  D2.21      242.8   9781911405177  Underhill, Evelyn             'The Spiritual Life' and 'The Spiral Way
+
+  THEOL  D2.24      242.84  9780819229441  Geitz, Elizabeth Rankin       Women's Uncommon Prayers: Our Lives Reve
++ THEOL  D2.25      246.55  9780716402152  Huelin, Gordon                The Cross in English life and devotion;
+  THEOL  D2.26      247     9780801479434  Miller, Maureen C.            Clothing the Clergy: Virtue and Power in
+
+  THEOL  D2.34      248     9781570758584  Talbot, John Michael          The world is my cloister : living from t
++ THEOL  D2.35      248.08  9780553505924  O'Donohue, John               Anam Cara: Spiritual Wisdom from the Cel
+  THEOL  D2.36      248.09  9781620320532  Thornton, Martin              English Spirituality: An Outline of Asce
+
+  THEOL  D3.03      248.22  9780486422381  Underhill, Evelyn, 1875-19    Mysticism : a study in the nature and de
++ THEOL  D3.04      248.22  9780856500756  Way, Robert                   The Cloud of Unknowing
+  THEOL  D3.05      248.22  9780521645614  Turner, Denys, 1942-          The darkness of God : negativity in Chri
+
+  THEOL  D3.08      248.3   9780892438914  Casey, Michael, 1942-         Sacred reading : the ancient art of lect
++ THEOL  D3.09      248.3   9781622038664  Frenette, David               The Path of Centering Prayer: Deepening 
+  THEOL  D3.10      248.3   9780140433852  Ignatius of Loyola            Personal Writings (Penguin Classics)
+
+  THEOL  D3.41      248.4   9780232516647  Hughes, Gerard W.             God of surprises
++ THEOL  D3.42      248.4   9780814631683  Jamison, Abbot Christopher    Finding Sanctuary: Monastic Steps for Ev
+  THEOL  D3.43      248.4   9780060649135  LaCugna, Catherine Mowry,     God for us : the Trinity and Christian l
+
+  THEOL  D3.43      248.4   9780060649135  LaCugna, Catherine Mowry,     God for us : the Trinity and Christian l
++ THEOL  D3.44      248.4   9780809121441  Law, William                  William Law: A Serious Call to a Devout 
+  THEOL  D3.45      248.4   9780007461240  Lewis, C. S.                  Screwtape Letters: Letters from a Senior
+
+  THEOL  D4.29      248.8   9780664235031  Rambo, Shelly                 Spirit and Trauma: A Theology of Remaini
++ THEOL  D4.30      248.8   9780824516543  Rohr, Richard                 Quest for the Grail
+  THEOL  D4.31      248.80  9781514004852  Treweek, Danielle             The Meaning of Singleness: Retrieving an
+
+  THEOL  D4.30      248.8   9780824516543  Rohr, Richard                 Quest for the Grail
++ THEOL  D4.31      248.80  9781514004852  Treweek, Danielle             The Meaning of Singleness: Retrieving an
+  THEOL  D4.32      248.80  9781399815031  Arthur Riley, Cole            Black Liturgies: Prayers, Poems, and Med
+
+  THEOL  D4.31      248.80  9781514004852  Treweek, Danielle             The Meaning of Singleness: Retrieving an
++ THEOL  D4.32      248.80  9781399815031  Arthur Riley, Cole            Black Liturgies: Prayers, Poems, and Med
+  THEOL  D4.33      248.84  9780849944383  Dalbey, Gordon, 1944-         Healing the masculine soul : how God res
+
+  THEOL  D4.34      248.86  9781505128062  Kempis, Thomas A              Meditations on Death: Preparing for Eter
++ THEOL  D4.35      248.86  9781962639439  Kempis, Thomas à              The Hospital of the Poor
+  THEOL  D4.36      248.86  9781505121278  Richelieu, Cardinal           The A Treatise on Perfection: Saintly Co
+
+  THEOL  D4.35      248.86  9781962639439  Kempis, Thomas à              The Hospital of the Poor
++ THEOL  D4.36      248.86  9781505121278  Richelieu, Cardinal           The A Treatise on Perfection: Saintly Co
+  THEOL  D4.37      248.86  9781914166433  Trithemius, Johannes          The Magical Amulets of the Ancient Sages
+
+  THEOL  D4.36      248.86  9781505121278  Richelieu, Cardinal           The A Treatise on Perfection: Saintly Co
++ THEOL  D4.37      248.86  9781914166433  Trithemius, Johannes          The Magical Amulets of the Ancient Sages
+  THEOL  D4.38      248.86  9781587435454  Kenny, Amy, 1987-             My body is not a prayer request : disabi
+
+  THEOL  D4.42      248.89  9780879070670  Casey, Michael, 1942-         Coenobium : reflections on monastic comm
++ THEOL  D4.43      248.89  9781789593464  Guiver, George                All Christians Are Monks: The Monastery,
+  THEOL  D4.44      248.9   9780875084190  Nee, Watchman                 Sit, walk, stand
+
+  THEOL  D5.01      250     9781850787921  Male, David                   Church Unplugged: Remodelling Church Wit
++ THEOL  D5.02      250     9780385126168  Nouwen, Henri J. M.           Creative Ministry
+  THEOL  D5.03      250     9781850788140  Plass, Adrian                 Looking Good, Being Bad: The Subtle Art 
+
+  THEOL  D5.02      250     9780385126168  Nouwen, Henri J. M.           Creative Ministry
++ THEOL  D5.03      250     9781850788140  Plass, Adrian                 Looking Good, Being Bad: The Subtle Art 
+  THEOL  D5.04      251     9780664251581  Barth, Karl, 1886-1968        Homiletics
+
+  THEOL  D5.49      253.33  9781787635753  Butler-Gallie, Fergus         Touching Cloth: Confessions and communio
++ THEOL  D5.50      253.7   9781032088624  Southgate, Christopher        Tragedies and Christian Congregations: T
+  THEOL  D5.51      255     9780809126941  Cassianus, Johannes           Conferences
+
+  THEOL  D6.26      261.70  9780908284740  Edwards, Benjamin, 1978-      Wasps, tykes and ecumaniacs : aspects of
++ THEOL  D6.27      261.8   9780814622803  Foley, Edward                 Developmental Disabilities and Sacrament
+  THEOL  D6.28      261.8   9780715144404  Brown, Malcolm, 1954-         Anglican social theology : renewing the 
+
+  THEOL  D6.42      261.83  9780232524116  Alison, James, 1959-          Faith beyond resentment : fragments Cath
++ THEOL  D6.43      261.83  9780232525175  Alison, James                 On Being Liked
+  THEOL  D6.44      261.83  9781863713887  Collins, Paul, 1940-          God's earth : religion as if matter real
+
+  THEOL  E1.38      263.92  9780232524574  Brand, Hilary                 Christ and the chocolaterie : a Lent cou
++ THEOL  E1.39      263.93  9781853119965  Gooder, Paula                 This Risen Existence: The Spirit of East
+  THEOL  E1.40      264     9780281045556  Edward Yar Geoffrey Wainwr    The Study of Liturgy
+
+  THEOL  E2.23      264.03  9781440429958  Graham, Lawrence L.           Peculiar Clothing: Episcopal Church Vest
++ THEOL  E2.24      264.03  9780281007264  Lowther Clarke, W. K.         Liturgy and Worship: A Companion to the 
+  THEOL  E2.25      264.03  9780819223241  Markham, Ian S.               Liturgical life principles : how Episcop
+
+  THEOL  E2.49      265.9   9780281057245  Ward, Benedicta, 1933-2022    In company with Christ : through Lent, P
++ THEOL  E2.50      266     9781514001547  Bevins, Winfield              Liturgical Mission: The Work of the Peop
+  THEOL  E2.51      266     9780802808295  Newbigin, Lesslie             The open secret : an introduction to the
+
+  THEOL  E3.19      270.08  9780300171365  Jennings, Willie James, 19    The Christian imagination : theology and
++ THEOL  E3.20      270.09  9780340786581  Cowan, James                  Journey to the Inner Mountain
+  THEOL  E3.21      270     9781577331520  Bargeman, Lisa Ann, 1974-     The Egyptian origin of Christianity
+
+  THEOL  F1.17      270.8   9780140137620  Vidler, Alexander Roper, 1    The Church in an age of revolution : 178
++ THEOL  F1.18      270.82  9783031201431  Jennings, Mark                Happy: LGBTQ+ Experiences of Australian 
+  THEOL  F1.19      270.83  9781841952918  Holloway, Richard             Doubts and Loves
+
+  THEOL  F1.18      270.82  9783031201431  Jennings, Mark                Happy: LGBTQ+ Experiences of Australian 
++ THEOL  F1.19      270.83  9781841952918  Holloway, Richard             Doubts and Loves
+  THEOL  F1.20      270.83  9780801013133  Tickle, Phyllis               The great emergence : how Christianity i
+
+  THEOL  F1.27      271.30  9781473604018  Rohr, Richard                 Eager to love : the alternative way of F
++ THEOL  F1.28      271.30  9781612611594  Stoeckl, Jay                  Saint Francis and Brother Duck
+  THEOL  F1.29      271.81  9780881416817  Sofroniĭ, Archimandrite, 1    Saint Silouan, the Athonite
+
+  THEOL  F2.16      230.19  9781944967703  Constantinou, Eugenia Scar    Thinking Orthodox: Understanding and Acq
++ THEOL  F2.17      281.9                  Frangopoulos, Athanasios      Our Orthodox Christian Faith
+  THEOL  F2.18      281.9   9782825407639  World Council of Churches.    Orthodox thought : reports of Orthodox c
+
+  THEOL  F2.20      282     9781574555431  Congregation For Divine Wo    General Instruction of the Roman Missal
++ THEOL  F2.21      282                    Pelikan, Jaroslav             The Riddle of Roman Catholicism: Its His
+  THEOL  F2.22      282     9780415267670  Weil, Simone                  Letter to a Priest (Routledge Classics)
+
+  THEOL  F2.38      283     9780192806932  Chapman, Mark D. (Mark Dav    Anglicanism : a very short introduction
++ THEOL  F2.39      283     9781853115608  Giles, Richard                How to be an Anglican: A Beginner's Guid
+  THEOL  F2.40      283     9780334028635  Hardy, Daniel W.              Finding the church : the dynamic truth o
+
+  THEOL  F3.24      284.10  9781595551382  Metaxas, Eric                 Bonhoeffer: Pastor, Martyr, Prophet, Spy
++ THEOL  F3.25      284.13  9781546012443  Bolz-Weber, Nadia             Pastrix: The Cranky, Beautiful Faith of 
+  THEOL  F3.26      285.2   9780522877892  Maddox, Marion [Editor]       Charles Strong's Australian Church : Chr
+
+  THEOL  F3.31      291     9780883446461  Smith, Wilfred Cantwell, 1    Towards a world theology : faith and the
++ THEOL  F3.32      291.1   9781666760460  Irdi, Christian C.            Nature, Grace, and Secular Culture: A Co
+  THEOL  F3.33      291.17  9780804747684  Asad, Talal                   Formations of the secular : Christianity
+
+  THEOL  F3.37      294.3   9781863251655  Howley, Adrienne              Naked Buddha
++ THEOL  F3.38      294.3   9780712654371  Rinpoche, Sogyal              The Tibetan Book of Living and Dying
+  THEOL  F3.39      294.34  9780553370904  Karma-gliṅ-pa, active 14th    The Tibetan book of the dead; : or, The 
+
+  THEOL  F3.50      296.1   9781933143057  Chajes, Ẓevi Hirsch           The Students' Guide Through the Talmud
++ THEOL  F3.51      296.1   9780877734383  Epstein, Perle                Kabbalah: The Way of the Jewish Mystic
+  THEOL  F3.52      296.10  9780805242546  Wiesel, Elie, 1928-2016       Rashi : a portrait
+
+  THEOL  F3.72      297.12  9780195128369  Wadud, Amina                  Qurʼan and woman : rereading the sacred 
++ THEOL  F3.73      297.4   9780691058344  Corbin, Henry                 Alone with the Alone
+  THEOL  F3.74      299.21  9780500651223  Finkel, Irving L.             The lifeboat that saved the world
+
+  OLOGY  F6.146     388.40  9781844077403  Mees, Paul, 1961-             Transport for suburbia : beyond the auto
++ OLOGY  F6.147     394.1   9781684512553  Foley, Michael P.             Drinking with the Saints (Deluxe): The S
+  OLOGY  F6.148     394.12  9781408812181  Pollan, Michael               The omnivore's dilemma : the search for 
+
+  OLOGY  G1.32      759.94  9780141035796  Berger, John                  Ways of seeing
++ OLOGY  G1.33      759.94  9781857092189  Gallery, National             The National Gallery Companion Guide
+  OLOGY  G1.34      778.71  9780817439613  Tharp, Brenda                 Creative nature & outdoor photography
+
+  OLOGY  G1.38      781.2                  Given, No Author              Rudiments and Theory of Music Based on t
++ OLOGY  G1.39      781.3   9780393332551  Goldman, Richard Franko       Harmony in Western Music
+  OLOGY  G1.40      784.20  9781846559181  Ozawa, Seiji, 1935-           Absolutely on music : conversations
+
+  OLOGY  G2.18      914.11  9780099460275  Banks, Iain, 1954-2013        Raw spirit : in search of the perfect dr
++ OLOGY  G2.19      915.04  9780872209817  Jackson, Peter                The Mission of Friar William of Rubruck:
+  OLOGY  G2.20      919.89  9781869405830  Meduna, Veronika              Science on ice : discovering the secrets
+
+  OLOGY  G2.76      994.00  9780521612852  Rutland, Suzanne D.           The Jews in Australia
++ OLOGY  G2.77      994.04  9780140030044  Menzies, Sir Robert Gordon    Afternoon light: Some memories of men an
+  OLOGY  G2.78      994.06  9780140700794  Whitlam, Gough, 1916-2014     The truth of the matter
+
+  OLOGY  G2.83      994.07  9781925009859  Zwartz, Barney                Crossroads : conversations with Anglican
++ OLOGY  G2.84      994.11                 Beale, Kim                    The Building of Esperence Stonehenge
+  OLOGY  G2.85      994.11  9780909134051  Hasluck, Alexandra, Lady      Victorian and Edwardian Perth from old p
+
+  OLOGY  G2.86      994.11  9780980348132  Nevill, Simon J.              Perth and Fremantle: Past and Present
++ OLOGY  G2.87      994.11  9780908112487  Sanders, Hugh                 Lesmurdie: A Home in the Hills
+  OLOGY  G2.88      994.11  9780646191249  Gervas, Stan                  The way we were : Perth in the 1930's
+
+  CRIM   H4.05      823.92  9780241990100  French, Tana,                 The searcher
++ CRIM   H4.06      813     9780241694701  Matsumoto, Seichō             Inspector Imanishi Investigates: From th
+  CRIM   H4.07      823.92  9781740669818  Micallef, Shaun               Preincarnate : a novella
+
+  POET   H4.21      823     9781851245550  Avery, Anne Louise            Reynard the Fox
++ POET   H4.22      823.92  9780992339340  Barton, Murray                A Compendium of Little Mysteries
+  POET   H4.23      821.92  9781760991654  Bateman, Bron, 1964-          BLUE WREN
+
+  POET   H4.56      811.6   9781784744618  Gorman, Amanda, 1998-         HILL WE CLIMB AND OTHER POEMS
++ POET   H4.57      823.91  9780679724773  Graves, Robert                I, Claudius From the Autobiography of Ti
+  POET   H4.58      811.54  9780811217118  Grossman, Allen R., 1932-2    Descartes' loneliness
+
+  POET   H4.82      813.6   9781408891384  Madeline, Miller              The Song Of Achilles
++ POET   H4.83      398.22  9781626864634  Malory, Thomas                Le Morte d'Arthur: King Arthur and the K
+  POET   H4.84      823.92  9781742589107  McCooey, David                Star Struck
+
+  POET   H4.93      811.54  9780802134523  O'Hara, Frank, 1926-1966      Meditations in an emergency
++ POET   H4.94      819.13  9781760802981  Ortiz, Kaya                   Past and Parallel Lives
+  POET   H4.95      873.01  9780143134237  Ovid                          Metamorphoses: (Penguin Classics Deluxe 
+
+  POET   H4.102     821.92  9780646888132  Sun, Emily                    hello ❤️ keanu!
++ POET   H4.103     809.10  9780674296084  Taylor, Charles               Cosmic Connections: Poetry in the Age of
+  POET   H4.104     821.8   9781853264146  Tennyson, Alfred Tennyson,    The works of Alfred Lord Tennyson : with
+
+  ROM    I3.01      823.92  9780008544508  Adegoke, Yomi                 The List
++ ROM    I3.02      813.6   9781405966122  Alban, Emma R.                More than a Best Friend: The Lesbian Bri
+  ROM    I3.03      823.7   9780141199078  Austen, Jane, 1775-1817       Pride and prejudice
+
+  ROM    I3.08      813.6   9780349432564  Blake, Ashley Herring         Delilah Green doesn't care
++ ROM    I3.09      813.6   9780349441351  Blake, Ashley Herring         Dream On, Ramona Riley
+  ROM    I3.10      813.6   9781835010976  Bonam-Young, Hannah           Out on a Limb: Hannah Bonam-Young
+
+  ROM    I3.09      813.6   9780349441351  Blake, Ashley Herring         Dream On, Ramona Riley
++ ROM    I3.10      813.6   9781835010976  Bonam-Young, Hannah           Out on a Limb: Hannah Bonam-Young
+  ROM    I3.11      813.6   9781408897126  Broder, Melissa               Milk Fed: Melissa Broder
+
+  ROM    I3.18      813.6   9781398508552  Conklin, Lydia, 1983-         Rainbow rainbow : stories
++ ROM    I3.19      741.50  9781398526709  Conner, Hari                  I Shall Never Fall in Love
+  ROM    I3.20      823.92  9780733634796  Davis, Brooke                 Lost & Found
+
+  ROM    I3.20      823.92  9780733634796  Davis, Brooke                 Lost & Found
++ ROM    I3.21      823.92  9781529930634  Dinan, Nicola                 Disappoint Me
+  ROM    I3.22      823.92  9781760899639  Doyle, Briohny                Why We Are Here
+
+  ROM    I3.28      813.6   9781472296443  Hart, Michelle                We do what we do in the dark
++ ROM    I3.29      813.6   9781408728611  Hoffman, KT                   The Prospects: The gorgeous, queer enemi
+  ROM    I3.30      813.6   9780349437187  Hoffs, Susanna                This Bird Has Flown
+
+  ROM    I3.39      813.6   9780349013541  O'Donoghue, Caroline          The Rachel incident
++ ROM    I3.40      863.64  9780008663308  Portero, Alana S.             Bad Habit
+  ROM    I3.41      823.92  9781399618540  Pulley, Natasha               The Mars House
+
+  ROM    I3.42      823.9   9781761150128  Reid, Diana                   Seeing Other People
++ ROM    I3.43      823.92  9781529154191  Reilly, Rebecca K             Greta and Valdin: Shortlisted for The Wa
+  ROM    I3.44      823.92  9780571365449  Rooney, Sally                 Beautiful World, Where Are You: Sunday T
+
+  FIC    I5.39      823.91  9781529093001  Donoghue, Emma, 1969-         The wonder : a novel
++ FIC    I5.40      891.73  9780141194868  Dostoyevsky, Fyodor           Notes from Underground
+  FIC    I5.41      891.73  9780140449242  Dostoyevsky, Fyodor, 1821-    The brothers Karamazov
+
+  FIC    I5.53      813.6                  Fowler, Therese               Souvenir by Therese Fowler
++ FIC    I5.54      839.82  9781474605823  Gaarder, Jostein              An Unreliable Man
+  FIC    I5.55      839.82  9781857992915  Gaarder, Jostein, 1952-       Sophie's world : a novel about the histo
+
+  FIC    I5.58      823.91  9788172236137  Ghosh, Amitav                 The hungry tide
++ FIC    I5.59      823.92  9781399807548  Gilbert, Claire               I, Julian: The fictional autobiography o
+  FIC    I5.60      813.4   9780199538843  Gilman, Charlotte Perkins     The yellow wall-paper, and other stories
+
+  FIC    I5.73      823.91  9781405088817  Hamilton, Peter F.            The dreaming void
++ FIC    I5.74      895.73  9780241997062  Han, Kang                     Greek Lessons: Winner of the 2024 Nobel 
+  FIC    I5.75      895.73  9781846276033  Han, Kang                     The Vegetarian: Winner of the 2024 Nobel
+
+  FIC    I5.74      895.73  9780241997062  Han, Kang                     Greek Lessons: Winner of the 2024 Nobel 
++ FIC    I5.75      895.73  9781846276033  Han, Kang                     The Vegetarian: Winner of the 2024 Nobel
+  FIC    I5.76      895.73  9781846276958  Han, Kang                     The White Book: Winner of the 2024 Nobel
+
+  FIC    I5.75      895.73  9781846276033  Han, Kang                     The Vegetarian: Winner of the 2024 Nobel
++ FIC    I5.76      895.73  9781846276958  Han, Kang                     The White Book: Winner of the 2024 Nobel
+  FIC    I5.77      826.40  9780670076093  Hardy, Marieke [Editor]       Sincerely
+
+  FIC    I5.98      895.63  9781529050868  Kawaguchi, Toshikazu, 1971    Before the coffee gets cold : tales from
++ FIC    I5.99      890.00  9781803512983  Kawakami, Hiromi              Under the Eye of the Big Bird: Shortlist
+  FIC    I5.100     895.63  9781846276989  Kawakami, Hiromi, 1958-       People from my neighbourhood
+
+  FIC    I5.138     823.92  9781921924705  Ouyang, Yu, 1955-             Diary of a naked official
++ FIC    I5.139     823.92  9780645525472  Park, Tania                   A Tangle of Yarns: An anthology of short
+  FIC    I5.140     823.92  9781529043402  Parker-Chan, Shelley          She Who Became the Sun: The Number One S
+
+  FIC    I5.167     823.91  9780099530268  Shute, Nevil, 1899-1960       A town like Alice
++ FIC    I5.168     823.91  9780008669461  Sibley, Brian                 The Maps of Middle-earth: From Númenor a
+  FIC    I5.169     818.60  9780762444144  Stall, Sam                    Dancing with Jesus : featuring a host of
+
+  FIRST  L2.24      305.89  9781761046162  Heiss, Anita                  Am I black enough for you?
++ FIRST  L2.25      305.89  9781761105272  Heiss, Anita                  Dirrayawadha
+  FIRST  L2.26      305.89  9781863959810  Heiss, Anita                  Growing up Aboriginal in Australia
+
+  FIRST  L2.27      813.6   9781982121525  Joukhadar, Zeyn               The thirty names of night : a novel
++ FIRST  L2.28      813.6   9781517917234  Kerr, Conor                   Prairie Edge
+  FIRST  L2.29      820.8   9780702268366  Leane, Jeanine                Shapeshifting: First Nations Lyric Nonfi
+
+  FIRST  L2.28      813.6   9781517917234  Kerr, Conor                   Prairie Edge
++ FIRST  L2.29      820.8   9780702268366  Leane, Jeanine                Shapeshifting: First Nations Lyric Nonfi
+  FIRST  L2.30      823.92  9781760526931  Lonesborough, Gary            We Didn't Think It Through
+
+  FIRST  L2.41      305.89  9780648062974  Nelson-McDowell, Belinda      Kuracca
++ FIRST  L2.42      823.92  9781761471315  Norrington, Leonie            A piece of red cloth : a novel from Arnh
+  FIRST  L2.43      813.6   9780765385253  Okorafor, Nnedi               Binti
+
+  FIRST  L2.43      813.6   9780765385253  Okorafor, Nnedi               Binti
++ FIRST  L2.44      616.89  9780702268694  PhD, Tracy Westerman          Jilya: How one Indigenous woman from the
+  FIRST  L2.45      305.89  9780645240139  Ramo, Ziggy                   Human?: A lie that has been killing us s
+
+  FIRST  L2.48      305.89  9780702266386  Saunders, Mykaela             Always Will Be: Stories of Goori soverei
++ FIRST  L2.49      813.6   9781914198861  Sax, Sam                      Yr Dead
+  FIRST  L2.50      813     9781472146885  Scanlan, Padraic X.           The Irish Question: Famine, Work and Fre
+
+  FIRST  L2.49      813.6   9781914198861  Sax, Sam                      Yr Dead
++ FIRST  L2.50      813     9781472146885  Scanlan, Padraic X.           The Irish Question: Famine, Work and Fre
+  FIRST  L2.51      398     9781742585116  Scott, Kim                    Dwoort Baal Kaat (Wirlomin Noongar Langu
+
+  FIRST  L2.57      899.15  9781742585123  Scott, Kim, 1957-             Yira boornak nyininy
++ FIRST  L2.58      811.6   9781784745738  Smith, Danez                  Bluff: A powerful new collection reckoni
+  FIRST  L2.59      305.89  9781922613912  Taylor, Alf                   Cartwarra or what? : selected poems and 
+
+  FIRST  L2.63      813.54  9781474607254  Walker, Alice, 1944-          The color purple : a novel
++ FIRST  L2.64      823.92  9781761426698  Walton, Tasma                 I Am Nannertgarrook
+  FIRST  L2.65      305.42  9780241446096  Zakaria, Rafia, 1978-         AGAINST WHITE FEMINISM
+
+  SPEC   L2.99      813.54  9781784742324  Atwood, Margaret, 1939-       The testaments
++ SPEC   L2.100     813.6   9781529934892  August, Riley                 The Last Gifts of the Universe
+  SPEC   L2.101     823.91  9780007287024  Ballard, J. G                 Crash
+
+  SPEC   L2.186     813.6   9781250821546  Candon, Emma Mieko            The Archive Undying (The Downworld Seque
++ SPEC   L2.187     823.92  9780356518077  Carey, M. R.                  Echo of Worlds (The Pandominion Book 2)
+  SPEC   L2.188     813.6   9781473621473  Chambers, Becky               A closed and common orbit
+
+  SPEC   L2.241     813.6   9780007327898  Doctorow, Cory                Makers
++ SPEC   L2.242     813.6   9781035902279  Doctorow, Cory                The Lost Cause
+  SPEC   L2.243     813.6   9780007250387  Dolnick, Ben                  Zoology : a novel
+
+  SPEC   L2.264     823.92  9781444791747  Gooder, Paula                 Phoebe : a story
++ SPEC   L2.265     813.60  9781571311498  Grist                         Metamorphosis: Climate Fiction for a Bet
+  SPEC   L2.266     823.92  9781786892720  Haig, Matt                    The midnight library
+
+  SPEC   L2.296     813.6   9780008600303  Kuang, R. F.                  Yellowface
++ SPEC   L2.297     813.6   9781398548862  Kwan, Susanna                 Awake in the Floating City: A Novel
+  SPEC   L2.298     813.52  9780141354934  L'Engle, Madeleine            A wrinkle in time
+
+  SPEC   L2.310     813.6   9780356502410  Leckie, Ann                   Ancillary sword
++ SPEC   L2.311     813.6   9780356523460  Leckie, Ann                   Lake of Souls: The Collected Short Ficti
+  SPEC   L2.312     813.6   9780356506982  Leckie, Ann                   Provenance
+
+  SPEC   L2.434     823.91  9780749301026  Russell, Eric Frank, 1905-    With a strange device
++ SPEC   L2.435     813.54  9780552997775  Russell, Mary Doria           The Sparrow: Mary Doria Russell
+  SPEC   L2.436     813.54  9780552998116  Russell, Mary Doria, 1950-    Children of God : a novel
+
+  SPEC   L2.444     813.54  9780553383430  Stephenson, Neal              Interface
++ SPEC   L2.445     823.92  9780008262600  Stephenson, Neal              Polostan: A new historical espionage tri
+  SPEC   L2.446     813.08  9780140232929  Stephenson, Neal              Snow crash
+
+  SPEC   L2.545     823.91  9780664226107  Wood, Ralph C.                The gospel according to Tolkien : vision
++ SPEC   L2.546     823.91  9781922725325  Wright, Alexis                Praiseworthy
+  SPEC   L2.547     823.91  9780143566533  Wyndham, John, 1903-1969      The day of the triffids
+
+  LIT    LIT-1.01   220.52  9780647511176                                The Holy Bible : New International Versi
++ LIT    LIT-1.02   230     9781860822575  -                             Large Print Rosary Book
+  LIT    LIT-1.03   325.21  9780980593730  Ahmed, Safdar                 Still Alive
+
+  LIT    LIT-1.06   221.52  9780393292497  Alter, Robert                 The Hebrew Bible : a translation with co
++ LIT    LIT-1.07   264.03                 Anglican Church of Austral    A Book of Occasional Services
+  LIT    LIT-1.08   264.03  9780855741662  Anglican Church of Austral    A prayer book for Australia : for use to
+
+  LIT    LIT-1.10   220     9780521714877  Baker Publishing Group        NRSV Popular Text Edition with Apocrypha
++ LIT    LIT-1.11   221.52  9780199978465  Berlin, Adele                 The Jewish Study Bible
+  LIT    LIT-1.12   492.43  9781565632066  Brown, Francis, 1849-1916     The Brown-Driver-Briggs Hebrew and Engli
+
+  LIT    LIT-1.50   492.48  9780300222647  Kittel, Bonnie Pedrotti       Biblical Hebrew : a text and workbook
++ LIT    LIT-1.51   229     9780190262488  Klawans, Jonathan             The Jewish Annotated Apocrypha
+  LIT    LIT-1.52   741.59  9780980450804  Kudelka, Jon                  101 uses for a John Howard
+
+  LIT    LIT-1.55   248     9780899425658  Liturgy, International Com    Shorter Book of Blessings
++ LIT    LIT-1.56   299.16  9781899434060  Matthews, Caitlin             Celtic Devotional: Daily Prayers and Ble
+  LIT    LIT-1.57   032.02  9780900424120  McWhirter, Norris, 1925-20    The Guinness book of records. 19th ed
+
+  LIT    LIT-1.70   741.59  9780030131615  Schulz, Charles M. (Charle    The Snoopy festival
++ LIT    LIT-1.71   242.8   9781856082815  Van de Weyer, Robert          Celtic Prayers: A Book of Celtic Devotio
+  LIT    LIT-1.72   492.48  9780310093350  Van Pelt, Miles V., 1969-     Graded reader of Biblical Hebrew : a gui
+

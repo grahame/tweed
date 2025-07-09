@@ -133,12 +133,11 @@
                 { "bookshelf": "E", "shelf": 5, "first_book": { "isbn": "9780814660546" } },
                 { "bookshelf": "E", "shelf": 6, "first_book": { "isbn": "9780645044232" } },
 
-                { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "F", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "F", "shelf": 3, "first_book": { "isbn": "" } },
-                { "bookshelf": "F", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "F", "shelf": 5, "first_book": { "isbn": "" } }
-
+                { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "9781565483187" } },
+                { "bookshelf": "F", "shelf": 2, "first_book": { "isbn": "9780140445657" } },
+                { "bookshelf": "F", "shelf": 3, "first_book": { "isbn": "9781570758393" } },
+                { "bookshelf": "F", "shelf": 4, "first_book": { "isbn": "9781876268688" } },
+                { "bookshelf": "F", "shelf": 5, "first_book": { "title": "Prolegomena to the History of Ancient Israel" } }
             ]
         },
         "other-ology": {
@@ -146,16 +145,18 @@
             "code": "OLOGY",
             "matches": [{"ddc": "^[3479]"}],
             "shelves": [
-                { "bookshelf": "F", "shelf": 6, "first_book": { "isbn": "" } },
-                { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "9781781251324" } },
-                { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "9780826428486" } },
-                { "bookshelf": "G", "shelf": 3, "first_book": { "isbn": "9781787334618" } },
-                { "bookshelf": "G", "shelf": 4, "first_book": { "isbn": "9780812524581" } },
-                { "bookshelf": "G", "shelf": 5, "first_book": { "isbn": "9780099283928" } },
-                { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9780812566628" } },
-                { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "" } }
+                { "bookshelf": "F", "shelf": 6, "first_book": { "isbn": "9781920769055" } },
+
+                { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "9780367612726" } },
+                { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "9781743798348" } },
+                { "bookshelf": "G", "shelf": 3, "first_book": { "isbn": "9781849162623" } },
+                { "bookshelf": "G", "shelf": 4, "first_book": { "isbn": "9780643095786" } },
+                { "bookshelf": "G", "shelf": 5, "first_book": { "isbn": "9781740660266" } },
+                { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9780857528223" } },
+
+                { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "9780872209817" } },
+                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9780140202342" } },
+                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9781760875121" } }
             ]
         },
         "speculative-fiction": {
