@@ -434,11 +434,6 @@ class Library:
             sort_method = zones[zone]["sort"]
             subbooks.sort(key=lambda book: sort_keys[str(book.books_id)][sort_method])
             shelves = zones[zone]["shelves"]
-            print(
-                "zone {} has {} shelves and {} books".format(
-                    zone, len(shelves), len(subbooks)
-                )
-            )
             placed += self.subarrange(
                 isbnfa, zones[zone]["code"], indexes, subbooks, shelves, overrides
             )
