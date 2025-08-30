@@ -410,7 +410,11 @@ class Library:
             cache_key = str(book.books_id)
             if cache_key in sort_keys and sort_keys[cache_key]["_rev"] == 1:
                 continue
-            print("reindexing book {}".format(book.books_id))
+            print(
+                "reindexing book {} / {} {} {} – check for missing DDC or author".format(
+                    book.books_id, book.isbn, book.author, book.title
+                )
+            )
             sort_keys[cache_key] = {
                 "_rev": 1,
                 "ddc": [
