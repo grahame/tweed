@@ -462,42 +462,43 @@ C3.01 230.0440903    9780567093400     Gerrish, B. A. (Brian Albe    1982 The ol
 C3.02 230.044092     9780684838274     Bonhoeffer, Dietrich, 1906    1997 Letters and papers from prison
 C3.03 230.044092     9780334041276     Moltmann, Jürgen              2007 A broad place : an autobiography
 C3.04 230.044092     9780800632670     Moltmann, Jürgen              2000 Experiences in Theology
-C3.05 230.046        9781596270848     Brown, Delwin, 1935-          2008 What does a progressive Christian believe? : a guide for the
-C3.06 230.046        9780415196994     Milbank, John                 1998 Radical orthodoxy : a new theology
-C3.07 230.04624      9781573831604     Grenz, Stanley                2000 Theology for the Community of God
-C3.08 230.0711       9780802878441     Jennings, Willie James, 19    2020 After whiteness : an education in belonging
-C3.09 230.0711                         Parker, Eve                   2022 Trust in Theological Education: Deconstructing 'Trustworthin
-C3.10 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
-C3.11 230.082        9780062548702     Carr, Anne E., 1934-2008      1992 Transforming grace : Christian tradition and women's experie
-C3.12 230.082        9780367490805     Handasyde, Kerrie             2021 Contemporary feminist theologies : power, authority, love
-C3.13 230.082        9781451484472     McRandal, Janice              2015 Christian doctrine and the grammar of difference : a contrib
-C3.14 230.082        9780827242401     Webb, Val                     1999 Why we're equal : introducing feminist theology
-C3.15 230.082        9781626980389     Williams, Delores S.          2013 Sisters in the wilderness : the challenge of womanist God-ta
-C3.16 230.08664      9781498218795     Tonstad, Linn Marie, 1978-    2018 Queer theology : beyond apologetics
-C3.17 230.088042     9781597525008     Fabella, Virginia             2006 With Passion and Compassion: Third World Women Doing Theolog
-C3.18 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
-C3.19 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
-C3.20 230.0902       9780631212034     Evans, G. R. (Gillian Rose    2001 The medieval theologians
-C3.21 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
-C3.22 230.0903       9780226288710     Gerrish, B. A. (Brian Albe    1994 Continuing the Reformation : essays on modern religious thou
-C3.23 230.0903       9780802827265     Williams, Rowan, 1950-        2007 Wrestling with angels : conversations in modern theology
-C3.24 230.09031      9780582490314     Reardon, Bernard M. G.        1982 Religious thought in the Reformation
-C3.25 230.0904       9780855740399     Ormerod, Neil                 1997 Introducing contemporary theologies : the what and the who o
-C3.26 230.091724     9780883445150     Ferm, Deane William, 1927-    1986 Third World liberation theologies : an introductory survey
-C3.27 230.092        9781920691394     Garrett, Graeme, 1941-        2005 Dodging angels on Saturday : or why being a theologian in th
-C3.28 230.0924       9780718815776     Perkins, Robert L., 1930-     1969 Søren Kierkegaard
-C3.29 230.14         9780818909252     Augustine, of Hippo, Saint    2002 Augustine for everyone : 101 questions answered imaginativel
-C3.30 230.14         9780199540631     Augustine, St                 2008 On Christian Teaching
-C3.31 230.14092      9781472925275     Williams, Rowan, 1950-        2016 On Augustine
-C3.32 230.19         9780728301139     Kallistos, Bishop of Diokl    1986 The power of the name : the Jesus prayer in Orthodox spiritu
-C3.33 230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
-C3.34 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
-C3.35 230.19         9780913836583     Ware, Kallistos               1995 The Orthodox Way
-C3.36 230.2          9780883445501     Boff, Leonardo                1987 Introducing liberation theology
-C3.37 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
-C3.38 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
-C3.39 230.2          9780232515862     O'Collins, Gerald             1982 Fundamental theology
-C3.40 230.2          9780824505233     Rahner, Karl, 1904-1984       1982 Foundations of Christian faith : an introduction to the idea
+C3.05 230.046        9780334061908     Adams, Graham                 2022 Holy Anarchy: Dismantling Domination, Embodying Community, L
+C3.06 230.046        9781596270848     Brown, Delwin, 1935-          2008 What does a progressive Christian believe? : a guide for the
+C3.07 230.046        9780415196994     Milbank, John                 1998 Radical orthodoxy : a new theology
+C3.08 230.04624      9781573831604     Grenz, Stanley                2000 Theology for the Community of God
+C3.09 230.0711       9780802878441     Jennings, Willie James, 19    2020 After whiteness : an education in belonging
+C3.10 230.0711                         Parker, Eve                   2022 Trust in Theological Education: Deconstructing 'Trustworthin
+C3.11 230.082        9780415304474     Barth, Karl, 1886-1968        2003 God here and now
+C3.12 230.082        9780062548702     Carr, Anne E., 1934-2008      1992 Transforming grace : Christian tradition and women's experie
+C3.13 230.082        9780367490805     Handasyde, Kerrie             2021 Contemporary feminist theologies : power, authority, love
+C3.14 230.082        9781451484472     McRandal, Janice              2015 Christian doctrine and the grammar of difference : a contrib
+C3.15 230.082        9780827242401     Webb, Val                     1999 Why we're equal : introducing feminist theology
+C3.16 230.082        9781626980389     Williams, Delores S.          2013 Sisters in the wilderness : the challenge of womanist God-ta
+C3.17 230.08664      9781498218795     Tonstad, Linn Marie, 1978-    2018 Queer theology : beyond apologetics
+C3.18 230.088042     9781597525008     Fabella, Virginia             2006 With Passion and Compassion: Third World Women Doing Theolog
+C3.19 230.09         9780807067543     Brock, Rita Nakashima         2009 Saving paradise : how Christianity traded love of this world
+C3.20 230.09         9780745950938     Hill, Jonathan, 1976-         2003 The history of Christian thought
+C3.21 230.0902       9780631212034     Evans, G. R. (Gillian Rose    2001 The medieval theologians
+C3.22 230.0903       9780804206129     Barth, Karl, 1886-1968        1996 The humanity of God
+C3.23 230.0903       9780226288710     Gerrish, B. A. (Brian Albe    1994 Continuing the Reformation : essays on modern religious thou
+C3.24 230.0903       9780802827265     Williams, Rowan, 1950-        2007 Wrestling with angels : conversations in modern theology
+C3.25 230.09031      9780582490314     Reardon, Bernard M. G.        1982 Religious thought in the Reformation
+C3.26 230.0904       9780855740399     Ormerod, Neil                 1997 Introducing contemporary theologies : the what and the who o
+C3.27 230.091724     9780883445150     Ferm, Deane William, 1927-    1986 Third World liberation theologies : an introductory survey
+C3.28 230.092        9781920691394     Garrett, Graeme, 1941-        2005 Dodging angels on Saturday : or why being a theologian in th
+C3.29 230.0924       9780718815776     Perkins, Robert L., 1930-     1969 Søren Kierkegaard
+C3.30 230.14         9780818909252     Augustine, of Hippo, Saint    2002 Augustine for everyone : 101 questions answered imaginativel
+C3.31 230.14         9780199540631     Augustine, St                 2008 On Christian Teaching
+C3.32 230.14092      9781472925275     Williams, Rowan, 1950-        2016 On Augustine
+C3.33 230.19         9780728301139     Kallistos, Bishop of Diokl    1986 The power of the name : the Jesus prayer in Orthodox spiritu
+C3.34 230.19         9780913836132     Lossky, Vladimir, 1903-195    2001 In the image and likeness of God
+C3.35 230.19         9780227679197     Lossky, Vladimir, 1903-195    1991 The mystical theology of the Eastern Church
+C3.36 230.19         9780913836583     Ware, Kallistos               1995 The Orthodox Way
+C3.37 230.2          9780883445501     Boff, Leonardo                1987 Introducing liberation theology
+C3.38 230.2          9781570758232     Câmara, Hélder, 1909-1999     2009 Dom Helder Camara : essential writings
+C3.39 230.2          9780232527179     Moore, Sebastian, 1917-201    2007 The contagion of Jesus : doing theology as if it mattered
+C3.40 230.2          9780232515862     O'Collins, Gerald             1982 Fundamental theology
+C3.41 230.2          9780824505233     Rahner, Karl, 1904-1984       1982 Foundations of Christian faith : an introduction to the idea
 C4.01 230.2          9780824512217     Rahner, Karl, 1904-1984       1993 The content of faith : the best of Karl Rahner's theological
 C4.02 230.2          9781887593922     Sheed, F. J. (Francis Jose    2013 Theology for beginners
 C4.03 230.20902                        Fairweather, Eugene R.        2020 A Scholastic Miscellany: Anselm to Ockham
@@ -702,7 +703,8 @@ D2.41 239.3          9780140448948     Augustine, of Hippo, Saint    2004 The ci
 D2.42 241                              McCormick, Richard, SJ; Ag    1968 The Future of Ethics and Moral Theology
 D2.43 241            9780642972422     McInerney, Maureen            1976 O freedom O freedom : a series of six talks by leading Austr
 D2.44 241            9781570759666     Stivers, Laura A.             2012 Christian ethics : a case method approach
-D2.45 241.0321       9780334022046     MACQUARRIE, John (ed)         1990 A New dictionary of Christian ethics
+D2.45 241            9781626985346     Torre, Miguel A. De La        2023 Doing Christian Ethics from the Margins - 3rd Edition
+D2.46 241.0321       9780334022046     MACQUARRIE, John (ed)         1990 A New dictionary of Christian ethics
 D3.01 241.042        9780268036041     Noonan, John T., Jr. (John    2005 A church that can and cannot change : the development of Cat
 D3.02 241.042        9780816404049     O'Connell, Timothy E.         1978 Principles for a Catholic morality
 D3.03 241.042        9780814651582     SJ, James T. Bretzke          2004 A Morally Complex World: Engaging Contemporary Moral Theolog
@@ -1583,26 +1585,27 @@ H3.21 994.11         9780908112487     Sanders, Hugh                 1998 Lesmur
 H3.22 994.11042      9780646191249     Gervas, Stan                  1994 The way we were : Perth in the 1930's
 H3.23 994.12         9780959494419     Carter, Jennie                2011 Settlement to city : a history of the Armadale district and 
 H3.24 994.12         9780731694440     Cresswell, Gail J             1990 The light of Leeuwin
-H4.01 823.912        9780600766001     Christie, Agatha, 1890-197    1969 Agatha Christie crime collection
-H4.02 813            9780915230440     Coggin, Joan                  2001 Who Killed the Curate?
-H4.03 823.8          9780553212426     Doyle, Arthur Conan, 1859-    1986 Sherlock Holmes : the complete novels and stories
-H4.04 823.8          9780553212419     Doyle, Arthur Conan, 1859-    1986 Sherlock Holmes : the complete novels and stories
-H4.05 823.92         9780241990100     French, Tana,                 2021 The searcher
-H4.06 813            9780241694701     Matsumoto, Seichō             2024 Inspector Imanishi Investigates: From the bestselling author
-H4.07 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
-H4.08 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
-H4.09 823.914        9780140111057     Mortimer, John, 1923-2009     1988 Rumpole and the age of miracles
-H4.10 823.914        9780140063318     Mortimer, John, 1923-2009     1984 Rumpole and the golden thread
-H4.11 823.914        9780141037530     Mortimer, John, 1923-2009     None Rumpole and the Penge Bungalow murders
-H4.12 823.914        9780140132618     Mortimer, John, 1923-2009     1991 Rumpole à la carte
-H4.13 811.6          9781529078459     Almontaser, Threa             2021 The wild fox of Yemen : poems
-H4.14 811.54         9780349006215     Angelou, Maya                 2015 The complete poetry
-H4.15 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
-H4.16 882.01         9780140441529     Aristophanes,                 1964 The wasps
-H4.17 808.2          9780140446364     Aristotle                     1997 Poetics
-H4.18 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
-H4.19 811.54         9781784743895     Atwood, Margaret, 1939-       2020 Dearly
-H4.20 823            9781851245550     Avery, Anne Louise            2020 Reynard the Fox
+H4.01 823.912        9781853260032     Chesteron, G K                1992 The Complete Father Brown Stories
+H4.02 823.912        9780600766001     Christie, Agatha, 1890-197    1969 Agatha Christie crime collection
+H4.03 813            9780915230440     Coggin, Joan                  2001 Who Killed the Curate?
+H4.04 823.8          9780553212426     Doyle, Arthur Conan, 1859-    1986 Sherlock Holmes : the complete novels and stories
+H4.05 823.8          9780553212419     Doyle, Arthur Conan, 1859-    1986 Sherlock Holmes : the complete novels and stories
+H4.06 823.92         9780241990100     French, Tana,                 2021 The searcher
+H4.07 813            9780241694701     Matsumoto, Seichō             2024 Inspector Imanishi Investigates: From the bestselling author
+H4.08 823.92         9781740669818     Micallef, Shaun               2010 Preincarnate : a novella
+H4.09 828.91409      9780670849024     Mortimer, John, 1923-2009     1995 Murderers and other friends : another part of life
+H4.10 823.914        9780140111057     Mortimer, John, 1923-2009     1988 Rumpole and the age of miracles
+H4.11 823.914        9780140063318     Mortimer, John, 1923-2009     1984 Rumpole and the golden thread
+H4.12 823.914        9780141037530     Mortimer, John, 1923-2009     None Rumpole and the Penge Bungalow murders
+H4.13 823.914        9780140132618     Mortimer, John, 1923-2009     1991 Rumpole à la carte
+H4.14 811.6          9781529078459     Almontaser, Threa             2021 The wild fox of Yemen : poems
+H4.15 811.54         9780349006215     Angelou, Maya                 2015 The complete poetry
+H4.16 821.92         9780702263187     Araluen, Evelyn,              None Dropbear
+H4.17 882.01         9780140441529     Aristophanes,                 1964 The wasps
+H4.18 808.2          9780140446364     Aristotle                     1997 Poetics
+H4.19 808.0092       9780140445107     Aristotle,                    1992 The art of rhetoric
+H4.20 811.54         9781784743895     Atwood, Margaret, 1939-       2020 Dearly
+H4.21 823            9781851245550     Avery, Anne Louise            2020 Reynard the Fox
 H5.01 823.92         9780992339340     Barton, Murray                2018 A Compendium of Little Mysteries
 H5.02 821.92         9781760991654     Bateman, Bron, 1964-          2022 BLUE WREN
 H5.03 823.914        9781847772176     Boland, Eavan                 2014 A woman without a country
@@ -1620,8 +1623,8 @@ H5.14 895            9781863950930     Craven, Peter                 2003 Best A
 H5.15 821.9208       9781474221580     Crawforth, Hannah             2016 On Shakespeare's Sonnets: A Poets' Celebration (Arden Shakes
 H5.16 811.6080353    9781635863864     Crews, James, 1980-           2021 How to love the world : poems of gratitude and hope
 H5.17 829.1          9781742589121     Crone, J H                    2016 Our Lady Of The Fence Post
-H5.18 851.1          9780199535644     Dante Alighieri, 1265-1321    2008 The divine comedy
-H5.19 851.1          9780679433132     Dante Alighieri, 1265-1321    1995 The divine comedy : the Inferno, Purgatorio, and Paradiso
+H5.18 851.15         9780199535644     Dante Alighieri, 1265-1321    2008 The divine comedy
+H5.19 851.15         9780679433132     Dante Alighieri, 1265-1321    1995 The divine comedy : the Inferno, Purgatorio, and Paradiso
 H5.20 821.3          9781742589138     Dawe, Bruce                   2016 Border Security (UWAP Poetry)
 H5.21 811.4          9780811225823     Dickinson, Emily, 1830-188    2016 Envelope poems
 H5.22 821.3          9780571230891     Donne, John, 1572-1631        2008 John Donne
@@ -1735,20 +1738,22 @@ I3.06 813.6          9780552778251     Johnson, Adam, 1967-          2013 The or
 I3.07 813.6          9781529405712     Jones, Robert, Jr., 1971-     None The prophets : a novel
 I3.08 813.6          9781614506157     Kingfisher, T                 2024 Paladin's Strength (The Saint of Steel)
 I3.09 813.6          9781529431261     Lemming, Kimberly             2023 That Time I Got Drunk And Yeeted A Love Potion At A Werewolf
-I3.10 813.6          9781250819093     Min, Lio                      2022 Beating Heart Baby
-I3.11 813.6          9780349013541     O'Donoghue, Caroline          None The Rachel incident
-I3.12 863.64         9780008663308     Portero, Alana S.             2024 Bad Habit
-I3.13 823.92         9781399618540     Pulley, Natasha               2024 The Mars House
-I3.14 823.9          9781761150128     Reid, Diana                   None Seeing Other People
-I3.15 823.92         9781529154191     Reilly, Rebecca K             2024 Greta and Valdin: Shortlisted for The Waterstones Debut Fict
-I3.16 823.92         9780571365449     Rooney, Sally                 2022 Beautiful World, Where Are You: Sunday Times number one best
-I3.17 823.92         9780571334650     Rooney, Sally                 2019 Normal People: One million copies sold
-I3.18 823.92         9781838957223     Santorella, Tony              2024 Bored Gay Werewolf
-I3.19 813.6          9781761342080     Saward, Melanie               None Love Unleashed
-I3.20 813.6000       9780857527509     Sittenfield, Curtis           None Romantic Comedy
-I3.21 823.92         9781761151743     Smith, Sarah                  None Twelve Steps to a Long and Fulfilling Death
-I3.22 813.6          9781529426250     Taub, Melinda                 None The Scandalous Confessions of Lydia Bennet, Witch
-I3.23 813.6          9781787704411     Yi, Esther                    2023 Y/N: A novel
+I3.10                9780349125732     McLeod, Lindz                 2025 The Unlikely Pursuit of Mary Bennet !! [no-dewey]
+I3.11 813.6          9781250819093     Min, Lio                      2022 Beating Heart Baby
+I3.12 813.6          9780349013541     O'Donoghue, Caroline          None The Rachel incident
+I3.13 813.6          9781788167222     Peters, Torrey                2022 Detransition, Baby: Longlisted for the Women's Prize 2021 an
+I3.14 863.64         9780008663308     Portero, Alana S.             2024 Bad Habit
+I3.15 823.92         9781399618540     Pulley, Natasha               2024 The Mars House
+I3.16 823.9          9781761150128     Reid, Diana                   None Seeing Other People
+I3.17 823.92         9781529154191     Reilly, Rebecca K             2024 Greta and Valdin: Shortlisted for The Waterstones Debut Fict
+I3.18 823.92         9780571365449     Rooney, Sally                 2022 Beautiful World, Where Are You: Sunday Times number one best
+I3.19 823.92         9780571334650     Rooney, Sally                 2019 Normal People: One million copies sold
+I3.20 823.92         9781838957223     Santorella, Tony              2024 Bored Gay Werewolf
+I3.21 813.6          9781761342080     Saward, Melanie               None Love Unleashed
+I3.22 813.6000       9780857527509     Sittenfield, Curtis           None Romantic Comedy
+I3.23 823.92         9781761151743     Smith, Sarah                  None Twelve Steps to a Long and Fulfilling Death
+I3.24 813.6          9781529426250     Taub, Melinda                 None The Scandalous Confessions of Lydia Bennet, Witch
+I3.25 813.6          9781787704411     Yi, Esther                    2023 Y/N: A novel
 I4.01 863            9780140145588     Allende, Isabel               1992 The stories of Eva Luna
 I4.02 828.99353      9780143028574     Roy, Arundhati                2002 The God of Small Things
 I4.03 843.912        9781784878467     Beauvoir, Simone de           2023 The Inseparables
@@ -1986,32 +1991,33 @@ K2.11 823.4          9780702263033     Neerven, Ellen van, 1990-     None Flock 
 K2.12 305.89915      9780648062974     Nelson-McDowell, Belinda      None Kuracca
 K2.13 823.92         9781761471315     Norrington, Leonie            2025 A piece of red cloth : a novel from Arnhem Land
 K2.14 813.6          9780765385253     Okorafor, Nnedi               2015 Binti
-K2.15 616.89         9780702268694     PhD, Tracy Westerman          2024 Jilya: How one Indigenous woman from the remote Pilbara tran
-K2.16 305.89915      9780645240139     Ramo, Ziggy                   2024 Human?: A lie that has been killing us since 1788
-K2.17 305.89915      9781925208511     Rooney, Bernard, 1934-,       2016 The way of the Boorna Waangki : a tale of cultural endurance
-K2.18 823.9          9780734420251     Rose, Lystra                  2022 The Upwelling
-K2.19 305.89915      9780702266386     Saunders, Mykaela             2024 Always Will Be: Stories of Goori sovereignty from the future
-K2.20 809.38766      9780702265662     Saunders, Mykaela             None This All Come Back Now
-K2.21 813.6          9781914198861     Sax, Sam                      2024 Yr Dead
-K2.22 813            9781472146885     Scanlan, Padraic X.           2024 The Irish Question: Famine, Work and Freedom in the Nineteen
-K2.23 398            9781742585116     Scott, Kim                    2013 Dwoort Baal Kaat (Wirlomin Noongar Language and Stories Proj
-K2.24 398.2099414    9781742589657     Scott, Kim                    2017 Ngaawily Nop (5) (Wirlomin Noongar Language and Stories Proj
-K2.25 823.914        9780330404235     Scott, Kim                    2010 That Deadman Dance
-K2.26 899.15         9781742582962     Scott, Kim, 1957-             2011 Mamang
-K2.27 899.15         9781742582955     Scott, Kim, 1957-             2011 Noongar Mambara Bakitj
-K2.28 899.15         9781742589664     Scott, Kim, 1957-             2017 Noorn = : Snake
-K2.29 899.1534       9781742585123     Scott, Kim, 1957-             2013 Yira boornak nyininy
-K2.30 755.5          9780647530672     Shermon, Louise               None Our Mob, God's Story: Aboriginal and Torres Strait Islanders
-K2.31 811.6          9781784745738     Smith, Danez                  2024 Bluff: A powerful new collection reckoning with America, pro
-K2.32 305.89915092   9781922613912     Taylor, Alf                   2022 Cartwarra or what? : selected poems and short stories
-K2.33 305.89915092   9781925936391     Taylor, Alf, 1947-            None God, the devil and me
-K2.34 813.6          9781406384765     Thomas, Angie                 None The hate u give
-K2.35 823.4          9780702265853     van Neerven, Ellen            None Personal Score
-K2.36 813.54         9781474607254     Walker, Alice, 1944-          2017 The color purple : a novel
-K2.37 823.92         9781761426698     Walton, Tasma                 2025 I Am Nannertgarrook
-K2.38 811.54         9780645428230     Whittaker, Alison             None NANGAMAY dream MANA gather DJURALI grow
-K2.39 305.42         9780241446096     Zakaria, Rafia, 1978-         2021 AGAINST WHITE FEMINISM
-K2.40 892.736        9780857423498     Zaqṭān, Ghassān               2016 Describing the past
+K2.15 338.7630994    9781921248016     Pascoe, Bruce                 2018 Dark Emu
+K2.16 616.89         9780702268694     PhD, Tracy Westerman          2024 Jilya: How one Indigenous woman from the remote Pilbara tran
+K2.17 305.89915      9780645240139     Ramo, Ziggy                   2024 Human?: A lie that has been killing us since 1788
+K2.18 305.89915      9781925208511     Rooney, Bernard, 1934-,       2016 The way of the Boorna Waangki : a tale of cultural endurance
+K2.19 823.9          9780734420251     Rose, Lystra                  2022 The Upwelling
+K2.20 305.89915      9780702266386     Saunders, Mykaela             2024 Always Will Be: Stories of Goori sovereignty from the future
+K2.21 809.38766      9780702265662     Saunders, Mykaela             None This All Come Back Now
+K2.22 813.6          9781914198861     Sax, Sam                      2024 Yr Dead
+K2.23 813            9781472146885     Scanlan, Padraic X.           2024 The Irish Question: Famine, Work and Freedom in the Nineteen
+K2.24 398            9781742585116     Scott, Kim                    2013 Dwoort Baal Kaat (Wirlomin Noongar Language and Stories Proj
+K2.25 398.2099414    9781742589657     Scott, Kim                    2017 Ngaawily Nop (5) (Wirlomin Noongar Language and Stories Proj
+K2.26 823.914        9780330404235     Scott, Kim                    2010 That Deadman Dance
+K2.27 899.15         9781742582962     Scott, Kim, 1957-             2011 Mamang
+K2.28 899.15         9781742582955     Scott, Kim, 1957-             2011 Noongar Mambara Bakitj
+K2.29 899.15         9781742589664     Scott, Kim, 1957-             2017 Noorn = : Snake
+K2.30 899.1534       9781742585123     Scott, Kim, 1957-             2013 Yira boornak nyininy
+K2.31 755.5          9780647530672     Shermon, Louise               None Our Mob, God's Story: Aboriginal and Torres Strait Islanders
+K2.32 811.6          9781784745738     Smith, Danez                  2024 Bluff: A powerful new collection reckoning with America, pro
+K2.33 305.89915092   9781922613912     Taylor, Alf                   2022 Cartwarra or what? : selected poems and short stories
+K2.34 305.89915092   9781925936391     Taylor, Alf, 1947-            None God, the devil and me
+K2.35 813.6          9781406384765     Thomas, Angie                 None The hate u give
+K2.36 823.4          9780702265853     van Neerven, Ellen            None Personal Score
+K2.37 813.54         9781474607254     Walker, Alice, 1944-          2017 The color purple : a novel
+K2.38 823.92         9781761426698     Walton, Tasma                 2025 I Am Nannertgarrook
+K2.39 811.54         9780645428230     Whittaker, Alison             None NANGAMAY dream MANA gather DJURALI grow
+K2.40 305.42         9780241446096     Zakaria, Rafia, 1978-         2021 AGAINST WHITE FEMINISM
+K2.41 892.736        9780857423498     Zaqṭān, Ghassān               2016 Describing the past
 K3.01 823.087663     9780575097629     Aaronovitch, Ben, 1964-       2011 Moon over Soho
 K3.02 823.92         9780575097582     Aaronovitch, Ben, 1964-       2011 Rivers of London
 K3.03 823.914        9780575097667     Aaronovitch, Ben, 1964-       2012 Whispers under ground
@@ -2510,7 +2516,7 @@ P4.08 823.912        9780008205539     Tolkien, J. R. R. (John Ro    2016 Leaf b
 P4.09 823.914        9780008453343     Tolkien, J. R. R. (John Ro    2021 Tales from the perilous realm
 P4.10 823.912        9780048231888     Tolkien, J. R. R. (John Ro    1987 The hobbit, or, There and back again
 P4.11 821.912        9780008202156     Tolkien, J. R. R. (John Ro    2019 The lay of Aotrou and Itroun : together with the Corrigan po
-P4.12 823.087661     9780261102354     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
+P4.12 823.912        9780261102354     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
 P4.13 823.087661     9780261102361     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
 P4.14 823.087661     9780261102378     Tolkien, J. R. R. (John Ro    2007 The lord of the rings
 P4.15 823.087661     9780008471286     Tolkien, J. R. R. (John Ro    None The lord of the rings
