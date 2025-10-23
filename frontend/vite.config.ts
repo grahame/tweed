@@ -125,7 +125,7 @@ function buildPathPlugin(): Plugin {
 			]);
 			return {
 				build: {
-					outDir: BUILD_PATH || "build",
+					outDir: BUILD_PATH || "dist",
 				},
 			};
 		},
