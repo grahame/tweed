@@ -185319,11 +185319,11 @@
     "Fiction"],
     "5": ["science fiction"]
   },
-  "series": ["Musternisten",
+  "series": ["Patternist series",
   "Patternisti",
-  "Patternist series",
-  "Patternisti",
-  "Patternist: Chronological order"],
+  "Musternisten",
+  "Patternist: Chronological order",
+  "Patternisti"],
   "genre": ["Fiction",
   "Science Fiction"],
   "genre_id": ["17160326",
@@ -185331,6 +185331,1135 @@
   "source": "amazon.com books",
   "workcode": "1094473",
   "price": "$22.99 (AUD)",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316934620": {
+  "books_id": "316934620",
+  "title": "Modern Classics Heart Of Darkness (Penguin Modern Classics)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Conrad, Joseph",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Hampson, Robert|Hampson, Robert",
+  "secondaryauthorroles": "Editor|Foreword",
+  "authors": [{
+    "lf": "Conrad, Joseph",
+    "fl": "Joseph Conrad",
+    "role": "Author"
+  },
+  {
+    "lf": "Hampson, Robert",
+    "fl": "Robert Hampson",
+    "role": "Editor"
+  },
+  {
+    "lf": "Hampson, Robert",
+    "fl": "Robert Hampson",
+    "role": "Foreword"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0141182431",
+  "isbn": {
+    "0": "0141182431",
+    "2": "9780141182438"
+  },
+  "asin": "0141182431",
+  "ean": ["0141182431"],
+  "publication": "Penguin Classic (2007), Edition: New Ed, 240 pages",
+  "date": "2007",
+  "summary": "Modern Classics Heart Of Darkness (Penguin Modern Classics) by Joseph Conrad (2007)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.8"],
+    "wording": ["1837-1899",
+    "English & Old English literatures",
+    "English fiction",
+    "Literature & rhetoric"]
+  },
+  "lcc": {
+    "code": "PR6005 .O4 .H4"
+  },
+  "subject": {
+    "0": ["Africa",
+    "Fiction"],
+    "2": ["Congo (Democratic Republic)",
+    "Fiction"],
+    "3": ["Conrad, Joseph, 1857-1924. Heart of darkness"],
+    "4": ["Degeneration",
+    "Fiction"],
+    "6": ["Europeans",
+    "Africa",
+    "Fiction"],
+    "8": ["Fugitives from justice",
+    "Fiction"],
+    "9": ["Imperialism",
+    "Fiction"],
+    "11": ["Psychological fiction"],
+    "13": ["Psychological fiction, English"],
+    "14": ["Sea stories"],
+    "15": ["Ship captains",
+    "Fiction"],
+    "16": ["Suffering",
+    "Fiction"],
+    "17": ["Trading posts",
+    "Fiction"]
+  },
+  "originaltitle": "The Heart of Darkness",
+  "awards": ["1,000 Books to Read Before You Die Page-A-Day Calendar",
+  "100 best novels written in English",
+  "100 der besten Romane von den gro\u00dfen Erz\u00e4hlern des 20. Jahrhunderts",
+  "1000 Books to Read Before You Die",
+  "1001 Books You Must Read Before You Die",
+  "1001 boeken die je gelezen moet hebben!",
+  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
+  "40 Works of Fiction Are Must-Reads",
+  "40 best books to read before you die",
+  "501 Must-Read Books (Emma Beare, 2006)",
+  "A Century of Reading by LitHub",
+  "Audie Award",
+  "BBC Culture - The 100 Greatest British Novels",
+  "BBC's Big Read",
+  "Best Foreign Work of Fiction Chosen by Francophone Writers",
+  "BookDepository's 100 Best Books Ever",
+  "Borges' A Personal Library",
+  "Boston Public Library's 100 Most Influential Books of the Century",
+  "Canon de la narrativa universal del siglo XX",
+  "Carl Hertzog Award for Excellence in Book Design",
+  "Die Romane des Jahrhunderts",
+  "Easton Press: The 100 Greatest Books Ever Written",
+  "Esquire's 75 Books Every Man Should Read",
+  "From Zero to Well-Read in 100 Books",
+  "Greatest Books algorithm",
+  "Gu\u00eda de libros infantiles y juveniles IBBY M\u00e9xico",
+  "Harenberg Buch der 1000 B\u00fccher",
+  "Horror: The 100 Best Books",
+  "I Migliori Libri del '900",
+  "Journal book lovers pick their own top 100",
+  "Larry McCaffery's 20th Century Greatest Hits",
+  "Los 100 mejores en \u2018\u00bfQu\u00e9 est\u00e1s leyendo?\u2019, el podcast de libros de EL PA\u00cdS",
+  "Newsweek's Top 100 Books: The Meta-List",
+  "Os 100 melhores romances do s\u00e9culo XX segundo a Folha de S\u00e3o Paulo",
+  "Prix Baudelaire",
+  "Radcliffe Publishing Course Top 100 Novels of the 20th Century",
+  "The Essential Man's Library: 50 Fictional Adventure Books",
+  "The Great American Read",
+  "The Greatest 20th Century Novels",
+  "The Guardian 100 Best Novels of All Time",
+  "The Guardian 1000 Novels Everyone Must Read",
+  "The Guardian Readers' top 100 novels of all time",
+  "The Guardian's Seven ages of reading",
+  "The List 100 Best Scottish Books",
+  "The Modern Library's 100 Best Novels: The Board's List",
+  "The Modern Library's 100 Best Novels: The Readers' List",
+  "The Observer's 100 Best Novels",
+  "The Telegraph's 100 novels everyone should read",
+  "The Top Ten: Writers Pick Their Favorite Books",
+  "Tim Butcher's top 10 books about Congo",
+  "Top Twenty Books That Rock Essex",
+  "V\u00e4rldsbiblioteket",
+  "Waterstones Books of the Century",
+  "Western World's Greatest Books - Project Gutenberg"],
+  "genre": ["Fiction",
+  "General Fiction"],
+  "genre_id": ["17160326",
+  "2"],
+  "source": "amazon.com books",
+  "workcode": "2575",
+  "price": "$9.95 (AUD)",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "7.72 inches",
+  "thickness": "0.63 inches",
+  "length": "4.88 inches",
+  "dimensions": "7.72 x 4.88 x 0.63 inches",
+  "weight": "0.4 pounds",
+  "pages": "224 "
+},
+"316934625": {
+  "books_id": "316934625",
+  "title": "Medea and Other Plays (Penguin Classics)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Euripides",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Vellacott, Philip|Vellacott, Philip",
+  "secondaryauthorroles": "Translator|Introduction",
+  "authors": [{
+    "lf": "Euripides",
+    "fl": "Euripides",
+    "role": "Author"
+  },
+  {
+    "lf": "Vellacott, Philip",
+    "fl": "Philip Vellacott",
+    "role": "Translator"
+  },
+  {
+    "lf": "Vellacott, Philip",
+    "fl": "Philip Vellacott",
+    "role": "Introduction"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780140441291",
+  "isbn": ["9780140441291",
+  "0140441298"],
+  "asin": "0140441298",
+  "ean": ["0140441298"],
+  "publication": "Penguin Classics (1963), Edition: Reprint, 208 pages",
+  "date": "1963",
+  "summary": "Medea and Other Plays (Penguin Classics) by Euripides (1963)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["Greek (Ancient)"],
+  "originallanguage_codeA": ["eng",
+  "grc"],
+  "ddc": {
+    "code": ["882.01"],
+    "wording": ["Ancient period to ca. 499",
+    "Classical & modern Greek literatures",
+    "Classical Greek dramatic poetry and drama",
+    "Literature & rhetoric",
+    "standard subdivisions; collections; history, description, critical appraisal; Specific periods"]
+  },
+  "lcc": {
+    "code": "PA3975 .A2"
+  },
+  "subject": {
+    "0": ["Electra (Greek mythology)",
+    "Drama"],
+    "2": ["Euripides",
+    "Translations into English"],
+    "3": ["Hecuba (Legendary character)",
+    "Drama"],
+    "5": ["Helen of Troy (Greek mythology)",
+    "Drama"],
+    "7": ["Heracles (Greek mythology)",
+    "Drama"],
+    "9": ["Hippolytus (Greek mythology)",
+    "Drama"],
+    "11": ["Medea (Greek mythology)",
+    "Drama"],
+    "13": ["Tragedies"]
+  },
+  "source": "amazon.com books",
+  "workcode": "2409189",
+  "price": "$14.99 (AUD)",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "height": "7.7 inches",
+  "thickness": "0.6 inches",
+  "length": "5 inches",
+  "dimensions": "7.7 x 5 x 0.6 inches",
+  "weight": "0.35 pounds",
+  "pages": "208 "
+},
+"316934638": {
+  "books_id": "316934638",
+  "title": "My Promised Land",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Shavit, Ari",
+  "authors": [{
+    "lf": "Shavit, Ari",
+    "fl": "Ari Shavit"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "192510625X",
+  "isbn": {
+    "0": "192510625X",
+    "2": "9781925106251"
+  },
+  "asin": "192510625X",
+  "ean": ["192510625X"],
+  "publication": "Scribe Publications",
+  "summary": "My Promised Land by Ari Shavit",
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["956.05"],
+    "wording": ["1980&ndash;",
+    "History & geography",
+    "History of Asia",
+    "Middle East",
+    "Middle East Asia: Turkey, Iraq, Syria, Lebanon, Israel, Jordan"]
+  },
+  "lcc": {
+    "code": "DS119.7 .S381877"
+  },
+  "awards": ["Anisfield-Wolf Book Award",
+  "Encyclopedia Geopolitica - Year's Geopolitical Reading List",
+  "Lionel Gelber Prize",
+  "Natan Award",
+  "National Jewish Book Award",
+  "Sophie Brody Medal",
+  "The Economist Best Books",
+  "Washington Institute Book Prize"],
+  "genre": ["Nonfiction",
+  "Biography & Memoir",
+  "General Nonfiction",
+  "History",
+  "Religion & Spirituality"],
+  "genre_id": ["20275895",
+  "1240",
+  "1247",
+  "1599",
+  "1944"],
+  "source": "amazon.com books",
+  "workcode": "13689611",
+  "price": "$35 (AUD)",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316934675": {
+  "books_id": "316934675",
+  "title": "Bird Deity",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Morrissey, John",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Morrissey, John",
+    "fl": "John Morrissey",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9781922790781",
+  "isbn": ["9781922790781",
+  "1922790788"],
+  "asin": "B0FNX9XZPS",
+  "publication": "TEXT EBOOK (2026), 186 pages",
+  "date": "2026",
+  "summary": "Bird Deity by John Morrissey (2026)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "35656395",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.3",
+    "text": "Ebook"
+  }],
+  "copies": "1"
+},
+"316934699": {
+  "books_id": "316934699",
+  "title": "Passions of the Soul",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Williams, Rowan",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Williams, Rowan",
+    "fl": "Rowan Williams",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1399415689",
+  "isbn": {
+    "0": "1399415689",
+    "2": "9781399415682"
+  },
+  "asin": "1399415689",
+  "ean": ["1399415689"],
+  "publication": "Bloomsbury Continuum (2024), 160 pages",
+  "date": "2024",
+  "summary": "Passions of the Soul by Rowan Williams (2024)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.4819"],
+    "wording": ["By Denomination",
+    "Christian Living",
+    "Christian experience, practice, life",
+    "Christian practice & observance",
+    "Orthodox",
+    "Religion"]
+  },
+  "lcc": {
+    "code": "BX382 .W55"
+  },
+  "source": "amazon.com books",
+  "workcode": "31554994",
+  "price": "$24.99 (AUD)",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316934719": {
+  "books_id": "316934719",
+  "title": "Humility and the Elevation of the Mind to God",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Thomas a Kempis",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Thomas a Kempis",
+    "fl": "Thomas a Kempis",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1505122341",
+  "isbn": {
+    "0": "1505122341",
+    "2": "9781505122343"
+  },
+  "asin": "1505122341",
+  "ean": ["1505122341"],
+  "publication": "TAN Books (2021), 128 pages",
+  "date": "2021",
+  "summary": "Humility and the Elevation of the Mind to God by Thomas a Kempis (2021)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["241.4"],
+    "wording": ["Christian ethics",
+    "Christian practice & observance",
+    "Doing good",
+    "Religion"]
+  },
+  "lcc": {
+    "code": "BV4647 .H8"
+  },
+  "source": "amazon.com books",
+  "workcode": "27354426",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"316934732": {
+  "books_id": "316934732",
+  "title": "The Life of Christ Revealed: The Visions of Blessed Veronica of Milan",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Nixon, Robert",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Nixon, Robert",
+    "fl": "Robert Nixon",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1505133424",
+  "isbn": {
+    "0": "1505133424",
+    "2": "9781505133424"
+  },
+  "asin": "1505133424",
+  "ean": ["1505133424"],
+  "publication": "TAN Books (2025), 112 pages",
+  "date": "2025",
+  "summary": "The Life of Christ Revealed: The Visions of Blessed Veronica of Milan by Robert Nixon (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.2"],
+    "wording": ["Christian experience, practice, life",
+    "Christian practice & observance",
+    "Religion",
+    "Religious experience"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "34480257",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"316934759": {
+  "books_id": "316934759",
+  "title": "Solitude and Silence: The Cloister of the Heart",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Thomas a Kempis",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Thomas a Kempis",
+    "fl": "Thomas a Kempis",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1505128005",
+  "isbn": {
+    "0": "1505128005",
+    "2": "9781505128000"
+  },
+  "asin": "1505128005",
+  "ean": ["1505128005"],
+  "publication": "TAN Books (2023), 80 pages",
+  "date": "2023",
+  "summary": "Solitude and Silence: The Cloister of the Heart by Thomas a Kempis (2023)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.47"],
+    "wording": ["Asceticism and Spiritual Discipline",
+    "Christian Living",
+    "Christian experience, practice, life",
+    "Christian practice & observance",
+    "Religion"]
+  },
+  "lcc": {
+    "code": "BV4509.5"
+  },
+  "source": "amazon.com books",
+  "workcode": "31104275",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"316934801": {
+  "books_id": "316934801",
+  "title": "Blessed Ramon Llull",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Nixon, Fr Robert",
+  "primaryauthorrole": "Contributor",
+  "authors": [{
+    "lf": "Nixon, Fr Robert",
+    "fl": "Fr Robert Nixon",
+    "role": "Contributor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1505135257",
+  "isbn": {
+    "0": "1505135257",
+    "2": "9781505135251"
+  },
+  "asin": "1505135257",
+  "ean": ["1505135257"],
+  "publication": "Tan Books (2025), 144 pages",
+  "date": "2025",
+  "summary": "Blessed Ramon Llull by Fr Robert Nixon (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.2"],
+    "wording": ["Christian experience, practice, life",
+    "Christian practice & observance",
+    "Religion",
+    "Religious experience"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "33885484",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"316934826": {
+  "books_id": "316934826",
+  "title": "Miracles and Marvels of the Birds and Beasts",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Nixon, Fr Robert",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Nixon, Fr Robert",
+    "fl": "Fr Robert Nixon",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1962639576",
+  "isbn": {
+    "0": "1962639576",
+    "2": "9781962639576"
+  },
+  "asin": "1962639576",
+  "ean": ["1962639576"],
+  "publication": "Sensus Fidelium Press (2024), 84 pages",
+  "date": "2024",
+  "summary": "Miracles and Marvels of the Birds and Beasts by Fr Robert Nixon (2024)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["248.2"],
+    "wording": ["Christian experience, practice, life",
+    "Christian practice & observance",
+    "Religion",
+    "Religious experience"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "36652967",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316934839": {
+  "books_id": "316934839",
+  "title": "The Scourge of Demons: A Classic Manual (1576) on Exorcism and Spiritual Warfare",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Fr. Girolamo Menghi Ofm",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Nixon Osb, Fr. Robert",
+  "secondaryauthorroles": "Translator",
+  "authors": [{
+    "lf": "Fr. Girolamo Menghi Ofm",
+    "fl": "Fr. Girolamo Menghi Ofm",
+    "role": "Author"
+  },
+  {
+    "lf": "Nixon Osb, Fr. Robert",
+    "fl": "Fr. Robert Nixon Osb",
+    "role": "Translator"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1961721287",
+  "isbn": {
+    "0": "1961721287",
+    "2": "9781961721289"
+  },
+  "asin": "1961721287",
+  "ean": ["1961721287"],
+  "publication": "Slaying Dragons Press (2025), 155 pages",
+  "date": "2025",
+  "summary": "The Scourge of Demons: A Classic Manual (1576) on Exorcism and Spiritual Warfare by Fr. Girolamo Menghi Ofm (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["133.4"],
+    "wording": ["Demonology and witchcraft",
+    "Parapsychology & occultism",
+    "Philosophy & psychology",
+    "Specific topics in parapsychology and occultism"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "35897981",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316934902": {
+  "books_id": "316934902",
+  "title": "Richelieu",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "O'Connell, D. P.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "O'Connell, D. P.",
+    "fl": "D. P. O'Connell",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0297761137",
+  "isbn": {
+    "0": "0297761137",
+    "2": "9780297761136"
+  },
+  "asin": "0297761137",
+  "ean": ["0297761137"],
+  "publication": "Weidenfeld & Nicolson (1968), Edition: First Edition, 524 pages",
+  "date": "1968",
+  "summary": "Richelieu by D. P. O'Connell (1968)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["944.032"],
+    "wording": ["Bourbon 1589-1789",
+    "France",
+    "France and Monaco",
+    "History & geography",
+    "History of Europe",
+    "Louis XIII 1610-43"]
+  },
+  "lcc": {
+    "code": "DC123.9 .R5 .O25"
+  },
+  "subject": [["Richelieu, Armand Jean du Plessis, duc de, 1585-1642"]],
+  "source": "amazon.com books",
+  "workcode": "2352146",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "pages": "524 "
+},
+"316934951": {
+  "books_id": "316934951",
+  "title": "Constructing an Incarnational Theology",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Wells, Samuel",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Wells, Samuel",
+    "fl": "Samuel Wells",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1009492713",
+  "isbn": {
+    "0": "1009492713",
+    "2": "9781009492713"
+  },
+  "asin": "1009492713",
+  "ean": ["1009492713"],
+  "publication": "Cambridge University Press (2025), 322 pages",
+  "date": "2025",
+  "summary": "Constructing an Incarnational Theology by Samuel Wells (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["232"],
+    "wording": ["Christianity",
+    "Jesus Christ and his family",
+    "Religion"]
+  },
+  "lcc": {
+    "code": "BT220 .W45"
+  },
+  "source": "amazon.com books",
+  "workcode": "35238445",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316935204": {
+  "books_id": "316935204",
+  "title": "A History of Western Music: Revised Edition",
+  "sortcharacter": "3",
+  "public": "true",
+  "primaryauthor": "Grout, Donald Jay",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Grout, Donald Jay",
+    "fl": "Donald Jay Grout",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "asin": "B009VNC9XI",
+  "publication": "W. W. Norton & Co., Inc., NY (1960), Edition: 2, 818 pages",
+  "date": "1960",
+  "summary": "A History of Western Music: Revised Edition by Donald Jay Grout (1960)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["780.9"],
+    "wording": ["Arts & recreation",
+    "Biography And History",
+    "Music",
+    "Music"]
+  },
+  "lcc": {
+    "code": "ML160 .G87"
+  },
+  "subject": [["Music",
+  "History and Criticism"],
+  ["Music",
+  "History and criticism"]],
+  "awards": ["Notable Books List"],
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "History",
+  "Music"],
+  "genre_id": ["20275895",
+  "1247",
+  "1599",
+  "15028"],
+  "source": "amazon.com books",
+  "workcode": "11658",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"316935589": {
+  "books_id": "316935589",
+  "title": "The Transformations",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Pippos, Andrew",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Pippos, Andrew",
+    "fl": "Andrew Pippos",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "asin": "B0FK9RZ4S3",
+  "publication": "Picador Australia (2025), 290 pages",
+  "date": "2025",
+  "summary": "The Transformations by Andrew Pippos (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "awards": ["ABR Books of the Year",
+  "Best Books of the Year"],
+  "genre": ["Fiction"],
+  "genre_id": ["17160326"],
+  "source": "amazon.com books",
+  "workcode": "35238333",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.3",
+    "text": "Ebook"
+  }],
+  "copies": "1"
+},
+"316935602": {
+  "books_id": "316935602",
+  "title": "Gold Digger",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Collyer, Lisa",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Collyer, Lisa",
+    "fl": "Lisa Collyer",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1763600939",
+  "isbn": {
+    "0": "1763600939",
+    "2": "9781763600935"
+  },
+  "asin": "1763600939",
+  "ean": ["1763600939"],
+  "publication": "Life Before Man (2025), 142 pages",
+  "date": "2025",
+  "summary": "Gold Digger by Lisa Collyer (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "36653009",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316935625": {
+  "books_id": "316935625",
+  "title": "The Rot",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Araluen, Evelyn",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Araluen, Evelyn",
+    "fl": "Evelyn Araluen",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0702268968",
+  "isbn": {
+    "0": "0702268968",
+    "2": "9780702268960"
+  },
+  "asin": "0702268968",
+  "ean": ["0702268968"],
+  "publication": "University of Queensland Press (2026), 144 pages",
+  "date": "2026",
+  "summary": "The Rot by Evelyn Araluen (2026)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["821.4"],
+    "wording": ["1625-1702",
+    "British Poetry",
+    "English & Old English literatures",
+    "Literature & rhetoric"]
+  },
+  "lcc": [],
+  "awards": ["ABR Books of the Year",
+  "ALS Gold Medal",
+  "Australian Book Industry Awards",
+  "Best Books of the Year",
+  "Stella Prize",
+  "Victorian Premier's Literary Award"],
+  "genre": ["Fiction",
+  "General Fiction",
+  "Poetry",
+  "Recent Fiction"],
+  "genre_id": ["17160326",
+  "2",
+  "10010",
+  "8278605"],
+  "source": "amazon.com books",
+  "workcode": "35206850",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316935638": {
+  "books_id": "316935638",
+  "title": "Poems 1957-2013",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Lehmann, Geoffrey",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lehmann, Geoffrey",
+    "fl": "Geoffrey Lehmann",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1742585604",
+  "isbn": {
+    "0": "1742585604",
+    "2": "9781742585604"
+  },
+  "asin": "1742585604",
+  "ean": ["1742585604"],
+  "publication": "UWA Publishing (2014), 384 pages",
+  "date": "2014",
+  "summary": "Poems 1957-2013 by Geoffrey Lehmann (2014)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["819.13"],
+    "wording": ["American literature in English",
+    "American literatures in English not requiring local emphasis",
+    "Canadian fiction",
+    "English literature from Canada",
+    "Literature & rhetoric"]
+  },
+  "lcc": {
+    "code": "G2015"
+  },
+  "awards": ["Prime Minister's Literary Award"],
+  "genre": ["Fiction",
+  "Music",
+  "Poetry"],
+  "genre_id": ["17160326",
+  "15028",
+  "10010"],
+  "source": "amazon.com books",
+  "workcode": "16407946",
+  "price": "$29.99 (AUD)",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316935668": {
+  "books_id": "316935668",
+  "title": "Seek the Fair Land: The First Adventurous and Exciting Story in the Famous Irish Trilogy",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Macken, Walter",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Macken, Walter",
+    "fl": "Walter Macken",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1035065347",
+  "isbn": {
+    "0": "1035065347",
+    "2": "9781035065349"
+  },
+  "asin": "1035065347",
+  "ean": ["1035065347"],
+  "publication": "Pan (2025), 336 pages",
+  "date": "2025",
+  "summary": "Seek the Fair Land: The First Adventurous and Exciting Story in the Famous Irish Trilogy by Walter Macken (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813"],
+    "wording": ["American fiction in English",
+    "American literature in English",
+    "Literature & rhetoric"]
+  },
+  "lcc": {
+    "code": "PZ3"
+  },
+  "subject": {
+    "0": ["Historical Fiction"],
+    "2": ["Historical fiction"],
+    "4": ["Ireland",
+    "Fiction.",
+    "17th century"],
+    "5": ["Ireland",
+    "History",
+    "17th century",
+    "Fiction"],
+    "6": ["historical fiction"]
+  },
+  "series": ["Irish Trilogy"],
+  "genre": ["Fiction",
+  "General Fiction",
+  "Historical Fiction"],
+  "genre_id": ["17160326",
+  "2",
+  "41890"],
+  "source": "amazon.com books",
+  "workcode": "83595",
+  "price": "$24.99 (AUD)",
+  "entrydate": "2026-06-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"316935685": {
+  "books_id": "316935685",
+  "title": "The Work of the Dead: A Cultural History of Mortal Remains",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Laqueur, Thomas W.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Laqueur, Thomas W.",
+    "fl": "Thomas W. Laqueur",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0691180938",
+  "isbn": {
+    "0": "0691180938",
+    "2": "9780691180939"
+  },
+  "asin": "0691180938",
+  "ean": ["0691180938"],
+  "publication": "Princeton University Press (2018), Edition: Reprint, 744 pages",
+  "date": "2018",
+  "summary": "The Work of the Dead: A Cultural History of Mortal Remains by Thomas W. Laqueur (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["306.9"],
+    "wording": ["Institutions pertaining to death",
+    "Social Behavior - Dating, Marriage, Divorce",
+    "Social sciences, sociology & anthropology",
+    "Society, government, & culture"]
+  },
+  "lcc": {
+    "code": "GT3150 .L37"
+  },
+  "originaltitle": "The Work of the Dead: A Cultural History of Mortal Remains",
+  "awards": ["Cundill History Prize",
+  "George L. Mosse Prize",
+  "Independent Publisher Book Awards",
+  "PROSE Award"],
+  "genre": ["Nonfiction",
+  "Anthropology",
+  "General Nonfiction",
+  "History",
+  "Religion & Spirituality"],
+  "genre_id": ["20275895",
+  "5022",
+  "1247",
+  "1599",
+  "1944"],
+  "source": "amazon.com books",
+  "workcode": "16533711",
+  "price": "$49.99 (AUD)",
   "entrydate": "2026-06-24",
   "format": [{
     "code": "1.1.1",
