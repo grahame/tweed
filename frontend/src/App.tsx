@@ -5,6 +5,11 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBarsStaggered, faBook } from "@fortawesome/free-solid-svg-icons";
 import Books from "./books.json";
 
+const searchableBooks = Books.books.map((b) => ({
+    book: b,
+    haystack: `${b.author} ${b.title} ${b.loc} ${b.zone}`,
+}));
+
 function useInput(): [string, JSX.Element] {
     const [value, setValue] = useState<string>("");
     const inputReference = useRef<HTMLInputElement>(null);
@@ -68,71 +73,55 @@ function BookTable(props: React.PropsWithChildren<BookProp>) {
 
 function App() {
     const [searchString, searchStringInput] = useInput();
+    const [debouncedSearch, setDebouncedSearch] = useState<string>("");
     const [bookRows, setBookRows] = useState<typeof Books.books>(Books.books);
     const [realMatches, setRealMatches] = useState<Set<number>>(new Set());
     const [fuzzy, setFuzzy] = useState<boolean>(false);
     const [error, setError] = useState<string | null>();
 
+    useEffect(() => {
+        const id = setTimeout(() => setDebouncedSearch(searchString), 200);
+        return () => clearTimeout(id);
+    }, [searchString]);
+
     React.useEffect(() => {
-        const filterBook = (book: (typeof Books.books)[0], re: RegExp) => {
-            return re.test(book.author) || re.test(book.title) || re.test(book.loc) || re.test(book.zone);
-        };
-        const safeRe = () => {
-            return new RegExp("^.*$", "i");
-        };
-        const makeRe = (s: string) => {
-            try {
-                const re = new RegExp(s, "i");
-                setError(null);
-                return re;
-            } catch (e: any) {
-                setError(e.toString());
-                return safeRe();
-            }
-        };
-        const userRe = () => {
-            return makeRe(searchString.toString());
-        };
-        const reFilter = () => {
-            var re = userRe();
-            // build a list of matching books
-            var i = 0;
-            const matchingIndeces = new Set<number>();
-            for (const book of Books.books) {
-                if (filterBook(book, re)) {
-                    matchingIndeces.add(i);
-                }
-                ++i;
-            }
-            return matchingIndeces;
-        };
+        let re: RegExp;
+        try {
+            re = new RegExp(debouncedSearch, "i");
+            setError(null);
+        } catch (e: any) {
+            setError(e.toString());
+            re = new RegExp("^.*$", "i");
+        }
 
         const realMatches = new Set<number>();
         const matchingBooks: typeof Books.books = [];
-        const matchingIndeces = reFilter();
-        var i = 0;
-        for (const book of Books.books) {
-            var matched = false;
-            if (matchingIndeces.has(i)) {
-                matchingBooks.push(book);
-                if (fuzzy) {
-                    realMatches.add(book.books_id);
-                }
-                matched = true;
+        const matchingIndices = new Set<number>();
+
+        for (let i = 0; i < searchableBooks.length; i++) {
+            if (re.test(searchableBooks[i].haystack)) {
+                matchingIndices.add(i);
             }
-            if (!matched && fuzzy) {
-                for (var j = 1; j < 3; ++j) {
-                    if (matchingIndeces.has(i + j) || matchingIndeces.has(i - j)) {
+        }
+
+        for (let i = 0; i < searchableBooks.length; i++) {
+            const { book } = searchableBooks[i];
+            if (matchingIndices.has(i)) {
+                matchingBooks.push(book);
+                if (fuzzy) realMatches.add(book.books_id);
+            } else if (fuzzy) {
+                for (let j = 1; j < 3; j++) {
+                    if (matchingIndices.has(i + j) || matchingIndices.has(i - j)) {
                         matchingBooks.push(book);
                         break;
                     }
                 }
             }
-            ++i;
         }
+
         setRealMatches(realMatches);
         setBookRows(matchingBooks);
-    }, [searchString, fuzzy]);
+    }, [debouncedSearch, fuzzy]);
 
     return (
         <div>
