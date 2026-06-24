@@ -37061,5 +37061,135 @@
             "hendy, toby",
             "a guide to making friends in the fourth dimension"
         ]
+    },
+    "316931928": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "823.8",
+            "peake, mervyn laurence",
+            "alice's adventures in wonderland and through the looking glass"
+        ],
+        "author": [
+            "peake, mervyn laurence",
+            "alice's adventures in wonderland and through the looking glass"
+        ]
+    },
+    "316931971": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "823.7",
+            "austen, jane",
+            "sense and sensibility: the stunning deluxe gift edition of austen’s first novel, the funny, moving story of the dashwood sisters (vintage collector's classics)"
+        ],
+        "author": [
+            "austen, jane",
+            "sense and sensibility: the stunning deluxe gift edition of austen’s first novel, the funny, moving story of the dashwood sisters (vintage collector's classics)"
+        ]
+    },
+    "316932002": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "823.7",
+            "austen, jane",
+            "emma: by jane austen (vintage collector's classics)"
+        ],
+        "author": [
+            "austen, jane",
+            "emma: by jane austen (vintage collector's classics)"
+        ]
+    },
+    "316932012": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "823.7",
+            "austen, jane",
+            "northanger abbey"
+        ],
+        "author": [
+            "austen, jane",
+            "northanger abbey"
+        ]
+    },
+    "316932035": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "823.7",
+            "austen, jane",
+            "persuasion: a deluxe gift edition of jane austen’s final novel with marbled endpapers, printed edges, beautiful paper and ribbon (vintage collector's classics)"
+        ],
+        "author": [
+            "austen, jane",
+            "persuasion: a deluxe gift edition of jane austen’s final novel with marbled endpapers, printed edges, beautiful paper and ribbon (vintage collector's classics)"
+        ]
+    },
+    "316932050": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "823.7",
+            "austen, jane",
+            "mansfield park"
+        ],
+        "author": [
+            "austen, jane",
+            "mansfield park"
+        ]
+    },
+    "316933097": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "891.73",
+            "dostoyevsky, fyodor",
+            "crime and punishment (word cloud classics)"
+        ],
+        "author": [
+            "dostoyevsky, fyodor",
+            "crime and punishment (word cloud classics)"
+        ]
+    },
+    "316933334": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "793.93",
+            "warner, raven",
+            "good society - a jane austen rpg"
+        ],
+        "author": [
+            "warner, raven",
+            "good society - a jane austen rpg"
+        ]
+    },
+    "316933504": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "809.915",
+            "tolkien, j.r.r.",
+            "tree and leaf"
+        ],
+        "author": [
+            "tolkien, j.r.r.",
+            "tree and leaf"
+        ]
+    },
+    "316933531": {
+        "_rev": 1,
+        "ddc": [
+            false,
+            "813",
+            "butler, octavia e.",
+            "mind of my mind: octavia e. butler (the patternist series)"
+        ],
+        "author": [
+            "butler, octavia e.",
+            "mind of my mind: octavia e. butler (the patternist series)"
+        ]
     }
 }
