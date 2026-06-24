@@ -1,299 +1,287 @@
 {
-    "rewrite": [
-        [ "author", "^Guin, Ursula.*", "Le Guin, Ursula"],
-        [ "author", "^Le Guin, Ursula.*", "Le Guin, Ursula"]
-    ],
-    "zones": {
-        "crime": {
-            "sort": "author",
-            "code": "CRIM",
-            "matches": [
-                {"author": "r:Christie, Agatha.*"},
-                {"author": "r:Mortimer, John.*"},
-                {"@isbnfile": "data/crime.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } }
-            ]
-        },
-        "poetry-and-epic-myth": {
-            "sort": "author",
-            "code": "POET",
-            "matches": [
-                {"@isbnfile": "data/poetry-and-epic-myth.txt"},
-                {"title": "Murder in the Cathedral"}
-            ],
-            "shelves": [
-                { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780992339340" } },
-                { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9781911187912" } },
-                
-                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9780099529460" } }
-            ]
-        },
-        "romance-and-wry-social-commentary": {
-            "sort": "author",
-            "code": "ROM",
-            "matches": [
-                {"author": "r:.*Austen, Jane.*"},
-                {"author": "r:.*Blake, Ashley Herring.*"},
-                {"@isbnfile": "data/romance.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "9788129113726" } },
-                { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "9781408728611" } }
-            ]
-        },
-        "first-nations": {
-            "sort": "author",
-            "code": "FIRST",
-            "matches": [
-                {"@isbnfile": "data/first-nations.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "K", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "K", "shelf": 2, "first_book": { "isbn": "9781760526931" } }
-            ]
-        },
-        "cookbooks": {
-            "sort": "author",
-            "code": "CB",
-            "matches": [
-                {"@isbnfile": "data/cookbooks.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "CO-", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "CO-", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "CO-", "shelf": 3, "first_book": { "isbn": "" } }
-            ]
-        },
-        "liturgy": {
-            "sort": "author",
-            "code": "LIT",
-            "matches": [
-                {"@isbnfile": "data/liturgy.txt"},
-                {"title": "A Book of Occasional Services"}
-            ],
-            "shelves": [
-                { "bookshelf": "LIT-", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "LIT-", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "LIT-", "shelf": 3, "first_book": { "isbn": "" } }
-            ]
-        },
-        "tech": {
-            "sort": "ddc",
-            "code": "TECH",
-            "matches": [{"ddc": "^[056]"}],
-            "shelves": [
-                { "bookshelf": "TA-", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
-                { "bookshelf": "TA-", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
-                { "bookshelf": "TA-", "shelf": 3, "first_book": { "isbn": "9780534217983" } },
-
-                { "bookshelf": "TB-", "shelf": 1, "first_book": { "isbn": "9781579656232" } },
-                { "bookshelf": "TB-", "shelf": 2, "first_book": { "isbn": "9781594203084" } },
-                { "bookshelf": "TB-", "shelf": 3, "first_book": { "isbn": "" } }
-            ]
-        },
-        "philosophy-theology": {
-            "sort": "ddc",
-            "code": "THEOL",
-            "matches": [{"ddc": "^[12]"}],
-            "shelves": [
-                { "bookshelf": "A", "shelf": 1, "first_book": { "isbn": "9780415693165" } },
-                { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9780300084719" } },
-                { "bookshelf": "A", "shelf": 3, "first_book": { "isbn": "" } },
-                { "bookshelf": "A", "shelf": 4, "first_book": { "isbn": "9781876492083" } },
-                { "bookshelf": "A", "shelf": 5, "first_book": { "isbn": "9781921410192" } },
-                { "bookshelf": "A", "shelf": 6, "first_book": { "isbn": "9781909697836" } },
-
-                { "bookshelf": "B", "shelf": 1, "first_book": { "title": "An outline of Old Testament theology" } },
-                { "bookshelf": "B", "shelf": 2, "first_book": { "title": "A path through Genesis" } },
-                { "bookshelf": "B", "shelf": 3, "first_book": { "isbn": "9780664234591" } },
-                { "bookshelf": "B", "shelf": 4, "first_book": { "isbn": "9780800615321" } },
-                { "bookshelf": "B", "shelf": 5, "first_book": { "isbn": "9780300180855" } },
-                { "bookshelf": "B", "shelf": 6, "first_book": { "isbn": "9780281064014" } },
-
-                { "bookshelf": "C", "shelf": 1, "first_book": { "isbn": "9780340979983" } },
-                { "bookshelf": "C", "shelf": 2, "first_book": { "isbn": "9780061976582" } },
-                { "bookshelf": "C", "shelf": 3, "first_book": { "isbn": "9780567093400" } },
-                { "bookshelf": "C", "shelf": 4, "first_book": { "isbn": "9780824512217" } },
-                { "bookshelf": "C", "shelf": 5, "first_book": { "isbn": "9780334023685" } },
-                { "bookshelf": "C", "shelf": 6, "first_book": { "isbn": "9780232528572" } },
-                
-                { "bookshelf": "D", "shelf": 1, "first_book": { "isbn": "9780939516339" } },
-                { "bookshelf": "D", "shelf": 2, "first_book": { "isbn": "9780722085189" } },
-                { "bookshelf": "D", "shelf": 3, "first_book": { "isbn": "9780268036041" } },
-                { "bookshelf": "D", "shelf": 4, "first_book": { "isbn": "9786188148949" } },
-                { "bookshelf": "D", "shelf": 5, "first_book": { "isbn": "9780812974218" } },
-                { "bookshelf": "D", "shelf": 6, "first_book": { "isbn": "9780385236829" } },
-
-                { "bookshelf": "E", "shelf": 1, "first_book": { "isbn": "9781505128062" } },
-                { "bookshelf": "E", "shelf": 2, "first_book": { "isbn": "9781538178652" } },
-                { "bookshelf": "E", "shelf": 3, "first_book": { "isbn": "9780908284740" } },
-                { "bookshelf": "E", "shelf": 4, "first_book": { "isbn": "9780198269199" } },
-                { "bookshelf": "E", "shelf": 5, "first_book": { "isbn": "9780814660546" } },
-                { "bookshelf": "E", "shelf": 6, "first_book": { "isbn": "9780645044232" } },
-
-                { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "9781565483187" } },
-                { "bookshelf": "F", "shelf": 2, "first_book": { "isbn": "9780140445657" } },
-                { "bookshelf": "F", "shelf": 3, "first_book": { "isbn": "9781570758393" } },
-                { "bookshelf": "F", "shelf": 4, "first_book": { "isbn": "9781876268688" } },
-                { "bookshelf": "F", "shelf": 5, "first_book": { "title": "Prolegomena to the History of Ancient Israel" } }
-            ]
-        },
-        "other-ology": {
-            "sort": "ddc",
-            "code": "OLOGY",
-            "matches": [{"ddc": "^[3479]"}],
-            "shelves": [
-                { "bookshelf": "F", "shelf": 6, "first_book": { "isbn": "9781920769055" } },
-
-                { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "9780367612726" } },
-                { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "9781743798348" } },
-                { "bookshelf": "G", "shelf": 3, "first_book": { "isbn": "9781849162623" } },
-                { "bookshelf": "G", "shelf": 4, "first_book": { "isbn": "9780643095786" } },
-                { "bookshelf": "G", "shelf": 5, "first_book": { "isbn": "9781740660266" } },
-                { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9780857528223" } },
-
-                { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "9780872209817" } },
-                { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9780140202342" } },
-                { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9781760875121" } }
-            ]
-        },
-        "speculative-fiction": {
-            "sort": "author",
-            "code": "SPEC",
-            "matches": [
-                {"author": "r:.*Adams, Douglas.*"},
-                {"author": "r:.*Asimov,.*"},
-                {"title": "r:.*Asimov.*"},
-                {"author": "r:.*Aaronovitch, Ben.*"},
-                {"author": "r:.*Anders, Charlie.*"},
-                {"author": "r:.*Atwood, Margaret.*"},
-                {"author": "r:.*Ballard.*"},
-                {"author": "r:.*Banks, Iain.*"},
-                {"author": "r:.*Baxter, Stephen.*"},
-                {"author": "r:Bradbury, Ray.*"},
-                {"author": "r:brown, adrienne maree.*"},
-                {"author": "r:Butler, Octavia.*"},
-                {"author": "r:.*Chambers, Becky.*"},
-                {"author": "r:.*Clarke, Arthur.*"},
-                {"author": "r:.*Corey, James.*"},
-                {"author": "r:.*Doctorow, Cory.*"},
-                {"author": "r:.*Dick, Philip.*"},
-                {"author": "r:.*Egan, Greg.*"},
-                {"author": "r:.*Gibson, William.*"},
-                {"author": "r:.*Herbert, Frank.*"},
-                {"author": "r:.*Heller, Joseph.*"},
-                {"author": "r:.*Heinlein, Robert.*"},
-                {"author": "r:.*Jemisin, N\\. K\\."},
-                {"author": "r:.*Kuang, R\\. F\\."},
-                {"author": "r:Le Guin, Ursula.*"},
-                {"author": "r:Leckie, Ann.*"},
-                {"author": "r:.*Mandel, Emily.*"},
-                {"author": "r:.*MacLeod, Ken.*"},
-                {"author": "r:.*Murakami, Haruki"},
-                {"author": "r:.*Milne, A.*"},
-                {"title": "r:.*Philip K. Dick"},
-                {"author": "r:.*Pratchett, Terry.*"},
-                {"author": "r:.*Robinson, Kim Stanley.*"},
-                {"author": "r:.*Stross, Charles.*"},
-                {"author": "r:.*Stephenson, Neal.*"},
-                {"author": "r:.*Tolkien.*"},
-                {"title": "r:.*Tolkien.*"},
-                {"author": "r:.*Twain, Mark.*"},
-                {"author": "Vonnegut, Kurt"},
-                {"@isbnfile": "data/speculative-fiction.txt"}
-            ],
-            "shelves": [
-                { "bookshelf": "K", "shelf": 3, "first_book": { "isbn": "" } },
-                { "bookshelf": "L", "shelf": 1, "first_book": { "isbn": "9780583309868" } },
-                { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "9780099563143" } },
-                { "bookshelf": "L", "shelf": 3, "first_book": { "isbn": "9780349139203" } },
-
-                { "bookshelf": "M", "shelf": 1, "first_book": { "isbn": "9780006498124" } },
-                { "bookshelf": "M", "shelf": 2, "first_book": { "isbn": "9780671022075" } },
-                { "bookshelf": "M", "shelf": 3, "first_book": { "isbn": "9781473621473" } },
-
-                { "bookshelf": "N", "shelf": 1, "first_book": { "isbn": "9780356504292" } },
-                { "bookshelf": "N", "shelf": 2, "first_book": { "isbn": "9780679752981" } },
-                { "bookshelf": "N", "shelf": 3, "first_book": { "isbn": "9780747545187" } },
-
-                { "bookshelf": "O", "shelf": 1, "first_book": { "isbn": "9780063418868" } },
-                { "bookshelf": "O", "shelf": 2, "first_book": { "isbn": "9781534414594" } },
-                { "bookshelf": "O", "shelf": 3, "first_book": { "isbn": "9781447268970" } },
-                { "bookshelf": "O", "shelf": 4, "first_book": { "isbn": "9780099540953" } },
-                { "bookshelf": "O", "shelf": 5, "first_book": { "isbn": "9780552167574" } },
-                { "bookshelf": "O", "shelf": 6, "first_book": { "isbn": "9781529150544" } },
-
-                { "bookshelf": "P", "shelf": 1, "first_book": { "isbn": "9780356508849" } },
-                { "bookshelf": "P", "shelf": 2, "first_book": { "isbn": "9781843549161" } },
-                { "bookshelf": "P", "shelf": 3, "first_book": { "isbn": "9780670060597" } },
-                { "bookshelf": "P", "shelf": 4, "first_book": { "isbn": "9780008214227" } },
-                { "bookshelf": "P", "shelf": 5, "first_book": { "isbn": "9781761470011" } },
-                { "bookshelf": "P", "shelf": 6, "first_book": { "isbn": "9780099524083" } }
-            ]
-        },
-        "other-fiction": {
-            "sort": "author",
-            "code": "FIC",
-            "matches": [{"ddc": "^[8]"}, {"ddc": ""}],
-            "shelves": [
-                { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } },
-                { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "9781529093001" } },
-                { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "9781925589252" } },
-
-                { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "9781864710014" } },
-                { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "9780881840759" } },
-                { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "9780938819806" } },
-
-                { "bookshelf": "K", "shelf": 1, "first_book": { "isbn": "" } },
-                { "bookshelf": "K", "shelf": 2, "first_book": { "isbn": "" } },
-                { "bookshelf": "K", "shelf": 3, "first_book": { "isbn": "" } },
-
-                { "bookshelf": "L", "shelf": 1, "first_book": { "isbn": "" } }
-            ]
-        }
+  "rewrite": [
+    ["author", "^Guin, Ursula.*", "Le Guin, Ursula"],
+    ["author", "^Le Guin, Ursula.*", "Le Guin, Ursula"]
+  ],
+  "zones": {
+    "crime": {
+      "sort": "author",
+      "code": "CRIM",
+      "matches": [
+        { "author": "r:Christie, Agatha.*" },
+        { "author": "r:Mortimer, John.*" },
+        { "@isbnfile": "data/crime.txt" }
+      ],
+      "shelves": [{ "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } }]
     },
-    "overrides": [
-        { "title": "Missionary Memories", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735837", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735844", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426721267", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735851", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735868", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735806", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735820", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735813", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735790", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735783", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9780136149347", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9781426735837", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9780198822325", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9780198822332", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9780198822295", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9780198822318", "bookshelf": "A", "shelf": 3 },
-        { "isbn": "9780198822301", "bookshelf": "A", "shelf": 3 },
+    "poetry-and-epic-myth": {
+      "sort": "author",
+      "code": "POET",
+      "matches": [{ "@isbnfile": "data/poetry-and-epic-myth.txt" }, { "title": "Murder in the Cathedral" }],
+      "shelves": [
+        { "bookshelf": "H", "shelf": 4, "first_book": { "isbn": "" } },
+        { "bookshelf": "H", "shelf": 5, "first_book": { "isbn": "9780992339340" } },
+        { "bookshelf": "H", "shelf": 6, "first_book": { "isbn": "9781911187912" } },
 
-        { "isbn": "9780646480947", "bookshelf": "F", "shelf": 3 },
-        { "isbn": "9781741315400", "bookshelf": "F", "shelf": 6 },
+        { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "9780099529460" } }
+      ]
+    },
+    "romance-and-wry-social-commentary": {
+      "sort": "author",
+      "code": "ROM",
+      "matches": [
+        { "author": "r:.*Austen, Jane.*" },
+        { "author": "r:.*Blake, Ashley Herring.*" },
+        { "@isbnfile": "data/romance.txt" }
+      ],
+      "shelves": [
+        { "bookshelf": "I", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "I", "shelf": 2, "first_book": { "isbn": "9788129113726" } },
+        { "bookshelf": "I", "shelf": 3, "first_book": { "isbn": "9781408728611" } }
+      ]
+    },
+    "first-nations": {
+      "sort": "author",
+      "code": "FIRST",
+      "matches": [{ "@isbnfile": "data/first-nations.txt" }],
+      "shelves": [
+        { "bookshelf": "K", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "K", "shelf": 2, "first_book": { "isbn": "9781760526931" } }
+      ]
+    },
+    "cookbooks": {
+      "sort": "author",
+      "code": "CB",
+      "matches": [{ "@isbnfile": "data/cookbooks.txt" }],
+      "shelves": [
+        { "bookshelf": "CO-", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "CO-", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "CO-", "shelf": 3, "first_book": { "isbn": "" } }
+      ]
+    },
+    "liturgy": {
+      "sort": "author",
+      "code": "LIT",
+      "matches": [{ "@isbnfile": "data/liturgy.txt" }, { "title": "A Book of Occasional Services" }],
+      "shelves": [
+        { "bookshelf": "LIT-", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "LIT-", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "LIT-", "shelf": 3, "first_book": { "isbn": "" } }
+      ]
+    },
+    "tech": {
+      "sort": "ddc",
+      "code": "TECH",
+      "matches": [{ "ddc": "^[056]" }],
+      "shelves": [
+        { "bookshelf": "TA-", "shelf": 1, "first_book": { "isbn": "9780914845461" } },
+        { "bookshelf": "TA-", "shelf": 2, "first_book": { "isbn": "9780136386773" } },
+        { "bookshelf": "TA-", "shelf": 3, "first_book": { "isbn": "9780534217983" } },
 
-        { "isbn": "9781851777372", "bookshelf": "G", "shelf": 3},
-        { "isbn": "9780714824611", "bookshelf": "G", "shelf": 3},
-        { "isbn": "9780975016893", "bookshelf": "G", "shelf": 3},
-        { "isbn": "978-0-9751947-5-1", "bookshelf": "G", "shelf": 3},
-        { "isbn": "9781592535156", "bookshelf": "G", "shelf": 3},
+        { "bookshelf": "TB-", "shelf": 1, "first_book": { "isbn": "9781579656232" } },
+        { "bookshelf": "TB-", "shelf": 2, "first_book": { "isbn": "9781594203084" } },
+        { "bookshelf": "TB-", "shelf": 3, "first_book": { "isbn": "" } }
+      ]
+    },
+    "philosophy-theology": {
+      "sort": "ddc",
+      "code": "THEOL",
+      "matches": [{ "ddc": "^[12]" }],
+      "shelves": [
+        { "bookshelf": "A", "shelf": 1, "first_book": { "isbn": "9780415693165" } },
+        { "bookshelf": "A", "shelf": 2, "first_book": { "isbn": "9780300084719" } },
+        { "bookshelf": "A", "shelf": 3, "first_book": { "isbn": "" } },
+        { "bookshelf": "A", "shelf": 4, "first_book": { "isbn": "9781876492083" } },
+        { "bookshelf": "A", "shelf": 5, "first_book": { "isbn": "9781921410192" } },
+        { "bookshelf": "A", "shelf": 6, "first_book": { "isbn": "9781909697836" } },
 
-        { "isbn": "9781617291395", "bookshelf": "T", "shelf": 1},
-        { "isbn": "9781698853574", "bookshelf": "W", "shelf": 1},
+        { "bookshelf": "B", "shelf": 1, "first_book": { "title": "An outline of Old Testament theology" } },
+        { "bookshelf": "B", "shelf": 2, "first_book": { "title": "A path through Genesis" } },
+        { "bookshelf": "B", "shelf": 3, "first_book": { "isbn": "9780664234591" } },
+        { "bookshelf": "B", "shelf": 4, "first_book": { "isbn": "9780800615321" } },
+        { "bookshelf": "B", "shelf": 5, "first_book": { "isbn": "9780300180855" } },
+        { "bookshelf": "B", "shelf": 6, "first_book": { "isbn": "9780281064014" } },
 
-        { "title": "Libraryland!", "bookshelf": "Y", "shelf": 3},
-        { "title": "r:The Australian Hymn Book.*", "bookshelf": "Y", "shelf": 2},
-        { "title": "Where the wild things aren't", "bookshelf": "Y", "shelf": 3},
-        { "title": "Mungo Bean", "bookshelf": "Y", "shelf": 3},
-        { "title": "Riley: Moments in the Life Of", "bookshelf": "Y", "shelf": 3},
-        { "title": "r:^The Orthodox Study Bible.*", "bookshelf": "Y", "shelf": 3 },
-        { "title": "r:^Got Zip.*", "bookshelf": "Y", "shelf": 3 }
-    ]
+        { "bookshelf": "C", "shelf": 1, "first_book": { "isbn": "9780340979983" } },
+        { "bookshelf": "C", "shelf": 2, "first_book": { "isbn": "9780061976582" } },
+        { "bookshelf": "C", "shelf": 3, "first_book": { "isbn": "9780567093400" } },
+        { "bookshelf": "C", "shelf": 4, "first_book": { "isbn": "9780824512217" } },
+        { "bookshelf": "C", "shelf": 5, "first_book": { "isbn": "9780334023685" } },
+        { "bookshelf": "C", "shelf": 6, "first_book": { "isbn": "9780232528572" } },
+
+        { "bookshelf": "D", "shelf": 1, "first_book": { "isbn": "9780939516339" } },
+        { "bookshelf": "D", "shelf": 2, "first_book": { "isbn": "9780722085189" } },
+        { "bookshelf": "D", "shelf": 3, "first_book": { "isbn": "9780268036041" } },
+        { "bookshelf": "D", "shelf": 4, "first_book": { "isbn": "9786188148949" } },
+        { "bookshelf": "D", "shelf": 5, "first_book": { "isbn": "9780812974218" } },
+        { "bookshelf": "D", "shelf": 6, "first_book": { "isbn": "9780385236829" } },
+
+        { "bookshelf": "E", "shelf": 1, "first_book": { "isbn": "9781505128062" } },
+        { "bookshelf": "E", "shelf": 2, "first_book": { "isbn": "9781538178652" } },
+        { "bookshelf": "E", "shelf": 3, "first_book": { "isbn": "9780908284740" } },
+        { "bookshelf": "E", "shelf": 4, "first_book": { "isbn": "9780198269199" } },
+        { "bookshelf": "E", "shelf": 5, "first_book": { "isbn": "9780814660546" } },
+        { "bookshelf": "E", "shelf": 6, "first_book": { "isbn": "9780645044232" } },
+
+        { "bookshelf": "F", "shelf": 1, "first_book": { "isbn": "9781565483187" } },
+        { "bookshelf": "F", "shelf": 2, "first_book": { "isbn": "9780140445657" } },
+        { "bookshelf": "F", "shelf": 3, "first_book": { "isbn": "9781570758393" } },
+        { "bookshelf": "F", "shelf": 4, "first_book": { "isbn": "9781876268688" } },
+        { "bookshelf": "F", "shelf": 5, "first_book": { "title": "Prolegomena to the History of Ancient Israel" } }
+      ]
+    },
+    "other-ology": {
+      "sort": "ddc",
+      "code": "OLOGY",
+      "matches": [{ "ddc": "^[3479]" }],
+      "shelves": [
+        { "bookshelf": "F", "shelf": 6, "first_book": { "isbn": "9781920769055" } },
+
+        { "bookshelf": "G", "shelf": 1, "first_book": { "isbn": "9780367612726" } },
+        { "bookshelf": "G", "shelf": 2, "first_book": { "isbn": "9781743798348" } },
+        { "bookshelf": "G", "shelf": 3, "first_book": { "isbn": "9781849162623" } },
+        { "bookshelf": "G", "shelf": 4, "first_book": { "isbn": "9780643095786" } },
+        { "bookshelf": "G", "shelf": 5, "first_book": { "isbn": "9781740660266" } },
+        { "bookshelf": "G", "shelf": 6, "first_book": { "isbn": "9780857528223" } },
+
+        { "bookshelf": "H", "shelf": 1, "first_book": { "isbn": "9780872209817" } },
+        { "bookshelf": "H", "shelf": 2, "first_book": { "isbn": "9780140202342" } },
+        { "bookshelf": "H", "shelf": 3, "first_book": { "isbn": "9781760875121" } }
+      ]
+    },
+    "speculative-fiction": {
+      "sort": "author",
+      "code": "SPEC",
+      "matches": [
+        { "author": "r:.*Adams, Douglas.*" },
+        { "author": "r:.*Asimov,.*" },
+        { "title": "r:.*Asimov.*" },
+        { "author": "r:.*Aaronovitch, Ben.*" },
+        { "author": "r:.*Anders, Charlie.*" },
+        { "author": "r:.*Atwood, Margaret.*" },
+        { "author": "r:.*Ballard.*" },
+        { "author": "r:.*Banks, Iain.*" },
+        { "author": "r:.*Baxter, Stephen.*" },
+        { "author": "r:Bradbury, Ray.*" },
+        { "author": "r:brown, adrienne maree.*" },
+        { "author": "r:Butler, Octavia.*" },
+        { "author": "r:.*Chambers, Becky.*" },
+        { "author": "r:.*Clarke, Arthur.*" },
+        { "author": "r:.*Corey, James.*" },
+        { "author": "r:.*Doctorow, Cory.*" },
+        { "author": "r:.*Dick, Philip.*" },
+        { "author": "r:.*Egan, Greg.*" },
+        { "author": "r:.*Gibson, William.*" },
+        { "author": "r:.*Herbert, Frank.*" },
+        { "author": "r:.*Heller, Joseph.*" },
+        { "author": "r:.*Heinlein, Robert.*" },
+        { "author": "r:.*Jemisin, N\\. K\\." },
+        { "author": "r:.*Kuang, R\\. F\\." },
+        { "author": "r:Le Guin, Ursula.*" },
+        { "author": "r:Leckie, Ann.*" },
+        { "author": "r:.*Mandel, Emily.*" },
+        { "author": "r:.*MacLeod, Ken.*" },
+        { "author": "r:.*Murakami, Haruki" },
+        { "author": "r:.*Milne, A.*" },
+        { "title": "r:.*Philip K. Dick" },
+        { "author": "r:.*Pratchett, Terry.*" },
+        { "author": "r:.*Robinson, Kim Stanley.*" },
+        { "author": "r:.*Stross, Charles.*" },
+        { "author": "r:.*Stephenson, Neal.*" },
+        { "author": "r:.*Tolkien.*" },
+        { "title": "r:.*Tolkien.*" },
+        { "author": "r:.*Twain, Mark.*" },
+        { "author": "Vonnegut, Kurt" },
+        { "@isbnfile": "data/speculative-fiction.txt" }
+      ],
+      "shelves": [
+        { "bookshelf": "K", "shelf": 3, "first_book": { "isbn": "" } },
+        { "bookshelf": "L", "shelf": 1, "first_book": { "isbn": "9780583309868" } },
+        { "bookshelf": "L", "shelf": 2, "first_book": { "isbn": "9780099563143" } },
+        { "bookshelf": "L", "shelf": 3, "first_book": { "isbn": "9780349139203" } },
+
+        { "bookshelf": "M", "shelf": 1, "first_book": { "isbn": "9780006498124" } },
+        { "bookshelf": "M", "shelf": 2, "first_book": { "isbn": "9780671022075" } },
+        { "bookshelf": "M", "shelf": 3, "first_book": { "isbn": "9781473621473" } },
+
+        { "bookshelf": "N", "shelf": 1, "first_book": { "isbn": "9780356504292" } },
+        { "bookshelf": "N", "shelf": 2, "first_book": { "isbn": "9780679752981" } },
+        { "bookshelf": "N", "shelf": 3, "first_book": { "isbn": "9780747545187" } },
+
+        { "bookshelf": "O", "shelf": 1, "first_book": { "isbn": "9780063418868" } },
+        { "bookshelf": "O", "shelf": 2, "first_book": { "isbn": "9781534414594" } },
+        { "bookshelf": "O", "shelf": 3, "first_book": { "isbn": "9781447268970" } },
+        { "bookshelf": "O", "shelf": 4, "first_book": { "isbn": "9780099540953" } },
+        { "bookshelf": "O", "shelf": 5, "first_book": { "isbn": "9780552167574" } },
+        { "bookshelf": "O", "shelf": 6, "first_book": { "isbn": "9781529150544" } },
+
+        { "bookshelf": "P", "shelf": 1, "first_book": { "isbn": "9780356508849" } },
+        { "bookshelf": "P", "shelf": 2, "first_book": { "isbn": "9781843549161" } },
+        { "bookshelf": "P", "shelf": 3, "first_book": { "isbn": "9780670060597" } },
+        { "bookshelf": "P", "shelf": 4, "first_book": { "isbn": "9780008214227" } },
+        { "bookshelf": "P", "shelf": 5, "first_book": { "isbn": "9781761470011" } },
+        { "bookshelf": "P", "shelf": 6, "first_book": { "isbn": "9780099524083" } }
+      ]
+    },
+    "other-fiction": {
+      "sort": "author",
+      "code": "FIC",
+      "matches": [{ "ddc": "^[8]" }, { "ddc": "" }],
+      "shelves": [
+        { "bookshelf": "I", "shelf": 4, "first_book": { "isbn": "" } },
+        { "bookshelf": "I", "shelf": 5, "first_book": { "isbn": "9781529093001" } },
+        { "bookshelf": "I", "shelf": 6, "first_book": { "isbn": "9781925589252" } },
+
+        { "bookshelf": "J", "shelf": 1, "first_book": { "isbn": "9781864710014" } },
+        { "bookshelf": "J", "shelf": 2, "first_book": { "isbn": "9780881840759" } },
+        { "bookshelf": "J", "shelf": 3, "first_book": { "isbn": "9780938819806" } },
+
+        { "bookshelf": "K", "shelf": 1, "first_book": { "isbn": "" } },
+        { "bookshelf": "K", "shelf": 2, "first_book": { "isbn": "" } },
+        { "bookshelf": "K", "shelf": 3, "first_book": { "isbn": "" } },
+
+        { "bookshelf": "L", "shelf": 1, "first_book": { "isbn": "" } }
+      ]
+    }
+  },
+  "overrides": [
+    { "title": "Missionary Memories", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735837", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735844", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426721267", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735851", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735868", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735806", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735820", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735813", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735790", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735783", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9780136149347", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9781426735837", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9780198822325", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9780198822332", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9780198822295", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9780198822318", "bookshelf": "A", "shelf": 3 },
+    { "isbn": "9780198822301", "bookshelf": "A", "shelf": 3 },
+
+    { "isbn": "9780646480947", "bookshelf": "F", "shelf": 3 },
+    { "isbn": "9781741315400", "bookshelf": "F", "shelf": 6 },
+
+    { "isbn": "9781851777372", "bookshelf": "G", "shelf": 3 },
+    { "isbn": "9780714824611", "bookshelf": "G", "shelf": 3 },
+    { "isbn": "9780975016893", "bookshelf": "G", "shelf": 3 },
+    { "isbn": "978-0-9751947-5-1", "bookshelf": "G", "shelf": 3 },
+    { "isbn": "9781592535156", "bookshelf": "G", "shelf": 3 },
+
+    { "isbn": "9781617291395", "bookshelf": "T", "shelf": 1 },
+    { "isbn": "9781698853574", "bookshelf": "W", "shelf": 1 },
+
+    { "title": "Libraryland!", "bookshelf": "Y", "shelf": 3 },
+    { "title": "r:The Australian Hymn Book.*", "bookshelf": "Y", "shelf": 2 },
+    { "title": "Where the wild things aren't", "bookshelf": "Y", "shelf": 3 },
+    { "title": "Mungo Bean", "bookshelf": "Y", "shelf": 3 },
+    { "title": "Riley: Moments in the Life Of", "bookshelf": "Y", "shelf": 3 },
+    { "title": "r:^The Orthodox Study Bible.*", "bookshelf": "Y", "shelf": 3 },
+    { "title": "r:^Got Zip.*", "bookshelf": "Y", "shelf": 3 }
+  ]
 }
